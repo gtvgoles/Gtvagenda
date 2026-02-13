@@ -7,7 +7,7 @@
       "inicio": "2026-02-13T18:00:00-03:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVT.png"
+        "logo": "escudos/primera/EVERTON.png"
       },
       "visita": {
         "nombre": "Huachipato",
@@ -25,7 +25,7 @@
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDC.png"
+        "logo": "escudos/primera/UDECHILE.png"
       },
       "link": "https://is.gd/palvsudc",
       "sofaId": 15352953
@@ -35,7 +35,7 @@
       "inicio": "2026-02-14T12:00:00-03:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/DLS.png"
+        "logo": "escudos/primera/LA SERENA.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -49,11 +49,11 @@
       "inicio": "2026-02-14T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/DEP.png"
+        "logo": "escudos/primera/LIMACHE.png"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHF.png"
+        "logo": "escudos/primera/OHIGGINS.png"
       },
       "link": "https://is.gd/depvsohf",
       "sofaId": 15352950
@@ -67,7 +67,7 @@
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UC.png"
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "link": "https://is.gd/cobvsuc",
       "sofaId": 15352949
@@ -81,7 +81,7 @@
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/DCO.png"
+        "logo": "escudos/primera/CONCEPCION.png"
       },
       "link": "https://is.gd/ucovsdco",
       "sofaId": 15352961
@@ -105,7 +105,7 @@
       "inicio": "2026-02-15T20:30:00-03:00",
       "local": {
         "nombre": "Colo Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "escudos/primera/Colo-Colo.png"
       },
       "visita": {
         "nombre": "Unión La Calera",
@@ -133,7 +133,7 @@
       "inicio": "2026-02-20T20:30:00-03:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/DCO.png"
+        "logo": "escudos/primera/CONCEPCION.png"
       },
       "visita": {
         "nombre": "Cobresal",
@@ -161,11 +161,11 @@
       "inicio": "2026-02-21T18:00:00-03:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHF.png"
+        "logo": "escudos/primera/OHIGGINS.png"
       },
       "visita": {
         "nombre": "Colo Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "escudos/primera/Colo-Colo.png"
       },
       "link": "https://is.gd/ohfvscc",
       "sofaId": 15352970
@@ -175,7 +175,7 @@
       "inicio": "2026-02-21T20:30:00-03:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UC.png"
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -189,7 +189,7 @@
       "inicio": "2026-02-22T12:00:00-03:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/DLS.png"
+        "logo": "escudos/primera/LA SERENA.png"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
@@ -207,7 +207,7 @@
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVT.png"
+        "logo": "escudos/primera/EVERTON.png"
       },
       "link": "https://is.gd/audvsevt",
       "sofaId": 15352968
@@ -217,11 +217,11 @@
       "inicio": "2026-02-22T20:30:00-03:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDC.png"
+        "logo": "escudos/primera/UDECHILE.png"
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/DEP.png"
+        "logo": "escudos/primera/LIMACHE.png"
       },
       "link": "https://is.gd/udcvsdep",
       "sofaId": 15353015
@@ -235,7 +235,7 @@
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/DLS.png"
+        "logo": "escudos/primera/LA SERENA.png"
       },
       "link": "https://is.gd/cobvsdls",
       "sofaId": 15352980
@@ -263,7 +263,7 @@
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/DCO.png"
+        "logo": "escudos/primera/CONCEPCION.png"
       },
       "link": "https://is.gd/coqvsdco",
       "sofaId": 15352982
@@ -273,7 +273,7 @@
       "inicio": "2026-02-28T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/DEP.png"
+        "logo": "escudos/primera/LIMACHE.png"
       },
       "visita": {
         "nombre": "Huachipato",
@@ -291,7 +291,7 @@
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHF.png"
+        "logo": "escudos/primera/OHIGGINS.png"
       },
       "link": "https://is.gd/palvsohf",
       "sofaId": 15352986
@@ -305,7 +305,7 @@
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVT.png"
+        "logo": "escudos/primera/EVERTON.png"
       },
       "link": "https://is.gd/ucovsevt",
       "sofaId": 15352981
@@ -315,11 +315,11 @@
       "inicio": "2026-03-01T18:00:00-03:00",
       "local": {
         "nombre": "Colo Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "escudos/primera/Colo-Colo.png"
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDC.png"
+        "logo": "escudos/primera/UDECHILE.png"
       },
       "link": "https://is.gd/ccvsudc",
       "sofaId": 15352979
@@ -333,7 +333,7 @@
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UC.png"
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "link": "https://is.gd/nubvsuc",
       "sofaId": 15352978
@@ -343,7 +343,7 @@
       "inicio": "2026-03-06T18:00:00-03:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/DLS.png"
+        "logo": "escudos/primera/LA SERENA.png"
       },
       "visita": {
         "nombre": "Unión La Calera",
@@ -357,7 +357,7 @@
       "inicio": "2026-03-06T20:30:00-03:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/DCO.png"
+        "logo": "escudos/primera/CONCEPCION.png"
       },
       "visita": {
         "nombre": "Ñublense",
@@ -371,11 +371,11 @@
       "inicio": "2026-03-07T12:00:00-03:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVT.png"
+        "logo": "escudos/primera/EVERTON.png"
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/DEP.png"
+        "logo": "escudos/primera/LIMACHE.png"
       },
       "link": "https://is.gd/evtvsdep",
       "sofaId": 15352990
@@ -403,7 +403,7 @@
       },
       "visita": {
         "nombre": "Colo Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "escudos/primera/Colo-Colo.png"
       },
       "link": "https://is.gd/audvscc",
       "sofaId": 15352988
@@ -413,11 +413,11 @@
       "inicio": "2026-03-07T20:30:00-03:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHF.png"
+        "logo": "escudos/primera/OHIGGINS.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UC.png"
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "link": "https://is.gd/ohfvsuc",
       "sofaId": 15352989
@@ -441,7 +441,7 @@
       "inicio": "2026-03-09T20:00:00-03:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDC.png"
+        "logo": "escudos/primera/UDECHILE.png"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
@@ -459,7 +459,7 @@
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDC.png"
+        "logo": "escudos/primera/UDECHILE.png"
       },
       "link": "https://is.gd/coqvsudc",
       "sofaId": 15352996
@@ -469,11 +469,11 @@
       "inicio": "2026-03-14T20:30:00-03:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UC.png"
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVT.png"
+        "logo": "escudos/primera/EVERTON.png"
       },
       "link": "https://is.gd/ucvsevt",
       "sofaId": 15352994
@@ -501,7 +501,7 @@
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/DEP.png"
+        "logo": "escudos/primera/LIMACHE.png"
       },
       "link": "https://is.gd/cobvsdep",
       "sofaId": 15353005
@@ -515,7 +515,7 @@
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/DCO.png"
+        "logo": "escudos/primera/CONCEPCION.png"
       },
       "link": "https://is.gd/audvsdco",
       "sofaId": 15353000
@@ -529,7 +529,7 @@
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/DLS.png"
+        "logo": "escudos/primera/LA SERENA.png"
       },
       "link": "https://is.gd/nubvsdls",
       "sofaId": 15352998
@@ -543,7 +543,7 @@
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHF.png"
+        "logo": "escudos/primera/OHIGGINS.png"
       },
       "link": "https://is.gd/ulcvsohf",
       "sofaId": 15353009
@@ -553,7 +553,7 @@
       "inicio": "2026-03-16T20:30:00-03:00",
       "local": {
         "nombre": "Colo Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "escudos/primera/Colo-Colo.png"
       },
       "visita": {
         "nombre": "Huachipato",
