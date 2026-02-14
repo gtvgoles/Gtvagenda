@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-13T18:00:00-03:00",
-      "local": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
-      },
-      "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
-      },
-      "link": "https://is.gd/evtvshua",
-      "sofaId": 15352959
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-13T20:30:00-03:00",
       "local": {
         "nombre": "Palestino",
