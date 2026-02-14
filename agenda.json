@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-13T20:30:00-03:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "link": "https://is.gd/palvsudc",
-      "sofaId": 15352953
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-14T12:00:00-03:00",
       "local": {
         "nombre": "Deportes La Serena",
