@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-14T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "link": "https://is.gd/depvsohf",
-      "sofaId": 15352950
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-02-14T20:30:00-03:00",
-      "local": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "link": "https://is.gd/cobvsuc",
-      "sofaId": 15352949
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-15T12:00:00-03:00",
       "local": {
         "nombre": "Universidad de Concepción",
