@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-15T18:00:00-03:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "link": "https://is.gd/nubvsaud",
-      "sofaId": 15352963
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-15T20:30:00-03:00",
       "local": {
         "nombre": "Colo Colo",
