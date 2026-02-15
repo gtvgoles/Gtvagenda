@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-15T12:00:00-03:00",
-      "local": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
-      },
-      "visita": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
-      },
-      "link": "https://is.gd/ucovsdco",
-      "sofaId": 15352961
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-15T18:00:00-03:00",
       "local": {
         "nombre": "Ñublense",
