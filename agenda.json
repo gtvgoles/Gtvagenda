@@ -35,11 +35,11 @@
       "inicio": "2026-02-21T18:00:00-03:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/ESP.png"
+        "logo": "escudos/ascenso/Union Española.png"
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SLQ.png"
+        "logo": "escudos/ascenso/SAN LUIS.png"
       },
       "link": "https://is.gd/espvsslq",
       "sofaId": 15416134
@@ -123,7 +123,7 @@
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/ESP.png"
+        "logo": "escudos/ascenso/Union Española.png"
       },
       "link": "https://is.gd/recvsesp",
       "sofaId": 15416140
@@ -217,7 +217,7 @@
       "inicio": "2026-03-02T20:30:00-03:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SLQ.png"
+        "logo": "escudos/ascenso/SAN LUIS.png"
       },
       "visita": {
         "nombre": "Curicó Unido",
