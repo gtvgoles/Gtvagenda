@@ -1280,20 +1280,6 @@
       "competencia": "primera",
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "link": "https://is.gd/nubvsudc",
-      "sofaId": 15353012
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-12T18:00:00-04:00",
-      "local": {
         "nombre": "O'Higgins",
         "logo": "escudos/primera/OHIGGINS.png"
       },
@@ -1322,6 +1308,20 @@
       "competencia": "primera",
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/COBRESAL.png"
+      },
+      "link": "https://is.gd/ucovscob",
+      "sofaId": 15353014
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
         "nombre": "Unión La Calera",
         "logo": "escudos/primera/UNION LA CALERA.png"
       },
@@ -1336,15 +1336,15 @@
       "competencia": "primera",
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
       },
       "visita": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/UDECHILE.png"
       },
-      "link": "https://is.gd/ucovscob",
-      "sofaId": 15353014
+      "link": "https://is.gd/nubvsudc",
+      "sofaId": 15353012
     },
     {
       "competencia": "ascenso",
@@ -1728,20 +1728,6 @@
       "competencia": "primera",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "link": "https://is.gd/nubvsohf",
-      "sofaId": 15353033
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-26T18:00:00-04:00",
-      "local": {
         "nombre": "Palestino",
         "logo": "escudos/primera/PALESTINO.png"
       },
@@ -1751,20 +1737,6 @@
       },
       "link": "https://is.gd/palvsdco",
       "sofaId": 15353035
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-26T18:00:00-04:00",
-      "local": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
-      },
-      "link": "https://is.gd/ulcvscoq",
-      "sofaId": 15353030
     },
     {
       "competencia": "primera",
@@ -1793,6 +1765,34 @@
       },
       "link": "https://is.gd/ucovscc",
       "sofaId": 15353028
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/UNION LA CALERA.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/Coquimbo Unido.png"
+      },
+      "link": "https://is.gd/ulcvscoq",
+      "sofaId": 15353030
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "link": "https://is.gd/nubvsohf",
+      "sofaId": 15353033
     },
     {
       "competencia": "ascenso",
@@ -2414,34 +2414,6 @@
       "competencia": "primera",
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
-      },
-      "link": "https://is.gd/nubvsuco",
-      "sofaId": 15353052
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-05-24T18:00:00-04:00",
-      "local": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
-      },
-      "link": "https://is.gd/ulcvspal",
-      "sofaId": 15353049
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-05-24T18:00:00-04:00",
-      "local": {
         "nombre": "Universidad Católica",
         "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
@@ -2465,6 +2437,34 @@
       },
       "link": "https://is.gd/udcvsohf",
       "sofaId": 15353045
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/UNION LA CALERA.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/PALESTINO.png"
+      },
+      "link": "https://is.gd/ulcvspal",
+      "sofaId": 15353049
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+      },
+      "link": "https://is.gd/nubvsuco",
+      "sofaId": 15353052
     },
     {
       "competencia": "ascenso",
@@ -2988,15 +2988,15 @@
       "competencia": "primera",
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
       },
-      "link": "https://is.gd/nubvshua",
-      "sofaId": 15353064
+      "link": "https://is.gd/ucvsuco",
+      "sofaId": 15353067
     },
     {
       "competencia": "primera",
@@ -3016,15 +3016,15 @@
       "competencia": "primera",
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
       },
       "visita": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/HUACHIPATO.png"
       },
-      "link": "https://is.gd/ucvsuco",
-      "sofaId": 15353067
+      "link": "https://is.gd/nubvshua",
+      "sofaId": 15353064
     }
   ]
 }
