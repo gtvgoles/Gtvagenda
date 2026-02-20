@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "libertadores",
-      "inicio": "2026-02-18T19:00:00-03:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Bahia",
-        "logo": "escudos/primera/BAH.png"
-      },
-      "link": "https://is.gd/ohfvsbah",
-      "sofaId": 15253527
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-02-20T18:00:00-03:00",
       "local": {
@@ -94,8 +80,8 @@
         "logo": "escudos/primera/OHIGGINS.png"
       },
       "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "link": "https://is.gd/ohfvscc",
       "sofaId": 15352970
@@ -426,8 +412,8 @@
       "competencia": "primera",
       "inicio": "2026-03-01T18:00:00-03:00",
       "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "visita": {
         "nombre": "Universidad de Chile",
@@ -598,8 +584,8 @@
         "logo": "escudos/primera/AUDAX.png"
       },
       "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "link": "https://is.gd/audvscc",
       "sofaId": 15352988
@@ -759,6 +745,20 @@
       "sofaId": 15416156
     },
     {
+      "competencia": "primera",
+      "inicio": "2026-03-13T20:00:00-03:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/AUDAX.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/CONCEPCION.png"
+      },
+      "link": "https://is.gd/audvsdco",
+      "sofaId": 15353000
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-03-13T20:30:00-03:00",
       "local": {
@@ -886,20 +886,6 @@
     },
     {
       "competencia": "primera",
-      "inicio": "2026-03-15T19:00:00-03:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "visita": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
-      },
-      "link": "https://is.gd/audvsdco",
-      "sofaId": 15353000
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-03-15T20:30:00-03:00",
       "local": {
         "nombre": "Ñublense",
@@ -944,8 +930,8 @@
       "competencia": "primera",
       "inicio": "2026-03-16T20:30:00-03:00",
       "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "visita": {
         "nombre": "Huachipato",
@@ -1228,8 +1214,8 @@
         "logo": "escudos/primera/CONCEPCION.png"
       },
       "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "link": "https://is.gd/dcovscc",
       "sofaId": 15353006
@@ -1350,8 +1336,8 @@
       "competencia": "primera",
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -1574,8 +1560,8 @@
       "competencia": "primera",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "visita": {
         "nombre": "Palestino",
@@ -1858,8 +1844,8 @@
         "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
       },
       "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "link": "https://is.gd/ucovscc",
       "sofaId": 15353028
@@ -2246,8 +2232,8 @@
       "competencia": "primera",
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "visita": {
         "nombre": "Ñublense",
@@ -2516,8 +2502,8 @@
         "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
       },
       "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "link": "https://is.gd/ucvscc",
       "sofaId": 15353044
@@ -2712,8 +2698,8 @@
         "logo": "escudos/primera/LA SERENA.png"
       },
       "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "link": "https://is.gd/dlsvscc",
       "sofaId": 15353051
@@ -3030,8 +3016,8 @@
       "competencia": "primera",
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/Colo-Colo.png"
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
       },
       "visita": {
         "nombre": "Cobresal",
