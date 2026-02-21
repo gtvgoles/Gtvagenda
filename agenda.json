@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-21T18:00:00-03:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
-      },
-      "link": "https://is.gd/ohfvscc",
-      "sofaId": 15352970
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-02-21T18:00:00-03:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
-      },
-      "link": "https://is.gd/espvsslq",
-      "sofaId": 15416134
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-21T20:30:00-03:00",
       "local": {
         "nombre": "Universidad Católica",
