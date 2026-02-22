@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-21T20:30:00-03:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
-      },
-      "link": "https://is.gd/ucvscoq",
-      "sofaId": 15352967
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-02-21T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
-      },
-      "visita": {
-        "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
-      },
-      "link": "https://is.gd/iquvsusf",
-      "sofaId": 15416130
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-22T12:00:00-03:00",
       "local": {
         "nombre": "Deportes La Serena",
