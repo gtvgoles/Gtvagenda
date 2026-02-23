@@ -3,76 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-02-22T12:00:00-03:00",
-      "local": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
-      },
-      "link": "https://is.gd/dlsvsuco",
-      "sofaId": 15352977
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-02-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "visita": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
-      },
-      "link": "https://is.gd/audvsevt",
-      "sofaId": 15352968
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-02-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
-      },
-      "visita": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
-      },
-      "link": "https://is.gd/ranvsant",
-      "sofaId": 15416131
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-02-22T20:30:00-03:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
-      },
-      "link": "https://is.gd/udcvsdep",
-      "sofaId": 15353015
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-02-22T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
-      },
-      "visita": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
-      },
-      "link": "https://is.gd/pumvscop",
-      "sofaId": 15416129
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-02-23T18:00:00-03:00",
       "local": {
@@ -83,7 +13,7 @@
         "nombre": "Deportes Temuco",
         "logo": "escudos/ascenso/TEMUCO.png"
       },
-      "link": "https://is.gd/cocvsdtm",
+      "link": "https://is.gd/ranvsant",
       "sofaId": 15416127
     },
     {
