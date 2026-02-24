@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-02-23T20:30:00-03:00",
-      "local": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
-      },
-      "visita": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/ad0_CixjM2U2NTkwYy0zY2IyLTRiMDktOWI4Ny1mNjdkZjU0YmE1ZDgtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1771974311&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6IjhkMjk0ZDk4LTIzOWYtNGFjNy05MTM3LTMwZDcwNzUzY2E2OSIsICJlZGl0SWQiOiJjM2U2NTkwYy0zY2IyLTRiMDktOWI4Ny1mNjdkZjU0YmE1ZDgiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wMi0yM1QyMzowNToxMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=843c51c790580292416d487385be2ec9a828b9c7046e2ea7bcee765f5c64e683/main.mpd?manifest-params=prod-20260213%7C6-8sGz7J-mZLVxrxzpJEJ0H30Uq_u_PuVmnqpzIBNP4%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZhZDBfQ2l4ak0yVTJOVGt3WXkwelkySXlMVFJpTURrdE9XSTROeTFtTmpka1pqVTBZbUUxWkRndGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTAyLTIzVDIzJTNBMTAlM0EwMFo%3D&rtype=admo&ck=eyIwMTAwYTg2YTg3ODVlMzAxNTY5YTUxYzM5MjNhYWViMiI6IjdmNDQwNjkyNGU1NTgxMzI3Njc5ZmQyZDc1ZDgxZWVkIiwiMDEwMTkzNTNmMDc3MmViMDA5ZGQ1OTE5MDA0YWMzMGYiOiJhNmQyNTBhNmQxNTU1YzczM2FhZjk5ZjkyY2QzMmMyNiIsIjAxMDI2ZjQ1ZTgyZDFjOWEwNDhiMjE1NmVhNWM5M2Y3IjoiMTNlZjYyZjJkYzUwNmZiNzg2YmNkODIxYzE0NGE0ZWQifQ%3D%3D",
-      "sofaId": 15416128
-    },
-    {
       "competencia": "libertadores",
       "inicio": "2026-02-24T19:00:00-03:00",
       "local": {
