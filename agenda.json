@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "libertadores",
-      "inicio": "2026-02-24T19:00:00-03:00",
-      "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
-      },
-      "visita": {
-        "nombre": "Carabobo",
-        "logo": "escudos/primera/CFC.png"
-      },
-      "link": "https://is.gd/0E48iz",
-      "sofaId": 15458725
-    },
-    {
-      "competencia": "libertadores",
       "inicio": "2026-02-25T19:00:00-03:00",
       "local": {
         "nombre": "Bahia",
