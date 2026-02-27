@@ -4,7 +4,7 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-27T11:30:34-03:00",
+      "inicio": "2026-02-27T11:48:34-03:00",
       "local": {
         "nombre": "Cobresal",
         "logo": "escudos/primera/COBRESAL.png"
@@ -18,7 +18,7 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-02-27T11:30:34-03:00",
+      "inicio": "2026-02-27T11:48:34-03:00",
       "local": {
         "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/RECOLETA.png"
@@ -27,7 +27,7 @@
         "nombre": "Unión Española",
         "logo": "escudos/ascenso/Union Española.png"
       },
-      "link": "https://is.gd/recvsesp",
+      "link": "https://is.gd/tabvstir",
       "sofaId": 15416140
     },
     {
