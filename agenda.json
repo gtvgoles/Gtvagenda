@@ -4,7 +4,7 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-27T18:00:00-03:00",
+      "inicio": "2026-02-27T11:30:34-03:00",
       "local": {
         "nombre": "Cobresal",
         "logo": "escudos/primera/COBRESAL.png"
@@ -18,7 +18,7 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-02-27T18:00:00-03:00",
+      "inicio": "2026-02-27T11:30:34-03:00",
       "local": {
         "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/RECOLETA.png"
@@ -225,6 +225,20 @@
       },
       "link": "https://is.gd/slqvscur",
       "sofaId": 15416142
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-03-03T19:00:00-03:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "visita": {
+        "nombre": "Deportes Tolima",
+        "logo": "escudos/primera/TOL.png"
+      },
+      "link": "https://is.gd/ohfvstol",
+      "sofaId": 15458729
     },
     {
       "competencia": "sudamericana",
@@ -477,6 +491,20 @@
       },
       "link": "https://is.gd/espvsmag",
       "sofaId": 15416150
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-03-10T19:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Tolima",
+        "logo": "escudos/primera/TOL.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "link": "https://is.gd/tolvsohf",
+      "sofaId": 15253531
     },
     {
       "competencia": "ascenso",
