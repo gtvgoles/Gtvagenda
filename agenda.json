@@ -4,7 +4,7 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-27T11:48:34-03:00",
+      "inicio": "2026-02-27T18:00:00-03:00",
       "local": {
         "nombre": "Cobresal",
         "logo": "escudos/primera/COBRESAL.png"
@@ -13,12 +13,12 @@
         "nombre": "Deportes La Serena",
         "logo": "escudos/primera/LA SERENA.png"
       },
-      "link": "https://is.gd/tst2602",
+      "link": "https://is.gd/cobvsdls",
       "sofaId": 15352980
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-02-27T11:48:34-03:00",
+      "inicio": "2026-02-27T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/RECOLETA.png"
@@ -27,7 +27,7 @@
         "nombre": "Unión Española",
         "logo": "escudos/ascenso/Union Española.png"
       },
-      "link": "https://is.gd/tabvstir",
+      "link": "https://is.gd/recvsesp",
       "sofaId": 15416140
     },
     {
@@ -227,20 +227,6 @@
       "sofaId": 15416142
     },
     {
-      "competencia": "libertadores",
-      "inicio": "2026-03-03T19:00:00-03:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Deportes Tolima",
-        "logo": "escudos/primera/TOL.png"
-      },
-      "link": "https://is.gd/ohfvstol",
-      "sofaId": 15458729
-    },
-    {
       "competencia": "sudamericana",
       "inicio": "2026-03-03T21:30:00-03:00",
       "local": {
@@ -253,6 +239,20 @@
       },
       "link": "https://is.gd/cobvsaud",
       "sofaId": 15254179
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-03-04T21:30:00-03:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "visita": {
+        "nombre": "Deportes Tolima",
+        "logo": "escudos/primera/TOL.png"
+      },
+      "link": "https://is.gd/ohfvstol",
+      "sofaId": 15458729
     },
     {
       "competencia": "sudamericana",
@@ -494,7 +494,7 @@
     },
     {
       "competencia": "libertadores",
-      "inicio": "2026-03-10T19:00:00-03:00",
+      "inicio": "2026-03-11T21:30:00-03:00",
       "local": {
         "nombre": "Deportes Tolima",
         "logo": "escudos/primera/TOL.png"
