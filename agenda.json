@@ -4,62 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-02-27T18:00:00-03:00",
-      "local": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
-      },
-      "visita": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
-      },
-      "link": "https://is.gd/cobvsdls",
-      "sofaId": 15352980
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-02-27T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "link": "https://is.gd/recvsesp",
-      "sofaId": 15416140
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-02-27T20:30:00-03:00",
-      "local": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "link": "https://is.gd/ulcvsaud",
-      "sofaId": 15352983
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-02-27T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
-      },
-      "visita": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
-      },
-      "link": "https://is.gd/cruvscoc",
-      "sofaId": 15416136
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-02-28T12:00:00-03:00",
       "local": {
         "nombre": "Coquimbo Unido",
@@ -732,17 +676,45 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
+      "inicio": "2026-03-21T18:00:00-03:00",
       "local": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/TEMUCO.png"
       },
       "visita": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/SAN LUIS.png"
       },
-      "link": "https://is.gd/cocvsmag",
-      "sofaId": 15416160
+      "link": "https://is.gd/dtmvsslq",
+      "sofaId": 15416162
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-21T20:30:00-03:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/SANTA CRUZ.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/CURICO UNIDO.png"
+      },
+      "link": "https://is.gd/cruvscur",
+      "sofaId": 15416159
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-22T12:00:00-03:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+      },
+      "link": "https://is.gd/swvsant",
+      "sofaId": 15416164
     },
     {
       "competencia": "ascenso",
@@ -762,33 +734,19 @@
       "competencia": "ascenso",
       "inicio": "2026-03-22T18:00:00-03:00",
       "local": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/Union Española.png"
       },
       "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "nombre": "Deportes Puerto Montt",
+        "logo": "escudos/ascenso/PUERTO MONTT.png"
       },
-      "link": "https://is.gd/cruvscur",
-      "sofaId": 15416159
+      "link": "https://is.gd/espvspum",
+      "sofaId": 15416166
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
-      },
-      "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
-      },
-      "link": "https://is.gd/dtmvsslq",
-      "sofaId": 15416162
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
+      "inicio": "2026-03-22T20:30:00-03:00",
       "local": {
         "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/RANGERS.png"
@@ -802,35 +760,7 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
-      },
-      "visita": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
-      },
-      "link": "https://is.gd/swvsant",
-      "sofaId": 15416164
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "visita": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
-      },
-      "link": "https://is.gd/espvspum",
-      "sofaId": 15416166
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
+      "inicio": "2026-03-23T18:00:00-03:00",
       "local": {
         "nombre": "Unión San Felipe",
         "logo": "escudos/ascenso/SAN FELIPE.png"
@@ -841,6 +771,20 @@
       },
       "link": "https://is.gd/usfvssma",
       "sofaId": 15416165
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-23T20:30:00-03:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/COBRELOA.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "escudos/ascenso/MAGALLANES.png"
+      },
+      "link": "https://is.gd/cocvsmag",
+      "sofaId": 15416160
     },
     {
       "competencia": "seleccion",
