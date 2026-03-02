@@ -1,0 +1,11 @@
+{
+  "timezone": "America/Santiago",
+  "canales": [
+    {
+      "id": "tvn",
+      "nombre": "TVN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.png",
+      "link": "https://cdn-live.mundogo.cl/tvn/tvn.mpd?ck=eyJhYWM0MmI1ZDZhNmY1YmVkYmZkNjJhYzVmZWYyODk3OCI6Ijc3ZjlkNGQ2YTE3MDFmNTM1MjA4YmNmYjU5YzAzMTFmIiwiZTIxYzk1MWE2NjcxNTljYmEzOWMwOWE5NDY3NTFmNzMiOiI1ZTIzYTgwMDUzZmIyNzRmM2EwMTI2ZmEyODdhZWJjZiIsIjcyODg3OTZmY2ViMjU2NWI5YzQxOWRiNjM4YjVkYzFiIjoiNjQ5YjllN2IyZmFkZDI5ZGIzNTViNmRiYmMwYzUyZWIifQ%3D%3D"
+    }
+  ]
+}
