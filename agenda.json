@@ -3,76 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-03-01T18:00:00-03:00",
-      "local": {
-        "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "link": "https://is.gd/ccvsudc",
-      "sofaId": 15352979
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-03-01T20:30:00-03:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "link": "https://is.gd/nubvsuc",
-      "sofaId": 15352978
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-01T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
-      },
-      "link": "https://is.gd/dtmvsiqu",
-      "sofaId": 15416138
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-02T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
-      },
-      "visita": {
-        "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
-      },
-      "link": "https://is.gd/magvssma",
-      "sofaId": 15416139
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-02T20:30:00-03:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
-      },
-      "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
-      },
-      "link": "https://is.gd/slqvscur",
-      "sofaId": 15416142
-    },
-    {
       "competencia": "sudamericana",
       "inicio": "2026-03-03T21:30:00-03:00",
       "local": {
@@ -270,7 +200,7 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-09T18:00:00-03:00",
+      "inicio": "2026-03-08T20:30:00-03:00",
       "local": {
         "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/RANGERS.png"
