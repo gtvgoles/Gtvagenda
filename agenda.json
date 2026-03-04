@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "sudamericana",
-      "inicio": "2026-03-03T23:30:00-03:00",
-      "local": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "link": "https://is.gd/cobvsaud",
-      "sofaId": 15254179
-    },
-    {
       "competencia": "libertadores",
       "inicio": "2026-03-04T21:30:00-03:00",
       "local": {
@@ -507,6 +493,48 @@
       "sofaId": 15416158
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-20T18:00:00-03:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/UDECHILE.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/LA SERENA.png"
+      },
+      "link": "https://is.gd/udcvsdls",
+      "sofaId": 15658614
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-20T20:30:00-03:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/UNION LA CALERA.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/AUDAX.png"
+      },
+      "link": "https://is.gd/ulcvsaud",
+      "sofaId": 15658615
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-21T12:00:00-03:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/HUACHIPATO.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/CONCEPCION.png"
+      },
+      "link": "https://is.gd/huavsdco",
+      "sofaId": 15658616
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-03-21T18:00:00-03:00",
       "local": {
@@ -521,6 +549,20 @@
       "sofaId": 15416162
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-21T18:00:00-03:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/Coquimbo Unido.png"
+      },
+      "link": "https://is.gd/ccvscoq",
+      "sofaId": 15658617
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-03-21T20:30:00-03:00",
       "local": {
@@ -533,6 +575,20 @@
       },
       "link": "https://is.gd/cruvscur",
       "sofaId": 15416159
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-21T20:30:00-03:00",
+      "local": {
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/COBRESAL.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "link": "https://is.gd/cobvsnub",
+      "sofaId": 15658618
     },
     {
       "competencia": "ascenso",
@@ -577,6 +633,20 @@
       "sofaId": 15416166
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-22T18:00:00-03:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+      },
+      "link": "https://is.gd/ucvsuco",
+      "sofaId": 15658619
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-03-22T20:30:00-03:00",
       "local": {
@@ -589,6 +659,20 @@
       },
       "link": "https://is.gd/ranvsrec",
       "sofaId": 15416163
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-22T20:30:00-03:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/LIMACHE.png"
+      },
+      "link": "https://is.gd/ohfvsdep",
+      "sofaId": 15658620
     },
     {
       "competencia": "ascenso",
@@ -617,6 +701,48 @@
       },
       "link": "https://is.gd/cocvsmag",
       "sofaId": 15416160
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-23T20:30:00-03:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/PALESTINO.png"
+      },
+      "visita": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "escudos/primera/EVERTON.png"
+      },
+      "link": "https://is.gd/palvsevt",
+      "sofaId": 15658621
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-24T18:00:00-03:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/UDECHILE.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/UNION LA CALERA.png"
+      },
+      "link": "https://is.gd/udcvsulc",
+      "sofaId": 15658622
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-24T20:30:00-03:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/CONCEPCION.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
+      },
+      "link": "https://is.gd/dcovscc",
+      "sofaId": 15658623
     },
     {
       "competencia": "seleccion",
