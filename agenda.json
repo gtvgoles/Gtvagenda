@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "libertadores",
-      "inicio": "2026-03-04T21:30:00-03:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Deportes Tolima",
-        "logo": "escudos/primera/TOL.png"
-      },
-      "link": "https://is.gd/ohfvstol",
-      "sofaId": 15458729
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-03-04T21:30:00-03:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
-      },
-      "link": "https://is.gd/udcvspal",
-      "sofaId": 15254178
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-03-06T18:00:00-03:00",
       "local": {
@@ -538,15 +510,15 @@
       "competencia": "ascenso",
       "inicio": "2026-03-21T18:00:00-03:00",
       "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "nombre": "Rangers de Talca",
+        "logo": "escudos/ascenso/RANGERS.png"
       },
       "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/RECOLETA.png"
       },
-      "link": "https://is.gd/dtmvsslq",
-      "sofaId": 15416162
+      "link": "https://is.gd/ranvsrec",
+      "sofaId": 15416163
     },
     {
       "competencia": "copa_liga",
@@ -650,15 +622,15 @@
       "competencia": "ascenso",
       "inicio": "2026-03-22T20:30:00-03:00",
       "local": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/TEMUCO.png"
       },
       "visita": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/SAN LUIS.png"
       },
-      "link": "https://is.gd/ranvsrec",
-      "sofaId": 15416163
+      "link": "https://is.gd/dtmvsslq",
+      "sofaId": 15416162
     },
     {
       "competencia": "copa_liga",
@@ -743,6 +715,48 @@
       },
       "link": "https://is.gd/dcovscc",
       "sofaId": 15658623
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T18:00:00-03:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/HUACHIPATO.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/Coquimbo Unido.png"
+      },
+      "link": "https://is.gd/huavscoq",
+      "sofaId": 15658624
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T18:00:00-03:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+      },
+      "link": "https://is.gd/nubvsuc",
+      "sofaId": 15658625
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T20:30:00-03:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/AUDAX.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/LA SERENA.png"
+      },
+      "link": "https://is.gd/audvsdls",
+      "sofaId": 15658626
     },
     {
       "competencia": "seleccion",
