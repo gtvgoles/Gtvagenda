@@ -2,40 +2,41 @@
   "timezone": "America/Santiago",
   "canales": [
     {
-      "id": "tvn",
+      "id": "tvn.cl",
       "nombre": "TVN",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tvn.png",
       "link": "https://cdn-live.mundogo.cl/tvn/tvn.mpd?ck=eyJhYWM0MmI1ZDZhNmY1YmVkYmZkNjJhYzVmZWYyODk3OCI6Ijc3ZjlkNGQ2YTE3MDFmNTM1MjA4YmNmYjU5YzAzMTFmIiwiZTIxYzk1MWE2NjcxNTljYmEzOWMwOWE5NDY3NTFmNzMiOiI1ZTIzYTgwMDUzZmIyNzRmM2EwMTI2ZmEyODdhZWJjZiIsIjcyODg3OTZmY2ViMjU2NWI5YzQxOWRiNjM4YjVkYzFiIjoiNjQ5YjllN2IyZmFkZDI5ZGIzNTViNmRiYmMwYzUyZWIifQ%3D%3D"
     },
     {
-      "id": "mega",
+      "id": "mega.cl",
       "nombre": "MEGA",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/mega.png",
       "link": "https://cdn-live.mundogo.cl/megahd/megahd.mpd?ck=eyI2OGYxMTVhMGUzM2U1ZWVhODBlYTdkNDM5NDA4NTEyMiI6ImEyNjhhYzZmNzA1MzUxZGZhNmM3NzM5OGQ3NTU1OWQ4IiwiM2I0OWE5ZWZmNzA5NTBmOGE1NjBiODc1NWZlYjk1MDIiOiI0NmZjZDQ4OWRhMTE4ODc5Y2E4MzlkY2IwY2MyNjBjYSIsImJkOTA1MTIwZDRiNTVhMjQ4ZGZmOTRiOTZmMmY3MTQzIjoiY2Q1ZjFhNTE0ZWQ2M2E3NmVlY2FiMTE5NThlM2QyYzMifQ%3D%3D"
     },
     {
-      "id": "chv",
+      "id": "chilevision.cl",
       "nombre": "CHV",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/chv.png",
       "link": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd?ck=eyI5Mjc3ZGE3YTQ1MGM1MzdhOGNiYjZjODI5YzkzOGJjOSI6Ijc2YTUyMTg3MWQ3MjA4MTI0M2E3NTliMzI0OTAzYWFhIiwiODQ0NWExNDUwMzcyNWQ1MWE4Yjc2MzA5M2U0OTA3ZmEiOiIxM2FhNTNjY2NkZTBjMDg3NWE2ZTc1NjkzMmNmMmVmNSIsIjczZWZmNGQzZTFiYzVlNjE5YTJjNjIxY2ZmYTFmODgyIjoiMTc0NTUwNDMyNWIzNzkyMmMwZDVhZGFlZWFjODAzYzIifQ%3D%3D"
     },
     {
-      "id": "c13",
+      "id": "canal13.cl",
       "nombre": "C13",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/canal13.png",
       "link": "https://cdn-live.mundogo.cl/canal13/canal13.mpd?ck=eyI1NzM3NTliODg4NmY1ZGE5OTJhM2NjY2ViZGFlYjIxZCI6IjM3MjA4YTk3YzdmMDFlZGY1MjNlZDc1NzVkNWJhOWY0IiwiNWFmZmQ5MTJhNzA4NTA0NjliYWVlNmVkMjEwMzVkMWMiOiJkNjgxMjM4MmMzMWIxZmVlYmM1MjRjNzVjYTJjOTllZCIsImZiMDE3OTY2N2JkNjUyYmViYTNjNGI2YmM5NDhkODQ3IjoiMGMyMzA1OWYyNTcyMzQ4YmRjZjhhNDE3NGRjYjZiYTgifQ%3D%3D"
     },
     {
-      "id": "red",
+      "id": "lared.cl",
       "nombre": "LA RED",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/lared.png",
       "link": "https://cdn-live.mundogo.cl/lared/lared.mpd?ck=eyJkMzUyYzIwM2UyYTA1NDA3OGRhN2YxNDgzMWFmY2E5NyI6IjM1ZjM3ZDlkMmY4OGQ1NzdiMjI5YzY5MWQxYjI5YmUzIiwiMmY3MjMxYzhkYWVmNTgwZGIzOWI4YjhkMThjODc1ODUiOiJmNjk3OWRiYjYzNTIyMjI3N2Y4MDM3NWQxZDM5ZDcxNCIsImE0NzIyZTRjYzZhYzViYTM5NTkwNmIxYzRkYTRkMTk4IjoiYWJhYWU5NjU2MGRhZGIzNjVjM2FhY2NmNDUwMGQ0NzcifQ%3D%3D"
     },
     {
-      "id": "tvmas",
+      "id": "tvplus.cl",
       "nombre": "TV+",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tvmas.png",
       "link": "https://cdn-live.mundogo.cl/tvp/tvp.mpd?ck=eyJhZDI4ZmU2YjFlY2Y1ZmU4OGQzODNkNzM2Yjc3ZDgxNyI6ImFhMWI0MTBkNTVlMmY1N2EyODU5ZmVlYTdlN2JlMDNmIiwiNTlkNWUxZWQ2NWQ5NWYxMmFjMGEyZDQxMzY0ZmQ2ZDgiOiIwZjc5MmI1YzFhNTQ4MjBiN2UwNmQ3YjYxY2YxZDUyYiIsIjFlNTRhYjYwODVkNjU2ZjI5ZGFkZmEzNThkZDI0YTljIjoiMzg3OTZjZjExOTIxMWVkNjM3MmI5NGQyZTZiOTViNGUifQ%3D%3D"
     }
-  ]
+  ],
+  "epg": "https://iptv-epg.org/files/epg-cl.xml"
 }
