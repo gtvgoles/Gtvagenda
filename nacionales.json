@@ -128,12 +128,6 @@
       "link": "https://cdn-live.mundogo.cl/tntnovelas/tntnovelas.mpd?ck=eyJmMDMyY2UyZDUyY2I1ZWM1YWYwNDNkOTI4YTViNTI5OCI6IjYwMTkzYmUyODBkZjNiZDA0ODJlM2RkYmEyNWUzMjYwIiwiN2ZhOGI4YzcxZDMzNTYyZWE5Y2QxMTlmOGI4ZTlmZWEiOiJmOThkOTBlM2E4ODg1MjcwZDllYzY5ZDVkZWMwOGVkYSIsIjNjZTIzYjViY2RlMzUwYjM4ZDUwMjNmOTkyOWU0YzBiIjoiYjgxZTk0ZjczNGM1OTdkYzBlNjY3MjcwN2MzNzI2Y2UifQ%3D%3D"
     },
     {
-      "id": "azcorazon",
-      "nombre": "Az Corazón",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/azcorazon/azcorazon.mpd?ck=eyI2YWE3MzVhZTJlMWQ1MjM5ODdmOTUzMDA3NzQyMmI2YiI6ImEwMDg5YTAxZDFiZDlkZTc5NGI4MmU0OTJlNTdjZjc5IiwiYjA5YjJiYjRlYzFjNWU2ZmJjNzQ2NmNmNDNmYTU4YWUiOiI2NmUxNGI4ZjkxYjgxNjU3YzlmOGIxZDA2M2FlYTBhOCIsIjRkYjRhZTNhMzA2YTU4ZDU5OTYwYWUzZDExNTIzMzg0IjoiZWRjNmQ2MzUxYWMzODExYzAwY2JkMGU1NTU2NzgyMmMifQ%3D%3D"
-    },
-    {
       "id": "kanald",
       "nombre": "Kanal D Drama",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/kanaldedramacl.png",
@@ -302,12 +296,6 @@
       "link": "https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd?ck=eyI4MDA4ODBlMWE3NDY1M2IzOTIwYWM3NjQ0OTFmMjMwYSI6IjRhMjI3NmFmOGFhNGY4YjQ1NTVjNzc1ZjY2M2IzZWQ5IiwiODk5ZjgxNDBhYjEwNTQ1NmE2MmQ2MWRiY2E4MzRkM2UiOiI2MGYxNDZkMmIyM2ZhNTE0YWMwOWNlYzdkOTVlM2Y4MyIsIjU4NzhiNWYwM2M2YjUxZTk4Yjk5ODg4YzFlZWRkNDI5IjoiZTcyODY5ZDgwZGY1MDNlNGQ3YjkxZTY0ZWY1ZjE0NWYifQ%3D%3D"
     },
     {
-      "id": "azmundo",
-      "nombre": "Az Mundo",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/azmundo/azmundo.mpd?ck=eyIxYjUxZWExNTc4M2E1ODBkOGIzY2QxZTRkNDBmNjRmZSI6ImViYmRiNzg0NjU5MjAyNmZmYzM0ZDBjZDAxYjM0YWNmIiwiYzBkMzAwNWRkYTUzNTEzNjk4ODg0YmM2OGZlMjFlMDIiOiJmYmEwMTZhZDVjNjM3M2E2M2EzZTQ2ZDNiZWJhNGU3YiIsImZiYzk5YjZhZjM0OTU1MGE4YTQyZTg2MzkxNTU4ZmI4IjoiZWZmZGIwN2U5ZjU2MzZiNTAyMThkMDY4MzE2Y2Y5NmUifQ%3D%3D"
-    },
-    {
       "id": "tevex",
       "nombre": "Tevex",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tevex.png",
@@ -462,12 +450,6 @@
       "nombre": "CDO Premium",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/cdo.png",
       "link": "https://cdn-live.mundogo.cl/cdopremium/cdopremium.mpd?ck=eyI4NGZhMTYzYjZhYzI1ZjdiYjcyNDMyNDFmNTM2OWU2NiI6Ijc2ZGM4MDExNDUwN2M3NGQ1ZmI2MDc2MWY3YTNhMWNjIiwiYzYxYTI1MzFiOWJhNTVlYzk0OGEwMjUwOWU2MzdmNTIiOiJiOWM4ZDMyYzQ2MTJlMmFlYjM5MTkzOWE1Y2ZjNmMzZSIsIjk0ZjdmMTliMjViZTVjNTU5OWU4YWIwY2NiZmY0YjdmIjoiOGE0MDZjZTc4NTkzMzAwOGM4ZTBhMzNlNzYxNjYxZGUifQ%3D%3D"
-    },
-    {
-      "id": "americasports",
-      "nombre": "America Sports",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/americasports/americasports.mpd?ck=eyJiNWRkZDA0NmFiYjQ1ZWQ5ODEyOWI2YjBlNTUzZjkxNyI6IjRlNzcwOTBmZGMyYTZhNjE5OWZkNTIyNTQzYjk2NzllIiwiYWMzOWYxNzUwOWQxNWY4N2E1ZDZjZWVmODQ0OGFhM2EiOiJiOGMxN2QwNGY5NDA0ZGE5ZTMyM2VkYTRmOGE5NWUyMiIsIjU1YThmMjA4NmZmMjU0YTViMjFmYTUwNGJmY2YwYThmIjoiMTYyYTBiNWMxODZjMWQwMGQxODY5NzhkZjFiNmYxMDgifQ%3D%3D"
     },
     {
       "id": "tycsports",
