@@ -38,5 +38,8 @@
       "link": "https://cdn-live.mundogo.cl/tvp/tvp.mpd?ck=eyJhZDI4ZmU2YjFlY2Y1ZmU4OGQzODNkNzM2Yjc3ZDgxNyI6ImFhMWI0MTBkNTVlMmY1N2EyODU5ZmVlYTdlN2JlMDNmIiwiNTlkNWUxZWQ2NWQ5NWYxMmFjMGEyZDQxMzY0ZmQ2ZDgiOiIwZjc5MmI1YzFhNTQ4MjBiN2UwNmQ3YjYxY2YxZDUyYiIsIjFlNTRhYjYwODVkNjU2ZjI5ZGFkZmEzNThkZDI0YTljIjoiMzg3OTZjZjExOTIxMWVkNjM3MmI5NGQyZTZiOTViNGUifQ%3D%3D"
     }
   ],
-  "epg": "https://iptv-epg.org/files/epg-cl.xml"
+  "epg": [
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Chile/chile1.xml.gz",
+    "https://raw.githubusercontent.com/globetvapp/epg/main/Chile/chile2.xml.gz"
+  ]
 }
