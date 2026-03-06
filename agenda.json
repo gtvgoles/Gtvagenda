@@ -479,6 +479,20 @@
       "sofaId": 15658614
     },
     {
+      "competencia": "ascenso",
+      "inicio": "2026-03-20T20:30:00-03:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/Union Española.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "escudos/ascenso/PUERTO MONTT.png"
+      },
+      "link": "https://is.gd/espvspum",
+      "sofaId": 15416166
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-20T20:30:00-03:00",
       "local": {
@@ -589,20 +603,6 @@
       },
       "link": "https://is.gd/copvsiqu",
       "sofaId": 15416161
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "visita": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
-      },
-      "link": "https://is.gd/espvspum",
-      "sofaId": 15416166
     },
     {
       "competencia": "copa_liga",
@@ -757,6 +757,48 @@
       },
       "link": "https://is.gd/audvsdls",
       "sofaId": 15658626
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-26T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/LIMACHE.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/PALESTINO.png"
+      },
+      "link": "https://is.gd/depvspal",
+      "sofaId": 15658627
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-26T20:30:00-03:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/COBRESAL.png"
+      },
+      "link": "https://is.gd/ucovscob",
+      "sofaId": 15658628
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-26T20:30:00-03:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "escudos/primera/EVERTON.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "link": "https://is.gd/evtvsohf",
+      "sofaId": 15658629
     },
     {
       "competencia": "seleccion",
