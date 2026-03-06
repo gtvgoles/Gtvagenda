@@ -48,6 +48,534 @@
       "nombre": "CHV Contigo",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/chvcontigocl.png",
       "link": "https://cdn-live.mundogo.cl/chvcontigo/chvcontigo.mpd?ck=eyIyZGJkNmQ2ODZiODg1MzY2OGZiNjNmYWE2YWNjOWNlNyI6ImZhN2YxYjZhY2E0OWQ5ZjE0YmUyZGI1ZGUzNjI5ZmU0IiwiN2MyZjJkMjc5NzFjNWRjNjljMzZjY2E3MTBkYWExNGQiOiJmMWMwY2RjZWRlNmIxYTY0NWM4NzBmM2U2ZjliMTc2ZiIsIjEyMzM4NzYzOTRiYzU0OTNiMzJiMmNiY2JjOTc3NmQ5IjoiY2RhYjNiMjUzMzhkN2MzNDg0YzdkNjAwMWQwMjUwNDIifQ%3D%3D"
+    },
+    {
+      "id": "rec",
+      "nombre": "13Rec",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/rec.png",
+      "link": "https://cdn-live.mundogo.cl/rectv/rectv.mpd?ck=eyJiOThjMDAwNDQ1N2U1YTcyYTFjNGJjM2Y5MGRjYzJjMiI6IjJlYmFjOTNiY2MwMDJjYzBiYjJhZWRiODQ4YTkxNzhkIiwiNTQxMTg1NTc2N2QxNTAyNDhiODJiZTE5ZDNmZWY2NmIiOiJkMzMwMWE4NDkxODg4MGFlNGIxM2VkODgxZTNlNDFiNiIsIjU0MzkyMGM1Njk0NzVmZjU4YmNiNjA4MzI2NmI4MDg4IjoiNDM1YjExMzhjMGIyYWNmNmEyMTgwMDA3MDc5MjI4NWEifQ%3D%3D"
+    },
+    {
+      "id": "13c",
+      "nombre": "13C",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/13cable.png",
+      "link": "https://cdn-live.mundogo.cl/13c/13c.mpd?ck=eyIyMDJmMjg3YWM5MGY1YjNmYTUzYmQyOGFlZTMyMzYyZSI6IjY1MjI3OTMxZWVhZDRjZWZmMWFjOTBiMGRkOWZkZjFlIiwiNmE4MzZiYzgwODE3NTc2YWFmYmIyZjAzY2U0MTU0MTIiOiI5YzM4OTM5MWM2YjU4MWU0NDU4NzY4NGNlOTc0MTdhNCIsImIyYjdhZWUyYmZkZjU1YzJhZDI2NTk5NDVjYzRhNTU1IjoiNDVkM2UzYWE3ZjEzNWRkODkwYThiYzRkY2E2MGE5MTQifQ%3D%3D"
+    },
+    {
+      "id": "disneyjr",
+      "nombre": "Disney Jr",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/disneyjr/disneyjr.mpd?ck=eyI2ZTE0ODgyOWNmYTM1YzI5ODQ4OGM5Njk0N2YxOWNiMCI6IjJlZWNhZGNiMzQxZDBmYzNlOWViYmEyNTY3OWE5OTY1IiwiMjA3ZTMyYzBhMWIyNTBlNzkxZmYwNDc0YzUwMzlhMDkiOiJlNTUzMmNiZWU0MzQyN2EwZGM0MjhiZThjMjQ3YTVmYyIsIjVkNjJmZWI5NDU5ZDUyMTNhMTE3MzkzMjg3ZDhhN2IzIjoiYTY1YTNlZDMyZDlmODU4ZjRmM2U3ZTg1MDY1MWE2N2QifQ%3D%3D"
+    },
+    {
+      "id": "nickjunior",
+      "nombre": "Nick Jr",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/nickjunior/nickjunior.mpd?ck=eyIyNGQ5YTlhNGU2MWU1ZWY1ODk3N2U0ODY1ZjM3NzczNiI6IjMzMTIyZjNjZGVkYzExZmZkNDg4ZjZiYzI2N2JlNzkwIiwiMjYzZTdkMjU0ZmJkNTdkNDkyZjE0NzAyZTMwNmEzM2IiOiI3ODhmYzEwOGMwZWNkMzljODZhMTkwN2U5NTg4YjdlNiIsImE2YTlkMGUwOWQzMzUzZWI4MDQ5ZmZmNmE3Y2I3NjNkIjoiMjI1MjRlNDFiMWU1YjkwZTgyOGZkZjcwYjc2Njk4MjUifQ%3D%3D"
+    },
+    {
+      "id": "discoverykids",
+      "nombre": "Discovery Kids",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/discoverykids/discoverykids.mpd?ck=eyJhODlmODg1MmI2Njk1NjRlOGEzY2FlMTIzNDI1N2ViOSI6IjdlNGFlMGQwM2ZkOGEyMGEzODEyOWNmMjUxOGQ4N2Y1IiwiOGEyMGQyYzhmNWJjNTNiNWEwODUxNWUzN2Y1NzA3MmMiOiI5NDYyOWM4YzU3NzcyNGIzMDQ0N2VhNmZhNjZjMzgxNiIsImZjOTE2MTgwYTA2OTVlNWZiYmNlN2E0ZTQyNDVhNjQyIjoiYmUxMmE2ODZkOWFiMmFjMmFmMjExNGNjMjZkMGM5NmEifQ%3D%3D"
+    },
+    {
+      "id": "tooncast",
+      "nombre": "Tooncast",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tooncast/tooncast.mpd?ck=eyI4ODA3NjI0NzVkZTE1ZjQyOWQ3NzA5NWVlZTU4OGRhZCI6ImE1OTFkN2EyZTcxNzhlMjI5YmY2NjZkOTY3YzllZDM1IiwiOWUyZmUwMmY1NGUwNWM4ZDhkMThiNTIzMDk4Yzc4YTQiOiI2ZjBiMDZlZGUzZDUyYWI5ZmY4OTA3MTg5NTM5YzUzNCIsIjA2YTA5N2FiM2QzMzUzMjRhMjQ4NjQ4ODg4OGQyODJkIjoiZWY0ZTE0NTU2OTI4OWRmZTIyNDEwMDM0YjM5ODRhOTYifQ%3D%3D"
+    },
+    {
+      "id": "ntv",
+      "nombre": "NTV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/ntv/ntv.mpd?ck=eyIwNjk1ODQ0N2ViMGY1MmFmYjRkZTQ5ZDg3NjQyNzIwYyI6IjFjN2ExZTg0NjMwMzljZjI4ODhjNjIzZTI0MGRhODQ0IiwiODMzNjdiNDYwOTA5NTc0M2FlMDg2Y2RkYTE0YjQ4MzciOiJlNDQ3NTNhYzU3MGY2MTEyNjVhN2YzZTAxMzY4ODg3ZiIsImE4NDVkNDM4OTA5MjViZmY4YWM2ZTVkMDk1YjY0MjhmIjoiMTM0OTBkYTczNTU3ZTAwZDc2MDA5MTcwYWFhYzBhN2EifQ%3D%3D"
+    },
+    {
+      "id": "cartoonnetwork",
+      "nombre": "Cartoon Network",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cartoonnetwork/cartoonnetwork.mpd?ck=eyI3NjU2MGMyNmM3MWE1YjU3OWVmY2YwYTRmMTQ1YTE0MSI6IjQ1NDA5YzAwODRjODE3OWQ3ZGY2OTMyMmExMzMwM2Y0IiwiNjM0MmIxNDljOWQ4NTdmOGJjOTYwOTk3ZjFiZmVhNmUiOiI5ZWJkMzZkMWRmYTM5ODg5ZGEwYTA2NjQxYzk2NjA1NCIsImQ0YjYyNzY5YTM5NDUzNmRiNWIyYjU5ZjlkNGNkMWY5IjoiZjcxNjJhODdkMGZjYTcyOWI4ZTU5N2E1NmQ5M2MxNTMifQ%3D%3D"
+    },
+    {
+      "id": "nickhd",
+      "nombre": "Nick HD",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/nickhd/nickhd.mpd?ck=eyIzNTdiYzRjNGZlYzU1OGFiOTIyYzgxMmM5YjI5ZWRlNyI6IjM1MmFmMTI5MTY1Nzc2N2QyOTUzMGE1NjNmN2I2NzA5IiwiNmMzYjcyN2Q0ZTU2NTg2M2E5OGYyZDk1MGIzNTFhNzgiOiJjYmFmOTM3YmM3NzEzNjBlMjA1OTA1M2IzMDNkYTExMiIsImE0ZWZmMWUxODllNjU1MzFhMzQxM2U0NDE4NDVhMDUyIjoiOTYwMzU1NjU5YWJhYWYyZmQzNDJkOTM2ZTUwNTljMGUifQ%3D%3D"
+    },
+    {
+      "id": "disney",
+      "nombre": "Disney Channel",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/disney/disney.mpd?ck=eyI4NzAyOTFlZDMxZDc1YjczOWEyNGQzNDRhYTRmN2Y2MyI6IjFmMGFlZjQ5MzI0NjRmYjc4YTI5ZWU4NDFlMzc0ZTlmIiwiZDcyZjIyMjkyYWY0NTk4NmIxMGFjMjY5NjY1MjUwMTIiOiJhYTNmMjU4OWY2MmY1NjgxNWJjMzNhZGM1ZDc1MGMyYSIsIjM3MDYwYzQ1ZWI5MzVlODVhYjVkNDg4MGU1MGExMDAyIjoiMGMzNjAzMmZkYWRkZDg4ZTUyNWI5NWUwZTZjNjY0ZmIifQ%3D%3D"
+    },
+    {
+      "id": "etctv",
+      "nombre": "ETC TV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/etctv/etctv.mpd?ck=eyJlZmU0NmNmZmI5YjY1NDM2YWI1MTBkMzM1Y2RmYmYzZiI6IjVmYjljZWJlYjA1NDk1ZmFhZjNjZDdlMmI3ZmM4OWE4IiwiMzU4YWFkYTAwMmQyNTZiYmIzMDFlOWFjZjAwYjk5ZWYiOiJhM2YzZjdhZGEyMmEyMDJhZTVkZDIxM2U0ODcwYWU3ZiIsIjA3MTBmMDk1MDU0NDU3YWNhM2FhNjY1ZWVkMmQ2YTk1IjoiYTdhNmFkNjhjNDFjZTQ1OTYzOTNkNmYyNGI4NzIzMzgifQ%3D%3D"
+    },
+    {
+      "id": "comedycentral",
+      "nombre": "Comedy Central",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/comedycentral/comedycentral.mpd?ck=eyJjM2UyMWIxYjAyZjI1NmExOTliYmYwNjMzODAyNzM4MSI6IjAyY2IwZTQ3MzM3NWY0OTVkNjM4YjdmYzYzNjg5MGFmIiwiZTEwZWY4M2U3YmE3NTlkNjhiMDQxZWM4YTI2YzljMzEiOiI3N2JiMmVjZDE1MjJlOGY3Mjg0MmUzYTYyMmY0MTllOCIsIjgxNzFkOGUyZDQ4NjVjNDY4M2Q0ZDU3NzBhNjIxMjM4IjoiM2UyY2RmNWZkN2QyN2U5ZjUxMmYxYmRmNmNmYTlkMWYifQ%3D%3D"
+    },
+    {
+      "id": "tntnovelas",
+      "nombre": "TNT Novelas",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tntnovelas/tntnovelas.mpd?ck=eyJmMDMyY2UyZDUyY2I1ZWM1YWYwNDNkOTI4YTViNTI5OCI6IjYwMTkzYmUyODBkZjNiZDA0ODJlM2RkYmEyNWUzMjYwIiwiN2ZhOGI4YzcxZDMzNTYyZWE5Y2QxMTlmOGI4ZTlmZWEiOiJmOThkOTBlM2E4ODg1MjcwZDllYzY5ZDVkZWMwOGVkYSIsIjNjZTIzYjViY2RlMzUwYjM4ZDUwMjNmOTkyOWU0YzBiIjoiYjgxZTk0ZjczNGM1OTdkYzBlNjY3MjcwN2MzNzI2Y2UifQ%3D%3D"
+    },
+    {
+      "id": "santiagotv",
+      "nombre": "Santiago TV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/santiagotv/santiagotv.mpd?ck=eyJiMDE0N2RlYjllMjM1MWE3YWJmM2Y0MGEwMzQ2YjJkNSI6IjdkY2E0OGMyYjgwYmFmOTQzNDExMTNiNTYwMmRiYmU3IiwiYWM0ZjZlMjg2NDY0NTE5Mjk4MzhlYmU3ZmZjYWQyYTEiOiI4ZmI2ZDg5MjdhZTNjNTA5NzNmMTI5YWIwMmU4OWE5OSIsIjUyOTRjMzIxNmFmZjUyNDhiMDNmMTFmZWFkZTQ0YTRiIjoiNzExNjFkMDdjOTk1YmE2ODAwZTcyYjU2ZWMzZGMyOGQifQ%3D%3D"
+    },
+    {
+      "id": "azcorazon",
+      "nombre": "Az Corazón",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/azcorazon/azcorazon.mpd?ck=eyI2YWE3MzVhZTJlMWQ1MjM5ODdmOTUzMDA3NzQyMmI2YiI6ImEwMDg5YTAxZDFiZDlkZTc5NGI4MmU0OTJlNTdjZjc5IiwiYjA5YjJiYjRlYzFjNWU2ZmJjNzQ2NmNmNDNmYTU4YWUiOiI2NmUxNGI4ZjkxYjgxNjU3YzlmOGIxZDA2M2FlYTBhOCIsIjRkYjRhZTNhMzA2YTU4ZDU5OTYwYWUzZDExNTIzMzg0IjoiZWRjNmQ2MzUxYWMzODExYzAwY2JkMGU1NTU2NzgyMmMifQ%3D%3D"
+    },
+    {
+      "id": "kanald",
+      "nombre": "Kanal D Drama",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/kanald/kanald.mpd?ck=eyJmNDliZTI3ZDdiMDM1MWU0YTBhOTg2MTY0ZDViNjI2YiI6Ijk2NmRmYmNlYmJlMjc4NzRhNjY0MTBkZmJmZTU2MGZlIiwiNzVmMmY0MTlhMjAwNTE4OWIzYmZiNTk2NzllNjcxMTUiOiIwOTNhYTRmZWFlYjY1Yzg1NjgyMGZhZTE3NTY3MzY3ZCIsIjUzODI4M2FhYWFhMzU4NDliZWNkZDEwMTU0NjRmOGJhIjoiMDliMDRkNjZlMzZmN2Y2MjFiMzYyNDdkMTc3NWEwMzMifQ%3D%3D"
+    },
+    {
+      "id": "tnthd",
+      "nombre": "TNT HD",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd?ck=eyJlNDc3N2Y5OTQ3MzU1NTM0OGQzY2Y5MzFiYjQ5ZWEzOSI6IjY1YTIxOWFhNjQxN2JkODNjNjUwMTgzYTQ4MmZhZGYxIiwiY2VkZGFiZjQzNTQ3NTMwYWFhODliZjE0MmMxMjMyZWYiOiJmZTExNjQ0MTgxODQyZTZmOWE5YWQyZGU1OGJmZGU5NyIsIjhjMTMwNDIxYzZjMzVmNmRiNzExY2E2M2FjMTU4MGJlIjoiNjllMDIyZjRiMWJiNmVmNDE1NDk4MWZjYjI2M2E0MmEifQ%3D%3D"
+    },
+    {
+      "id": "spacehd",
+      "nombre": "Space HD",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/spacehd/spacehd.mpd?ck=eyJlNDc3N2Y5OTQ3MzU1NTM0OGQzY2Y5MzFiYjQ5ZWEzOSI6IjY1YTIxOWFhNjQxN2JkODNjNjUwMTgzYTQ4MmZhZGYxIiwiY2VkZGFiZjQzNTQ3NTMwYWFhODliZjE0MmMxMjMyZWYiOiJmZTExNjQ0MTgxODQyZTZmOWE5YWQyZGU1OGJmZGU5NyIsIjhjMTMwNDIxYzZjMzVmNmRiNzExY2E2M2FjMTU4MGJlIjoiNjllMDIyZjRiMWJiNmVmNDE1NDk4MWZjYjI2M2E0MmEifQ%3D%3D"
+    },
+    {
+      "id": "tntseries",
+      "nombre": "TNT Series",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tntseries/tntseries.mpd?ck=eyI1NDJlN2FkNzc3ZTU1MmZhYjMzZmI1MDNmMzJhYzUxZCI6IjlhM2NmZDgwOGY4MzBmZDA2MmU3YmViY2VhMWE4ODk0IiwiODFiYjE4MGIwMzY4NTRmODlmZWU1OTEyZmIzZjZiMzIiOiI1YWExYzdiMDg1N2Q4NDJkZjI2MDJjYWU3MTkyZTE3MyIsImNhZDIxMWZmNTk3ZjVlMjQ4ZDFhZjAwZDhmNDBkOGMwIjoiYzBlMTgwZTZjNDM0OGY2ODQ1ZjNiOWRmODZkMjAzNWEifQ%3D%3D"
+    },
+    {
+      "id": "sonychannel",
+      "nombre": "Sony Channel",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/sonychannel/sonychannel.mpd?ck=eyIyNDBkYWEyYTc5ZWM1MWZiYjU5NDliNzZkMTIzN2E0MSI6ImVmYjc4ZDg2NWExY2JhYjE1ZDhmNWFlYjc4MmFmZGNlIiwiMmZjYjI1MTAwZmVlNTJlZDkyNGJmMjI5MWM2NWM3NTAiOiI5ODEwYWY3YzgwOGVhNWFmZDk2MGZhYjNhODBlNjJjYiIsIjQ4MDNjZjQ5ZjMzZjU0MjhhM2UwNjEzZGVkOTExN2Y5IjoiN2E4NGI0ZjQ5MGIyZmMwMmUxMTY3YzViYTMyYmUxM2UifQ%3D%3D"
+    },
+    {
+      "id": "axn",
+      "nombre": "AXN",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/axn/axn.mpd?ck=eyI5YTM3MTI1YTIxODM1ZTExOTM3NDE5NTQ3YTU2YTliOSI6Ijc2MWI3OTAwYjM0NTE5YjRmMmFlYjdiOGMwZjI1MDdhIiwiZmVkOWM1NjY4N2U4NTEzMzhkZmIxMzI1MmE0Y2ZlYzkiOiJlMjJiNjE0MTRkNWZiYTNlYzU4M2UyNjU3MmQ5YTZlYyIsImI4Zjg2MzZiOWI4MDVmZjQ5MjQ1NDUyMGQwZGZiMDU2IjoiZmI2MjNkMDBmMWE0MjgyYTZmM2UwZTNmMmIxNjBlMTEifQ%3D%3D"
+    },
+    {
+      "id": "tcm",
+      "nombre": "TCM",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tcm/tcm.mpd?ck=eyI4MTI0YjEwMWY0YTE1MTRiOTMzNzdlNjFkN2RiZmExMiI6IjY1NjJjMWEyMWFkMzhkMDY3YmExMGU0NDlkMzU3ZmU3IiwiMWNlM2JlNGVjYmFmNTIzZjhjZmQyMjA2OWNiODUwNjciOiIwYTVlZjMxZTQ3YzA1OWRmMzZhYTczYjkwMGQxODE5YSIsIjY1ZmIxY2QxNmI1ZTUyZTdiZmE4ZmE0NGQzN2I2M2NkIjoiMDdiZWUwODVmZmYxNTYxOWUyMDA0OWFkZjQ2NzMxMjEifQ%3D%3D"
+    },
+    {
+      "id": "depelicula",
+      "nombre": "De Pelicula",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/depelicula/depelicula.mpd?ck=eyIxMTc5MmNhNTIwMDQ1MzUyYTQxNmZmMjE2ZTZjMGRlMSI6IjBlZTczNWJhMzdkZWRlMTA2NmY0NjRlZDg4MTAzZThjIiwiZjVhMDM5NjFlNTU2NTBlYmFjYjMxYTdhNjRlZThkYTQiOiJiMTlhMGJiZjIwZWRkZmRlN2FhZDE4NWRmN2QxMTk5OSIsImYyMzk1MjNlMGNhMjVhOGJhMmMxMDBiMTQ5Mjc4NzZjIjoiYjE4YTQyMTI1YzRmMzQ2ZjBmN2E1YjZkMDY2MzY4NjMifQ%3D%3D"
+    },
+    {
+      "id": "warner",
+      "nombre": "Warner",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/warner/warner.mpd?ck=eyJlZWJmMjA2ODQwNDA1NWQ1ODI2NzhhYTYyNzNjMzkwZiI6IjZmZjI4MTNhMjdjOWUwYzc0OTRiNWEzYzBlZDhkMWE0IiwiNmY2NTlhZDcwOTFmNWM0MmE3NGMzZDA3NTdmYmY4OGMiOiJlMzM3NmFjN2Y1NGM2ZDZlZmU5OTIzMDBiZTNjM2E4NyIsIjZmNWQ2MTM0YzY5ZTU3ZmU5NjRkZDZhOWJmMzhjMzZiIjoiY2NhN2M0MTMzZjkxNzFkODg2N2FhNGFhNmNlMzUxNGIifQ%3D%3D"
+    },
+    {
+      "id": "goldenplus",
+      "nombre": "Golden Plus",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/goldenplus/goldenplus.mpd?ck=eyJhY2I5ZTBhZGFkNzk1MmVlYjAwYTA5ZDA2OWE4NTcwMyI6IjVjNzJkNjNlZTdkOWU1NDA1ZmQ3MGY5ZDA0MWRmMTlkIiwiMDNiOTE0ODZiNDFhNTZiMDllMjRhZTllMjhlMmNiZjQiOiI0MjBmMTU1MzI2NGQ0ZWJkOGFjNmIxY2QxZjYzMTUxMyIsIjE0MzQ3MzcxYTU2ZTU4MGNiYmNjYjgyMTgwZDU1MWEzIjoiOTViZDkxYTM3OTFjZmIyYzk0ZDQ4MzVkNGEzYmJhZDMifQ%3D%3D"
+    },
+    {
+      "id": "sonymovies",
+      "nombre": "Sony Movies",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/sonymovies/sonymovies.mpd?ck=eyIxZjE1YTk4NTRkZGU1MGRiYTY1OTFkNGU3ZjAyMWI2MCI6IjFmOWI1YmE1NTRjYjFkZTI1NzUwNjEwZmVkMDYxNTUwIiwiZThjZDdjYjQ0NTEwNWM5ZGE5MWU0ZmNlMGFiYzRjZTkiOiJiZDIyYWU4ZTM3N2Y4MmVjN2FiNGQxNjlhNjNkM2EzNiIsIjhkN2U5NGFhYzU4NDUxZjBiODU2ODBmNDg5NWVhNmYyIjoiZjg3MDVkNTliNjEzZGU5NDFkZDJhZGMyM2YwM2U1NTQifQ%3D%3D"
+    },
+    {
+      "id": "azcinema",
+      "nombre": "Az Cinema",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/azcinema/azcinema.mpd?ck=eyJjMzIxYzAzYWRkMDk1ZDEwODJlYzZmNTNkYThmODkwYSI6IjIxYTJmODk1OGI3NjgzZTQzN2JhYmQwNTc5MWZmM2ZkIiwiNzJlMGUyZjRhOTczNTY4ZmI4OTA4ZGE3NTE5MjdkY2YiOiI5YTJkZDUxMTZlZDdhNmY2YjA3YTk3NGE3MTAwZjI3YSIsIjNjODI3OTM0M2VjZDU1NjliODViN2I4NWIyMDVlYTNiIjoiMDc3N2Y0NTVlNjMwNGVmODQwNWYyZDBhZGNhYmM4ZTkifQ%3D%3D"
+    },
+    {
+      "id": "a3cine1c",
+      "nombre": "A3 Cine",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/a3cine1c/a3cine1c.mpd?ck=eyIzYjc5YzA5NmE1YTU1Nzg5ODFhMDRlN2Y0ODFmNjU3ZSI6IjU1MDEyYmNkNTA3ODZmMWY3MTJjOTI1MjFlN2QwNDgxIiwiZTRmY2QzNTgxNmQzNThiYWExYTY1MGJlM2VjMzcwMmIiOiJjZjg0ZDc4YTU2ZTRhMmIyZWY1NzE5NmZhMzFjNjY3OCIsImRmM2E1MTc0NmUzZjU3OGRiM2IzNjlmNWQ1YWY2NDRhIjoiYmVhMTJmNjZmYjIyMDdjOTRhZDZiYjZjNmRlNDdmMWQifQ%3D%3D"
+    },
+    {
+      "id": "antena3seriesinternacional",
+      "nombre": "Antena 3 Series",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/antena3seriesinternacional/antena3seriesinternacional.mpd?ck=eyI2OTAyMDZlOWUzYmU1ZDg4OTNlM2NiZTM4YzkxNDI5NyI6IjAxNWQ3ZWI5ZjRjOTE1Y2RlYzM1MDQ5ZmQ0NTVlZWFiIiwiZjI2OWE4OTJmODI1NWUxNzgwZjE1OWU2NjE0ZWNiOTEiOiI1Y2I1MjRjNGU5M2MxYjJmNjk4MTQyMzBlNDY1YTFiMiIsIjFhNDQzNWIwNjZkMzVmYTU4NmZlMzczYTRkZTFlMGVjIjoiOTk2YzcyNTdlOWMzMTcwYTdlNGQwYzBlZGU0NDY3NjgifQ%3D%3D"
+    },
+    {
+      "id": "cinefamiliar",
+      "nombre": "Cine Familiar",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cinefamiliar/cinefamiliar.mpd?ck=eyJhNGVmOWU4MTMwZjk1OWY2YmVlOWJiNTM1ODc0YWI1MCI6Ijc2YjRkNDEzNjYzOTdhNzQyYTEzN2FmMGYxYmU1YWFkIiwiOTZlZDQ2YjE1OGE1NTRkOThjZThkMzU1ZTY1Mzg1NTciOiJhNzI5OWI0NDQ3NzdlNGUxMWU2NWE1NjBlZjk5MTEyNSIsIjM2Y2ExMzY0MmE2MDUwM2ZiZTFjZWFlYTM2NjAwMDA1IjoiOGJiM2MyMDRhMmFhZTA2Y2IyZmMzODk4NDc2ZjA5YTgifQ%3D%3D"
+    },
+    {
+      "id": "cinehispano",
+      "nombre": "Cine Hispano",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cinehispano/cinehispano.mpd?ck=eyJhYTVhYzI4NDAzZTE1YmMyODNhYTY4YmZjYmI1OTVkYSI6ImY3M2EyMTE0OTJjY2MyYzMxYmZlZDY1ODE0NDg2ZDU5IiwiMTA2MjUxMDM5OTQ1NTA4NWFiZTJmNjQwNjdjMjk0MmQiOiI3Njc3NDVmYjczNWVjYWIwNGMzMTU4MzFhNjg2NmMxMCIsIjYyYzMyNjUzM2IyNzVjM2FhODgyYTg5ZTRhNTFhNmM4IjoiZGU3N2RlZTNjOGI3Y2JiYWI4ZDE5NmNiNmNkZWIxZjYifQ%3D%3D"
+    },
+    {
+      "id": "cinepremium",
+      "nombre": "Cine Premium",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cinepremium/cinepremium.mpd?ck=eyIzYzQzNWVhZjNhYjc1Yjk5Yjg5Yzc1YzVmMTViY2NiYiI6IjU3ZDM3MTkyNTIxNzUzY2YwYWE5ZGQ3NTI2MDIyOTEzIiwiOGFkNTNjMjg0ZTQ1NWYzM2E2ODgyYmQzN2YxYWFjZDciOiJkNDJmMWExMGQ4OTYwYzk0ZWRkZWRmMjdkNmY0YjE0NSIsIjRhN2U1ODU4ZTJjNjUwYWRiZGE2MjUwNWUyODMzY2MyIjoiODYwMGE3MDJkZTBiMDJlYzhhMzY5M2I3OWMyYThjODQifQ%3D%3D"
+    },
+    {
+      "id": "dhe",
+      "nombre": "DHE",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/dhe/dhe.mpd?ck=eyJlMWIxMzRhY2VkMTM1MjRkOWE3MjE3OTA4MTk3ZjhlMCI6IjE0Mjg0NGNjMmQyOWNjODAwOWU1MGFhM2E0YzJmN2RjIiwiOTU2MGQwZTY3ZTMyNTM4YTliNGNmMzNkMTJlNWQyOTYiOiJhNWE2OTNkZGYxNTFiZmE5ODUxMzM4MDViMzU1MjRkYiIsIjcwNjRmNTcyYzQzYzVkMjFiZDRiMDk3M2RhYzQ0NDNjIjoiZWYyZDZiNTdlNWMxMWExNjBmZGQ0ZDFkZTFkMDQ2ZDIifQ%3D%3D"
+    },
+    {
+      "id": "a-e",
+      "nombre": "A&E",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/a-e/a-e.mpd?ck=eyIyOTQwZmE0ZWM0YzY1MDJkYTA0ZTdjODg0MWQyMzVlYSI6ImQ3Y2U3NzQxZDYyNzQ4Yzg1ZjA5M2UwNTYzNmIyNjdiIiwiMDkxZjJiODYyNDljNTdhZWIwNmJjMGFhMzNiZDFhYzkiOiJkMWE3MmVmNjE3ZTUyMDdlY2M3ZDc2YWQwZGI2NjdkZSIsIjYyOTgzYzQ5NDQ0ZjViMWFhZGI3YWU2NGY2NzY3MmY3IjoiNWM2YTIyMjBlNmQ5YzNlNGNhNTNmZDgyOTkyOTdjZWQifQ%3D%3D"
+    },
+    {
+      "id": "lifetime",
+      "nombre": "Lifetime",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/lifetime/lifetime.mpd?ck=eyI2NDZiODQyNTNiZDA1MGIzYmQ1ZDE5M2M2ODY2MzdiZiI6ImY5ZDUzMmU2ZWJjZWFiM2U2ODljNjdhYWQwMDk4MDI4IiwiYWRhMTRmODM3ZTg1NTNlN2I5OGFiNjNkNTU4MGU0OGEiOiI2NzI4Yzc3NjVhZDhmOWMwMGRkNDI3MzkwMDgzMmVjMCIsIjFmYzdjNjM1YzVmZDU0M2Q5MWFmNTg3MjFmZjZmMTZjIjoiMjdmNmFiMDEwZDRmNTk2M2FiMzUxOGY3MjdmOWQ2NGQifQ%3D%3D"
+    },
+    {
+      "id": "24horas",
+      "nombre": "24 Horas",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/24horas/24horas.mpd?ck=eyIzODdjMDUyNTMxZDY1ZWQ3YTk0OWY0NThlMTQyYjFiZiI6Ijc0YTc1MWFhZDYwODU5YmJjMDJkMGFkNGI3OWMxZDM3IiwiMjNkOTA5ZGU0NDM2NWRhZjg1NTUzNWUwOGY5ZjMzNjIiOiI5MDViMDNlMzYxNzM3NjZlMGNhNTczNjhhYjI2N2JjNiIsIjZlZDVhOTFmNmY4ZjVjMGRhZGM4ODljZTNjNjNhMmQ2IjoiZTc3NDUzZDE3Mzg5Y2U5MWNiOTY3MGQzNjBlMjRmYTYifQ%3D%3D"
+    },
+    {
+      "id": "cnnchile",
+      "nombre": "CNN Chile",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd?ck=eyIxZWU5MzdjMzE5ZTA1YmI3OGVlYzEwMzhmODUxMzgzNiI6IjUzZTNkM2QxNDc1M2Y4ZWJhYmJjNWYwNGZiNjM4NTM5IiwiMDk2YWJlZDczOWFlNWI3OWE1MmY4NTA2YjYyODU3ZTgiOiI3ZmNlMzNhM2VhODZjZWY1MTNmMzZiY2NjMTZlZWNjNSIsIjBkYmQ0MmJkYjhhZDVkNmI4ZWViMzAxNmYxMmFjMjRhIjoiMTRhYTE1NzY5Y2IxNjI4ZjEzMTlmZjE5YjRjMGU0MzAifQ%3D%3D"
+    },
+    {
+      "id": "cnnespanol",
+      "nombre": "CNN en Español",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cnnespanol/cnnespanol.mpd?ck=eyJiNWQ1NzlhZGJjNTQ1MWViODlkZWNkOGY5NGU0OWQzOCI6IjNiMzJmNzVmZjUwZWRhMDNkMWQzZTM4MjU2NzJiZmVjIiwiMjliMDQ0NGE3MGEyNTRmOGI2OTFkNmNjYTU3MzY5OGMiOiI4NjQwYjgxYTE2NzQ0ZjBkMzE0ZTFhOTk5OTEyMzE2NSIsImEzOWRiMDlmNDI0NjVjMzhiNWM4NGUzOGI2MjI5ZTEwIjoiMDM3ZDY2YzA5ODYxNzZhMDc4NTMyMjhkMDMwNWQyN2IifQ%3D%3D"
+    },
+    {
+      "id": "cnninternacional",
+      "nombre": "CNN Internacional",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cnninternacional/cnninternacional.mpd?ck=eyI1Y2I5NWUwMzMzZWQ1NDIyODk2MGUwMzNjZWQyMmYzOSI6IjdkMzJhNzI4ZWE3MjZmNDlhZTZiNjg5YWZhZjFlNGMwIiwiYWMzMDk4YjY1ZjZlNThiMGEzMmEwNTgzMzY1ZjIyYWUiOiJmZGQ2M2JlM2U4MjliMDI2MmJiMGZmMzI5ODA2MWM3ZSIsIjA5N2QyMjQxNmVlMTUwNzE5YjVjZDQ4Yzk1MzI4YWRiIjoiY2Y0ZWFiZjdjZDFmZGY3MGU2MDEzZWEwMTg2YzA1MjgifQ%3D%3D"
+    },
+    {
+      "id": "t13vivo",
+      "nombre": "T13 Vivo",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/t13vivo/t13vivo.mpd?ck=eyJhNjdhYzgyMjcxNDM1NjEzYjgyMDg0N2QwODc2NzEwNyI6ImJmN2MwZjM2ZTAwOTdlYmYzNThlZDhjZGJhYmIxZjZjIiwiMmQwMzc4MDJhMzRiNWNmOGFmNmJjYTM2ODI1YmYzODYiOiI1ZjRjNzg0MzgwMjkyYTE3ZTExYThmMTE3Y2FhYzQzMiIsIjc3MDFkMTA2ZDljZTU1ZWM5NWRhYzZiZjFiZWJjZmNmIjoiMWQ2OTE2NGIyNGQwMDZjYzVhM2VmOTVkYmUyZTA0MmEifQ%3D%3D"
+    },
+    {
+      "id": "meganoticiasahora",
+      "nombre": "Meganoticias Ahora",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/meganoticiasahora/meganoticiasahora.mpd?ck=eyJlMjMzN2E3NTIzMjU1NTA0YWJlNTRiNTAxM2NmODIzNCI6IjE0YzJlZDQ4YTg2ZjgxMWZjYjg5NWM2YmNlM2YxMDI4IiwiOTAwMzliMjNhZmNkNTMyMTk5ZDJkOWRiNDRjOGE4MTgiOiI5Mzk1MjRlYjlhMjljNDk3ZWYzMjUyOTFiOWZmM2YzZiIsImJhMDcwY2I0NDY3MDU0YTY4YWY3Nzg2NjZiMzQ2ZGM2IjoiNGVlZDYxY2UzMjRhOGQwZTk3ZWMzYjBkYzMxZjdlODUifQ%3D%3D"
+    },
+    {
+      "id": "chvnoticias",
+      "nombre": "CHV Noticias",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/chvnoticias/chvnoticias.mpd?ck=eyJkNmMxNGIxZmM2NWM1NGM1ODQ4ZjE0Zjg4YjkzNjNhMyI6ImNlNDM4ZTY0Y2MxYjRhMDk0MDFhZjEyMDU3MTc5YmMxIiwiMjM1OWNhMmMyZjU3NWQ1MTlkZTJhZmU0OGUzY2FjYmMiOiJjYzIwOWQ3Y2IzZjIwZTUxYmYzNjcyNzJhNTA5Y2IzZiIsIjI3YTg4OTUyN2Y3ZjU4NmU4MTYzODlhNGRlNDQwYmQ0IjoiNzQ4NTlhZTU1ZjM4YjFhOTBkMDhiNDkxY2YzMGRjMmQifQ%3D%3D"
+    },
+    {
+      "id": "ecool",
+      "nombre": "Ecool",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/ecool/ecool.mpd?ck=eyI5NzY0YzljM2Q4MDA1NmY0OWIxNzk4ODVhM2M2Y2U5MiI6IjhiMzFkYTA0MTc5MmY2NmRhMzcyMGMwODU4M2JmNjJlIiwiZTM0MDEzZGUwMzUxNTZkMTllMzdmYTBmMjZmMmRiZjciOiI1NTdmOTRjZWY5ZTZhNzk2YWVhNzg2OThhZDVmMmVjYiIsIjgwMzk5M2RlYmUxNjVhNjlhZDdiMjYyYzEyYzdmOTc1IjoiNGE4NDYxOGMxZDM3YWM4MDFjYjdhOTUwNDYwNTg0MzEifQ%3D%3D"
+    },
+    {
+      "id": "htv",
+      "nombre": "HTV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/htv/htv.mpd?ck=eyI0YjI0YTdjMzNjMmU1NjEyYWEyZDA1M2FlZDY2NGVkMiI6ImMwOTI2OWE2YjRhNjJhOWZhZTg5YjEzOTdlYmIyNTBiIiwiYTJiNTJkZThjZjcxNTI4YzlkZmY0M2U2NTU0ODU3N2EiOiI2Mzc2ZWQ4MDc3N2U2ZWJhNTNkNDljMDk5ZmNjNTkzYSIsIjA0MTJmMWU0MmYxZTVmNDE4NWQ3NTQzY2QyYzkzZGZkIjoiMDdmN2VhZDQ3M2U1ODQxNDBlM2VhNmY1NThiZDg2MTcifQ%3D%3D"
+    },
+    {
+      "id": "tlc",
+      "nombre": "TLC",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tlc/tlc.mpd?ck=eyJkMjg3MmMxZGYzYTU1MTlkOWI0ZTk1NDg1OWU1ZTA3ZiI6ImEzMjBjNTUxYmI4NjY2NjZkOGU2OGJkNmQ2Mzc2N2QyIiwiZTRlM2UzYmNhOTQwNWU2YTg1OGQ1YzYwYzk5ZDU1MzAiOiJiMzhlMWIyYmFhOGUyZDJmODAxMmUxMmQzZGU2ODAyYyIsIjU2MzdkYzRiZDRmOTViN2M5YjgzYTQxZTA3Yzk5N2Q5IjoiMWVhYzIwMDU1MTVjMzZhYjNkM2ViM2VhMDMyZTk0MDMifQ%3D%3D"
+    },
+    {
+      "id": "univision",
+      "nombre": "Univision",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/univision/univision.mpd?ck=eyJkMThkMzczMWRhNTg1NmI4OTY3YzM2ZGI1Zjk1YzY4NiI6ImMyMDk2NTJkZmI0OTQ3YjMzNjY0MjdiMTcyYjNiNjIxIiwiNGY3MjlmMWJiYzFmNWI5ZWFmZGU1MDhmNWJmY2I1ODEiOiJmZTRiNDc4M2RjMTJmMDBkZTBkNzk0ZTc3MmUwOTNhOSIsIjU3NzNlMDYzMWVhMjUxOGZhYmI3ZjZjMzA0ZmY5N2U0IjoiOWQwZDNmMTFkMTkyNjJjM2FlMjc4MTM0ZmMyZmM5ZjkifQ%3D%3D"
+    },
+    {
+      "id": "adulswim",
+      "nombre": "Adult Swim",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/adulswim/adulswim.mpd?ck=eyJiNjJkMjJhNTc0YmM1N2M3YTExMDA2MmNiNWQ0MTJkOCI6ImQ5OTdlMmQ1ZWI1OTUyNzY0MTMyMjk3Nzc5OGE1M2RlIiwiZTlhNTExYjJmZmE1NWViNzkwYjNjNmEzNjk4MWIxMjYiOiJjMjU5MTNhMTcxOTM0NDcyZmM4NDczODA4NDBjY2FiYSIsIjgyYmM2NTFkMDM0MjU0NzQ4MTE2NWQ1NTgyMjMwOTRmIjoiNTU5MGY4YWYwYjc4ZDQ4M2EzZDhjNDk4MWVjZTEzZTQifQ%3D%3D"
+    },
+    {
+      "id": "caras",
+      "nombre": "Caras",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/caras/caras.mpd?ck=eyI3ZTE0OTE3MmJlNjA1YjgxYmYxOGNiZTY4MGI4NzJhZSI6Ijk4YjA4Y2FjZGQyMzI3MmFmNzVkNjU4NjE1ZmUwNWYwIiwiNTBiZjI4NWRiNDkwNTYzZjhkN2VjYjVmYTBmNWI5NzciOiIyODMyZWE4NTViNWUwYjI2NDgxMDVkMTliZGU1ZTdmOCIsIjBjNTBiNjcxOTZjYzU0OGZhNDYzMWY3NjI2ZDY2OGJlIjoiYTJjMzA2Y2M2YWE1NDI5ZjA2OWRmOTFkNDM1NjEzOTUifQ%3D%3D"
+    },
+    {
+      "id": "holatv",
+      "nombre": "Hola TV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/holatv/holatv.mpd?ck=eyI4Y2UwNThmNTBkZmI1OTZjOThiYjk0MWFlYmNjNjZjYyI6IjgxMjExNjRlMDUwMDFhYjkyMTQ4YzY4YjMzNTRhMzc4IiwiZjRjZTVlMjBiZGFiNWNlN2FhOTNlNDIzMzgyNWJkNDAiOiI2ZGM3ZmZlMGUyZDU5NTE5MGI3Y2IyZjgzMWQ3Y2ZmZSIsImVhZWU5MjNmODM0ODUzODQ5MDFkNmQ5NWE5NjhkZjgyIjoiNjJjMzEyOTJjY2QyMmYzMjViZDc0MjM4MzZkY2M4MDkifQ%3D%3D"
+    },
+    {
+      "id": "megatiempo",
+      "nombre": "Mega Tiempo",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd?ck=eyI4MDA4ODBlMWE3NDY1M2IzOTIwYWM3NjQ0OTFmMjMwYSI6IjRhMjI3NmFmOGFhNGY4YjQ1NTVjNzc1ZjY2M2IzZWQ5IiwiODk5ZjgxNDBhYjEwNTQ1NmE2MmQ2MWRiY2E4MzRkM2UiOiI2MGYxNDZkMmIyM2ZhNTE0YWMwOWNlYzdkOTVlM2Y4MyIsIjU4NzhiNWYwM2M2YjUxZTk4Yjk5ODg4YzFlZWRkNDI5IjoiZTcyODY5ZDgwZGY1MDNlNGQ3YjkxZTY0ZWY1ZjE0NWYifQ%3D%3D"
+    },
+    {
+      "id": "azmundo",
+      "nombre": "Az Mundo",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/azmundo/azmundo.mpd?ck=eyIxYjUxZWExNTc4M2E1ODBkOGIzY2QxZTRkNDBmNjRmZSI6ImViYmRiNzg0NjU5MjAyNmZmYzM0ZDBjZDAxYjM0YWNmIiwiYzBkMzAwNWRkYTUzNTEzNjk4ODg0YmM2OGZlMjFlMDIiOiJmYmEwMTZhZDVjNjM3M2E2M2EzZTQ2ZDNiZWJhNGU3YiIsImZiYzk5YjZhZjM0OTU1MGE4YTQyZTg2MzkxNTU4ZmI4IjoiZWZmZGIwN2U5ZjU2MzZiNTAyMThkMDY4MzE2Y2Y5NmUifQ%3D%3D"
+    },
+    {
+      "id": "tevex",
+      "nombre": "Tevex",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tevex/tevex.mpd?ck=eyI1MzI5OTRkYWUzY2Y1NGM4ODlmZTk0OGEyZDJhMTNmZSI6ImMxY2Y0YWNlNDc1ZjdhYjkxMGQ1NTcxZTk4NzQ4ZWY3IiwiODEwZDFlY2Q5ZjgxNTY0OTkwNWI5YzgyZjUxMWQ0ZjQiOiIxMWFkNjQ1N2FiZTExNmVjYWM2ZmNlNWIxMmZmMmE0MCIsImIyYzU0MGY1MzExZTU3M2I5ZmVmMWM1ZWM3ZWQ1YzJlIjoiNTJjYmNkNjNlYjMzZWFlNTEyYTg4NWFhNGFhMGJjNGIifQ%3D%3D"
+    },
+    {
+      "id": "gustotv",
+      "nombre": "Gusto TV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/gustotv/gustotv.mpd?ck=eyIwZmUzMjExNThmYmU1YTJiODgyOTY0YzA1NWI4NTQwNiI6IjBjNmY5YWYwMGIwMjhmMjVmY2Q2ZjY3MDIyOWRhM2ZhIiwiZmIwMjhiZmQwY2IwNTNiMjkwZDE0Zjk1MWJhMjQyMmEiOiI2NDI2YWExNDg4MDY5YjY5Yzg1ZDNiZTE5ODdkZjBlYyIsIjEwYWQ4YjU2ZmJjYzU1YTc4ODlmMTNhMmJiMjQ0MTVhIjoiNTIwZDJjODVjMThlZjhlYTIzOWI3YTYyYTU3ZWRlYWIifQ%3D%3D"
+    },
+    {
+      "id": "lasestrellas",
+      "nombre": "Las Estrellas",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/lasestrellas/lasestrellas.mpd?ck=eyJiZDZhNjNlOGNkOTU1NmVjYTg4ODIwOGYyMWNkNTdlNyI6ImI2MTU0MDFjMjA5NWJhMjI0NDczMGYzZDFhMGUzMzZjIiwiYjA3YWNkYjRmYmMxNTJkZThiZmE2NjVjNWRiNWNhZjUiOiI2ZmY4MTk2ZDE2ZjljZGMyNDM3YmRhZmUxMGY0YmFlZSIsImY3M2E2YTk2Zjk2MTU5MmZhNGNjMzE0OThmZWEzNGNkIjoiZDZkYmQ2ZDQzMjA1MTU5ZWUyMzI5ZGEwYTk4NTViMWUifQ%3D%3D"
+    },
+    {
+      "id": "antena3",
+      "nombre": "Antena 3",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/antena3/antena3.mpd?ck=eyI4ODI2YWIxODg4YTA1YTc3OTI0NmNlZjFlMjc4YzQxNSI6ImMwOTdhN2U4MjQyYmRkOTFhZWQ0MWQzOWVlOTYwYjNmIiwiMTEwOTc4MDQyMGM2NTQ5N2IyMjFkMDhiMGRjZTllOWMiOiI5MTQzZTMyYmQwZWFjN2RjOWVkOWM3ZGQ2ZTQ1NTQzMCIsImRmZTc1OThiMWM1ZTUxZjlhZjlhNDkxY2JlNmE0Yjc1IjoiZGM3ZWQwODk4ZjJhODUyZWFiOTQwMjNjYWI2ZmI4ZWYifQ%3D%3D"
+    },
+    {
+      "id": "dw",
+      "nombre": "DW",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/dw/dw.mpd?ck=eyI5OWI0NGJjYmU0ZTA1ZWY3YjhmZDQ1MzViMjMwNjAyNiI6ImMwYThjZmU4ZjcyNDAwZjAyYjE2MzcwZmQxZTk4N2Y2IiwiOGExNjUxZTExN2ZjNWVhODhjNGMzMzAxODljYzVkNDMiOiI2ZmY0MGRiMDViMzFiODIxZWY2N2MyMzcwNmQ3OWJjMSIsImY4NTNmYWI2ODBhYzU3MGRiMjAyNDZlNzliOTgxMTRlIjoiYmZkNTc3MDhlZjBhODY5OTdjOGI4ZDhmNTBhZTliYTkifQ%3D%3D"
+    },
+    {
+      "id": "treceinternacional",
+      "nombre": "El Trece Internacional",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/treceinternacional/treceinternacional.mpd?ck=eyJjM2EyZDJiMjY4YjE1NzU0OWRiODRmN2Q5MjA5MTFlMiI6IjEzZTczMTBmYTIxOWIwMjkzZDY2MzEyZjAzNTBiNjc4IiwiYjUxM2YxYjYzZmNlNWU1Yzk3Njc2NDc4YTA0N2RkOGEiOiI1NjUxOGMwMGQ1ODVmMzdhMjA4NzUyNTJlNmMwMjY1ZiIsIjI2Y2RmOGI0YmJkNzVmYWFiMThmZjE5ZTQwZWM4NWFkIjoiOTVhNjdiYTMzZjI5YmY2NzljZjRiZTlhMmUyZWY3ZGUifQ%3D%3D"
+    },
+    {
+      "id": "tvpublica",
+      "nombre": "TV Publica",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tvpublica/tvpublica.mpd?ck=eyI5MmRkZjRjYTQ5OWE1MzdlODY1Yjk4MmJhYThkNDc1NyI6IjQ2ZDVkNDVmYTQwNmYxZjFkYTQyYjJhYmZkZjRjNGRkIiwiZTc0NWUzZDE0YTNkNTNjN2FlM2RmMDE0OTdkMzkwNjkiOiI4OTRhYTZmYzZiMjQ5MDc2NzIzNGE5NGNjZGM3MGE2ZSIsIjJkZWQxM2E2Mzk0MzViMDJhMjBiOTQ0MzYzY2Y3MTJiIjoiMDhmNzA3OGUyYWZmNTczZTU0N2VmNDFlMDMzZTgzMjUifQ%3D%3D"
+    },
+    {
+      "id": "telefehd",
+      "nombre": "Telefe HD",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/telefehd/telefehd.mpd?ck=eyJiNGE3Zjg5YzIyOWE1MTNmYjlkNGNlZWU4NDYzZjkwMiI6IjZhMzk4MDVjZGU3YTUzOWVhMWRkMjJhNTRkYzE3NDA0IiwiMjkwOTk5NjFmZGVlNTI3N2E4MDRlNTQyZTIyODg1NzUiOiJiNmZmODQxZjQ0MTAxM2Y5YjYyMWFmYjBhMzJhNGQwZCIsImExMDYyYmQ2ZTBhYTU4OTk5YjlkODZhYzNjYmU1YzEzIjoiMmYxY2U4Y2FkZWY0Y2MwMTg1OWEyM2E4NWU3N2JlZjIifQ%3D%3D"
+    },
+    {
+      "id": "discovery",
+      "nombre": "Discovery",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/discovery/discovery.mpd?ck=eyJhNThmMGMwNGJiOGM1ZGRlYTNlODc1ZTZjN2NiMmMzOCI6IjU1Yjg4YjRlMWNjMGQyMjVmZDNiNGNhZWM0NTMzYzQwIiwiMjRjYTk2YzZlMjQ2NTg2NDk1Zjg3ZjU1MjI4NzQ0NzAiOiJiMDk5OWVlMmE0ZjJhNjhiZTIyMzVmMGE2NzhmMjBkOSIsImU0NjllMTE1YzZiZTVkMzFhMTZkYjk4YmE3MmU0YjEyIjoiMzMyMDQxNmVlZWQ3ZTYwOTkzNWRiYWFhZDc2ZTRlM2EifQ%3D%3D"
+    },
+    {
+      "id": "iddiscovery",
+      "nombre": "ID Discovery",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/iddiscovery/iddiscovery.mpd?ck=eyI2NTU5ODIyMDg5N2Y1YzlkOGU2MWIxMzllMGU5MjE4YiI6Ijc3MmMwNjhmOGEwYjJiMDM5NGVkNTJmMzU1MzUwM2UxIiwiYWE5ZGJlYTAxMzU3NTNhMzkyZjIxODdjOTVjNjM5MTEiOiI5MjU4YjE4NzM5MjE0MDk4ZWQ0ZDdlOGJlZGU4NDEyYyIsIjk0MjEzYmQzMDUxYTViNmNhOGYzYWNkMzUxMDI0OGE5IjoiNmZmOTU1MDY3NTRjYjAwN2I2NDYyYjM5MTFmNDg0MDgifQ%3D%3D"
+    },
+    {
+      "id": "lovenature",
+      "nombre": "Love Nature",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/lovenature/lovenature.mpd?ck=eyJmYjUyOGNiYjMyNmI1MzdkYjAxYzc3ODg5ODViYTQ4MiI6IjY1MjJkMjU1Mzk4MGZhNjkxZWYyNzBlNGEwMmRhODJlIiwiZmM1ZGQ0ZGQ5N2I2NTNhNmIzNjk3N2JmYTg0NGJkZTIiOiIwZjg2MGYxODFlYzgwNWVlM2VlNjNmZmI5NzEyZmJiNiIsIjA1MThmYzg3MzM2MTViOGI5ZGFiOGU5NDQ1NDA2MzBjIjoiODhjOGQ3ZTBiYjFlMjI0NjZlNWY4ZDQwNzMxOWY3OTYifQ%3D%3D"
+    },
+    {
+      "id": "animalplanet",
+      "nombre": "Animal Planet",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/animalplanet/animalplanet.mpd?ck=eyIwZjE0ZGRiNTlkZTE1NjEwOGM5ZWM3MWVmY2I0ZTg0YyI6IjQxMzQ4MjJkYjUxM2Y3MGZiYjE4MWFhMmM3ZTkwZjhiIiwiNjU0ODU0OWNhMTc3NTBmMTk2MWVmOWI5ZjM1MDhhZTUiOiI4NTIwYTM2Y2U2MGNjOTAwMzVlMjQ2MTg0NzIwODY2ZiIsImY2MjJlNTdmOGJmNzVhNDA4YTI0ZWVkZTJiNGUzYjgzIjoiNzQzMWU2ZGMxYTgzZGE0OGI0YTJmNjUwNmY2NmEwNjMifQ%3D%3D"
+    },
+    {
+      "id": "history",
+      "nombre": "History",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/history/history.mpd?ck=eyI2MzdiYzdjYTA3MjE1NTZkYTRiNTNmNWZhNjIzOTU0MCI6ImMzM2Y0NTViZWE2MzM4NzcwZTkyZDVkNDA0N2YxMjU2IiwiYmM3NDgyN2E5ZDkyNTU5MDk3ZGViYmI5YzM4MzlmNGMiOiI1YWIxNWNiYWY1Mzc4OWQxYjJkM2Y3MDI2ZjMyNWQ2NSIsImY0MjUzNTgwNTFkZDVmNTVhYmE3MWM3ZDUzZDIwZGM1IjoiMzFlMDJmYTQwNjcxYTdkYzBjMjlhYjQyYmJlZGQ2NWUifQ%3D%3D"
+    },
+    {
+      "id": "puntajenacional",
+      "nombre": "Puntaje Nacional",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/puntajenacional/puntajenacional.mpd?ck=eyJkZGQ5YmI5YjA3ZjY1ZDVhOWU1NzAyZGI2YmRjYjA4OCI6Ijg1M2M2YTEwYjMxZWZkMDcwODNjY2I3YWZlOWZmMjk5IiwiNmZkNDAyZjMwNTY1NTcxNzliZWQ5ZjExNjExYzIwZTkiOiI2NmE4ODBkYThkYzZlZjBmNTU4YzQyYmU0MGQ0YjU5MyIsIjAyMzE1NWFiMDg4MzU4YTE4MDM2ZjlhOTYyMjdiYWYzIjoiZDg0NDQ3MzI2Y2VjYWY2YTk3OTdhYTE3N2MxZGJlYWUifQ%3D%3D"
+    },
+    {
+      "id": "vitalidadtv1c",
+      "nombre": "Vitalidad TV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/vitalidadtv1c/vitalidadtv1c.mpd?ck=eyIxMjlkZmUyNzE1NjY1ODU2YjFmZDI2MjhiZjFlN2E0OSI6IjViNTU5ZGJjMDdlMGFiOTM2Mzc1MzgwYzAwMWI2NWEyIiwiZGNlNmQ5Nzc1MGJiNTk2ZDhmNWMxNGExNmZhZDNmZGYiOiI3OTEzOTVhMjNhMWFiMzQxNGFmZTM1ZmZjZWVjNTE3NCIsIjQ1MjkxOWU5OTM2NDVjOWM4ZmU0ZmUyMjI2MDE5MWI2IjoiOTE2Y2RlNjU0MzI1Zjc0MWUxNDA3YTkzNjI4NmQzNGUifQ%3D%3D"
+    },
+    {
+      "id": "discotheater",
+      "nombre": "Disco Theater",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/discotheater/discotheater.mpd?ck=eyI4MzI3ODRkYTM5NmE1ODQ3YjVlZjRlYmMwNzI2N2E4OCI6ImYwNjQ1YjAyOWM4NDAzNTZlZjhhNWNkYTgyZjQwZTk1IiwiNmIwOTc2ODI0NTdhNTZjZmFjNTFmYzM5OGZkYzFiZGUiOiJjNmM1N2E3YmQyZWIxN2NiYTIwZTc3ODY2MzY3Y2NmMCIsIjAzMmM3NzAwODE4OTU4NzJiMTNmYzQ2N2FjZjM4YzY3IjoiNWE2NDAyNTg5M2MyN2M2ZmFmNDhkMzA1NWUxZGE1NjEifQ%3D%3D"
+    },
+    {
+      "id": "aprendolibre",
+      "nombre": "Aprendo Libre",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/aprendolibre/aprendolibre.mpd?ck=eyI5YjIzNzFlYzJiODI1ODRiYmEwZmFhNDdhMzM0MzA4MSI6Ijg3MzgwODEyMDBiNmE2NjRhODkwOTQ3YTBjNTdlMDA3IiwiMDI5N2Y3NGNjMzI0NTAyZGJiYzEzYWRkYjZjYmM2NzQiOiI1MjY3NGEzY2UxMWM5NWQ5NjFhMmY4ZDk5NDJiZjU5NiIsImNjZjUxMGI3YzdmYjU1N2RhYWYwMTE0ODRjYjU3MmU1IjoiZjI5NjVhZDI2ZTJlOTEyOWU3Yzc4OGYyNDFhNjU2Y2EifQ%3D%3D"
+    },
+    {
+      "id": "mundoemprendedor",
+      "nombre": "Mundo Emprendedor",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/mundoemprendedor/mundoemprendedor.mpd?ck=eyJhMDQ0ZjZjNzY0ZWU1NGQyODAxZjc0NmJjNjE3N2RlMiI6IjBjZGUyZWNkNTgzNzM4ZDgzZDQwZDIwN2U1YWQ3ZjJhIiwiN2FhZjJhNzU1OWE4NWJkNGE5ZDNjYWJjMGJkMmM4NDkiOiJkZGRjODM5NzJmMTgzZGU3YTEyNWU3OWU3YzQ0N2RiMyIsImNhMTE0ZDA3YTRmZTU1NzQ4OGFiNmM5ZTM2NTIyODE2IjoiYzU2NDg2NTc3YzMwMGM4OTE5NzA3YzE1MzVkNzJkYTAifQ%3D%3D"
+    },
+    {
+      "id": "discoworld",
+      "nombre": "Disco World",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/discoworld/discoworld.mpd?ck=eyI0ZWM0NGZjZTc1MDk1ZWIzODkzODFiOTk3NTM1Y2ZjMyI6IjE5YzAzNjc0NTYxNWQyNWRjYWY1YWI3NjA4YzllMTJkIiwiNmIyOGI5NTFiMTE0NTg3ZDg4MGNjYjNhZjFiZjlhODMiOiJlZTJkMDBkMGZiMTg4ZGMyODQ5NzgwNzIyYTYwNjE1OCIsIjE2MmFhNWM4ZjA3YTU4NGViOGU2Y2JkZjk2Mzk3NjYwIjoiNTZkYzFhMTg3NGNiNTBlMTgwZDE3Nzk1ODVhMmU3MTIifQ%3D%3D"
+    },
+    {
+      "id": "hgtv",
+      "nombre": "HGTV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/hgtv/hgtv.mpd?ck=eyJiMDBlZTFkZDVhNjI1Njc5YjA3ZGU4NTQxYjhlMWJiOCI6IjI5MDA1MjhiMDNjZDE2MGZiMDBhMzkwNWI3ZTI0Mzk4IiwiMmRjM2IyYTUyN2NmNWI5NGJlY2FiZWY0ZTAxMWI1ZTIiOiJhOWEwYTU4MjQ5NGRlZGFlZTZjOGNlMGNhZjZlY2MxOCIsImVkN2Q2MTI2ZjE2ODU3Y2ZiMTIwNTc3MTE0MWFjZWQyIjoiMGI4YzVmMjBjYTY4ZTRiZGM2ODc2OWE2ODhkMDE1ZDkifQ%3D%3D"
+    },
+    {
+      "id": "discociencia",
+      "nombre": "Disco Ciencia",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/discociencia/discociencia.mpd?ck=eyJjY2U3MDk2NjQ0OTI1MDAxOTY0OTU1MGUzZDFiNzhhMSI6ImExZDA4MzE0ZDk2MDc5ZGI2YTgxZWFjMTcwZDQ0OTdlIiwiYjYyNGZiZWM2YTVmNTRlYjllZTM3YTk4YjkzMTBiZWIiOiIzZTFlODhhMmZkMGQxZmYxNDQ3ZGRlMWExOTc0ZmE2ZSIsIjU1YzAzOTcyMTMwMTUzZTNhMjhhNDFkN2E2M2ZlODc5IjoiN2M5MGFlNzU3ZDNkNjMwMThjZmZiZWQxYjc2YzQyNGMifQ%3D%3D"
+    },
+    {
+      "id": "history2",
+      "nombre": "History 2",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/history2/history2.mpd?ck=eyJiYzZmODVlOGE5ZTk1NGFlYTJiMjRjMmMzZDAwY2JhMSI6ImEwZWZhNDA3MmZjOGNkZGVlM2MwZmUxMDkyY2VjYzVhIiwiN2QwMzdhZDVkMzg0NTMxMmI0ODcwMWRhMjk1ZDRhZTciOiJhZDY2NWQxZTc4MmJiNWEyZDJjNzRjYzUwMzUwNDRmZiIsImEyMzcwZTc1NDU5ODVhNDI5Y2RlOGEwZTY4NWZjMzBkIjoiMzVhMzc3NGYyYjljN2JjMDZkMzEyMjFhNDhmODk1ODQifQ%3D%3D"
+    },
+    {
+      "id": "introuble",
+      "nombre": "In Trouble",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/introuble/introuble.mpd?ck=eyJlZWJkZWI5NGI0Yzk1M2Y4YTlkZWZkYTIwNTIzNjJiNiI6IjdlN2Q2N2M0NzA4MGFkMjNiOThjMWYwZDQyNDQ3ZWZkIiwiZmUyMmFmMmVmN2Y1NTc5YzlkMDM5OTMyODZhODBiMjMiOiIyMjFlMTZmYWU3YWUyNzQ5NzQ4YTA1NjhkM2FhZGE5MSIsImMzYzAwOWQxMWFjZjVhMzdhNTMwMjIzMWQ0ZTZmNzYxIjoiODUxN2EwOGEwM2E1MGM3NGZmNzQwNzdmN2JjOGYwM2QifQ%3D%3D"
+    },
+    {
+      "id": "inwonder",
+      "nombre": "In Wonder",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/inwonder/inwonder.mpd?ck=eyIwMmUzOGVlYzViYTU1MzBkYWQ1YTdiMDdmYTRlNTkzYSI6Ijg4OThhYmIwYTQwM2U4NTRlODEwYzI3OGQ0ZWYzNmJlIiwiMjkzMTk4NDEwYTY5NTU0MmI1ZmNiYjliODJjNDhkYzUiOiI5NWMyZGEyZjk3ZjA0YWMzNDVjYjUxODRkYmJmOTIxZSIsIjVjZGNiMjNlMTgyYzUyOGNhZGQwZGZjYmQ0OGI2ZWM4IjoiZTFmYjNmZDQ0NjJlZThkNzFkZjE3MDkzMjlmYzg0ZjkifQ%3D%3D"
+    },
+    {
+      "id": "infast",
+      "nombre": "In Fast",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/infast/infast.mpd?ck=eyJkNmJiZjQ3NGUxY2M1ZTYxOWZkNzBhN2Y2MzFhYmY4MyI6IjQyNzBmZWUxZTRjMDU2NzY5OTJmZTU0NGUzZTY1NWViIiwiMGNkOTM5OTFkZWZmNTE4NGI5OTA2ZjM5MWUwNDU4ZDEiOiI0ZjYyNjRkOGZlYmI2OGU0YTExMmViYzk4M2JiZGFkMSIsIjk1N2UyODY1ODk1NzUxMmE5YjAxMjFiNTM2YTM0NzM5IjoiYjQ1Nzg3MWMwNzUyNDQyNDc5OWFhZThmZGU5NjYwZGYifQ%3D%3D"
+    },
+    {
+      "id": "graciatv",
+      "nombre": "Gracia TV",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/graciatv/graciatv.mpd?ck=eyI1ZDI4ZWM4ZTczNWU1N2ExYTgyMTcwMGJmZDU4M2ZkYiI6IjEwMTJkNjllM2QzMzdhMDdkMzI3M2Y2OTgxMWMzOGYxIiwiNjQyNWY2NTkzOWE1NTQzNzg5ZDUzMjNmMmQ0MjYxNTEiOiI2NzFlYjdkODJkNDA3NDJmMGYxODJjNjVhYjNkNmFlMSIsImNjOWE1Y2MzZTMyYjUyOWM4ZDUwMzA3M2E0Yzc4YTBhIjoiODU5ZGUxZTE4MjllNDQyYmNiYWZiZDZhODRhMWI3ZWEifQ%3D%3D"
+    },
+    {
+      "id": "nuevotiempo",
+      "nombre": "Nuevo Tiempo",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/nuevotiempo/nuevotiempo.mpd?ck=eyIwYmJmNzBlYThiN2U1NGYwODUyNzhlMjAzYTgxODdmNyI6ImE4ODllOGExMjZkNTAzNzI5NGFhZTQ5YmNmMDBkYjczIiwiYzE4MzE3MTAyOTI2NTRlMGI5YjkyMDgyMjU2YWM1MTgiOiI2ZGJiYWE5NDI2MTdmOWJjOTAwYzg4MmIzZDFjYzM4NCIsImIzOTIxZDA3YTc5ODVlODQ4MTAyNDMzYTFkYjNlODgwIjoiOGI4MmM0ODM1NzIyODZkOTViMDc5OTI0YTg0NjEyYWUifQ%3D%3D"
+    },
+    {
+      "id": "espn",
+      "nombre": "ESPN",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/espn/espn.mpd?ck=eyI5MDY3MTE4NGRkODI1NDFhOWQxNzg2ZWFhMDI1ZTM0NSI6Ijc0ZjhlYWI0NmMxZTQzZmQ4ZjdiNjRjMjFhOTZmYzViIiwiYjg3ZDdkYTg4NGJkNWYzNDk2MDE1ZjljMmU1M2M4OTYiOiI0NDUxNDQ3YmRmNTVmZTQ0NTFmNGEzYmYxNzdkYTU5YSIsImI2OTg5YmEwYWEwZjVlOGE4MTdlY2RmZDljMzg1OTk0IjoiNzVjNmU2ZDU3MzA4ZjM0Y2E0ODI4MDJhNWU3OTZhMDUifQ%3D%3D"
+    },
+    {
+      "id": "espn2",
+      "nombre": "ESPN 2",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/espn2/espn2.mpd?ck=eyI0YTc5MDUwZWI3MTA1NzJiYmMzY2ZhNzU3MDZjMTQxMSI6IjMwMTVmZGI5ZGE1NWRlYjU3MWRiMTQxZGQ5ZTZhNzg4IiwiNmViZjc2NDE1ODE1NTY1OGIxYTc2NWMyZDg2ODM1ZDMiOiIzZjMzMDAyNjcwOGZjMmZkZDFhMmYwZTIzY2VlN2QwNCIsIjg4ODYwOWZjMGQ4NTUxZjNiNzhjYzAxOGZlNjZmMmZlIjoiNDJjM2FiZWJiZWFkZThkM2NjYWYyODc3ZGIxNjJmNzMifQ%3D%3D"
+    },
+    {
+      "id": "espn3",
+      "nombre": "ESPN 3",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/espn3/espn3.mpd?ck=eyI3ZjdiMTZmYjg1NDg1MzQ1ODQ5MjAwYzE3OGVlNmRjNCI6IjEzNGE2MmEyNjZjN2YxMmM5OTE4NzA0NzJiZDZjYWFhIiwiM2M3ZTdhZmVhZTllNTZiODhkZWVjY2MwNmVkNzQ1NzMiOiIxNDRkOTRiNTVlY2Q5ZGNmZWRmZjQ5ZTIwOWQ2ZmVhMyIsIjUyYzZiM2E2MDM1ZTVmNjI4NTgzMGZjYjJmOTFhMTQwIjoiM2QwNmMwYTQyYzVjMGFiZGMwYjUyOWQ1NmZiODhkNDMifQ%3D%3D"
+    },
+    {
+      "id": "espn4",
+      "nombre": "ESPN 4",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/espn4/espn4.mpd?ck=eyIzY2NiMGE4ZGNlZjQ1YTQ2YTJmYzI0ZTRiZjdiZWE4YyI6ImQ0NTZiM2NhZTg4YWI3ZmQ4N2JhOTA0NjkyN2I2MTQ2IiwiM2Q3OGI3NzI2YWFkNTQwYWEwMGZkMDhlN2MzNDQ2ZjUiOiJmYjRhZmNkM2U2Y2VlZWM0ZjkzZTk0NDAxYTJlMWI0YSIsIjllYjQ1MzlkZDFkMjVlNGI5MTk1ZDg0ZDU0NGEyODNiIjoiZDllZTc5MDM1ZjkxZDE2NjZmYTdjNDBjMDI0OTEzZWEifQ%3D%3D"
+    },
+    {
+      "id": "discoveryturbo",
+      "nombre": "Discovery Turbo",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/discoveryturbo/discoveryturbo.mpd?ck=eyI0ODJjZjk0ZjczYmM1MWM5OGIzYzM4MjIxYTVjZDBhOCI6ImJmYjA1Njk5OGMzMzllOGVjZWY2OTQyOGQzODVkNTUwIiwiZGYyZjcxOGVkOTYwNWNhZDgyYzZkNWJmYjczYWU2MmQiOiJjYThkZDc1ODgwMzIwZDczZDcwODgxZTMxNzMxMWI1OSIsIjVjZGZlNWYxY2MxNzU2NjE5OThkYWQ1NWJkZmIyZWNlIjoiZThmYWZlZGZkZDcxYjA3M2FiNDI2MDJlYTlhNTgyMjYifQ%3D%3D"
+    },
+    {
+      "id": "cdopremium",
+      "nombre": "CDO Premium",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cdopremium/cdopremium.mpd?ck=eyI4NGZhMTYzYjZhYzI1ZjdiYjcyNDMyNDFmNTM2OWU2NiI6Ijc2ZGM4MDExNDUwN2M3NGQ1ZmI2MDc2MWY3YTNhMWNjIiwiYzYxYTI1MzFiOWJhNTVlYzk0OGEwMjUwOWU2MzdmNTIiOiJiOWM4ZDMyYzQ2MTJlMmFlYjM5MTkzOWE1Y2ZjNmMzZSIsIjk0ZjdmMTliMjViZTVjNTU5OWU4YWIwY2NiZmY0YjdmIjoiOGE0MDZjZTc4NTkzMzAwOGM4ZTBhMzNlNzYxNjYxZGUifQ%3D%3D"
+    },
+    {
+      "id": "americasports",
+      "nombre": "America Sports",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/americasports/americasports.mpd?ck=eyJiNWRkZDA0NmFiYjQ1ZWQ5ODEyOWI2YjBlNTUzZjkxNyI6IjRlNzcwOTBmZGMyYTZhNjE5OWZkNTIyNTQzYjk2NzllIiwiYWMzOWYxNzUwOWQxNWY4N2E1ZDZjZWVmODQ0OGFhM2EiOiJiOGMxN2QwNGY5NDA0ZGE5ZTMyM2VkYTRmOGE5NWUyMiIsIjU1YThmMjA4NmZmMjU0YTViMjFmYTUwNGJmY2YwYThmIjoiMTYyYTBiNWMxODZjMWQwMGQxODY5NzhkZjFiNmYxMDgifQ%3D%3D"
+    },
+    {
+      "id": "tycsports",
+      "nombre": "TyC Sports",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tycsports/tycsports.mpd?ck=eyIxYzY3MWYyMDJmMDM1ZmM2ODI5NWUyODU0NDBlMWYwNiI6IjMxMGFlZjg2ODMzYzI2Njk2YzFmNjY4MjkzNDUzMGNlIiwiMzI2OWNjMWZmZGM4NTZkMzlkNmQyN2FjYWFlYjljNTciOiJhZjMwNjM3MDIwYmQ4MDY1MGVmN2FjN2E1N2YwNTQwNSIsIjk4YzBhMWZiMGQ0MjVmODhiZmUxYzJhZDA5ODU3NWFlIjoiYWFlOWYyYWQ5MGQ1ZDI5ZGI0MzE0NTg2YWY5YjQxNGYifQ%3D%3D"
+    },
+    {
+      "id": "cdo2",
+      "nombre": "CDO 2",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cdo2/cdo2.mpd?ck=eyI3MTJlY2ZhODM3YzQ1MzE0ODcxMmI3NGEzZWYyMmY4MSI6ImIzMTJlYTQwNDgxZDc1MGEyNmFiYTlmZjRlNWE1YzYzIiwiZmEwYjE4NmUzZjA2NTljZDkzNDUwYTM1ZTM1NzU5Y2QiOiI5NmI3ZTBkZGVhMDEwMDdjNDQzNDg1ODMzZWY0ODRlYSIsIjAwMjg3OGUwZmI4ZTU3ODQ4M2E3YTE5MzM3NDQ4MTI5IjoiMDg1ZjNiNWQ2ODcwZGZiZGViMjQ0N2M3YjI4ODc4YzkifQ%3D%3D"
+    },
+    {
+      "id": "tntsports",
+      "nombre": "TNT Sports",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/tntsports/tntsports.mpd?ck=eyIyZGJkNmQ2ODZiODg1MzY2OGZiNjNmYWE2YWNjOWNlNyI6ImZhN2YxYjZhY2E0OWQ5ZjE0YmUyZGI1ZGUzNjI5ZmU0IiwiN2MyZjJkMjc5NzFjNWRjNjljMzZjY2E3MTBkYWExNGQiOiJmMWMwY2RjZWRlNmIxYTY0NWM4NzBmM2U2ZjliMTc2ZiIsIjEyMzM4NzYzOTRiYzU0OTNiMzJiMmNiY2JjOTc3NmQ5IjoiY2RhYjNiMjUzMzhkN2MzNDg0YzdkNjAwMWQwMjUwNDIifQ%3D%3D"
     }
   ]
 }
