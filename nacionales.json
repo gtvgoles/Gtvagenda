@@ -62,172 +62,6 @@
       "link": "https://cdn-live.mundogo.cl/13c/13c.mpd?ck=eyIyMDJmMjg3YWM5MGY1YjNmYTUzYmQyOGFlZTMyMzYyZSI6IjY1MjI3OTMxZWVhZDRjZWZmMWFjOTBiMGRkOWZkZjFlIiwiNmE4MzZiYzgwODE3NTc2YWFmYmIyZjAzY2U0MTU0MTIiOiI5YzM4OTM5MWM2YjU4MWU0NDU4NzY4NGNlOTc0MTdhNCIsImIyYjdhZWUyYmZkZjU1YzJhZDI2NTk5NDVjYzRhNTU1IjoiNDVkM2UzYWE3ZjEzNWRkODkwYThiYzRkY2E2MGE5MTQifQ%3D%3D"
     },
     {
-      "id": "ntv",
-      "nombre": "NTV",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/ntv.png",
-      "link": "https://cdn-live.mundogo.cl/ntv/ntv.mpd?ck=eyIwNjk1ODQ0N2ViMGY1MmFmYjRkZTQ5ZDg3NjQyNzIwYyI6IjFjN2ExZTg0NjMwMzljZjI4ODhjNjIzZTI0MGRhODQ0IiwiODMzNjdiNDYwOTA5NTc0M2FlMDg2Y2RkYTE0YjQ4MzciOiJlNDQ3NTNhYzU3MGY2MTEyNjVhN2YzZTAxMzY4ODg3ZiIsImE4NDVkNDM4OTA5MjViZmY4YWM2ZTVkMDk1YjY0MjhmIjoiMTM0OTBkYTczNTU3ZTAwZDc2MDA5MTcwYWFhYzBhN2EifQ%3D%3D"
-    },
-
-    {
-      "id": "tnthd",
-      "nombre": "TNT HD",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tnt.png",
-      "link": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd?ck=eyJlNDc3N2Y5OTQ3MzU1NTM0OGQzY2Y5MzFiYjQ5ZWEzOSI6IjY1YTIxOWFhNjQxN2JkODNjNjUwMTgzYTQ4MmZhZGYxIiwiY2VkZGFiZjQzNTQ3NTMwYWFhODliZjE0MmMxMjMyZWYiOiJmZTExNjQ0MTgxODQyZTZmOWE5YWQyZGU1OGJmZGU5NyIsIjhjMTMwNDIxYzZjMzVmNmRiNzExY2E2M2FjMTU4MGJlIjoiNjllMDIyZjRiMWJiNmVmNDE1NDk4MWZjYjI2M2E0MmEifQ%3D%3D"
-    },
-    {
-      "id": "tcm",
-      "nombre": "TCM",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tcm.png",
-      "link": "https://cdn-live.mundogo.cl/tcm/tcm.mpd?ck=eyI4MTI0YjEwMWY0YTE1MTRiOTMzNzdlNjFkN2RiZmExMiI6IjY1NjJjMWEyMWFkMzhkMDY3YmExMGU0NDlkMzU3ZmU3IiwiMWNlM2JlNGVjYmFmNTIzZjhjZmQyMjA2OWNiODUwNjciOiIwYTVlZjMxZTQ3YzA1OWRmMzZhYTczYjkwMGQxODE5YSIsIjY1ZmIxY2QxNmI1ZTUyZTdiZmE4ZmE0NGQzN2I2M2NkIjoiMDdiZWUwODVmZmYxNTYxOWUyMDA0OWFkZjQ2NzMxMjEifQ%3D%3D"
-    },
-    {
-      "id": "depelicula",
-      "nombre": "De Pelicula",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/depelicula/depelicula.mpd?ck=eyIxMTc5MmNhNTIwMDQ1MzUyYTQxNmZmMjE2ZTZjMGRlMSI6IjBlZTczNWJhMzdkZWRlMTA2NmY0NjRlZDg4MTAzZThjIiwiZjVhMDM5NjFlNTU2NTBlYmFjYjMxYTdhNjRlZThkYTQiOiJiMTlhMGJiZjIwZWRkZmRlN2FhZDE4NWRmN2QxMTk5OSIsImYyMzk1MjNlMGNhMjVhOGJhMmMxMDBiMTQ5Mjc4NzZjIjoiYjE4YTQyMTI1YzRmMzQ2ZjBmN2E1YjZkMDY2MzY4NjMifQ%3D%3D"
-    },
-    {
-      "id": "warner",
-      "nombre": "Warner",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/warner.png",
-      "link": "https://cdn-live.mundogo.cl/warner/warner.mpd?ck=eyJlZWJmMjA2ODQwNDA1NWQ1ODI2NzhhYTYyNzNjMzkwZiI6IjZmZjI4MTNhMjdjOWUwYzc0OTRiNWEzYzBlZDhkMWE0IiwiNmY2NTlhZDcwOTFmNWM0MmE3NGMzZDA3NTdmYmY4OGMiOiJlMzM3NmFjN2Y1NGM2ZDZlZmU5OTIzMDBiZTNjM2E4NyIsIjZmNWQ2MTM0YzY5ZTU3ZmU5NjRkZDZhOWJmMzhjMzZiIjoiY2NhN2M0MTMzZjkxNzFkODg2N2FhNGFhNmNlMzUxNGIifQ%3D%3D"
-    },
-    {
-      "id": "goldenplus",
-      "nombre": "Golden Plus",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/goldenplus.png",
-      "link": "https://cdn-live.mundogo.cl/goldenplus/goldenplus.mpd?ck=eyJhY2I5ZTBhZGFkNzk1MmVlYjAwYTA5ZDA2OWE4NTcwMyI6IjVjNzJkNjNlZTdkOWU1NDA1ZmQ3MGY5ZDA0MWRmMTlkIiwiMDNiOTE0ODZiNDFhNTZiMDllMjRhZTllMjhlMmNiZjQiOiI0MjBmMTU1MzI2NGQ0ZWJkOGFjNmIxY2QxZjYzMTUxMyIsIjE0MzQ3MzcxYTU2ZTU4MGNiYmNjYjgyMTgwZDU1MWEzIjoiOTViZDkxYTM3OTFjZmIyYzk0ZDQ4MzVkNGEzYmJhZDMifQ%3D%3D"
-    },
-    {
-      "id": "sonymovies",
-      "nombre": "Sony Movies",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/sonymovies.png",
-      "link": "https://cdn-live.mundogo.cl/sonymovies/sonymovies.mpd?ck=eyIxZjE1YTk4NTRkZGU1MGRiYTY1OTFkNGU3ZjAyMWI2MCI6IjFmOWI1YmE1NTRjYjFkZTI1NzUwNjEwZmVkMDYxNTUwIiwiZThjZDdjYjQ0NTEwNWM5ZGE5MWU0ZmNlMGFiYzRjZTkiOiJiZDIyYWU4ZTM3N2Y4MmVjN2FiNGQxNjlhNjNkM2EzNiIsIjhkN2U5NGFhYzU4NDUxZjBiODU2ODBmNDg5NWVhNmYyIjoiZjg3MDVkNTliNjEzZGU5NDFkZDJhZGMyM2YwM2U1NTQifQ%3D%3D"
-    },
-    {
-      "id": "azcinema",
-      "nombre": "Az Cinema",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/azcinema/azcinema.mpd?ck=eyJjMzIxYzAzYWRkMDk1ZDEwODJlYzZmNTNkYThmODkwYSI6IjIxYTJmODk1OGI3NjgzZTQzN2JhYmQwNTc5MWZmM2ZkIiwiNzJlMGUyZjRhOTczNTY4ZmI4OTA4ZGE3NTE5MjdkY2YiOiI5YTJkZDUxMTZlZDdhNmY2YjA3YTk3NGE3MTAwZjI3YSIsIjNjODI3OTM0M2VjZDU1NjliODViN2I4NWIyMDVlYTNiIjoiMDc3N2Y0NTVlNjMwNGVmODQwNWYyZDBhZGNhYmM4ZTkifQ%3D%3D"
-    },
-    {
-      "id": "a3cine1c",
-      "nombre": "A3 Cine",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/a3cine.png",
-      "link": "https://cdn-live.mundogo.cl/a3cine1c/a3cine1c.mpd?ck=eyIzYjc5YzA5NmE1YTU1Nzg5ODFhMDRlN2Y0ODFmNjU3ZSI6IjU1MDEyYmNkNTA3ODZmMWY3MTJjOTI1MjFlN2QwNDgxIiwiZTRmY2QzNTgxNmQzNThiYWExYTY1MGJlM2VjMzcwMmIiOiJjZjg0ZDc4YTU2ZTRhMmIyZWY1NzE5NmZhMzFjNjY3OCIsImRmM2E1MTc0NmUzZjU3OGRiM2IzNjlmNWQ1YWY2NDRhIjoiYmVhMTJmNjZmYjIyMDdjOTRhZDZiYjZjNmRlNDdmMWQifQ%3D%3D"
-    },
-    {
-      "id": "cinefamiliar",
-      "nombre": "Cine Familiar",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/cinefamiliar/cinefamiliar.mpd?ck=eyJhNGVmOWU4MTMwZjk1OWY2YmVlOWJiNTM1ODc0YWI1MCI6Ijc2YjRkNDEzNjYzOTdhNzQyYTEzN2FmMGYxYmU1YWFkIiwiOTZlZDQ2YjE1OGE1NTRkOThjZThkMzU1ZTY1Mzg1NTciOiJhNzI5OWI0NDQ3NzdlNGUxMWU2NWE1NjBlZjk5MTEyNSIsIjM2Y2ExMzY0MmE2MDUwM2ZiZTFjZWFlYTM2NjAwMDA1IjoiOGJiM2MyMDRhMmFhZTA2Y2IyZmMzODk4NDc2ZjA5YTgifQ%3D%3D"
-    },
-    {
-      "id": "cinehispano",
-      "nombre": "Cine Hispano",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/cinehispano/cinehispano.mpd?ck=eyJhYTVhYzI4NDAzZTE1YmMyODNhYTY4YmZjYmI1OTVkYSI6ImY3M2EyMTE0OTJjY2MyYzMxYmZlZDY1ODE0NDg2ZDU5IiwiMTA2MjUxMDM5OTQ1NTA4NWFiZTJmNjQwNjdjMjk0MmQiOiI3Njc3NDVmYjczNWVjYWIwNGMzMTU4MzFhNjg2NmMxMCIsIjYyYzMyNjUzM2IyNzVjM2FhODgyYTg5ZTRhNTFhNmM4IjoiZGU3N2RlZTNjOGI3Y2JiYWI4ZDE5NmNiNmNkZWIxZjYifQ%3D%3D"
-    },
-    {
-      "id": "cinepremium",
-      "nombre": "Cine Premium",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/cinepremium/cinepremium.mpd?ck=eyIzYzQzNWVhZjNhYjc1Yjk5Yjg5Yzc1YzVmMTViY2NiYiI6IjU3ZDM3MTkyNTIxNzUzY2YwYWE5ZGQ3NTI2MDIyOTEzIiwiOGFkNTNjMjg0ZTQ1NWYzM2E2ODgyYmQzN2YxYWFjZDciOiJkNDJmMWExMGQ4OTYwYzk0ZWRkZWRmMjdkNmY0YjE0NSIsIjRhN2U1ODU4ZTJjNjUwYWRiZGE2MjUwNWUyODMzY2MyIjoiODYwMGE3MDJkZTBiMDJlYzhhMzY5M2I3OWMyYThjODQifQ%3D%3D"
-    },
-    {
-      "id": "dhe",
-      "nombre": "DHE",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/dhe/dhe.mpd?ck=eyJlMWIxMzRhY2VkMTM1MjRkOWE3MjE3OTA4MTk3ZjhlMCI6IjE0Mjg0NGNjMmQyOWNjODAwOWU1MGFhM2E0YzJmN2RjIiwiOTU2MGQwZTY3ZTMyNTM4YTliNGNmMzNkMTJlNWQyOTYiOiJhNWE2OTNkZGYxNTFiZmE5ODUxMzM4MDViMzU1MjRkYiIsIjcwNjRmNTcyYzQzYzVkMjFiZDRiMDk3M2RhYzQ0NDNjIjoiZWYyZDZiNTdlNWMxMWExNjBmZGQ0ZDFkZTFkMDQ2ZDIifQ%3D%3D"
-    },
-
-    {
-      "id": "espn",
-      "nombre": "ESPN",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn.png",
-      "link": "https://cdn-live.mundogo.cl/espn/espn.mpd?ck=eyI5MDY3MTE4NGRkODI1NDFhOWQxNzg2ZWFhMDI1ZTM0NSI6Ijc0ZjhlYWI0NmMxZTQzZmQ4ZjdiNjRjMjFhOTZmYzViIiwiYjg3ZDdkYTg4NGJkNWYzNDk2MDE1ZjljMmU1M2M4OTYiOiI0NDUxNDQ3YmRmNTVmZTQ0NTFmNGEzYmYxNzdkYTU5YSIsImI2OTg5YmEwYWEwZjVlOGE4MTdlY2RmZDljMzg1OTk0IjoiNzVjNmU2ZDU3MzA4ZjM0Y2E0ODI4MDJhNWU3OTZhMDUifQ%3D%3D"
-    },
-    {
-      "id": "espn2",
-      "nombre": "ESPN 2",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn2.png",
-      "link": "https://cdn-live.mundogo.cl/espn2/espn2.mpd?ck=eyI0YTc5MDUwZWI3MTA1NzJiYmMzY2ZhNzU3MDZjMTQxMSI6IjMwMTVmZGI5ZGE1NWRlYjU3MWRiMTQxZGQ5ZTZhNzg4IiwiNmViZjc2NDE1ODE1NTY1OGIxYTc2NWMyZDg2ODM1ZDMiOiIzZjMzMDAyNjcwOGZjMmZkZDFhMmYwZTIzY2VlN2QwNCIsIjg4ODYwOWZjMGQ4NTUxZjNiNzhjYzAxOGZlNjZmMmZlIjoiNDJjM2FiZWJiZWFkZThkM2NjYWYyODc3ZGIxNjJmNzMifQ%3D%3D"
-    },
-    {
-      "id": "espn3",
-      "nombre": "ESPN 3",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn3.png",
-      "link": "https://cdn-live.mundogo.cl/espn3/espn3.mpd?ck=eyI3ZjdiMTZmYjg1NDg1MzQ1ODQ5MjAwYzE3OGVlNmRjNCI6IjEzNGE2MmEyNjZjN2YxMmM5OTE4NzA0NzJiZDZjYWFhIiwiM2M3ZTdhZmVhZTllNTZiODhkZWVjY2MwNmVkNzQ1NzMiOiIxNDRkOTRiNTVlY2Q5ZGNmZWRmZjQ5ZTIwOWQ2ZmVhMyIsIjUyYzZiM2E2MDM1ZTVmNjI4NTgzMGZjYjJmOTFhMTQwIjoiM2QwNmMwYTQyYzVjMGFiZGMwYjUyOWQ1NmZiODhkNDMifQ%3D%3D"
-    },
-    {
-      "id": "espn4",
-      "nombre": "ESPN 4",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn4.png",
-      "link": "https://cdn-live.mundogo.cl/espn4/espn4.mpd?ck=eyIzY2NiMGE4ZGNlZjQ1YTQ2YTJmYzI0ZTRiZjdiZWE4YyI6ImQ0NTZiM2NhZTg4YWI3ZmQ4N2JhOTA0NjkyN2I2MTQ2IiwiM2Q3OGI3NzI2YWFkNTQwYWEwMGZkMDhlN2MzNDQ2ZjUiOiJmYjRhZmNkM2U2Y2VlZWM0ZjkzZTk0NDAxYTJlMWI0YSIsIjllYjQ1MzlkZDFkMjVlNGI5MTk1ZDg0ZDU0NGEyODNiIjoiZDllZTc5MDM1ZjkxZDE2NjZmYTdjNDBjMDI0OTEzZWEifQ%3D%3D"
-    },
-    {
-      "id": "cdopremium",
-      "nombre": "CDO Premium",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/cdo.png",
-      "link": "https://cdn-live.mundogo.cl/cdopremium/cdopremium.mpd?ck=eyI4NGZhMTYzYjZhYzI1ZjdiYjcyNDMyNDFmNTM2OWU2NiI6Ijc2ZGM4MDExNDUwN2M3NGQ1ZmI2MDc2MWY3YTNhMWNjIiwiYzYxYTI1MzFiOWJhNTVlYzk0OGEwMjUwOWU2MzdmNTIiOiJiOWM4ZDMyYzQ2MTJlMmFlYjM5MTkzOWE1Y2ZjNmMzZSIsIjk0ZjdmMTliMjViZTVjNTU5OWU4YWIwY2NiZmY0YjdmIjoiOGE0MDZjZTc4NTkzMzAwOGM4ZTBhMzNlNzYxNjYxZGUifQ%3D%3D"
-    },
-    {
-      "id": "tycsports",
-      "nombre": "TyC Sports",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tycsports.png",
-      "link": "https://cdn-live.mundogo.cl/tycsports/tycsports.mpd?ck=eyIxYzY3MWYyMDJmMDM1ZmM2ODI5NWUyODU0NDBlMWYwNiI6IjMxMGFlZjg2ODMzYzI2Njk2YzFmNjY4MjkzNDUzMGNlIiwiMzI2OWNjMWZmZGM4NTZkMzlkNmQyN2FjYWFlYjljNTciOiJhZjMwNjM3MDIwYmQ4MDY1MGVmN2FjN2E1N2YwNTQwNSIsIjk4YzBhMWZiMGQ0MjVmODhiZmUxYzJhZDA5ODU3NWFlIjoiYWFlOWYyYWQ5MGQ1ZDI5ZGI0MzE0NTg2YWY5YjQxNGYifQ%3D%3D"
-    },
-    {
-      "id": "cdo2",
-      "nombre": "CDO 2",
-      "logo": "",
-      "link": "https://cdn-live.mundogo.cl/cdo2/cdo2.mpd?ck=eyI3MTJlY2ZhODM3YzQ1MzE0ODcxMmI3NGEzZWYyMmY4MSI6ImIzMTJlYTQwNDgxZDc1MGEyNmFiYTlmZjRlNWE1YzYzIiwiZmEwYjE4NmUzZjA2NTljZDkzNDUwYTM1ZTM1NzU5Y2QiOiI5NmI3ZTBkZGVhMDEwMDdjNDQzNDg1ODMzZWY0ODRlYSIsIjAwMjg3OGUwZmI4ZTU3ODQ4M2E3YTE5MzM3NDQ4MTI5IjoiMDg1ZjNiNWQ2ODcwZGZiZGViMjQ0N2M3YjI4ODc4YzkifQ%3D%3D"
-    },
-    {
-      "id": "tntsports",
-      "nombre": "TNT Sports",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tntsports3.png",
-      "link": "https://cdn-live.mundogo.cl/tntsports/tntsports.mpd?ck=eyIyZGJkNmQ2ODZiODg1MzY2OGZiNjNmYWE2YWNjOWNlNyI6ImZhN2YxYjZhY2E0OWQ5ZjE0YmUyZGI1ZGUzNjI5ZmU0IiwiN2MyZjJkMjc5NzFjNWRjNjljMzZjY2E3MTBkYWExNGQiOiJmMWMwY2RjZWRlNmIxYTY0NWM4NzBmM2U2ZjliMTc2ZiIsIjEyMzM4NzYzOTRiYzU0OTNiMzJiMmNiY2JjOTc3NmQ5IjoiY2RhYjNiMjUzMzhkN2MzNDg0YzdkNjAwMWQwMjUwNDIifQ%3D%3D"
-    },
-
-    {
-      "id": "24horas",
-      "nombre": "24 Horas",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/24horas.png",
-      "link": "https://cdn-live.mundogo.cl/24horas/24horas.mpd?ck=eyIzODdjMDUyNTMxZDY1ZWQ3YTk0OWY0NThlMTQyYjFiZiI6Ijc0YTc1MWFhZDYwODU5YmJjMDJkMGFkNGI3OWMxZDM3IiwiMjNkOTA5ZGU0NDM2NWRhZjg1NTUzNWUwOGY5ZjMzNjIiOiI5MDViMDNlMzYxNzM3NjZlMGNhNTczNjhhYjI2N2JjNiIsIjZlZDVhOTFmNmY4ZjVjMGRhZGM4ODljZTNjNjNhMmQ2IjoiZTc3NDUzZDE3Mzg5Y2U5MWNiOTY3MGQzNjBlMjRmYTYifQ%3D%3D"
-    },
-    {
-      "id": "cnnchile",
-      "nombre": "CNN Chile",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/cnnchile.png",
-      "link": "https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd?ck=eyIxZWU5MzdjMzE5ZTA1YmI3OGVlYzEwMzhmODUxMzgzNiI6IjUzZTNkM2QxNDc1M2Y4ZWJhYmJjNWYwNGZiNjM4NTM5IiwiMDk2YWJlZDczOWFlNWI3OWE1MmY4NTA2YjYyODU3ZTgiOiI3ZmNlMzNhM2VhODZjZWY1MTNmMzZiY2NjMTZlZWNjNSIsIjBkYmQ0MmJkYjhhZDVkNmI4ZWViMzAxNmYxMmFjMjRhIjoiMTRhYTE1NzY5Y2IxNjI4ZjEzMTlmZjE5YjRjMGU0MzAifQ%3D%3D"
-    },
-    {
-      "id": "t13vivo",
-      "nombre": "T13 Vivo",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/t13.png",
-      "link": "https://cdn-live.mundogo.cl/t13vivo/t13vivo.mpd?ck=eyJhNjdhYzgyMjcxNDM1NjEzYjgyMDg0N2QwODc2NzEwNyI6ImJmN2MwZjM2ZTAwOTdlYmYzNThlZDhjZGJhYmIxZjZjIiwiMmQwMzc4MDJhMzRiNWNmOGFmNmJjYTM2ODI1YmYzODYiOiI1ZjRjNzg0MzgwMjkyYTE3ZTExYThmMTE3Y2FhYzQzMiIsIjc3MDFkMTA2ZDljZTU1ZWM5NWRhYzZiZjFiZWJjZmNmIjoiMWQ2OTE2NGIyNGQwMDZjYzVhM2VmOTVkYmUyZTA0MmEifQ%3D%3D"
-    },
-    {
-      "id": "meganoticiasahora",
-      "nombre": "Meganoticias Ahora",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/meganoticias.png",
-      "link": "https://cdn-live.mundogo.cl/meganoticiasahora/meganoticiasahora.mpd?ck=eyJlMjMzN2E3NTIzMjU1NTA0YWJlNTRiNTAxM2NmODIzNCI6IjE0YzJlZDQ4YTg2ZjgxMWZjYjg5NWM2YmNlM2YxMDI4IiwiOTAwMzliMjNhZmNkNTMyMTk5ZDJkOWRiNDRjOGE4MTgiOiI5Mzk1MjRlYjlhMjljNDk3ZWYzMjUyOTFiOWZmM2YzZiIsImJhMDcwY2I0NDY3MDU0YTY4YWY3Nzg2NjZiMzQ2ZGM2IjoiNGVlZDYxY2UzMjRhOGQwZTk3ZWMzYjBkYzMxZjdlODUifQ%3D%3D"
-    },
-    {
-      "id": "chvnoticias",
-      "nombre": "CHV Noticias",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/chvnoticias.png",
-      "link": "https://cdn-live.mundogo.cl/chvnoticias/chvnoticias.mpd?ck=eyJkNmMxNGIxZmM2NWM1NGM1ODQ4ZjE0Zjg4YjkzNjNhMyI6ImNlNDM4ZTY0Y2MxYjRhMDk0MDFhZjEyMDU3MTc5YmMxIiwiMjM1OWNhMmMyZjU3NWQ1MTlkZTJhZmU0OGUzY2FjYmMiOiJjYzIwOWQ3Y2IzZjIwZTUxYmYzNjcyNzJhNTA5Y2IzZiIsIjI3YTg4OTUyN2Y3ZjU4NmU4MTYzODlhNGRlNDQwYmQ0IjoiNzQ4NTlhZTU1ZjM4YjFhOTBkMDhiNDkxY2YzMGRjMmQifQ%3D%3D"
-    },
-    {
-      "id": "megatiempo",
-      "nombre": "Mega Tiempo",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/megatiempo.png",
-      "link": "https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd?ck=eyI4MDA4ODBlMWE3NDY1M2IzOTIwYWM3NjQ0OTFmMjMwYSI6IjRhMjI3NmFmOGFhNGY4YjQ1NTVjNzc1ZjY2M2IzZWQ5IiwiODk5ZjgxNDBhYjEwNTQ1NmE2MmQ2MWRiY2E4MzRkM2UiOiI2MGYxNDZkMmIyM2ZhNTE0YWMwOWNlYzdkOTVlM2Y4MyIsIjU4NzhiNWYwM2M2YjUxZTk4Yjk5ODg4YzFlZWRkNDI5IjoiZTcyODY5ZDgwZGY1MDNlNGQ3YjkxZTY0ZWY1ZjE0NWYifQ%3D%3D"
-    },
-
-    {
       "id": "disneyjr",
       "nombre": "Disney Jr",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/disneyjr.png",
@@ -250,6 +84,12 @@
       "nombre": "Tooncast",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tooncast.png",
       "link": "https://cdn-live.mundogo.cl/tooncast/tooncast.mpd?ck=eyI4ODA3NjI0NzVkZTE1ZjQyOWQ3NzA5NWVlZTU4OGRhZCI6ImE1OTFkN2EyZTcxNzhlMjI5YmY2NjZkOTY3YzllZDM1IiwiOWUyZmUwMmY1NGUwNWM4ZDhkMThiNTIzMDk4Yzc4YTQiOiI2ZjBiMDZlZGUzZDUyYWI5ZmY4OTA3MTg5NTM5YzUzNCIsIjA2YTA5N2FiM2QzMzUzMjRhMjQ4NjQ4ODg4OGQyODJkIjoiZWY0ZTE0NTU2OTI4OWRmZTIyNDEwMDM0YjM5ODRhOTYifQ%3D%3D"
+    },
+    {
+      "id": "ntv",
+      "nombre": "NTV",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/ntv.png",
+      "link": "https://cdn-live.mundogo.cl/ntv/ntv.mpd?ck=eyIwNjk1ODQ0N2ViMGY1MmFmYjRkZTQ5ZDg3NjQyNzIwYyI6IjFjN2ExZTg0NjMwMzljZjI4ODhjNjIzZTI0MGRhODQ0IiwiODMzNjdiNDYwOTA5NTc0M2FlMDg2Y2RkYTE0YjQ4MzciOiJlNDQ3NTNhYzU3MGY2MTEyNjVhN2YzZTAxMzY4ODg3ZiIsImE4NDVkNDM4OTA5MjViZmY4YWM2ZTVkMDk1YjY0MjhmIjoiMTM0OTBkYTczNTU3ZTAwZDc2MDA5MTcwYWFhYzBhN2EifQ%3D%3D"
     },
     {
       "id": "cartoonnetwork",
@@ -294,6 +134,12 @@
       "link": "https://cdn-live.mundogo.cl/kanald/kanald.mpd?ck=eyJmNDliZTI3ZDdiMDM1MWU0YTBhOTg2MTY0ZDViNjI2YiI6Ijk2NmRmYmNlYmJlMjc4NzRhNjY0MTBkZmJmZTU2MGZlIiwiNzVmMmY0MTlhMjAwNTE4OWIzYmZiNTk2NzllNjcxMTUiOiIwOTNhYTRmZWFlYjY1Yzg1NjgyMGZhZTE3NTY3MzY3ZCIsIjUzODI4M2FhYWFhMzU4NDliZWNkZDEwMTU0NjRmOGJhIjoiMDliMDRkNjZlMzZmN2Y2MjFiMzYyNDdkMTc3NWEwMzMifQ%3D%3D"
     },
     {
+      "id": "tnthd",
+      "nombre": "TNT HD",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tnt.png",
+      "link": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd?ck=eyJlNDc3N2Y5OTQ3MzU1NTM0OGQzY2Y5MzFiYjQ5ZWEzOSI6IjY1YTIxOWFhNjQxN2JkODNjNjUwMTgzYTQ4MmZhZGYxIiwiY2VkZGFiZjQzNTQ3NTMwYWFhODliZjE0MmMxMjMyZWYiOiJmZTExNjQ0MTgxODQyZTZmOWE5YWQyZGU1OGJmZGU5NyIsIjhjMTMwNDIxYzZjMzVmNmRiNzExY2E2M2FjMTU4MGJlIjoiNjllMDIyZjRiMWJiNmVmNDE1NDk4MWZjYjI2M2E0MmEifQ%3D%3D"
+    },
+    {
       "id": "tntseries",
       "nombre": "TNT Series",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tntseries.png",
@@ -312,6 +158,78 @@
       "link": "https://cdn-live.mundogo.cl/axn/axn.mpd?ck=eyI5YTM3MTI1YTIxODM1ZTExOTM3NDE5NTQ3YTU2YTliOSI6Ijc2MWI3OTAwYjM0NTE5YjRmMmFlYjdiOGMwZjI1MDdhIiwiZmVkOWM1NjY4N2U4NTEzMzhkZmIxMzI1MmE0Y2ZlYzkiOiJlMjJiNjE0MTRkNWZiYTNlYzU4M2UyNjU3MmQ5YTZlYyIsImI4Zjg2MzZiOWI4MDVmZjQ5MjQ1NDUyMGQwZGZiMDU2IjoiZmI2MjNkMDBmMWE0MjgyYTZmM2UwZTNmMmIxNjBlMTEifQ%3D%3D"
     },
     {
+      "id": "tcm",
+      "nombre": "TCM",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tcm.png",
+      "link": "https://cdn-live.mundogo.cl/tcm/tcm.mpd?ck=eyI4MTI0YjEwMWY0YTE1MTRiOTMzNzdlNjFkN2RiZmExMiI6IjY1NjJjMWEyMWFkMzhkMDY3YmExMGU0NDlkMzU3ZmU3IiwiMWNlM2JlNGVjYmFmNTIzZjhjZmQyMjA2OWNiODUwNjciOiIwYTVlZjMxZTQ3YzA1OWRmMzZhYTczYjkwMGQxODE5YSIsIjY1ZmIxY2QxNmI1ZTUyZTdiZmE4ZmE0NGQzN2I2M2NkIjoiMDdiZWUwODVmZmYxNTYxOWUyMDA0OWFkZjQ2NzMxMjEifQ%3D%3D"
+    },
+    {
+      "id": "depelicula",
+      "nombre": "De Pelicula",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/depelicula/depelicula.mpd?ck=eyIxMTc5MmNhNTIwMDQ1MzUyYTQxNmZmMjE2ZTZjMGRlMSI6IjBlZTczNWJhMzdkZWRlMTA2NmY0NjRlZDg4MTAzZThjIiwiZjVhMDM5NjFlNTU2NTBlYmFjYjMxYTdhNjRlZThkYTQiOiJiMTlhMGJiZjIwZWRkZmRlN2FhZDE4NWRmN2QxMTk5OSIsImYyMzk1MjNlMGNhMjVhOGJhMmMxMDBiMTQ5Mjc4NzZjIjoiYjE4YTQyMTI1YzRmMzQ2ZjBmN2E1YjZkMDY2MzY4NjMifQ%3D%3D"
+    },
+    {
+      "id": "warner",
+      "nombre": "Warner",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/warner.png",
+      "link": "https://cdn-live.mundogo.cl/warner/warner.mpd?ck=eyJlZWJmMjA2ODQwNDA1NWQ1ODI2NzhhYTYyNzNjMzkwZiI6IjZmZjI4MTNhMjdjOWUwYzc0OTRiNWEzYzBlZDhkMWE0IiwiNmY2NTlhZDcwOTFmNWM0MmE3NGMzZDA3NTdmYmY4OGMiOiJlMzM3NmFjN2Y1NGM2ZDZlZmU5OTIzMDBiZTNjM2E4NyIsIjZmNWQ2MTM0YzY5ZTU3ZmU5NjRkZDZhOWJmMzhjMzZiIjoiY2NhN2M0MTMzZjkxNzFkODg2N2FhNGFhNmNlMzUxNGIifQ%3D%3D"
+    },
+    {
+      "id": "goldenplus",
+      "nombre": "Golden Plus",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/goldenplus.png",
+      "link": "https://cdn-live.mundogo.cl/goldenplus/goldenplus.mpd?ck=eyJhY2I5ZTBhZGFkNzk1MmVlYjAwYTA5ZDA2OWE4NTcwMyI6IjVjNzJkNjNlZTdkOWU1NDA1ZmQ3MGY5ZDA0MWRmMTlkIiwiMDNiOTE0ODZiNDFhNTZiMDllMjRhZTllMjhlMmNiZjQiOiI0MjBmMTU1MzI2NGQ0ZWJkOGFjNmIxY2QxZjYzMTUxMyIsIjE0MzQ3MzcxYTU2ZTU4MGNiYmNjYjgyMTgwZDU1MWEzIjoiOTViZDkxYTM3OTFjZmIyYzk0ZDQ4MzVkNGEzYmJhZDMifQ%3D%3D"
+    },
+    {
+      "id": "sonymovies",
+      "nombre": "Sony Movies",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/sonymovies.png",
+      "link": "https://cdn-live.mundogo.cl/sonymovies/sonymovies.mpd?ck=eyIxZjE1YTk4NTRkZGU1MGRiYTY1OTFkNGU3ZjAyMWI2MCI6IjFmOWI1YmE1NTRjYjFkZTI1NzUwNjEwZmVkMDYxNTUwIiwiZThjZDdjYjQ0NTEwNWM5ZGE5MWU0ZmNlMGFiYzRjZTkiOiJiZDIyYWU4ZTM3N2Y4MmVjN2FiNGQxNjlhNjNkM2EzNiIsIjhkN2U5NGFhYzU4NDUxZjBiODU2ODBmNDg5NWVhNmYyIjoiZjg3MDVkNTliNjEzZGU5NDFkZDJhZGMyM2YwM2U1NTQifQ%3D%3D"
+    },
+    {
+      "id": "azcinema",
+      "nombre": "Az Cinema",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/azcinema/azcinema.mpd?ck=eyJjMzIxYzAzYWRkMDk1ZDEwODJlYzZmNTNkYThmODkwYSI6IjIxYTJmODk1OGI3NjgzZTQzN2JhYmQwNTc5MWZmM2ZkIiwiNzJlMGUyZjRhOTczNTY4ZmI4OTA4ZGE3NTE5MjdkY2YiOiI5YTJkZDUxMTZlZDdhNmY2YjA3YTk3NGE3MTAwZjI3YSIsIjNjODI3OTM0M2VjZDU1NjliODViN2I4NWIyMDVlYTNiIjoiMDc3N2Y0NTVlNjMwNGVmODQwNWYyZDBhZGNhYmM4ZTkifQ%3D%3D"
+    },
+    {
+      "id": "a3cine1c",
+      "nombre": "A3 Cine",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/a3cine.png",
+      "link": "https://cdn-live.mundogo.cl/a3cine1c/a3cine1c.mpd?ck=eyIzYjc5YzA5NmE1YTU1Nzg5ODFhMDRlN2Y0ODFmNjU3ZSI6IjU1MDEyYmNkNTA3ODZmMWY3MTJjOTI1MjFlN2QwNDgxIiwiZTRmY2QzNTgxNmQzNThiYWExYTY1MGJlM2VjMzcwMmIiOiJjZjg0ZDc4YTU2ZTRhMmIyZWY1NzE5NmZhMzFjNjY3OCIsImRmM2E1MTc0NmUzZjU3OGRiM2IzNjlmNWQ1YWY2NDRhIjoiYmVhMTJmNjZmYjIyMDdjOTRhZDZiYjZjNmRlNDdmMWQifQ%3D%3D"
+    },
+    {
+      "id": "antena3seriesinternacional",
+      "nombre": "Antena 3 Series",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/a3series.png",
+      "link": "https://cdn-live.mundogo.cl/antena3seriesinternacional/antena3seriesinternacional.mpd?ck=eyI2OTAyMDZlOWUzYmU1ZDg4OTNlM2NiZTM4YzkxNDI5NyI6IjAxNWQ3ZWI5ZjRjOTE1Y2RlYzM1MDQ5ZmQ0NTVlZWFiIiwiZjI2OWE4OTJmODI1NWUxNzgwZjE1OWU2NjE0ZWNiOTEiOiI1Y2I1MjRjNGU5M2MxYjJmNjk4MTQyMzBlNDY1YTFiMiIsIjFhNDQzNWIwNjZkMzVmYTU4NmZlMzczYTRkZTFlMGVjIjoiOTk2YzcyNTdlOWMzMTcwYTdlNGQwYzBlZGU0NDY3NjgifQ%3D%3D"
+    },
+    {
+      "id": "cinefamiliar",
+      "nombre": "Cine Familiar",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cinefamiliar/cinefamiliar.mpd?ck=eyJhNGVmOWU4MTMwZjk1OWY2YmVlOWJiNTM1ODc0YWI1MCI6Ijc2YjRkNDEzNjYzOTdhNzQyYTEzN2FmMGYxYmU1YWFkIiwiOTZlZDQ2YjE1OGE1NTRkOThjZThkMzU1ZTY1Mzg1NTciOiJhNzI5OWI0NDQ3NzdlNGUxMWU2NWE1NjBlZjk5MTEyNSIsIjM2Y2ExMzY0MmE2MDUwM2ZiZTFjZWFlYTM2NjAwMDA1IjoiOGJiM2MyMDRhMmFhZTA2Y2IyZmMzODk4NDc2ZjA5YTgifQ%3D%3D"
+    },
+    {
+      "id": "cinehispano",
+      "nombre": "Cine Hispano",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cinehispano/cinehispano.mpd?ck=eyJhYTVhYzI4NDAzZTE1YmMyODNhYTY4YmZjYmI1OTVkYSI6ImY3M2EyMTE0OTJjY2MyYzMxYmZlZDY1ODE0NDg2ZDU5IiwiMTA2MjUxMDM5OTQ1NTA4NWFiZTJmNjQwNjdjMjk0MmQiOiI3Njc3NDVmYjczNWVjYWIwNGMzMTU4MzFhNjg2NmMxMCIsIjYyYzMyNjUzM2IyNzVjM2FhODgyYTg5ZTRhNTFhNmM4IjoiZGU3N2RlZTNjOGI3Y2JiYWI4ZDE5NmNiNmNkZWIxZjYifQ%3D%3D"
+    },
+    {
+      "id": "cinepremium",
+      "nombre": "Cine Premium",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cinepremium/cinepremium.mpd?ck=eyIzYzQzNWVhZjNhYjc1Yjk5Yjg5Yzc1YzVmMTViY2NiYiI6IjU3ZDM3MTkyNTIxNzUzY2YwYWE5ZGQ3NTI2MDIyOTEzIiwiOGFkNTNjMjg0ZTQ1NWYzM2E2ODgyYmQzN2YxYWFjZDciOiJkNDJmMWExMGQ4OTYwYzk0ZWRkZWRmMjdkNmY0YjE0NSIsIjRhN2U1ODU4ZTJjNjUwYWRiZGE2MjUwNWUyODMzY2MyIjoiODYwMGE3MDJkZTBiMDJlYzhhMzY5M2I3OWMyYThjODQifQ%3D%3D"
+    },
+    {
+      "id": "dhe",
+      "nombre": "DHE",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/dhe/dhe.mpd?ck=eyJlMWIxMzRhY2VkMTM1MjRkOWE3MjE3OTA4MTk3ZjhlMCI6IjE0Mjg0NGNjMmQyOWNjODAwOWU1MGFhM2E0YzJmN2RjIiwiOTU2MGQwZTY3ZTMyNTM4YTliNGNmMzNkMTJlNWQyOTYiOiJhNWE2OTNkZGYxNTFiZmE5ODUxMzM4MDViMzU1MjRkYiIsIjcwNjRmNTcyYzQzYzVkMjFiZDRiMDk3M2RhYzQ0NDNjIjoiZWYyZDZiNTdlNWMxMWExNjBmZGQ0ZDFkZTFkMDQ2ZDIifQ%3D%3D"
+    },
+    {
       "id": "a-e",
       "nombre": "A&E",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/aande.png",
@@ -322,6 +240,36 @@
       "nombre": "Lifetime",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/lifetime.png",
       "link": "https://cdn-live.mundogo.cl/lifetime/lifetime.mpd?ck=eyI2NDZiODQyNTNiZDA1MGIzYmQ1ZDE5M2M2ODY2MzdiZiI6ImY5ZDUzMmU2ZWJjZWFiM2U2ODljNjdhYWQwMDk4MDI4IiwiYWRhMTRmODM3ZTg1NTNlN2I5OGFiNjNkNTU4MGU0OGEiOiI2NzI4Yzc3NjVhZDhmOWMwMGRkNDI3MzkwMDgzMmVjMCIsIjFmYzdjNjM1YzVmZDU0M2Q5MWFmNTg3MjFmZjZmMTZjIjoiMjdmNmFiMDEwZDRmNTk2M2FiMzUxOGY3MjdmOWQ2NGQifQ%3D%3D"
+    },
+    {
+      "id": "24horas",
+      "nombre": "24 Horas",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/24horas.png",
+      "link": "https://cdn-live.mundogo.cl/24horas/24horas.mpd?ck=eyIzODdjMDUyNTMxZDY1ZWQ3YTk0OWY0NThlMTQyYjFiZiI6Ijc0YTc1MWFhZDYwODU5YmJjMDJkMGFkNGI3OWMxZDM3IiwiMjNkOTA5ZGU0NDM2NWRhZjg1NTUzNWUwOGY5ZjMzNjIiOiI5MDViMDNlMzYxNzM3NjZlMGNhNTczNjhhYjI2N2JjNiIsIjZlZDVhOTFmNmY4ZjVjMGRhZGM4ODljZTNjNjNhMmQ2IjoiZTc3NDUzZDE3Mzg5Y2U5MWNiOTY3MGQzNjBlMjRmYTYifQ%3D%3D"
+    },
+    {
+      "id": "cnnchile",
+      "nombre": "CNN Chile",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/cnnchile.png",
+      "link": "https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd?ck=eyIxZWU5MzdjMzE5ZTA1YmI3OGVlYzEwMzhmODUxMzgzNiI6IjUzZTNkM2QxNDc1M2Y4ZWJhYmJjNWYwNGZiNjM4NTM5IiwiMDk2YWJlZDczOWFlNWI3OWE1MmY4NTA2YjYyODU3ZTgiOiI3ZmNlMzNhM2VhODZjZWY1MTNmMzZiY2NjMTZlZWNjNSIsIjBkYmQ0MmJkYjhhZDVkNmI4ZWViMzAxNmYxMmFjMjRhIjoiMTRhYTE1NzY5Y2IxNjI4ZjEzMTlmZjE5YjRjMGU0MzAifQ%3D%3D"
+    },
+    {
+      "id": "t13vivo",
+      "nombre": "T13 Vivo",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/t13.png",
+      "link": "https://cdn-live.mundogo.cl/t13vivo/t13vivo.mpd?ck=eyJhNjdhYzgyMjcxNDM1NjEzYjgyMDg0N2QwODc2NzEwNyI6ImJmN2MwZjM2ZTAwOTdlYmYzNThlZDhjZGJhYmIxZjZjIiwiMmQwMzc4MDJhMzRiNWNmOGFmNmJjYTM2ODI1YmYzODYiOiI1ZjRjNzg0MzgwMjkyYTE3ZTExYThmMTE3Y2FhYzQzMiIsIjc3MDFkMTA2ZDljZTU1ZWM5NWRhYzZiZjFiZWJjZmNmIjoiMWQ2OTE2NGIyNGQwMDZjYzVhM2VmOTVkYmUyZTA0MmEifQ%3D%3D"
+    },
+    {
+      "id": "meganoticiasahora",
+      "nombre": "Meganoticias Ahora",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/meganoticias.png",
+      "link": "https://cdn-live.mundogo.cl/meganoticiasahora/meganoticiasahora.mpd?ck=eyJlMjMzN2E3NTIzMjU1NTA0YWJlNTRiNTAxM2NmODIzNCI6IjE0YzJlZDQ4YTg2ZjgxMWZjYjg5NWM2YmNlM2YxMDI4IiwiOTAwMzliMjNhZmNkNTMyMTk5ZDJkOWRiNDRjOGE4MTgiOiI5Mzk1MjRlYjlhMjljNDk3ZWYzMjUyOTFiOWZmM2YzZiIsImJhMDcwY2I0NDY3MDU0YTY4YWY3Nzg2NjZiMzQ2ZGM2IjoiNGVlZDYxY2UzMjRhOGQwZTk3ZWMzYjBkYzMxZjdlODUifQ%3D%3D"
+    },
+    {
+      "id": "chvnoticias",
+      "nombre": "CHV Noticias",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/chvnoticias.png",
+      "link": "https://cdn-live.mundogo.cl/chvnoticias/chvnoticias.mpd?ck=eyJkNmMxNGIxZmM2NWM1NGM1ODQ4ZjE0Zjg4YjkzNjNhMyI6ImNlNDM4ZTY0Y2MxYjRhMDk0MDFhZjEyMDU3MTc5YmMxIiwiMjM1OWNhMmMyZjU3NWQ1MTlkZTJhZmU0OGUzY2FjYmMiOiJjYzIwOWQ3Y2IzZjIwZTUxYmYzNjcyNzJhNTA5Y2IzZiIsIjI3YTg4OTUyN2Y3ZjU4NmU4MTYzODlhNGRlNDQwYmQ0IjoiNzQ4NTlhZTU1ZjM4YjFhOTBkMDhiNDkxY2YzMGRjMmQifQ%3D%3D"
     },
     {
       "id": "tlc",
@@ -468,10 +416,58 @@
       "link": "https://cdn-live.mundogo.cl/infast/infast.mpd?ck=eyJkNmJiZjQ3NGUxY2M1ZTYxOWZkNzBhN2Y2MzFhYmY4MyI6IjQyNzBmZWUxZTRjMDU2NzY5OTJmZTU0NGUzZTY1NWViIiwiMGNkOTM5OTFkZWZmNTE4NGI5OTA2ZjM5MWUwNDU4ZDEiOiI0ZjYyNjRkOGZlYmI2OGU0YTExMmViYzk4M2JiZGFkMSIsIjk1N2UyODY1ODk1NzUxMmE5YjAxMjFiNTM2YTM0NzM5IjoiYjQ1Nzg3MWMwNzUyNDQyNDc5OWFhZThmZGU5NjYwZGYifQ%3D%3D"
     },
     {
-      "id": "antena3seriesinternacional",
-      "nombre": "Antena 3 Series",
-      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/a3series.png",
-      "link": "https://cdn-live.mundogo.cl/antena3seriesinternacional/antena3seriesinternacional.mpd?ck=eyI2OTAyMDZlOWUzYmU1ZDg4OTNlM2NiZTM4YzkxNDI5NyI6IjAxNWQ3ZWI5ZjRjOTE1Y2RlYzM1MDQ5ZmQ0NTVlZWFiIiwiZjI2OWE4OTJmODI1NWUxNzgwZjE1OWU2NjE0ZWNiOTEiOiI1Y2I1MjRjNGU5M2MxYjJmNjk4MTQyMzBlNDY1YTFiMiIsIjFhNDQzNWIwNjZkMzVmYTU4NmZlMzczYTRkZTFlMGVjIjoiOTk2YzcyNTdlOWMzMTcwYTdlNGQwYzBlZGU0NDY3NjgifQ%3D%3D"
+      "id": "espn",
+      "nombre": "ESPN",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn.png",
+      "link": "https://cdn-live.mundogo.cl/espn/espn.mpd?ck=eyI5MDY3MTE4NGRkODI1NDFhOWQxNzg2ZWFhMDI1ZTM0NSI6Ijc0ZjhlYWI0NmMxZTQzZmQ4ZjdiNjRjMjFhOTZmYzViIiwiYjg3ZDdkYTg4NGJkNWYzNDk2MDE1ZjljMmU1M2M4OTYiOiI0NDUxNDQ3YmRmNTVmZTQ0NTFmNGEzYmYxNzdkYTU5YSIsImI2OTg5YmEwYWEwZjVlOGE4MTdlY2RmZDljMzg1OTk0IjoiNzVjNmU2ZDU3MzA4ZjM0Y2E0ODI4MDJhNWU3OTZhMDUifQ%3D%3D"
+    },
+    {
+      "id": "espn2",
+      "nombre": "ESPN 2",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn2.png",
+      "link": "https://cdn-live.mundogo.cl/espn2/espn2.mpd?ck=eyI0YTc5MDUwZWI3MTA1NzJiYmMzY2ZhNzU3MDZjMTQxMSI6IjMwMTVmZGI5ZGE1NWRlYjU3MWRiMTQxZGQ5ZTZhNzg4IiwiNmViZjc2NDE1ODE1NTY1OGIxYTc2NWMyZDg2ODM1ZDMiOiIzZjMzMDAyNjcwOGZjMmZkZDFhMmYwZTIzY2VlN2QwNCIsIjg4ODYwOWZjMGQ4NTUxZjNiNzhjYzAxOGZlNjZmMmZlIjoiNDJjM2FiZWJiZWFkZThkM2NjYWYyODc3ZGIxNjJmNzMifQ%3D%3D"
+    },
+    {
+      "id": "espn3",
+      "nombre": "ESPN 3",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn3.png",
+      "link": "https://cdn-live.mundogo.cl/espn3/espn3.mpd?ck=eyI3ZjdiMTZmYjg1NDg1MzQ1ODQ5MjAwYzE3OGVlNmRjNCI6IjEzNGE2MmEyNjZjN2YxMmM5OTE4NzA0NzJiZDZjYWFhIiwiM2M3ZTdhZmVhZTllNTZiODhkZWVjY2MwNmVkNzQ1NzMiOiIxNDRkOTRiNTVlY2Q5ZGNmZWRmZjQ5ZTIwOWQ2ZmVhMyIsIjUyYzZiM2E2MDM1ZTVmNjI4NTgzMGZjYjJmOTFhMTQwIjoiM2QwNmMwYTQyYzVjMGFiZGMwYjUyOWQ1NmZiODhkNDMifQ%3D%3D"
+    },
+    {
+      "id": "espn4",
+      "nombre": "ESPN 4",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/espn4.png",
+      "link": "https://cdn-live.mundogo.cl/espn4/espn4.mpd?ck=eyIzY2NiMGE4ZGNlZjQ1YTQ2YTJmYzI0ZTRiZjdiZWE4YyI6ImQ0NTZiM2NhZTg4YWI3ZmQ4N2JhOTA0NjkyN2I2MTQ2IiwiM2Q3OGI3NzI2YWFkNTQwYWEwMGZkMDhlN2MzNDQ2ZjUiOiJmYjRhZmNkM2U2Y2VlZWM0ZjkzZTk0NDAxYTJlMWI0YSIsIjllYjQ1MzlkZDFkMjVlNGI5MTk1ZDg0ZDU0NGEyODNiIjoiZDllZTc5MDM1ZjkxZDE2NjZmYTdjNDBjMDI0OTEzZWEifQ%3D%3D"
+    },
+    {
+      "id": "discoveryturbo",
+      "nombre": "Discovery Turbo",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/turbo.png",
+      "link": "https://cdn-live.mundogo.cl/discoveryturbo/discoveryturbo.mpd?ck=eyI0ODJjZjk0ZjczYmM1MWM5OGIzYzM4MjIxYTVjZDBhOCI6ImJmYjA1Njk5OGMzMzllOGVjZWY2OTQyOGQzODVkNTUwIiwiZGYyZjcxOGVkOTYwNWNhZDgyYzZkNWJmYjczYWU2MmQiOiJjYThkZDc1ODgwMzIwZDczZDcwODgxZTMxNzMxMWI1OSIsIjVjZGZlNWYxY2MxNzU2NjE5OThkYWQ1NWJkZmIyZWNlIjoiZThmYWZlZGZkZDcxYjA3M2FiNDI2MDJlYTlhNTgyMjYifQ%3D%3D"
+    },
+    {
+      "id": "cdopremium",
+      "nombre": "CDO Premium",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/cdo.png",
+      "link": "https://cdn-live.mundogo.cl/cdopremium/cdopremium.mpd?ck=eyI4NGZhMTYzYjZhYzI1ZjdiYjcyNDMyNDFmNTM2OWU2NiI6Ijc2ZGM4MDExNDUwN2M3NGQ1ZmI2MDc2MWY3YTNhMWNjIiwiYzYxYTI1MzFiOWJhNTVlYzk0OGEwMjUwOWU2MzdmNTIiOiJiOWM4ZDMyYzQ2MTJlMmFlYjM5MTkzOWE1Y2ZjNmMzZSIsIjk0ZjdmMTliMjViZTVjNTU5OWU4YWIwY2NiZmY0YjdmIjoiOGE0MDZjZTc4NTkzMzAwOGM4ZTBhMzNlNzYxNjYxZGUifQ%3D%3D"
+    },
+    {
+      "id": "tycsports",
+      "nombre": "TyC Sports",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tycsports.png",
+      "link": "https://cdn-live.mundogo.cl/tycsports/tycsports.mpd?ck=eyIxYzY3MWYyMDJmMDM1ZmM2ODI5NWUyODU0NDBlMWYwNiI6IjMxMGFlZjg2ODMzYzI2Njk2YzFmNjY4MjkzNDUzMGNlIiwiMzI2OWNjMWZmZGM4NTZkMzlkNmQyN2FjYWFlYjljNTciOiJhZjMwNjM3MDIwYmQ4MDY1MGVmN2FjN2E1N2YwNTQwNSIsIjk4YzBhMWZiMGQ0MjVmODhiZmUxYzJhZDA5ODU3NWFlIjoiYWFlOWYyYWQ5MGQ1ZDI5ZGI0MzE0NTg2YWY5YjQxNGYifQ%3D%3D"
+    },
+    {
+      "id": "cdo2",
+      "nombre": "CDO 2",
+      "logo": "",
+      "link": "https://cdn-live.mundogo.cl/cdo2/cdo2.mpd?ck=eyI3MTJlY2ZhODM3YzQ1MzE0ODcxMmI3NGEzZWYyMmY4MSI6ImIzMTJlYTQwNDgxZDc1MGEyNmFiYTlmZjRlNWE1YzYzIiwiZmEwYjE4NmUzZjA2NTljZDkzNDUwYTM1ZTM1NzU5Y2QiOiI5NmI3ZTBkZGVhMDEwMDdjNDQzNDg1ODMzZWY0ODRlYSIsIjAwMjg3OGUwZmI4ZTU3ODQ4M2E3YTE5MzM3NDQ4MTI5IjoiMDg1ZjNiNWQ2ODcwZGZiZGViMjQ0N2M3YjI4ODc4YzkifQ%3D%3D"
+    },
+    {
+      "id": "tntsports",
+      "nombre": "TNT Sports",
+      "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tntsports3.png",
+      "link": "https://cdn-live.mundogo.cl/tntsports/tntsports.mpd?ck=eyIyZGJkNmQ2ODZiODg1MzY2OGZiNjNmYWE2YWNjOWNlNyI6ImZhN2YxYjZhY2E0OWQ5ZjE0YmUyZGI1ZGUzNjI5ZmU0IiwiN2MyZjJkMjc5NzFjNWRjNjljMzZjY2E3MTBkYWExNGQiOiJmMWMwY2RjZWRlNmIxYTY0NWM4NzBmM2U2ZjliMTc2ZiIsIjEyMzM4NzYzOTRiYzU0OTNiMzJiMmNiY2JjOTc3NmQ5IjoiY2RhYjNiMjUzMzhkN2MzNDg0YzdkNjAwMWQwMjUwNDIifQ%3D%3D"
     }
   ]
 }
