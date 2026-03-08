@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-03-08T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
-      },
-      "visita": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
-      },
-      "link": "https://is.gd/pumvsrec",
-      "sofaId": 15416145
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-03-08T20:30:00-03:00",
       "local": {
@@ -41,7 +27,7 @@
         "nombre": "San Luis de Quillota",
         "logo": "escudos/ascenso/SAN LUIS.png"
       },
-      "link": "https://is.gd/ranvsslq",
+      "link": "https://is.gd/ranvssl",
       "sofaId": 15416147
     },
     {
@@ -759,18 +745,18 @@
       "sofaId": 15416167
     },
     {
-      "competencia": "ascenso",
-      "inicio": "2026-03-29T18:00:00-03:00",
+      "competencia": "copa_liga",
+      "inicio": "2026-03-29T12:00:00-03:00",
       "local": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/Coquimbo Unido.png"
       },
       "visita": {
-        "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/CONCEPCION.png"
       },
-      "link": "https://is.gd/cocvsusf",
-      "sofaId": 15416168
+      "link": "https://is.gd/coqvsdco",
+      "sofaId": 15683244
     },
     {
       "competencia": "ascenso",
@@ -799,6 +785,20 @@
       },
       "link": "https://is.gd/recvsdtm",
       "sofaId": 15416172
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-29T19:00:00-03:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/COBRELOA.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "escudos/ascenso/SAN FELIPE.png"
+      },
+      "link": "https://is.gd/cocvsusf",
+      "sofaId": 15416168
     },
     {
       "competencia": "ascenso",
