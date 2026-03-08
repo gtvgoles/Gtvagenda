@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-03-07T20:30:00-03:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "link": "https://is.gd/ohfvsuc",
-      "sofaId": 15352989
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-07T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
-      },
-      "visita": {
-        "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
-      },
-      "link": "https://is.gd/iquvssma",
-      "sofaId": 15416146
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-03-08T18:00:00-03:00",
       "local": {
@@ -743,6 +715,20 @@
       },
       "link": "https://is.gd/pumvssw",
       "sofaId": 15416170
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-28T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/LA SERENA.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/UNION LA CALERA.png"
+      },
+      "link": "https://is.gd/dlsvsulc",
+      "sofaId": 15683252
     },
     {
       "competencia": "ascenso",
