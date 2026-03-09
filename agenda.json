@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-03-08T20:30:00-03:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
-      },
-      "visita": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
-      },
-      "link": "https://is.gd/palvscob",
-      "sofaId": 15352987
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-08T20:30:00-03:00",
-      "local": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
-      },
-      "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
-      },
-      "link": "https://is.gd/ranvssl",
-      "sofaId": 15416147
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-03-09T18:00:00-03:00",
       "local": {
