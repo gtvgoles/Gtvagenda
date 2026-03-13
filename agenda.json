@@ -4,76 +4,6 @@
   "partidos": [
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-09T18:00:00-03:00",
-      "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
-      },
-      "visita": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
-      },
-      "link": "https://is.gd/swvscru",
-      "sofaId": 15416148
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-03-09T20:00:00-03:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
-      },
-      "link": "https://is.gd/udcvsuco",
-      "sofaId": 15352995
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-09T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
-      },
-      "link": "https://is.gd/copvsdtm",
-      "sofaId": 15416144
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-10T19:00:00-03:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "visita": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
-      },
-      "link": "https://is.gd/espvsmag",
-      "sofaId": 15416150
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-03-11T21:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Tolima",
-        "logo": "escudos/primera/TOL.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "link": "https://is.gd/tolvsohf",
-      "sofaId": 15253531
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-03-13T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Recoleta",
@@ -648,6 +578,20 @@
     },
     {
       "competencia": "ascenso",
+      "inicio": "2026-03-27T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/RECOLETA.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/TEMUCO.png"
+      },
+      "link": "https://is.gd/recvsdtm",
+      "sofaId": 15416172
+    },
+    {
+      "competencia": "ascenso",
       "inicio": "2026-03-28T12:00:00-03:00",
       "local": {
         "nombre": "San Marcos de Arica",
@@ -746,20 +690,6 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-29T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
-      },
-      "link": "https://is.gd/recvsdtm",
-      "sofaId": 15416172
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-03-29T19:00:00-03:00",
       "local": {
         "nombre": "Cobreloa",
@@ -788,17 +718,101 @@
     },
     {
       "competencia": "seleccion",
-      "inicio": "2026-03-30T13:00:00-03:00",
+      "inicio": "2026-03-30T03:15:00-03:00",
       "local": {
-        "nombre": "Chile",
-        "logo": "escudos/primera/CHI.png"
-      },
-      "visita": {
         "nombre": "New Zealand",
         "logo": "escudos/primera/NZL.png"
       },
-      "link": "https://is.gd/chivsnzl",
-      "sofaId": 15400663
+      "visita": {
+        "nombre": "Chile",
+        "logo": "escudos/primera/CHI.png"
+      },
+      "link": "https://is.gd/nzlvschi",
+      "sofaId": 15718024
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-30T18:00:00-03:00",
+      "local": {
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/COBRESAL.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+      },
+      "link": "https://is.gd/cobvsuc",
+      "sofaId": 15683243
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-30T20:30:00-03:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "link": "https://is.gd/ucovsnub",
+      "sofaId": 15683247
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-30T20:30:00-03:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/PALESTINO.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "link": "https://is.gd/palvsohf",
+      "sofaId": 15683251
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-31T18:00:00-03:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/AUDAX.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/UDECHILE.png"
+      },
+      "link": "https://is.gd/audvsudc",
+      "sofaId": 15683248
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-31T20:30:00-03:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "escudos/primera/EVERTON.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/LIMACHE.png"
+      },
+      "link": "https://is.gd/evtvsdep",
+      "sofaId": 15683249
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-04-01T18:00:00-03:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/CC.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/HUACHIPATO.png"
+      },
+      "link": "https://is.gd/ccvshua",
+      "sofaId": 15683246
     },
     {
       "competencia": "primera",
