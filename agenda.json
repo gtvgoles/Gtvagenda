@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-03-13T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
-      },
-      "visita": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
-      },
-      "link": "https://is.gd/iquvscoc",
-      "sofaId": 15416154
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-03-14T18:00:00-03:00",
       "local": {
@@ -27,7 +13,7 @@
         "nombre": "Universidad de Chile",
         "logo": "escudos/primera/UDECHILE.png"
       },
-      "link": "https://is.gd/coqvsudc",
+      "link": "https://is.gd/prqOxd",
       "sofaId": 15352996
     },
     {
