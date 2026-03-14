@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-13T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
-      },
-      "visita": {
-        "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
-      },
-      "link": "https://is.gd/recvsusf",
-      "sofaId": 15416156
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-03-13T20:00:00-03:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "visita": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
-      },
-      "link": "https://is.gd/audvsdco",
-      "sofaId": 15353000
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-03-13T20:30:00-03:00",
       "local": {
         "nombre": "Deportes Iquique",
