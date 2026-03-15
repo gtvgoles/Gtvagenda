@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-03-15T12:00:00-03:00",
-      "local": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
-      },
-      "link": "https://is.gd/ucovspal",
-      "sofaId": 15353001
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-15T12:00:00-03:00",
-      "local": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "link": "https://is.gd/antvsesp",
-      "sofaId": 15416151
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-03-15T18:00:00-03:00",
       "local": {
         "nombre": "Cobresal",
@@ -55,7 +27,7 @@
         "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/RANGERS.png"
       },
-      "link": "https://is.gd/curvsran",
+      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/cc6_CixhNmUxNmIxYS1jNzhhLTQ0MzctYjhmZi1mODQxNjk3MzNhNWEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1773693372&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6IjVmZDZiZDFlLWYzOTQtNDgxNS1hMmY4LTcxMDllNmRhNGQ2ZCIsICJlZGl0SWQiOiJhNmUxNmIxYS1jNzhhLTQ0MzctYjhmZi1mODQxNjk3MzNhNWEiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wMy0xNVQyMDozNjoxMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=a55480bad04c8405a2bc734442de155f401721a2cc6496017fa61cb0cea74cc5/main.mpd?manifest-params=prod-20260213%7CQFR-czUrAlk92YGkN9AojiK6MH2mnUEeF72q-UDRepY%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZjYzZfQ2l4aE5tVXhObUl4WVMxak56aGhMVFEwTXpjdFlqaG1aaTFtT0RReE5qazNNek5oTldFdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTAzLTE1VDIwJTNBMzAlM0EwM1o%3D&rtype=admo&ck=eyIwMTAwMDJmZmM4Nzg1YzMzZDI5OGQ4MDAyOGY2MmI3MSI6IjMwYjRiNTk0MmRlMDIxNDJmMDI2NTAzMTFkYzAzZTIxIiwiMDEwMTliZDJlZmZjZjJlOWQ1ZDEwOTZhMzBjYTc2NTEiOiIxNzRkYTQ4ZWNkYjhkYmVjMGVhMWJhYTY0MTk5MmJmOCIsIjAxMDIwZTYxOGNiMTY4YjhjNjMwN2U5ZTk2ZWZiYjdjIjoiNDIwYWVlNjA5MmRiMGVjNzlhZjUxMDk5MmQwODEzMDkifQ%3D%3D",
       "sofaId": 15416152
     },
     {
