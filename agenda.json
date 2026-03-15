@@ -4,62 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-03-14T18:00:00-03:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "link": "https://is.gd/prqOxd",
-      "sofaId": 15352996
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-14T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
-      },
-      "link": "https://is.gd/magvsdtm",
-      "sofaId": 15416155
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-03-14T20:30:00-03:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "visita": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
-      },
-      "link": "https://is.gd/ucvsevt",
-      "sofaId": 15352994
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-14T20:30:00-03:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
-      },
-      "visita": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
-      },
-      "link": "https://is.gd/slqvscop",
-      "sofaId": 15416157
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-03-15T12:00:00-03:00",
       "local": {
         "nombre": "Universidad de Concepción",
