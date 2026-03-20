@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-20T18:00:00-03:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
-      },
-      "visita": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
-      },
-      "link": "https://is.gd/udcvsdls",
-      "sofaId": 15658614
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-03-20T20:30:00-03:00",
       "local": {
@@ -41,7 +27,7 @@
         "nombre": "Audax Italiano",
         "logo": "escudos/primera/AUDAX.png"
       },
-      "link": "https://is.gd/ulcvsaud",
+      "link": "https://is.gd/ulcvsaudgtv",
       "sofaId": 15658615
     },
     {
@@ -631,6 +617,76 @@
       },
       "link": "https://is.gd/udcvsdls",
       "sofaId": 15353002
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/Coquimbo Unido.png"
+      },
+      "visita": {
+        "nombre": "Nacional",
+        "logo": "escudos/primera/NAC.png"
+      },
+      "link": "https://is.gd/coqvsnac",
+      "sofaId": 15832733
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": "escudos/primera/BOC.png"
+      },
+      "link": "https://is.gd/ucvsboc",
+      "sofaId": 15832740
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-07T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
+      },
+      "visita": {
+        "nombre": "Millonarios",
+        "logo": "escudos/primera/MIL.png"
+      },
+      "link": "https://is.gd/ohfvsmil",
+      "sofaId": 15832011
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportivo Riestra",
+        "logo": "escudos/primera/RIE.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/PALESTINO.png"
+      },
+      "link": "https://is.gd/rievspal",
+      "sofaId": 15832018
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/AUDAX.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": "escudos/primera/OLI.png"
+      },
+      "link": "https://is.gd/audvsoli",
+      "sofaId": 15832020
     },
     {
       "competencia": "primera",
