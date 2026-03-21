@@ -3,36 +3,8 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-03-20T20:30:00-03:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
-      },
-      "visita": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
-      },
-      "link": "https://is.gd/espvspum",
-      "sofaId": 15416166
-    },
-    {
       "competencia": "copa_liga",
-      "inicio": "2026-03-20T20:30:00-03:00",
-      "local": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
-      },
-      "link": "https://is.gd/ulcvsaudgtv",
-      "sofaId": 15658615
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-21T12:00:00-03:00",
+      "inicio": "2026-01-22T01:00:00-03:00",
       "local": {
         "nombre": "Huachipato",
         "logo": "escudos/primera/HUACHIPATO.png"
@@ -41,7 +13,7 @@
         "nombre": "Deportes Concepción",
         "logo": "escudos/primera/CONCEPCION.png"
       },
-      "link": "https://is.gd/huavsdco",
+      "link": "https://is.gd/ulcaudgtv1",
       "sofaId": 15658616
     },
     {
