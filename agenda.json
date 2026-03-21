@@ -4,7 +4,7 @@
   "partidos": [
     {
       "competencia": "copa_liga",
-      "inicio": "2026-03-21T02:36:09-03:00",
+      "inicio": "2026-03-21T12:00:00-03:00",
       "local": {
         "nombre": "Huachipato",
         "logo": "escudos/primera/HUACHIPATO.png"
@@ -13,7 +13,7 @@
         "nombre": "Deportes Concepción",
         "logo": "escudos/primera/CONCEPCION.png"
       },
-      "link": "https://is.gd/ulcaudgtv1",
+      "link": "https://is.gd/huavsdco",
       "sofaId": 15658616
     },
     {
@@ -622,20 +622,6 @@
       "competencia": "sudamericana",
       "inicio": "2026-04-07T18:00:00-04:00",
       "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Millonarios",
-        "logo": "escudos/primera/MIL.png"
-      },
-      "link": "https://is.gd/ohfvsmil",
-      "sofaId": 15832011
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-07T18:00:00-04:00",
-      "local": {
         "nombre": "Deportivo Riestra",
         "logo": "escudos/primera/RIE.png"
       },
@@ -648,17 +634,17 @@
     },
     {
       "competencia": "sudamericana",
-      "inicio": "2026-04-07T18:00:00-04:00",
+      "inicio": "2026-04-07T19:00:00-04:00",
       "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/OHIGGINS.png"
       },
       "visita": {
-        "nombre": "Olimpia",
-        "logo": "escudos/primera/OLI.png"
+        "nombre": "Millonarios",
+        "logo": "escudos/primera/MIL.png"
       },
-      "link": "https://is.gd/audvsoli",
-      "sofaId": 15832020
+      "link": "https://is.gd/ohfvsmil",
+      "sofaId": 15832011
     },
     {
       "competencia": "primera",
@@ -729,6 +715,20 @@
       },
       "link": "https://is.gd/ohfvsaud",
       "sofaId": 15353016
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-08T19:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/AUDAX.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": "escudos/primera/OLI.png"
+      },
+      "link": "https://is.gd/audvsoli",
+      "sofaId": 15832020
     },
     {
       "competencia": "primera",
