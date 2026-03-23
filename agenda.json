@@ -4,76 +4,6 @@
   "partidos": [
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-22T12:00:00-03:00",
-      "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
-      },
-      "visita": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
-      },
-      "link": "https://is.gd/swvsant",
-      "sofaId": 15416164
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
-      },
-      "link": "https://is.gd/copvsiqu",
-      "sofaId": 15416161
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-22T18:00:00-03:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
-      },
-      "link": "https://is.gd/ucvsuco",
-      "sofaId": 15658619
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-22T20:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
-      },
-      "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
-      },
-      "link": "https://is.gd/dtmvsslq",
-      "sofaId": 15416162
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-22T20:30:00-03:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
-      },
-      "link": "https://is.gd/ohfvsdep",
-      "sofaId": 15658620
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-03-23T18:00:00-03:00",
       "local": {
         "nombre": "Unión San Felipe",
@@ -340,20 +270,6 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-29T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
-      },
-      "visita": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
-      },
-      "link": "https://is.gd/magvsran",
-      "sofaId": 15416171
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-03-29T19:00:00-03:00",
       "local": {
         "nombre": "Cobreloa",
@@ -382,7 +298,7 @@
     },
     {
       "competencia": "seleccion",
-      "inicio": "2026-03-30T03:15:00-03:00",
+      "inicio": "2026-03-30T03:00:00-03:00",
       "local": {
         "nombre": "New Zealand",
         "logo": "escudos/primera/NZL.png"
@@ -393,6 +309,20 @@
       },
       "link": "https://is.gd/nzlvschi",
       "sofaId": 15718024
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-30T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "escudos/ascenso/MAGALLANES.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "escudos/ascenso/RANGERS.png"
+      },
+      "link": "https://is.gd/magvsran",
+      "sofaId": 15416171
     },
     {
       "competencia": "copa_liga",
@@ -591,48 +521,6 @@
       "sofaId": 15353002
     },
     {
-      "competencia": "libertadores",
-      "inicio": "2026-04-07T18:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
-      },
-      "visita": {
-        "nombre": "Nacional",
-        "logo": "escudos/primera/NAC.png"
-      },
-      "link": "https://is.gd/coqvsnac",
-      "sofaId": 15832733
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-07T18:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": "escudos/primera/BOC.png"
-      },
-      "link": "https://is.gd/ucvsboc",
-      "sofaId": 15832740
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-07T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Riestra",
-        "logo": "escudos/primera/RIE.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
-      },
-      "link": "https://is.gd/rievspal",
-      "sofaId": 15832018
-    },
-    {
       "competencia": "sudamericana",
       "inicio": "2026-04-07T20:00:00-04:00",
       "local": {
@@ -647,8 +535,50 @@
       "sofaId": 15832011
     },
     {
+      "competencia": "libertadores",
+      "inicio": "2026-04-07T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": "escudos/primera/BOC.png"
+      },
+      "link": "https://is.gd/ucvsboc",
+      "sofaId": 15832740
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-08T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/Coquimbo Unido.png"
+      },
+      "visita": {
+        "nombre": "Nacional",
+        "logo": "escudos/primera/NAC.png"
+      },
+      "link": "https://is.gd/coqvsnac",
+      "sofaId": 15832733
+    },
+    {
       "competencia": "sudamericana",
-      "inicio": "2026-04-08T19:00:00-04:00",
+      "inicio": "2026-04-08T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportivo Riestra",
+        "logo": "escudos/primera/RIE.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/PALESTINO.png"
+      },
+      "link": "https://is.gd/rievspal",
+      "sofaId": 15832018
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-08T20:00:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
         "logo": "escudos/primera/AUDAX.png"
