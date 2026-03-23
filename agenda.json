@@ -7,13 +7,13 @@
       "inicio": "2026-03-23T18:00:00-03:00",
       "local": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
       "visita": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
-      "link": "https://is.gd/usfvssma",
+      "link": "https://is.gd/2303unionsanfelipevssanmarcosdearica",
       "sofaId": 15416165
     },
     {
@@ -21,13 +21,13 @@
       "inicio": "2026-03-23T20:30:00-03:00",
       "local": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
       "visita": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
-      "link": "https://is.gd/cocvsmag",
+      "link": "https://is.gd/2303cobreloavsdeportesmagallanes",
       "sofaId": 15416160
     },
     {
@@ -35,13 +35,13 @@
       "inicio": "2026-03-23T20:30:00-03:00",
       "local": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
-      "link": "https://is.gd/palvsevt",
+      "link": "https://is.gd/2303palestinovsevertondevinadelmar",
       "sofaId": 15658621
     },
     {
@@ -49,13 +49,13 @@
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
-      "link": "https://is.gd/udcvsulc",
+      "link": "https://is.gd/2403universidaddechilevsunionlacalera",
       "sofaId": 15658622
     },
     {
@@ -63,13 +63,13 @@
       "inicio": "2026-03-24T20:30:00-03:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
       "visita": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
-      "link": "https://is.gd/dcovscc",
+      "link": "https://is.gd/2403deportesconcepcionvscolocolo",
       "sofaId": 15658623
     },
     {
@@ -77,13 +77,13 @@
       "inicio": "2026-03-25T18:00:00-03:00",
       "local": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
-      "link": "https://is.gd/huavscoq",
+      "link": "https://is.gd/2503huachipatovscoquimbounido",
       "sofaId": 15658624
     },
     {
@@ -91,13 +91,13 @@
       "inicio": "2026-03-25T18:00:00-03:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
-      "link": "https://is.gd/nubvsuc",
+      "link": "https://is.gd/2503nublensevsuniversidadcatolica",
       "sofaId": 15658625
     },
     {
@@ -105,13 +105,13 @@
       "inicio": "2026-03-25T20:30:00-03:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
-      "link": "https://is.gd/audvsdls",
+      "link": "https://is.gd/2503audaxitalianovsdeporteslaserena",
       "sofaId": 15658626
     },
     {
@@ -119,13 +119,13 @@
       "inicio": "2026-03-26T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
       "visita": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
-      "link": "https://is.gd/depvspal",
+      "link": "https://is.gd/2603deporteslimachevspalestino",
       "sofaId": 15658627
     },
     {
@@ -133,13 +133,13 @@
       "inicio": "2026-03-26T20:30:00-03:00",
       "local": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
       "visita": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
-      "link": "https://is.gd/ucovscob",
+      "link": "https://is.gd/2603universidaddeconcepcionvscobresal",
       "sofaId": 15658628
     },
     {
@@ -147,13 +147,13 @@
       "inicio": "2026-03-26T20:30:00-03:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
-      "link": "https://is.gd/evtvsohf",
+      "link": "https://is.gd/2603evertondevinadelmarvsohiggins",
       "sofaId": 15658629
     },
     {
@@ -161,13 +161,13 @@
       "inicio": "2026-03-27T00:00:00-03:00",
       "local": {
         "nombre": "Chile",
-        "logo": "escudos/primera/CHI.png"
+        "logo": "https://img.sofascore.com/api/v1/team/4754/image"
       },
       "visita": {
         "nombre": "Cabo Verde",
-        "logo": "escudos/primera/CPV.png"
+        "logo": "https://img.sofascore.com/api/v1/team/4753/image"
       },
-      "link": "https://is.gd/chivscpv",
+      "link": "https://is.gd/2703chilevscaboverde",
       "sofaId": 15400661
     },
     {
@@ -175,13 +175,13 @@
       "inicio": "2026-03-27T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
       "visita": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
-      "link": "https://is.gd/recvsdtm",
+      "link": "https://is.gd/2703deportesrecoletavsdeportestemuco",
       "sofaId": 15416172
     },
     {
@@ -189,13 +189,13 @@
       "inicio": "2026-03-28T12:00:00-03:00",
       "local": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
-      "link": "https://is.gd/smavsesp",
+      "link": "https://is.gd/2803sanmarcosdearicavsunionespanola",
       "sofaId": 15416174
     },
     {
@@ -203,13 +203,13 @@
       "inicio": "2026-03-28T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
-      "link": "https://is.gd/pumvssw",
+      "link": "https://is.gd/2803deportespuertomonttvssantiagowanderers",
       "sofaId": 15416170
     },
     {
@@ -217,13 +217,13 @@
       "inicio": "2026-03-28T18:00:00-03:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
-      "link": "https://is.gd/dlsvsulc",
+      "link": "https://is.gd/2803deporteslaserenavsunionlacalera",
       "sofaId": 15683252
     },
     {
@@ -231,13 +231,13 @@
       "inicio": "2026-03-28T20:30:00-03:00",
       "local": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
-      "link": "https://is.gd/curvscop",
+      "link": "https://is.gd/2803curicounidovsdeportescopiapo",
       "sofaId": 15416169
     },
     {
@@ -245,13 +245,13 @@
       "inicio": "2026-03-29T12:00:00-03:00",
       "local": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
-      "link": "https://is.gd/antvsiqu",
+      "link": "https://is.gd/2903clubdeportesantofagastavsdeportesiquique",
       "sofaId": 15416167
     },
     {
@@ -259,13 +259,13 @@
       "inicio": "2026-03-29T12:00:00-03:00",
       "local": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
-      "link": "https://is.gd/coqvsdco",
+      "link": "https://is.gd/2903coquimbounidovsdeportesconcepcion",
       "sofaId": 15683244
     },
     {
@@ -273,13 +273,13 @@
       "inicio": "2026-03-29T19:00:00-03:00",
       "local": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
       "visita": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
-      "link": "https://is.gd/cocvsusf",
+      "link": "https://is.gd/2903cobreloavsunionsanfelipe",
       "sofaId": 15416168
     },
     {
@@ -287,13 +287,13 @@
       "inicio": "2026-03-29T20:30:00-03:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
       "visita": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
-      "link": "https://is.gd/slqvscru",
+      "link": "https://is.gd/2903sanluisdequillotavsdeportessantacruz",
       "sofaId": 15416173
     },
     {
@@ -301,13 +301,13 @@
       "inicio": "2026-03-30T03:00:00-03:00",
       "local": {
         "nombre": "New Zealand",
-        "logo": "escudos/primera/NZL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/4784/image"
       },
       "visita": {
         "nombre": "Chile",
-        "logo": "escudos/primera/CHI.png"
+        "logo": "https://img.sofascore.com/api/v1/team/4754/image"
       },
-      "link": "https://is.gd/nzlvschi",
+      "link": "https://is.gd/3003newzealandvschile",
       "sofaId": 15718024
     },
     {
@@ -315,13 +315,13 @@
       "inicio": "2026-03-30T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
       "visita": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
-      "link": "https://is.gd/magvsran",
+      "link": "https://is.gd/3003deportesmagallanesvsrangersdetalca",
       "sofaId": 15416171
     },
     {
@@ -329,13 +329,13 @@
       "inicio": "2026-03-30T18:00:00-03:00",
       "local": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
-      "link": "https://is.gd/cobvsuc",
+      "link": "https://is.gd/3003cobresalvsuniversidadcatolica",
       "sofaId": 15683243
     },
     {
@@ -343,13 +343,13 @@
       "inicio": "2026-03-30T20:30:00-03:00",
       "local": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
-      "link": "https://is.gd/ucovsnub",
+      "link": "https://is.gd/3003universidaddeconcepcionvsnublense",
       "sofaId": 15683247
     },
     {
@@ -357,13 +357,13 @@
       "inicio": "2026-03-30T20:30:00-03:00",
       "local": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
-      "link": "https://is.gd/palvsohf",
+      "link": "https://is.gd/3003palestinovsohiggins",
       "sofaId": 15683251
     },
     {
@@ -371,13 +371,13 @@
       "inicio": "2026-03-31T18:00:00-03:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
-      "link": "https://is.gd/audvsudc",
+      "link": "https://is.gd/3103audaxitalianovsuniversidaddechile",
       "sofaId": 15683248
     },
     {
@@ -385,13 +385,13 @@
       "inicio": "2026-03-31T20:30:00-03:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
-      "link": "https://is.gd/evtvsdep",
+      "link": "https://is.gd/3103evertondevinadelmarvsdeporteslimache",
       "sofaId": 15683249
     },
     {
@@ -399,13 +399,13 @@
       "inicio": "2026-04-01T18:00:00-03:00",
       "local": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
       "visita": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
-      "link": "https://is.gd/ccvshua",
+      "link": "https://is.gd/0104colocolovshuachipato",
       "sofaId": 15683246
     },
     {
@@ -413,13 +413,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
       "visita": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
-      "link": "https://is.gd/coqvscob",
+      "link": "https://is.gd/0504coquimbounidovscobresal",
       "sofaId": 15353007
     },
     {
@@ -427,13 +427,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
       "visita": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
-      "link": "https://is.gd/dcovscc",
+      "link": "https://is.gd/0504deportesconcepcionvscolocolo",
       "sofaId": 15353006
     },
     {
@@ -441,13 +441,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
-      "link": "https://is.gd/depvsulc",
+      "link": "https://is.gd/0504deporteslimachevsunionlacalera",
       "sofaId": 15352999
     },
     {
@@ -455,13 +455,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
-      "link": "https://is.gd/evtvsnub",
+      "link": "https://is.gd/0504evertondevinadelmarvsnublense",
       "sofaId": 15353004
     },
     {
@@ -469,13 +469,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
-      "link": "https://is.gd/huavsuco",
+      "link": "https://is.gd/0504huachipatovsuniversidaddeconcepcion",
       "sofaId": 15353013
     },
     {
@@ -483,13 +483,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
       "visita": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
-      "link": "https://is.gd/ohfvsaud",
+      "link": "https://is.gd/0504ohigginsvsaudaxitaliano",
       "sofaId": 15353016
     },
     {
@@ -497,13 +497,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
       "visita": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
-      "link": "https://is.gd/ucvspal",
+      "link": "https://is.gd/0504universidadcatolicavspalestino",
       "sofaId": 15353010
     },
     {
@@ -511,13 +511,13 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
-      "link": "https://is.gd/udcvsdls",
+      "link": "https://is.gd/0504universidaddechilevsdeporteslaserena",
       "sofaId": 15353002
     },
     {
@@ -525,13 +525,13 @@
       "inicio": "2026-04-07T20:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
       "visita": {
         "nombre": "Millonarios",
-        "logo": "escudos/primera/MIL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/6117/image"
       },
-      "link": "https://is.gd/ohfvsmil",
+      "link": "https://is.gd/0704ohigginsvsmillonarios",
       "sofaId": 15832011
     },
     {
@@ -539,13 +539,13 @@
       "inicio": "2026-04-07T20:30:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
       "visita": {
         "nombre": "Boca Juniors",
-        "logo": "escudos/primera/BOC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3202/image"
       },
-      "link": "https://is.gd/ucvsboc",
+      "link": "https://is.gd/0704universidadcatolicavsbocajuniors",
       "sofaId": 15832740
     },
     {
@@ -553,13 +553,13 @@
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
       "visita": {
         "nombre": "Nacional",
-        "logo": "escudos/primera/NAC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3230/image"
       },
-      "link": "https://is.gd/coqvsnac",
+      "link": "https://is.gd/0804coquimbounidovsnacional",
       "sofaId": 15832733
     },
     {
@@ -567,13 +567,13 @@
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
         "nombre": "Deportivo Riestra",
-        "logo": "escudos/primera/RIE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/189723/image"
       },
       "visita": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
-      "link": "https://is.gd/rievspal",
+      "link": "https://is.gd/0804deportivoriestravspalestino",
       "sofaId": 15832018
     },
     {
@@ -581,13 +581,13 @@
       "inicio": "2026-04-08T20:00:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Olimpia",
-        "logo": "escudos/primera/OLI.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5997/image"
       },
-      "link": "https://is.gd/audvsoli",
+      "link": "https://is.gd/0804audaxitalianovsolimpia",
       "sofaId": 15832020
     },
     {
@@ -595,13 +595,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
-      "link": "https://is.gd/audvsuc",
+      "link": "https://is.gd/1204audaxitalianovsuniversidadcatolica",
       "sofaId": 15353003
     },
     {
@@ -609,13 +609,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
-      "link": "https://is.gd/ccvscoq",
+      "link": "https://is.gd/1204colocolovscoquimbounido",
       "sofaId": 15353018
     },
     {
@@ -623,13 +623,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
-      "link": "https://is.gd/dlsvsevt",
+      "link": "https://is.gd/1204deporteslaserenavsevertondevinadelmar",
       "sofaId": 15353008
     },
     {
@@ -637,13 +637,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
       "visita": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
-      "link": "https://is.gd/ohfvshua",
+      "link": "https://is.gd/1204ohigginsvshuachipato",
       "sofaId": 15353017
     },
     {
@@ -651,13 +651,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
-      "link": "https://is.gd/palvsdep",
+      "link": "https://is.gd/1204palestinovsdeporteslimache",
       "sofaId": 15353011
     },
     {
@@ -665,13 +665,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
       "visita": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
-      "link": "https://is.gd/ucovscob",
+      "link": "https://is.gd/1204universidaddeconcepcionvscobresal",
       "sofaId": 15353014
     },
     {
@@ -679,13 +679,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
-      "link": "https://is.gd/ulcvsdco",
+      "link": "https://is.gd/1204unionlacaleravsdeportesconcepcion",
       "sofaId": 15353019
     },
     {
@@ -693,13 +693,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
-      "link": "https://is.gd/nubvsudc",
+      "link": "https://is.gd/1204nublensevsuniversidaddechile",
       "sofaId": 15353012
     },
     {
@@ -707,13 +707,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
-      "link": "https://is.gd/copvsrec",
+      "link": "https://is.gd/1204deportescopiapovsdeportesrecoleta",
       "sofaId": 15416176
     },
     {
@@ -721,13 +721,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
       "visita": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
-      "link": "https://is.gd/iquvspum",
+      "link": "https://is.gd/1204deportesiquiquevsdeportespuertomontt",
       "sofaId": 15416177
     },
     {
@@ -735,13 +735,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
       "visita": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
-      "link": "https://is.gd/cruvsmag",
+      "link": "https://is.gd/1204deportessantacruzvsdeportesmagallanes",
       "sofaId": 15416175
     },
     {
@@ -749,13 +749,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
       "visita": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
-      "link": "https://is.gd/dtmvsant",
+      "link": "https://is.gd/1204deportestemucovsclubdeportesantofagasta",
       "sofaId": 15416178
     },
     {
@@ -763,13 +763,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
       "visita": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
-      "link": "https://is.gd/ranvssma",
+      "link": "https://is.gd/1204rangersdetalcavssanmarcosdearica",
       "sofaId": 15416179
     },
     {
@@ -777,13 +777,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
-      "link": "https://is.gd/swvsslq",
+      "link": "https://is.gd/1204santiagowanderersvssanluisdequillota",
       "sofaId": 15416180
     },
     {
@@ -791,13 +791,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
       "visita": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
-      "link": "https://is.gd/espvscoc",
+      "link": "https://is.gd/1204unionespanolavscobreloa",
       "sofaId": 15416182
     },
     {
@@ -805,13 +805,13 @@
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
       "visita": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
-      "link": "https://is.gd/usfvscur",
+      "link": "https://is.gd/1204unionsanfelipevscuricounido",
       "sofaId": 15416181
     },
     {
@@ -819,13 +819,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
-      "link": "https://is.gd/cobvsohf",
+      "link": "https://is.gd/1904cobresalvsohiggins",
       "sofaId": 15353025
     },
     {
@@ -833,13 +833,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
       "visita": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
-      "link": "https://is.gd/ccvspal",
+      "link": "https://is.gd/1904colocolovspalestino",
       "sofaId": 15353024
     },
     {
@@ -847,13 +847,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
-      "link": "https://is.gd/coqvsnub",
+      "link": "https://is.gd/1904coquimbounidovsnublense",
       "sofaId": 15353026
     },
     {
@@ -861,13 +861,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
-      "link": "https://is.gd/dcovsdls",
+      "link": "https://is.gd/1904deportesconcepcionvsdeporteslaserena",
       "sofaId": 15353021
     },
     {
@@ -875,13 +875,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
-      "link": "https://is.gd/depvsuco",
+      "link": "https://is.gd/1904deporteslimachevsuniversidaddeconcepcion",
       "sofaId": 15353027
     },
     {
@@ -889,13 +889,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
-      "link": "https://is.gd/evtvsudc",
+      "link": "https://is.gd/1904evertondevinadelmarvsuniversidaddechile",
       "sofaId": 15353020
     },
     {
@@ -903,13 +903,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
       "visita": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
-      "link": "https://is.gd/huavsaud",
+      "link": "https://is.gd/1904huachipatovsaudaxitaliano",
       "sofaId": 15353023
     },
     {
@@ -917,13 +917,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
-      "link": "https://is.gd/ucvsulc",
+      "link": "https://is.gd/1904universidadcatolicavsunionlacalera",
       "sofaId": 15353022
     },
     {
@@ -931,13 +931,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
-      "link": "https://is.gd/antvscop",
+      "link": "https://is.gd/1904clubdeportesantofagastavsdeportescopiapo",
       "sofaId": 15416183
     },
     {
@@ -945,13 +945,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
-      "link": "https://is.gd/magvssw",
+      "link": "https://is.gd/1904deportesmagallanesvssantiagowanderers",
       "sofaId": 15416186
     },
     {
@@ -959,13 +959,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
       "visita": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
-      "link": "https://is.gd/pumvsdtm",
+      "link": "https://is.gd/1904deportespuertomonttvsdeportestemuco",
       "sofaId": 15416185
     },
     {
@@ -973,13 +973,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
       "visita": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
-      "link": "https://is.gd/recvscur",
+      "link": "https://is.gd/1904deportesrecoletavscuricounido",
       "sofaId": 15416188
     },
     {
@@ -987,13 +987,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
       "visita": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
-      "link": "https://is.gd/cruvsusf",
+      "link": "https://is.gd/1904deportessantacruzvsunionsanfelipe",
       "sofaId": 15416184
     },
     {
@@ -1001,13 +1001,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
-      "link": "https://is.gd/ranvsesp",
+      "link": "https://is.gd/1904rangersdetalcavsunionespanola",
       "sofaId": 15416187
     },
     {
@@ -1015,13 +1015,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
-      "link": "https://is.gd/slqvsiqu",
+      "link": "https://is.gd/1904sanluisdequillotavsdeportesiquique",
       "sofaId": 15416189
     },
     {
@@ -1029,13 +1029,13 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
       "visita": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
-      "link": "https://is.gd/smavscoc",
+      "link": "https://is.gd/1904sanmarcosdearicavscobreloa",
       "sofaId": 15416190
     },
     {
@@ -1043,13 +1043,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
-      "link": "https://is.gd/audvsdep",
+      "link": "https://is.gd/2604audaxitalianovsdeporteslimache",
       "sofaId": 15353031
     },
     {
@@ -1057,13 +1057,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
       "visita": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
-      "link": "https://is.gd/dlsvshua",
+      "link": "https://is.gd/2604deporteslaserenavshuachipato",
       "sofaId": 15353034
     },
     {
@@ -1071,13 +1071,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
-      "link": "https://is.gd/evtvscob",
+      "link": "https://is.gd/2604evertondevinadelmarvscobresal",
       "sofaId": 15353032
     },
     {
@@ -1085,13 +1085,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
-      "link": "https://is.gd/palvsdco",
+      "link": "https://is.gd/2604palestinovsdeportesconcepcion",
       "sofaId": 15353035
     },
     {
@@ -1099,13 +1099,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
-      "link": "https://is.gd/udcvsuc",
+      "link": "https://is.gd/2604universidaddechilevsuniversidadcatolica",
       "sofaId": 15353029
     },
     {
@@ -1113,13 +1113,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
       "visita": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
-      "link": "https://is.gd/ucovscc",
+      "link": "https://is.gd/2604universidaddeconcepcionvscolocolo",
       "sofaId": 15353028
     },
     {
@@ -1127,13 +1127,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
-      "link": "https://is.gd/ulcvscoq",
+      "link": "https://is.gd/2604unionlacaleravscoquimbounido",
       "sofaId": 15353030
     },
     {
@@ -1141,13 +1141,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
-      "link": "https://is.gd/nubvsohf",
+      "link": "https://is.gd/2604nublensevsohiggins",
       "sofaId": 15353033
     },
     {
@@ -1155,13 +1155,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
-      "link": "https://is.gd/cocvsslq",
+      "link": "https://is.gd/2604cobreloavssanluisdequillota",
       "sofaId": 15416191
     },
     {
@@ -1169,13 +1169,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
       "visita": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
-      "link": "https://is.gd/curvspum",
+      "link": "https://is.gd/2604curicounidovsdeportespuertomontt",
       "sofaId": 15416193
     },
     {
@@ -1183,13 +1183,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
       "visita": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
-      "link": "https://is.gd/copvssma",
+      "link": "https://is.gd/2604deportescopiapovssanmarcosdearica",
       "sofaId": 15416192
     },
     {
@@ -1197,13 +1197,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
-      "link": "https://is.gd/iquvssw",
+      "link": "https://is.gd/2604deportesiquiquevssantiagowanderers",
       "sofaId": 15416194
     },
     {
@@ -1211,13 +1211,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
       "visita": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
-      "link": "https://is.gd/recvsant",
+      "link": "https://is.gd/2604deportesrecoletavsclubdeportesantofagasta",
       "sofaId": 15416196
     },
     {
@@ -1225,13 +1225,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
       "visita": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
-      "link": "https://is.gd/dtmvsran",
+      "link": "https://is.gd/2604deportestemucovsrangersdetalca",
       "sofaId": 15416195
     },
     {
@@ -1239,13 +1239,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
       "visita": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
-      "link": "https://is.gd/espvscru",
+      "link": "https://is.gd/2604unionespanolavsdeportessantacruz",
       "sofaId": 15416198
     },
     {
@@ -1253,13 +1253,13 @@
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
       "visita": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
-      "link": "https://is.gd/usfvsmag",
+      "link": "https://is.gd/2604unionsanfelipevsdeportesmagallanes",
       "sofaId": 15416197
     },
     {
@@ -1267,13 +1267,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
       "visita": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
-      "link": "https://is.gd/cocvsant",
+      "link": "https://is.gd/0305cobreloavsclubdeportesantofagasta",
       "sofaId": 15416200
     },
     {
@@ -1281,13 +1281,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
-      "link": "https://is.gd/magvscop",
+      "link": "https://is.gd/0305deportesmagallanesvsdeportescopiapo",
       "sofaId": 15416201
     },
     {
@@ -1295,13 +1295,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
-      "link": "https://is.gd/cruvsiqu",
+      "link": "https://is.gd/0305deportessantacruzvsdeportesiquique",
       "sofaId": 15416199
     },
     {
@@ -1309,13 +1309,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
       "visita": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
-      "link": "https://is.gd/ranvspum",
+      "link": "https://is.gd/0305rangersdetalcavsdeportespuertomontt",
       "sofaId": 15416202
     },
     {
@@ -1323,13 +1323,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
       "visita": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
-      "link": "https://is.gd/slqvsusf",
+      "link": "https://is.gd/0305sanluisdequillotavsunionsanfelipe",
       "sofaId": 15416204
     },
     {
@@ -1337,13 +1337,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
-      "link": "https://is.gd/smavsrec",
+      "link": "https://is.gd/0305sanmarcosdearicavsdeportesrecoleta",
       "sofaId": 15416205
     },
     {
@@ -1351,13 +1351,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
       "visita": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
-      "link": "https://is.gd/swvsdtm",
+      "link": "https://is.gd/0305santiagowanderersvsdeportestemuco",
       "sofaId": 15416203
     },
     {
@@ -1365,13 +1365,13 @@
       "inicio": "2026-05-03T18:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
       "visita": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
-      "link": "https://is.gd/espvscur",
+      "link": "https://is.gd/0305unionespanolavscuricounido",
       "sofaId": 15416206
     },
     {
@@ -1379,13 +1379,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
-      "link": "https://is.gd/antvsslq",
+      "link": "https://is.gd/1005clubdeportesantofagastavssanluisdequillota",
       "sofaId": 15416207
     },
     {
@@ -1393,13 +1393,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
       "visita": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
-      "link": "https://is.gd/curvssma",
+      "link": "https://is.gd/1005curicounidovssanmarcosdearica",
       "sofaId": 15416209
     },
     {
@@ -1407,13 +1407,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
       "visita": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
-      "link": "https://is.gd/copvsusf",
+      "link": "https://is.gd/1005deportescopiapovsunionsanfelipe",
       "sofaId": 15416208
     },
     {
@@ -1421,13 +1421,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
       "visita": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
-      "link": "https://is.gd/iquvsran",
+      "link": "https://is.gd/1005deportesiquiquevsrangersdetalca",
       "sofaId": 15416211
     },
     {
@@ -1435,13 +1435,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
       "visita": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
-      "link": "https://is.gd/pumvsmag",
+      "link": "https://is.gd/1005deportespuertomonttvsdeportesmagallanes",
       "sofaId": 15416210
     },
     {
@@ -1449,13 +1449,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
       "visita": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
-      "link": "https://is.gd/recvscru",
+      "link": "https://is.gd/1005deportesrecoletavsdeportessantacruz",
       "sofaId": 15416213
     },
     {
@@ -1463,13 +1463,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
-      "link": "https://is.gd/dtmvsesp",
+      "link": "https://is.gd/1005deportestemucovsunionespanola",
       "sofaId": 15416212
     },
     {
@@ -1477,13 +1477,13 @@
       "inicio": "2026-05-10T18:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
       "visita": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
-      "link": "https://is.gd/swvscoc",
+      "link": "https://is.gd/1005santiagowanderersvscobreloa",
       "sofaId": 15416214
     },
     {
@@ -1491,13 +1491,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
-      "link": "https://is.gd/cobvsudc",
+      "link": "https://is.gd/1705cobresalvsuniversidaddechile",
       "sofaId": 15353036
     },
     {
@@ -1505,13 +1505,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
-      "link": "https://is.gd/ccvsnub",
+      "link": "https://is.gd/1705colocolovsnublense",
       "sofaId": 15353041
     },
     {
@@ -1519,13 +1519,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
       "visita": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
-      "link": "https://is.gd/coqvsaud",
+      "link": "https://is.gd/1705coquimbounidovsaudaxitaliano",
       "sofaId": 15353039
     },
     {
@@ -1533,13 +1533,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
-      "link": "https://is.gd/dcovsevt",
+      "link": "https://is.gd/1705deportesconcepcionvsevertondevinadelmar",
       "sofaId": 15353040
     },
     {
@@ -1547,13 +1547,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
-      "link": "https://is.gd/depvsuc",
+      "link": "https://is.gd/1705deporteslimachevsuniversidadcatolica",
       "sofaId": 15353042
     },
     {
@@ -1561,13 +1561,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
-      "link": "https://is.gd/huavsulc",
+      "link": "https://is.gd/1705huachipatovsunionlacalera",
       "sofaId": 15353038
     },
     {
@@ -1575,13 +1575,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
-      "link": "https://is.gd/ohfvsuco",
+      "link": "https://is.gd/1705ohigginsvsuniversidaddeconcepcion",
       "sofaId": 15353043
     },
     {
@@ -1589,13 +1589,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
-      "link": "https://is.gd/palvsdls",
+      "link": "https://is.gd/1705palestinovsdeporteslaserena",
       "sofaId": 15353037
     },
     {
@@ -1603,13 +1603,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
-      "link": "https://is.gd/cocvscop",
+      "link": "https://is.gd/1705cobreloavsdeportescopiapo",
       "sofaId": 15416216
     },
     {
@@ -1617,13 +1617,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
-      "link": "https://is.gd/curvssw",
+      "link": "https://is.gd/1705curicounidovssantiagowanderers",
       "sofaId": 15416217
     },
     {
@@ -1631,13 +1631,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
-      "link": "https://is.gd/magvsrec",
+      "link": "https://is.gd/1705deportesmagallanesvsdeportesrecoleta",
       "sofaId": 15416218
     },
     {
@@ -1645,13 +1645,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
       "visita": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
-      "link": "https://is.gd/cruvsdtm",
+      "link": "https://is.gd/1705deportessantacruzvsdeportestemuco",
       "sofaId": 15416215
     },
     {
@@ -1659,13 +1659,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
       "visita": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
-      "link": "https://is.gd/slqvspum",
+      "link": "https://is.gd/1705sanluisdequillotavsdeportespuertomontt",
       "sofaId": 15416220
     },
     {
@@ -1673,13 +1673,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
       "visita": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
-      "link": "https://is.gd/smavsant",
+      "link": "https://is.gd/1705sanmarcosdearicavsclubdeportesantofagasta",
       "sofaId": 15416221
     },
     {
@@ -1687,13 +1687,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
-      "link": "https://is.gd/espvsiqu",
+      "link": "https://is.gd/1705unionespanolavsdeportesiquique",
       "sofaId": 15416222
     },
     {
@@ -1701,13 +1701,13 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
       "visita": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
-      "link": "https://is.gd/usfvsran",
+      "link": "https://is.gd/1705unionsanfelipevsrangersdetalca",
       "sofaId": 15416219
     },
     {
@@ -1715,13 +1715,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
-      "link": "https://is.gd/audvscob",
+      "link": "https://is.gd/2405audaxitalianovscobresal",
       "sofaId": 15353047
     },
     {
@@ -1729,13 +1729,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
       "visita": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
-      "link": "https://is.gd/dcovshua",
+      "link": "https://is.gd/2405deportesconcepcionvshuachipato",
       "sofaId": 15353055
     },
     {
@@ -1743,13 +1743,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
-      "link": "https://is.gd/depvsdls",
+      "link": "https://is.gd/2405deporteslimachevsdeporteslaserena",
       "sofaId": 15353050
     },
     {
@@ -1757,13 +1757,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
-      "link": "https://is.gd/evtvscoq",
+      "link": "https://is.gd/2405evertondevinadelmarvscoquimbounido",
       "sofaId": 15353046
     },
     {
@@ -1771,13 +1771,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
       "visita": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
-      "link": "https://is.gd/ucvscc",
+      "link": "https://is.gd/2405universidadcatolicavscolocolo",
       "sofaId": 15353044
     },
     {
@@ -1785,13 +1785,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
-      "link": "https://is.gd/udcvsohf",
+      "link": "https://is.gd/2405universidaddechilevsohiggins",
       "sofaId": 15353045
     },
     {
@@ -1799,13 +1799,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
       "visita": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
-      "link": "https://is.gd/ulcvspal",
+      "link": "https://is.gd/2405unionlacaleravspalestino",
       "sofaId": 15353049
     },
     {
@@ -1813,13 +1813,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
-      "link": "https://is.gd/nubvsuco",
+      "link": "https://is.gd/2405nublensevsuniversidaddeconcepcion",
       "sofaId": 15353052
     },
     {
@@ -1827,13 +1827,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
       "visita": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
-      "link": "https://is.gd/antvscru",
+      "link": "https://is.gd/2405clubdeportesantofagastavsdeportessantacruz",
       "sofaId": 15416223
     },
     {
@@ -1841,13 +1841,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
-      "link": "https://is.gd/copvsesp",
+      "link": "https://is.gd/2405deportescopiapovsunionespanola",
       "sofaId": 15416224
     },
     {
@@ -1855,13 +1855,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
       "visita": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
-      "link": "https://is.gd/iquvscur",
+      "link": "https://is.gd/2405deportesiquiquevscuricounido",
       "sofaId": 15416226
     },
     {
@@ -1869,13 +1869,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
       "visita": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
-      "link": "https://is.gd/pumvssma",
+      "link": "https://is.gd/2405deportespuertomonttvssanmarcosdearica",
       "sofaId": 15416225
     },
     {
@@ -1883,13 +1883,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
       "visita": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
-      "link": "https://is.gd/recvscoc",
+      "link": "https://is.gd/2405deportesrecoletavscobreloa",
       "sofaId": 15416229
     },
     {
@@ -1897,13 +1897,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
       "visita": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
-      "link": "https://is.gd/dtmvsusf",
+      "link": "https://is.gd/2405deportestemucovsunionsanfelipe",
       "sofaId": 15416227
     },
     {
@@ -1911,13 +1911,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
-      "link": "https://is.gd/ranvssw",
+      "link": "https://is.gd/2405rangersdetalcavssantiagowanderers",
       "sofaId": 15416228
     },
     {
@@ -1925,13 +1925,13 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
       "visita": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
-      "link": "https://is.gd/slqvsmag",
+      "link": "https://is.gd/2405sanluisdequillotavsdeportesmagallanes",
       "sofaId": 15416230
     },
     {
@@ -1939,13 +1939,13 @@
       "inicio": "2026-05-31T16:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
-      "link": "https://is.gd/cruvscop",
+      "link": "https://is.gd/3105deportessantacruzvsdeportescopiapo",
       "sofaId": 15416231
     },
     {
@@ -1953,13 +1953,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
-      "link": "https://is.gd/cobvsnub",
+      "link": "https://is.gd/3105cobresalvsnublense",
       "sofaId": 15353058
     },
     {
@@ -1967,13 +1967,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
       "visita": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
-      "link": "https://is.gd/dlsvscc",
+      "link": "https://is.gd/3105deporteslaserenavscolocolo",
       "sofaId": 15353051
     },
     {
@@ -1981,13 +1981,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
-      "link": "https://is.gd/depvscoq",
+      "link": "https://is.gd/3105deporteslimachevscoquimbounido",
       "sofaId": 15353059
     },
     {
@@ -1995,13 +1995,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
       "visita": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
-      "link": "https://is.gd/huavsuc",
+      "link": "https://is.gd/3105huachipatovsuniversidadcatolica",
       "sofaId": 15353061
     },
     {
@@ -2009,13 +2009,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
       "visita": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
-      "link": "https://is.gd/ohfvsevt",
+      "link": "https://is.gd/3105ohigginsvsevertondevinadelmar",
       "sofaId": 15353048
     },
     {
@@ -2023,13 +2023,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
       "visita": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
-      "link": "https://is.gd/palvsaud",
+      "link": "https://is.gd/3105palestinovsaudaxitaliano",
       "sofaId": 15353057
     },
     {
@@ -2037,13 +2037,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
       "visita": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
-      "link": "https://is.gd/udcvsdco",
+      "link": "https://is.gd/3105universidaddechilevsdeportesconcepcion",
       "sofaId": 15353060
     },
     {
@@ -2051,13 +2051,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
-      "link": "https://is.gd/ucovsulc",
+      "link": "https://is.gd/3105universidaddeconcepcionvsunionlacalera",
       "sofaId": 15353053
     },
     {
@@ -2065,13 +2065,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
       "visita": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
-      "link": "https://is.gd/cocvsran",
+      "link": "https://is.gd/3105cobreloavsrangersdetalca",
       "sofaId": 15416232
     },
     {
@@ -2079,13 +2079,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
       "visita": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
-      "link": "https://is.gd/curvsant",
+      "link": "https://is.gd/3105curicounidovsclubdeportesantofagasta",
       "sofaId": 15416233
     },
     {
@@ -2093,13 +2093,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
-      "link": "https://is.gd/magvsiqu",
+      "link": "https://is.gd/3105deportesmagallanesvsdeportesiquique",
       "sofaId": 15416234
     },
     {
@@ -2107,13 +2107,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
-      "link": "https://is.gd/recvsslq",
+      "link": "https://is.gd/3105deportesrecoletavssanluisdequillota",
       "sofaId": 15416235
     },
     {
@@ -2121,13 +2121,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
       "visita": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
-      "link": "https://is.gd/smavsdtm",
+      "link": "https://is.gd/3105sanmarcosdearicavsdeportestemuco",
       "sofaId": 15416238
     },
     {
@@ -2135,13 +2135,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
-      "link": "https://is.gd/swvsesp",
+      "link": "https://is.gd/3105santiagowanderersvsunionespanola",
       "sofaId": 15416236
     },
     {
@@ -2149,13 +2149,13 @@
       "inicio": "2026-05-31T18:00:00-04:00",
       "local": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
       "visita": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
-      "link": "https://is.gd/usfvspum",
+      "link": "https://is.gd/3105unionsanfelipevsdeportespuertomontt",
       "sofaId": 15416237
     },
     {
@@ -2163,13 +2163,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/ANTOFAGASTA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5601/image"
       },
       "visita": {
         "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/MAGALLANES.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
       },
-      "link": "https://is.gd/antvsmag",
+      "link": "https://is.gd/0706clubdeportesantofagastavsdeportesmagallanes",
       "sofaId": 15416239
     },
     {
@@ -2177,13 +2177,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/COPIAPO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/89506/image"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/SANTIAGO WANDERERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3150/image"
       },
-      "link": "https://is.gd/copvssw",
+      "link": "https://is.gd/0706deportescopiapovssantiagowanderers",
       "sofaId": 15416240
     },
     {
@@ -2191,13 +2191,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/IQUIQUE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33596/image"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/RECOLETA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/284309/image"
       },
-      "link": "https://is.gd/iquvsrec",
+      "link": "https://is.gd/0706deportesiquiquevsdeportesrecoleta",
       "sofaId": 15416242
     },
     {
@@ -2205,13 +2205,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/PUERTO MONTT.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3158/image"
       },
       "visita": {
         "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/COBRELOA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
       },
-      "link": "https://is.gd/pumvscoc",
+      "link": "https://is.gd/0706deportespuertomonttvscobreloa",
       "sofaId": 15416241
     },
     {
@@ -2219,13 +2219,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/TEMUCO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/119072/image"
       },
       "visita": {
         "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/CURICO UNIDO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/33595/image"
       },
-      "link": "https://is.gd/dtmvscur",
+      "link": "https://is.gd/0706deportestemucovscuricounido",
       "sofaId": 15416243
     },
     {
@@ -2233,13 +2233,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/RANGERS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3154/image"
       },
       "visita": {
         "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/SANTA CRUZ.png"
+        "logo": "https://img.sofascore.com/api/v1/team/243490/image"
       },
-      "link": "https://is.gd/ranvscru",
+      "link": "https://is.gd/0706rangersdetalcavsdeportessantacruz",
       "sofaId": 15416244
     },
     {
@@ -2247,13 +2247,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/SAN LUIS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39220/image"
       },
       "visita": {
         "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/SAN MARCOS DE ARICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/39219/image"
       },
-      "link": "https://is.gd/slqvssma",
+      "link": "https://is.gd/0706sanluisdequillotavssanmarcosdearica",
       "sofaId": 15416245
     },
     {
@@ -2261,13 +2261,13 @@
       "inicio": "2026-06-07T18:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": "escudos/ascenso/Union Española.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3153/image"
       },
       "visita": {
         "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/SAN FELIPE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3152/image"
       },
-      "link": "https://is.gd/espvsusf",
+      "link": "https://is.gd/0706unionespanolavsunionsanfelipe",
       "sofaId": 15416246
     },
     {
@@ -2275,13 +2275,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
-        "logo": "escudos/primera/AUDAX.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3162/image"
       },
       "visita": {
         "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/LA SERENA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5031/image"
       },
-      "link": "https://is.gd/audvsdls",
+      "link": "https://is.gd/1406audaxitalianovsdeporteslaserena",
       "sofaId": 15353062
     },
     {
@@ -2289,13 +2289,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Colo-Colo",
-        "logo": "escudos/primera/CC.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3155/image"
       },
       "visita": {
         "nombre": "Cobresal",
-        "logo": "escudos/primera/COBRESAL.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3167/image"
       },
-      "link": "https://is.gd/ccvscob",
+      "link": "https://is.gd/1406colocolovscobresal",
       "sofaId": 15353054
     },
     {
@@ -2303,13 +2303,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/Coquimbo Unido.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3165/image"
       },
       "visita": {
         "nombre": "O'Higgins",
-        "logo": "escudos/primera/OHIGGINS.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3163/image"
       },
-      "link": "https://is.gd/coqvsohf",
+      "link": "https://is.gd/1406coquimbounidovsohiggins",
       "sofaId": 15353068
     },
     {
@@ -2317,13 +2317,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3160/image"
       },
       "visita": {
         "nombre": "Deportes Limache",
-        "logo": "escudos/primera/LIMACHE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/331131/image"
       },
-      "link": "https://is.gd/dcovsdep",
+      "link": "https://is.gd/1406deportesconcepcionvsdeporteslimache",
       "sofaId": 15353063
     },
     {
@@ -2331,13 +2331,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/EVERTON.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
       },
       "visita": {
         "nombre": "Palestino",
-        "logo": "escudos/primera/PALESTINO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
       },
-      "link": "https://is.gd/evtvspal",
+      "link": "https://is.gd/1406evertondevinadelmarvspalestino",
       "sofaId": 15353065
     },
     {
@@ -2345,13 +2345,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
-        "logo": "escudos/primera/UNIVERSIDAD CATOLICA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3151/image"
       },
       "visita": {
         "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/UNIVERSIDAD DE CONCEPCION.png"
+        "logo": "https://img.sofascore.com/api/v1/team/5034/image"
       },
-      "link": "https://is.gd/ucvsuco",
+      "link": "https://is.gd/1406universidadcatolicavsuniversidaddeconcepcion",
       "sofaId": 15353067
     },
     {
@@ -2359,13 +2359,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/primera/UNION LA CALERA.png"
+        "logo": "https://img.sofascore.com/api/v1/team/48242/image"
       },
       "visita": {
         "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/UDECHILE.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3161/image"
       },
-      "link": "https://is.gd/ulcvsudc",
+      "link": "https://is.gd/1406unionlacaleravsuniversidaddechile",
       "sofaId": 15353056
     },
     {
@@ -2373,13 +2373,13 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "https://img.sofascore.com/api/v1/team/7029/image"
       },
       "visita": {
         "nombre": "Huachipato",
-        "logo": "escudos/primera/HUACHIPATO.png"
+        "logo": "https://img.sofascore.com/api/v1/team/3164/image"
       },
-      "link": "https://is.gd/nubvshua",
+      "link": "https://is.gd/1406nublensevshuachipato",
       "sofaId": 15353064
     }
   ]
