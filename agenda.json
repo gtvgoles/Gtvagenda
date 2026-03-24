@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "oberliga hamburg",
-      "inicio": "2026-03-24T15:00:00-03:00",
-      "local": {
-        "nombre": "Curslack-N",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Eimsbüttel",
-        "logo": ""
-      },
-      "link": "https://is.gd/cunvseim0324",
-      "sofaId": "15446749"
-    },
-    {
-      "competencia": "club friendly games",
-      "inicio": "2026-03-24T16:00:00-03:00",
-      "local": {
-        "nombre": "Quick Boys",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Jong FC Utrecht",
-        "logo": ""
-      },
-      "link": "https://is.gd/qbvsutr0324",
-      "sofaId": "15864200"
-    },
-    {
       "competencia": "copa_liga",
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
@@ -49,7 +21,7 @@
       "inicio": "2026-03-24T20:30:00-03:00",
       "local": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
         "nombre": "Colo-Colo",
@@ -249,7 +221,7 @@
       },
       "visita": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/coqvsdco0329",
       "sofaId": "15683244"
@@ -413,7 +385,7 @@
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
         "nombre": "Colo-Colo",
@@ -669,7 +641,7 @@
       },
       "visita": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/ulcvsdco0412",
       "sofaId": "15353019"
@@ -847,7 +819,7 @@
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
         "nombre": "La Serena",
@@ -1075,7 +1047,7 @@
       },
       "visita": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/palvsdco0426",
       "sofaId": "15353035"
@@ -1519,7 +1491,7 @@
       "inicio": "2026-05-17T18:00:00-04:00",
       "local": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
         "nombre": "Everton",
@@ -1715,7 +1687,7 @@
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
         "nombre": "Huachipato",
@@ -2027,7 +1999,7 @@
       },
       "visita": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/udcvsdco0531",
       "sofaId": "15353060"
@@ -2303,7 +2275,7 @@
       "inicio": "2026-06-14T18:00:00-04:00",
       "local": {
         "nombre": "D. Concepción",
-        "logo": ""
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
         "nombre": "Deportes Limache",
