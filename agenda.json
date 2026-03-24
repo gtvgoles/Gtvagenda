@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "copa_liga",
-      "inicio": "2026-03-24T18:00:00-03:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "visita": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/udcvsulc0324",
-      "sofaId": "15658622"
-    },
-    {
-      "competencia": "copa_liga",
       "inicio": "2026-03-24T20:30:00-03:00",
       "local": {
         "nombre": "D. Concepción",
