@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "mls_next_pro",
+      "inicio": "2026-03-23T23:00:00-03:00",
+      "local": {
+        "nombre": "Portland Timbers II",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/PII.png"
+      },
+      "visita": {
+        "nombre": "Ventura County FC",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/VEN.png"
+      },
+      "link": "https://is.gd/piivsven2303",
+      "sofaId": 15420886
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
