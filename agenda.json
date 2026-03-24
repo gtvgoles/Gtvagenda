@@ -17,6 +17,20 @@
       "sofaId": "15863548"
     },
     {
+      "competencia": "israel national league",
+      "inicio": "2026-03-24T11:30:00-03:00",
+      "local": {
+        "nombre": "H. Hadera",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "SC Kiryat Yam",
+        "logo": ""
+      },
+      "link": "https://is.gd/hadvssky0324",
+      "sofaId": "15848835"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
