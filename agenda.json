@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "liga auf uruguaya",
+      "inicio": "2026-03-24T14:00:00-03:00",
+      "local": {
+        "nombre": "Dep. Maldonado",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Torque",
+        "logo": ""
+      },
+      "link": "https://is.gd/malvstor0324",
+      "sofaId": "15713295"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
