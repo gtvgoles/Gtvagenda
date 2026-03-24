@@ -29,6 +29,2344 @@
       },
       "link": "https://is.gd/du2vssfa2403",
       "sofaId": 15858974
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-24T18:00:00-03:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/udcvsulc2403",
+      "sofaId": 15658622
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-24T20:30:00-03:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/dcovscc2403",
+      "sofaId": 15658623
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T18:00:00-03:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/huavscoq2503",
+      "sofaId": 15658624
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T18:00:00-03:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/nubvsuc2503",
+      "sofaId": 15658625
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T20:30:00-03:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/audvsdls2503",
+      "sofaId": 15658626
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-26T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/depvspal2603",
+      "sofaId": 15658627
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-26T20:30:00-03:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/ucovscob2603",
+      "sofaId": 15658628
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-26T20:30:00-03:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/evtvsohf2603",
+      "sofaId": 15658629
+    },
+    {
+      "competencia": "fifa_series",
+      "inicio": "2026-03-27T00:00:00-03:00",
+      "local": {
+        "nombre": "Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/chile.png"
+      },
+      "visita": {
+        "nombre": "Cabo Verde",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/caboverde.png"
+      },
+      "link": "https://is.gd/chivscpv2703",
+      "sofaId": 15400661
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-27T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/recvsdtm2703",
+      "sofaId": 15416172
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-28T12:00:00-03:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/smavsesp2803",
+      "sofaId": 15416174
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-28T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/pumvssw2803",
+      "sofaId": 15416170
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-28T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/dlsvsulc2803",
+      "sofaId": 15683252
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-28T20:30:00-03:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/curvscop2803",
+      "sofaId": 15416169
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-29T12:00:00-03:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/antvsiqu2903",
+      "sofaId": 15416167
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-29T12:00:00-03:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/coqvsdco2903",
+      "sofaId": 15683244
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-29T19:00:00-03:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/cocvsusf2903",
+      "sofaId": 15416168
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-29T20:30:00-03:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/slqvscru2903",
+      "sofaId": 15416173
+    },
+    {
+      "competencia": "fifa_series",
+      "inicio": "2026-03-30T03:00:00-03:00",
+      "local": {
+        "nombre": "New Zealand",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/newzealand.png"
+      },
+      "visita": {
+        "nombre": "Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/chile.png"
+      },
+      "link": "https://is.gd/nzlvschi3003",
+      "sofaId": 15718024
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-03-30T18:00:00-03:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/magvsran3003",
+      "sofaId": 15416171
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-30T18:00:00-03:00",
+      "local": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/cobvsuc3003",
+      "sofaId": 15683243
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-30T20:30:00-03:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "link": "https://is.gd/ucovsnub3003",
+      "sofaId": 15683247
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-30T20:30:00-03:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/palvsohf3003",
+      "sofaId": 15683251
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-31T18:00:00-03:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/audvsudc3103",
+      "sofaId": 15683248
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-31T20:30:00-03:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/evtvsdep3103",
+      "sofaId": 15683249
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-04-01T18:00:00-03:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/ccvshua0104",
+      "sofaId": 15683246
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/coqvscob0504",
+      "sofaId": 15353007
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/dcovscc0504",
+      "sofaId": 15353006
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/depvsulc0504",
+      "sofaId": 15352999
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "link": "https://is.gd/evtvsnub0504",
+      "sofaId": 15353004
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/huavsuco0504",
+      "sofaId": 15353013
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/ohfvsaud0504",
+      "sofaId": 15353016
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/ucvspal0504",
+      "sofaId": 15353010
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/udcvsdls0504",
+      "sofaId": 15353002
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-07T20:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Millonarios",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/millonarios.png"
+      },
+      "link": "https://is.gd/ohfvsmil0704",
+      "sofaId": 15832011
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-07T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/bocajuniors.png"
+      },
+      "link": "https://is.gd/ucvsboc0704",
+      "sofaId": 15832740
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-08T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Nacional",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/nacional.png"
+      },
+      "link": "https://is.gd/coqvsnac0804",
+      "sofaId": 15832733
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-08T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportivo Riestra",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/deportivoriestra.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/rievspal0804",
+      "sofaId": 15832018
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-08T20:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/olimpia.png"
+      },
+      "link": "https://is.gd/audvsoli0804",
+      "sofaId": 15832020
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/audvsuc1204",
+      "sofaId": 15353003
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/ccvscoq1204",
+      "sofaId": 15353018
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/dlsvsevt1204",
+      "sofaId": 15353008
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/ohfvshua1204",
+      "sofaId": 15353017
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/palvsdep1204",
+      "sofaId": 15353011
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/ucovscob1204",
+      "sofaId": 15353014
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/ulcvsdco1204",
+      "sofaId": 15353019
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/nubvsudc1204",
+      "sofaId": 15353012
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/copvsrec1204",
+      "sofaId": 15416176
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/iquvspum1204",
+      "sofaId": 15416177
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/cruvsmag1204",
+      "sofaId": 15416175
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/dtmvsant1204",
+      "sofaId": 15416178
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/ranvssma1204",
+      "sofaId": 15416179
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/swvsslq1204",
+      "sofaId": 15416180
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/espvscoc1204",
+      "sofaId": 15416182
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-12T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/usfvscur1204",
+      "sofaId": 15416181
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/cobvsohf1904",
+      "sofaId": 15353025
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/ccvspal1904",
+      "sofaId": 15353024
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "link": "https://is.gd/coqvsnub1904",
+      "sofaId": 15353026
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/dcovsdls1904",
+      "sofaId": 15353021
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/depvsuco1904",
+      "sofaId": 15353027
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/evtvsudc1904",
+      "sofaId": 15353020
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/huavsaud1904",
+      "sofaId": 15353023
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/ucvsulc1904",
+      "sofaId": 15353022
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/antvscop1904",
+      "sofaId": 15416183
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/magvssw1904",
+      "sofaId": 15416186
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/pumvsdtm1904",
+      "sofaId": 15416185
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/recvscur1904",
+      "sofaId": 15416188
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/cruvsusf1904",
+      "sofaId": 15416184
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/ranvsesp1904",
+      "sofaId": 15416187
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/slqvsiqu1904",
+      "sofaId": 15416189
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T18:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/smavscoc1904",
+      "sofaId": 15416190
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/audvsdep2604",
+      "sofaId": 15353031
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/dlsvshua2604",
+      "sofaId": 15353034
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/evtvscob2604",
+      "sofaId": 15353032
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/palvsdco2604",
+      "sofaId": 15353035
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/udcvsuc2604",
+      "sofaId": 15353029
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/ucovscc2604",
+      "sofaId": 15353028
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/ulcvscoq2604",
+      "sofaId": 15353030
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/nubvsohf2604",
+      "sofaId": 15353033
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/cocvsslq2604",
+      "sofaId": 15416191
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/curvspum2604",
+      "sofaId": 15416193
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/copvssma2604",
+      "sofaId": 15416192
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/iquvssw2604",
+      "sofaId": 15416194
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/recvsant2604",
+      "sofaId": 15416196
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/dtmvsran2604",
+      "sofaId": 15416195
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/espvscru2604",
+      "sofaId": 15416198
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/usfvsmag2604",
+      "sofaId": 15416197
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/cocvsant0305",
+      "sofaId": 15416200
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/magvscop0305",
+      "sofaId": 15416201
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/cruvsiqu0305",
+      "sofaId": 15416199
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/ranvspum0305",
+      "sofaId": 15416202
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/slqvsusf0305",
+      "sofaId": 15416204
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/smavsrec0305",
+      "sofaId": 15416205
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/swvsdtm0305",
+      "sofaId": 15416203
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/espvscur0305",
+      "sofaId": 15416206
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/antvsslq1005",
+      "sofaId": 15416207
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/curvssma1005",
+      "sofaId": 15416209
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/copvsusf1005",
+      "sofaId": 15416208
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/iquvsran1005",
+      "sofaId": 15416211
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/pumvsmag1005",
+      "sofaId": 15416210
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/recvscru1005",
+      "sofaId": 15416213
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/dtmvsesp1005",
+      "sofaId": 15416212
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/swvscoc1005",
+      "sofaId": 15416214
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/cobvsudc1705",
+      "sofaId": 15353036
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "link": "https://is.gd/ccvsnub1705",
+      "sofaId": 15353041
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/coqvsaud1705",
+      "sofaId": 15353039
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/dcovsevt1705",
+      "sofaId": 15353040
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/depvsuc1705",
+      "sofaId": 15353042
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/huavsulc1705",
+      "sofaId": 15353038
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/ohfvsuco1705",
+      "sofaId": 15353043
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/palvsdls1705",
+      "sofaId": 15353037
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/cocvscop1705",
+      "sofaId": 15416216
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/curvssw1705",
+      "sofaId": 15416217
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/magvsrec1705",
+      "sofaId": 15416218
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/cruvsdtm1705",
+      "sofaId": 15416215
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/slqvspum1705",
+      "sofaId": 15416220
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/smavsant1705",
+      "sofaId": 15416221
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/espvsiqu1705",
+      "sofaId": 15416222
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/usfvsran1705",
+      "sofaId": 15416219
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/audvscob2405",
+      "sofaId": 15353047
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/dcovshua2405",
+      "sofaId": 15353055
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/depvsdls2405",
+      "sofaId": 15353050
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/evtvscoq2405",
+      "sofaId": 15353046
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/ucvscc2405",
+      "sofaId": 15353044
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/udcvsohf2405",
+      "sofaId": 15353045
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/ulcvspal2405",
+      "sofaId": 15353049
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/nubvsuco2405",
+      "sofaId": 15353052
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/antvscru2405",
+      "sofaId": 15416223
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/copvsesp2405",
+      "sofaId": 15416224
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/iquvscur2405",
+      "sofaId": 15416226
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/pumvssma2405",
+      "sofaId": 15416225
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/recvscoc2405",
+      "sofaId": 15416229
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/dtmvsusf2405",
+      "sofaId": 15416227
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/ranvssw2405",
+      "sofaId": 15416228
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/slqvsmag2405",
+      "sofaId": 15416230
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T16:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/cruvscop3105",
+      "sofaId": 15416231
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "link": "https://is.gd/cobvsnub3105",
+      "sofaId": 15353058
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/dlsvscc3105",
+      "sofaId": 15353051
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/depvscoq3105",
+      "sofaId": 15353059
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/huavsuc3105",
+      "sofaId": 15353061
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/ohfvsevt3105",
+      "sofaId": 15353048
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/palvsaud3105",
+      "sofaId": 15353057
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/udcvsdco3105",
+      "sofaId": 15353060
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/ucovsulc3105",
+      "sofaId": 15353053
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/cocvsran3105",
+      "sofaId": 15416232
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/curvsant3105",
+      "sofaId": 15416233
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/magvsiqu3105",
+      "sofaId": 15416234
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/recvsslq3105",
+      "sofaId": 15416235
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/smavsdtm3105",
+      "sofaId": 15416238
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/swvsesp3105",
+      "sofaId": 15416236
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-31T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/usfvspum3105",
+      "sofaId": 15416237
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/antvsmag0706",
+      "sofaId": 15416239
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/copvssw0706",
+      "sofaId": 15416240
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/iquvsrec0706",
+      "sofaId": 15416242
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/pumvscoc0706",
+      "sofaId": 15416241
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/dtmvscur0706",
+      "sofaId": 15416243
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Rangers de Talca",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/ranvscru0706",
+      "sofaId": 15416244
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "San Marcos de Arica",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/slqvssma0706",
+      "sofaId": 15416245
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-06-07T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "https://gtvchile.pages.dev/escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/espvsusf0706",
+      "sofaId": 15416246
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/audvsdls1406",
+      "sofaId": 15353062
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/ccvscob1406",
+      "sofaId": 15353054
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/coqvsohf1406",
+      "sofaId": 15353068
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/dcovsdep1406",
+      "sofaId": 15353063
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/evtvspal1406",
+      "sofaId": 15353065
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Concepción",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/ucvsuco1406",
+      "sofaId": 15353067
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión La Calera",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/ulcvsudc1406",
+      "sofaId": 15353056
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-06-14T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/%C3%91ublense.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "https://gtvchile.pages.dev/escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/nubvshua1406",
+      "sofaId": 15353064
     }
   ]
 }
