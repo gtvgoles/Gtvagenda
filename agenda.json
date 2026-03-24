@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-03-23T20:30:00-03:00",
-      "local": {
-        "nombre": "Cobreloa",
-        "logo": "https://img.sofascore.com/api/v1/team/3159/image"
-      },
-      "visita": {
-        "nombre": "Deportes Magallanes",
-        "logo": "https://img.sofascore.com/api/v1/team/89508/image"
-      },
-      "link": "https://is.gd/cocvsmag2303",
-      "sofaId": 15416160
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-23T20:30:00-03:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "https://img.sofascore.com/api/v1/team/3157/image"
-      },
-      "visita": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "https://img.sofascore.com/api/v1/team/5032/image"
-      },
-      "link": "https://is.gd/palvsevt2303",
-      "sofaId": 15658621
-    },
-    {
       "competencia": "copa_liga",
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
