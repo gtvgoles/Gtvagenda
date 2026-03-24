@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "liga auf uruguaya",
-      "inicio": "2026-03-24T14:00:00-03:00",
-      "local": {
-        "nombre": "Dep. Maldonado",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Torque",
-        "logo": ""
-      },
-      "link": "https://is.gd/malvstor0324",
-      "sofaId": "15713295"
-    },
-    {
       "competencia": "oberliga hamburg",
       "inicio": "2026-03-24T15:00:00-03:00",
       "local": {
@@ -27,8 +13,22 @@
         "nombre": "Eimsbüttel",
         "logo": ""
       },
-      "link": "https://is.gd/pp2403",
+      "link": "https://is.gd/cunvseim0324",
       "sofaId": "15446749"
+    },
+    {
+      "competencia": "club friendly games",
+      "inicio": "2026-03-24T16:00:00-03:00",
+      "local": {
+        "nombre": "Quick Boys",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Jong FC Utrecht",
+        "logo": ""
+      },
+      "link": "https://is.gd/qbvsutr0324",
+      "sofaId": "15864200"
     },
     {
       "competencia": "copa_liga",
