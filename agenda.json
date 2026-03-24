@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "central league reserves",
+      "inicio": "2026-03-24T11:00:00-03:00",
+      "local": {
+        "nombre": "Stockport County Reserves",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Wrexham Reserves",
+        "logo": ""
+      },
+      "link": "https://is.gd/scrvswre0324",
+      "sofaId": "15863548"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-24T18:00:00-03:00",
       "local": {
