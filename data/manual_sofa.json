@@ -1,3 +1,13 @@
 {
-  "manual_sofa": []
+  "manual_sofa": [
+    {
+      "sofaId": "15827467",
+      "sourceUrl": "https://www.sofascore.com/football/match/thailand-u23-china-u23/HFuscHu#id:15827467",
+      "link": "",
+      "logoLocal": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4u7zVy1W8vOFHJ4TxFqg4hoW1lgU33AapFmhiEnNVR2jDwfw0hLkdV92FnDkrQGZGgXeGghvsgVdQaFYsgKHQnh7S6BcsNza8Bx1aYtQnazsDHjiV6ozDdRxPLsizYTlZEh_jSJNWPrs/s1600/China.png",
+      "logoVisita": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY2mnwA45dlrpRQG5CqH_f3g77xBGXe3wsnyVWjX1mJIFp8p8a_k9aW1ydlA5WIQ4cW0zzuJ8auiaD-V3yPTsJXd0Gh4rPKcjp4bY2A5z1K8T4WLmgPvO3AbDf6xfFHJs12Ex5QM93xoY/s1600/Tailandia.png",
+      "activo": true,
+      "createdAt": "2026-03-25T13:04:51.889Z"
+    }
+  ]
 }
