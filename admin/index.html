@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>GTV Agenda Admin Manual</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div>
+        <h1>GTV Agenda — Admin manual</h1>
+        <p>Agrega partidos manuales con link de SofaScore, stream y escudos local / visita.</p>
+      </div>
+      <button id="refreshBtn" class="secondary">Recargar</button>
+    </header>
+
+    <section class="card settings">
+      <h2>Conexión GitHub</h2>
+      <div class="grid two">
+        <label>
+          <span>Owner</span>
+          <input id="owner" type="text" placeholder="gtvgoles">
+        </label>
+        <label>
+          <span>Repo</span>
+          <input id="repo" type="text" placeholder="Gtvagenda">
+        </label>
+        <label>
+          <span>Branch</span>
+          <input id="branch" type="text" placeholder="main">
+        </label>
+        <label>
+          <span>Ruta manual JSON</span>
+          <input id="manualPath" type="text" placeholder="data/manual_sofa.json">
+        </label>
+      </div>
+      <label>
+        <span>Fine-grained PAT</span>
+        <input id="token" type="password" placeholder="github_pat_...">
+      </label>
+      <div class="row actions-row">
+        <button id="saveSettingsBtn">Guardar conexión</button>
+        <button id="testConnectionBtn" class="secondary">Probar conexión</button>
+      </div>
+      <p class="hint">El token debe tener permiso <strong>Contents: write</strong> sobre este repositorio.</p>
+    </section>
+
+    <section class="card editor">
+      <h2 id="formTitle">Agregar partido manual</h2>
+      <form id="manualForm">
+        <div class="grid two">
+          <label>
+            <span>Link SofaScore</span>
+            <input id="sourceUrl" type="url" placeholder="https://www.sofascore.com/...#id:15658622" required>
+          </label>
+          <label>
+            <span>Link stream (opcional)</span>
+            <input id="streamLink" type="url" placeholder="https://is.gd/... o mpd...">
+          </label>
+          <label>
+            <span>Escudo local URL</span>
+            <input id="logoLocal" type="url" placeholder="https://.../local.png">
+          </label>
+          <label>
+            <span>Escudo visita URL</span>
+            <input id="logoVisita" type="url" placeholder="https://.../visita.png">
+          </label>
+        </div>
+        <label class="checkbox-line">
+          <input id="activo" type="checkbox" checked>
+          <span>Activo</span>
+        </label>
+        <input id="editIndex" type="hidden" value="">
+        <div class="row actions-row">
+          <button type="submit">Guardar partido</button>
+          <button type="button" id="cancelEditBtn" class="secondary hidden">Cancelar edición</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="card list-card">
+      <div class="row list-head">
+        <h2>Partidos manuales</h2>
+        <button id="saveRepoBtn">Guardar en GitHub</button>
+      </div>
+      <div id="status" class="status">Listo.</div>
+      <div id="emptyState" class="empty">No hay partidos manuales todavía.</div>
+      <div class="table-wrap">
+        <table id="manualTable" class="hidden">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>SofaScore</th>
+              <th>Sofa ID</th>
+              <th>Stream</th>
+              <th>Escudo local</th>
+              <th>Escudo visita</th>
+              <th>Activo</th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
