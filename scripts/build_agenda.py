@@ -24,6 +24,10 @@ OUTPUT_PATH = ROOT / "agenda.json"
 CACHE_DIR = ROOT / ".cache"
 CACHE_DIR.mkdir(exist_ok=True)
 
+SOFASCORE_API = "https://www.sofascore.com/api/v1"
+SOFASCORE_API_ALT = "https://api.sofascore.com/api/v1"
+JINA_PREFIX = "https://r.jina.ai/http://api.sofascore.com/api/v1"
+
 HEADERS = {
     "accept": "application/json,text/plain,*/*",
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36",
@@ -319,6 +323,72 @@ def get_fetch_ttl_seconds(url: str) -> int:
     return 300
 
 
+def _extract_first_json_block(text: str) -> str:
+    if not text:
+        raise ValueError("Respuesta vacía")
+
+    start_candidates = [i for i in (text.find("{"), text.find("[")) if i >= 0]
+    if not start_candidates:
+        raise ValueError("No encontré inicio de JSON")
+
+    start = min(start_candidates)
+    opening = text[start]
+    closing = "}" if opening == "{" else "]"
+
+    depth = 0
+    in_string = False
+    escape = False
+
+    for i in range(start, len(text)):
+        ch = text[i]
+
+        if in_string:
+            if escape:
+                escape = False
+            elif ch == "\\":  # escaped char inside JSON string
+                escape = True
+            elif ch == '"':
+                in_string = False
+            continue
+
+        if ch == '"':
+            in_string = True
+            continue
+
+        if ch == opening:
+            depth += 1
+        elif ch == closing:
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+
+    raise ValueError("No encontré cierre de JSON")
+
+
+def _normalize_to_jina_url(url: str) -> str:
+    if url.startswith(SOFASCORE_API):
+        suffix = url[len(SOFASCORE_API):]
+        return f"{JINA_PREFIX}{suffix}"
+    if url.startswith(SOFASCORE_API_ALT):
+        suffix = url[len(SOFASCORE_API_ALT):]
+        return f"{JINA_PREFIX}{suffix}"
+    raise ValueError(f"URL no compatible para fallback Jina: {url}")
+
+
+def _parse_jina_json_response(text: str) -> Any:
+    candidate = _extract_first_json_block(text.strip())
+
+    try:
+        return json.loads(candidate)
+    except Exception:
+        end_obj = candidate.rfind("}")
+        end_arr = candidate.rfind("]")
+        end = max(end_obj, end_arr)
+        if end < 0:
+            raise
+        return json.loads(candidate[:end + 1])
+
+
 def fetch_json(url: str) -> Any:
     if url in fetch_cache:
         return fetch_cache[url]
@@ -342,7 +412,24 @@ def fetch_json(url: str) -> Any:
                 fetch_cache[url] = data
                 cache_path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
                 return data
-            last_error = RuntimeError(f"HTTP {resp.status_code} en {url}: {resp.text[:300]}")
+
+            if resp.status_code == 403:
+                try:
+                    jina_url = _normalize_to_jina_url(url)
+                    print(f"[WARN] 403 directo, intentando Jina: {url}", flush=True)
+                    jina_resp = requests.get(jina_url, timeout=35)
+                    if 200 <= jina_resp.status_code < 300:
+                        data = _parse_jina_json_response(jina_resp.text)
+                        fetch_cache[url] = data
+                        cache_path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+                        return data
+                    last_error = RuntimeError(
+                        f"Jina falló HTTP {jina_resp.status_code} en {url}: {jina_resp.text[:300]}"
+                    )
+                except Exception as jina_exc:  # noqa: BLE001
+                    last_error = jina_exc
+            else:
+                last_error = RuntimeError(f"HTTP {resp.status_code} en {url}: {resp.text[:300]}")
         except Exception as exc:  # noqa: BLE001
             last_error = exc
         time.sleep(0.5 * attempt)
