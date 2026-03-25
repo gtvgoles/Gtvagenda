@@ -349,7 +349,7 @@ def _extract_first_json_block(text: str) -> str:
         if in_string:
             if escape:
                 escape = False
-            elif ch == "\":
+            elif ch == "\\":
                 escape = True
             elif ch == '"':
                 in_string = False
