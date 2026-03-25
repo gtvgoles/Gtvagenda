@@ -8,6 +8,7 @@ import sys
 import time
 import hashlib
 from dataclasses import dataclass
+from urllib.parse import quote
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -24,15 +25,18 @@ OUTPUT_PATH = ROOT / "agenda.json"
 CACHE_DIR = ROOT / ".cache"
 CACHE_DIR.mkdir(exist_ok=True)
 
-SOFASCORE_API = "https://www.sofascore.com/api/v1"
-SOFASCORE_API_ALT = "https://api.sofascore.com/api/v1"
-JINA_PREFIX = "https://r.jina.ai/http://api.sofascore.com/api/v1"
-
 HEADERS = {
     "accept": "application/json,text/plain,*/*",
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0 Safari/537.36",
     "referer": "https://www.sofascore.com/",
 }
+
+SOFASCORE_API = "https://www.sofascore.com/api/v1"
+JINA_PREFIX = "https://r.jina.ai/http://api.sofascore.com/api/v1"
+SCRAPINGANT_API_KEY = os.getenv("SCRAPINGANT_API_KEY", "").strip()
+SCRAPINGANT_PROXY_TYPE = os.getenv("SCRAPINGANT_PROXY_TYPE", "").strip()
+
+requests.packages.urllib3.disable_warnings()
 
 UNIQUE_TO_COMP = {
     11653: "primera",
@@ -345,7 +349,7 @@ def _extract_first_json_block(text: str) -> str:
         if in_string:
             if escape:
                 escape = False
-            elif ch == "\\":  # escaped char inside JSON string
+            elif ch == "\":
                 escape = True
             elif ch == '"':
                 in_string = False
@@ -365,28 +369,42 @@ def _extract_first_json_block(text: str) -> str:
     raise ValueError("No encontré cierre de JSON")
 
 
-def _normalize_to_jina_url(url: str) -> str:
-    if url.startswith(SOFASCORE_API):
-        suffix = url[len(SOFASCORE_API):]
-        return f"{JINA_PREFIX}{suffix}"
-    if url.startswith(SOFASCORE_API_ALT):
-        suffix = url[len(SOFASCORE_API_ALT):]
-        return f"{JINA_PREFIX}{suffix}"
-    raise ValueError(f"URL no compatible para fallback Jina: {url}")
-
-
-def _parse_jina_json_response(text: str) -> Any:
-    candidate = _extract_first_json_block(text.strip())
-
+def _parse_possible_json_response(resp: requests.Response) -> Any:
     try:
-        return json.loads(candidate)
+        return resp.json()
     except Exception:
-        end_obj = candidate.rfind("}")
-        end_arr = candidate.rfind("]")
-        end = max(end_obj, end_arr)
-        if end < 0:
-            raise
-        return json.loads(candidate[:end + 1])
+        return json.loads(_extract_first_json_block(resp.text.strip()))
+
+
+def _scrapingant_proxy_url() -> Optional[str]:
+    if not SCRAPINGANT_API_KEY:
+        return None
+
+    username_parts = ["scrapingant", "browser=false", "forward_headers=true"]
+    if SCRAPINGANT_PROXY_TYPE:
+        username_parts.append(f"proxy_type={SCRAPINGANT_PROXY_TYPE}")
+
+    username = "&".join(username_parts)
+    return f"http://{quote(username, safe='')}:{quote(SCRAPINGANT_API_KEY, safe='')}@proxy.scrapingant.com:8080"
+
+
+def _fetch_via_scrapingant(url: str) -> requests.Response:
+    proxy_url = _scrapingant_proxy_url()
+    if not proxy_url:
+        raise RuntimeError("SCRAPINGANT_API_KEY no configurado")
+
+    return requests.get(
+        url,
+        headers=HEADERS,
+        proxies={"http": proxy_url, "https": proxy_url},
+        timeout=35,
+        verify=False,
+    )
+
+
+def _fetch_via_jina(url: str) -> requests.Response:
+    suffix = url.replace(SOFASCORE_API, "")
+    return requests.get(f"{JINA_PREFIX}{suffix}", timeout=35)
 
 
 def fetch_json(url: str) -> Any:
@@ -404,6 +422,7 @@ def fetch_json(url: str) -> Any:
             pass
 
     last_error: Optional[Exception] = None
+
     for attempt in range(1, 4):
         try:
             resp = session.get(url, timeout=25)
@@ -412,27 +431,37 @@ def fetch_json(url: str) -> Any:
                 fetch_cache[url] = data
                 cache_path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
                 return data
-
+            last_error = RuntimeError(f"HTTP {resp.status_code} en {url}: {resp.text[:300]}")
             if resp.status_code == 403:
-                try:
-                    jina_url = _normalize_to_jina_url(url)
-                    print(f"[WARN] 403 directo, intentando Jina: {url}", flush=True)
-                    jina_resp = requests.get(jina_url, timeout=35)
-                    if 200 <= jina_resp.status_code < 300:
-                        data = _parse_jina_json_response(jina_resp.text)
-                        fetch_cache[url] = data
-                        cache_path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
-                        return data
-                    last_error = RuntimeError(
-                        f"Jina falló HTTP {jina_resp.status_code} en {url}: {jina_resp.text[:300]}"
-                    )
-                except Exception as jina_exc:  # noqa: BLE001
-                    last_error = jina_exc
-            else:
-                last_error = RuntimeError(f"HTTP {resp.status_code} en {url}: {resp.text[:300]}")
+                break
         except Exception as exc:  # noqa: BLE001
             last_error = exc
         time.sleep(0.5 * attempt)
+
+    if SCRAPINGANT_API_KEY:
+        try:
+            print(f"[WARN] 403 directo, intentando ScrapingAnt: {url}")
+            resp = _fetch_via_scrapingant(url)
+            if 200 <= resp.status_code < 300:
+                data = _parse_possible_json_response(resp)
+                fetch_cache[url] = data
+                cache_path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+                return data
+            last_error = RuntimeError(f"ScrapingAnt falló HTTP {resp.status_code} en {url}: {resp.text[:300]}")
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+
+    try:
+        print(f"[WARN] 403 directo, intentando Jina: {url}")
+        resp = _fetch_via_jina(url)
+        if 200 <= resp.status_code < 300:
+            data = _parse_possible_json_response(resp)
+            fetch_cache[url] = data
+            cache_path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            return data
+        last_error = RuntimeError(f"Jina falló HTTP {resp.status_code} en {url}: {resp.text[:300]}")
+    except Exception as exc:  # noqa: BLE001
+        last_error = exc
 
     raise RuntimeError(str(last_error) if last_error else f"Error desconocido en {url}")
 
