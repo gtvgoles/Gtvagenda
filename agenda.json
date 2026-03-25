@@ -87,6 +87,20 @@
       "sofaId": "15658629"
     },
     {
+      "competencia": "seleccion",
+      "inicio": "2026-03-27T00:00:00-03:00",
+      "local": {
+        "nombre": "Chile",
+        "logo": "escudos/seleccion/chile.png"
+      },
+      "visita": {
+        "nombre": "Cabo Verde",
+        "logo": ""
+      },
+      "link": "https://is.gd/chivscpv0327",
+      "sofaId": "15400661"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-28T18:30:00-03:00",
       "local": {
@@ -127,6 +141,20 @@
       },
       "link": "https://is.gd/coqvsdco0329",
       "sofaId": "15683244"
+    },
+    {
+      "competencia": "seleccion",
+      "inicio": "2026-03-30T03:00:00-03:00",
+      "local": {
+        "nombre": "New Zealand",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Chile",
+        "logo": "escudos/seleccion/chile.png"
+      },
+      "link": "https://is.gd/nzlvschi0330",
+      "sofaId": "15718024"
     },
     {
       "competencia": "copa_liga",
@@ -211,6 +239,118 @@
       },
       "link": "https://is.gd/ccvshua0401",
       "sofaId": "15683246"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-07T20:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Millonarios",
+        "logo": ""
+      },
+      "link": "https://is.gd/ohfvsmil0407",
+      "sofaId": "15832011"
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-07T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": ""
+      },
+      "link": "https://is.gd/ucvsboc0407",
+      "sofaId": "15832740"
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-08T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Nacional",
+        "logo": ""
+      },
+      "link": "https://is.gd/coqvsnac0408",
+      "sofaId": "15832733"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-08T18:00:00-04:00",
+      "local": {
+        "nombre": "Dep. Riestra",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/rievspal0408",
+      "sofaId": "15832018"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-08T20:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": ""
+      },
+      "link": "https://is.gd/audvsoli0408",
+      "sofaId": "15832020"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-14T18:00:00-04:00",
+      "local": {
+        "nombre": "São Paulo",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/spavsohf0414",
+      "sofaId": "15832090"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-14T20:00:00-04:00",
+      "local": {
+        "nombre": "Vasco",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/vasvsaud0414",
+      "sofaId": "15832054"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-14T20:30:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Torque",
+        "logo": ""
+      },
+      "link": "https://is.gd/palvstor0414",
+      "sofaId": "15832052"
     }
   ]
 }
