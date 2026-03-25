@@ -6,20 +6,6 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-25T18:00:00-03:00",
       "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/huavscoq0325",
-      "sofaId": "15658624"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-25T18:00:00-03:00",
-      "local": {
         "nombre": "Ñublense",
         "logo": "escudos/primera/Ñublense.png"
       },
@@ -29,6 +15,20 @@
       },
       "link": "https://is.gd/nubvsuc0325",
       "sofaId": "15658625"
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-03-25T18:00:00-03:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/huavscoq0325",
+      "sofaId": "15658624"
     },
     {
       "competencia": "copa_liga",
