@@ -20,7 +20,7 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-26T20:30:00-03:00",
       "local": {
-        "nombre": "U. de Concepción",
+        "nombre": "Universidad de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "visita": {
@@ -34,7 +34,7 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-26T20:30:00-03:00",
       "local": {
-        "nombre": "Everton",
+        "nombre": "Everton de Viña del Mar",
         "logo": "escudos/primera/everton.png"
       },
       "visita": {
@@ -62,11 +62,11 @@
       "competencia": "ascenso",
       "inicio": "2026-03-27T18:00:00-03:00",
       "local": {
-        "nombre": "Recoleta",
+        "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/recoleta.png"
       },
       "visita": {
-        "nombre": "Temuco",
+        "nombre": "Deportes Temuco",
         "logo": "escudos/ascenso/temuco.png"
       },
       "link": "https://is.gd/recvsdtm0327",
@@ -76,7 +76,7 @@
       "competencia": "ascenso",
       "inicio": "2026-03-28T12:00:00-03:00",
       "local": {
-        "nombre": "Arica",
+        "nombre": "San Marcos de Arica",
         "logo": "escudos/ascenso/sanmarcos.png"
       },
       "visita": {
@@ -90,11 +90,11 @@
       "competencia": "ascenso",
       "inicio": "2026-03-28T18:00:00-03:00",
       "local": {
-        "nombre": "Puerto Montt",
+        "nombre": "Deportes Puerto Montt",
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "visita": {
-        "nombre": "Wanderers",
+        "nombre": "Santiago Wanderers",
         "logo": "escudos/ascenso/wanderers.png"
       },
       "link": "https://is.gd/pumvssw0328",
@@ -104,7 +104,7 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-28T18:30:00-03:00",
       "local": {
-        "nombre": "La Serena",
+        "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
       "visita": {
@@ -122,7 +122,7 @@
         "logo": "escudos/primera/unionlacalera.png"
       },
       "visita": {
-        "nombre": "La Serena",
+        "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
       "link": "https://is.gd/ulcvsdls0328",
@@ -146,11 +146,11 @@
       "competencia": "ascenso",
       "inicio": "2026-03-29T12:00:00-03:00",
       "local": {
-        "nombre": "Antofagasta",
+        "nombre": "Club Deportes Antofagasta",
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "visita": {
-        "nombre": "Iquique",
+        "nombre": "Deportes Iquique",
         "logo": "escudos/ascenso/iquique.png"
       },
       "link": "https://is.gd/antvsiqu0329",
@@ -164,7 +164,7 @@
         "logo": "escudos/primera/coquimbounido.png"
       },
       "visita": {
-        "nombre": "D. Concepción",
+        "nombre": "Deportes Concepción",
         "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/coqvsdco0329",
@@ -178,7 +178,7 @@
         "logo": "escudos/ascenso/cobreloa.png"
       },
       "visita": {
-        "nombre": "San Felipe",
+        "nombre": "Unión San Felipe",
         "logo": "escudos/ascenso/sanfelipe.png"
       },
       "link": "https://is.gd/cocvsusf0329",
@@ -188,11 +188,11 @@
       "competencia": "ascenso",
       "inicio": "2026-03-29T20:30:00-03:00",
       "local": {
-        "nombre": "San Luis",
+        "nombre": "San Luis de Quillota",
         "logo": "escudos/ascenso/sanluis.png"
       },
       "visita": {
-        "nombre": "Santa Cruz",
+        "nombre": "Deportes Santa Cruz",
         "logo": "escudos/ascenso/santacruz.png"
       },
       "link": "https://is.gd/slqvscru0329",
@@ -216,11 +216,11 @@
       "competencia": "ascenso",
       "inicio": "2026-03-30T18:00:00-03:00",
       "local": {
-        "nombre": "Magallanes",
+        "nombre": "Deportes Magallanes",
         "logo": "escudos/ascenso/magallanes.png"
       },
       "visita": {
-        "nombre": "Rangers",
+        "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/rangers.png"
       },
       "link": "https://is.gd/magvsran0330",
@@ -244,7 +244,7 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-30T20:30:00-03:00",
       "local": {
-        "nombre": "U. de Concepción",
+        "nombre": "Universidad de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "visita": {
@@ -286,7 +286,7 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-31T20:30:00-03:00",
       "local": {
-        "nombre": "Everton",
+        "nombre": "Everton de Viña del Mar",
         "logo": "escudos/primera/everton.png"
       },
       "visita": {
@@ -328,7 +328,7 @@
       "competencia": "primera",
       "inicio": "2026-04-04T20:00:00-03:00",
       "local": {
-        "nombre": "Everton",
+        "nombre": "Everton de Viña del Mar",
         "logo": "escudos/primera/everton.png"
       },
       "visita": {
@@ -342,7 +342,7 @@
       "competencia": "primera",
       "inicio": "2026-04-05T15:30:00-04:00",
       "local": {
-        "nombre": "D. Concepción",
+        "nombre": "Deportes Concepción",
         "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
@@ -402,7 +402,7 @@
         "logo": "escudos/primera/universidaddechile.png"
       },
       "visita": {
-        "nombre": "La Serena",
+        "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
       "link": "https://is.gd/udcvsdls0405",
@@ -416,7 +416,7 @@
         "logo": "escudos/primera/huachipato.png"
       },
       "visita": {
-        "nombre": "U. de Concepción",
+        "nombre": "Universidad de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "link": "https://is.gd/huavsuco0406",
@@ -468,7 +468,7 @@
       "competencia": "sudamericana",
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
-        "nombre": "Dep. Riestra",
+        "nombre": "Deportivo Riestra",
         "logo": ""
       },
       "visita": {
@@ -496,11 +496,11 @@
       "competencia": "primera",
       "inicio": "2026-04-11T15:00:00-04:00",
       "local": {
-        "nombre": "La Serena",
+        "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
       "visita": {
-        "nombre": "Everton",
+        "nombre": "Everton de Viña del Mar",
         "logo": "escudos/primera/everton.png"
       },
       "link": "https://is.gd/dlsvsevt0411",
@@ -510,7 +510,7 @@
       "competencia": "ascenso",
       "inicio": "2026-04-11T15:00:00-04:00",
       "local": {
-        "nombre": "San Felipe",
+        "nombre": "Unión San Felipe",
         "logo": "escudos/ascenso/sanfelipe.png"
       },
       "visita": {
@@ -538,11 +538,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-11T17:30:00-04:00",
       "local": {
-        "nombre": "Santa Cruz",
+        "nombre": "Deportes Santa Cruz",
         "logo": "escudos/ascenso/santacruz.png"
       },
       "visita": {
-        "nombre": "Magallanes",
+        "nombre": "Deportes Magallanes",
         "logo": "escudos/ascenso/magallanes.png"
       },
       "link": "https://is.gd/cruvsmag0411",
@@ -566,11 +566,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-11T20:00:00-04:00",
       "local": {
-        "nombre": "Iquique",
+        "nombre": "Deportes Iquique",
         "logo": "escudos/ascenso/iquique.png"
       },
       "visita": {
-        "nombre": "Puerto Montt",
+        "nombre": "Deportes Puerto Montt",
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "link": "https://is.gd/iquvspum0411",
@@ -584,7 +584,7 @@
         "logo": "escudos/ascenso/copiapo.png"
       },
       "visita": {
-        "nombre": "Recoleta",
+        "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/recoleta.png"
       },
       "link": "https://is.gd/copvsrec0412",
@@ -594,11 +594,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-12T15:00:00-04:00",
       "local": {
-        "nombre": "Wanderers",
+        "nombre": "Santiago Wanderers",
         "logo": "escudos/ascenso/wanderers.png"
       },
       "visita": {
-        "nombre": "San Luis",
+        "nombre": "San Luis de Quillota",
         "logo": "escudos/ascenso/sanluis.png"
       },
       "link": "https://is.gd/swvsslq0412",
@@ -622,11 +622,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-12T17:30:00-04:00",
       "local": {
-        "nombre": "Temuco",
+        "nombre": "Deportes Temuco",
         "logo": "escudos/ascenso/temuco.png"
       },
       "visita": {
-        "nombre": "Antofagasta",
+        "nombre": "Club Deportes Antofagasta",
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "link": "https://is.gd/dtmvsant0412",
@@ -678,7 +678,7 @@
       "competencia": "primera",
       "inicio": "2026-04-12T20:00:00-04:00",
       "local": {
-        "nombre": "U. de Concepción",
+        "nombre": "Universidad de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "visita": {
@@ -692,11 +692,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-12T20:00:00-04:00",
       "local": {
-        "nombre": "Rangers",
+        "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/rangers.png"
       },
       "visita": {
-        "nombre": "Arica",
+        "nombre": "San Marcos de Arica",
         "logo": "escudos/ascenso/sanmarcos.png"
       },
       "link": "https://is.gd/ranvssma0412",
@@ -710,7 +710,7 @@
         "logo": "escudos/primera/unionlacalera.png"
       },
       "visita": {
-        "nombre": "D. Concepción",
+        "nombre": "Deportes Concepción",
         "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/ulcvsdco0413",
@@ -734,7 +734,7 @@
       "competencia": "sudamericana",
       "inicio": "2026-04-14T20:00:00-04:00",
       "local": {
-        "nombre": "Vasco",
+        "nombre": "Vasco da Gama",
         "logo": ""
       },
       "visita": {
@@ -752,7 +752,7 @@
         "logo": "escudos/primera/palestino.png"
       },
       "visita": {
-        "nombre": "Torque",
+        "nombre": "Montevideo City Torque",
         "logo": ""
       },
       "link": "https://is.gd/palvstor0414",
@@ -776,7 +776,7 @@
       "competencia": "libertadores",
       "inicio": "2026-04-15T22:00:00-04:00",
       "local": {
-        "nombre": "Universitario",
+        "nombre": "Universitario de Deportes",
         "logo": ""
       },
       "visita": {
@@ -832,11 +832,11 @@
       "competencia": "primera",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "D. Concepción",
+        "nombre": "Deportes Concepción",
         "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
-        "nombre": "La Serena",
+        "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
       "link": "https://is.gd/dcovsdls0419",
@@ -850,7 +850,7 @@
         "logo": "escudos/primera/limache.png"
       },
       "visita": {
-        "nombre": "U. de Concepción",
+        "nombre": "Universidad de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "link": "https://is.gd/depvsuco0419",
@@ -860,7 +860,7 @@
       "competencia": "primera",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Everton",
+        "nombre": "Everton de Viña del Mar",
         "logo": "escudos/primera/everton.png"
       },
       "visita": {
@@ -902,7 +902,7 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Antofagasta",
+        "nombre": "Club Deportes Antofagasta",
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "visita": {
@@ -916,11 +916,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Magallanes",
+        "nombre": "Deportes Magallanes",
         "logo": "escudos/ascenso/magallanes.png"
       },
       "visita": {
-        "nombre": "Wanderers",
+        "nombre": "Santiago Wanderers",
         "logo": "escudos/ascenso/wanderers.png"
       },
       "link": "https://is.gd/magvssw0419",
@@ -930,11 +930,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Puerto Montt",
+        "nombre": "Deportes Puerto Montt",
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "visita": {
-        "nombre": "Temuco",
+        "nombre": "Deportes Temuco",
         "logo": "escudos/ascenso/temuco.png"
       },
       "link": "https://is.gd/pumvsdtm0419",
@@ -944,7 +944,7 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Recoleta",
+        "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/recoleta.png"
       },
       "visita": {
@@ -958,11 +958,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Santa Cruz",
+        "nombre": "Deportes Santa Cruz",
         "logo": "escudos/ascenso/santacruz.png"
       },
       "visita": {
-        "nombre": "San Felipe",
+        "nombre": "Unión San Felipe",
         "logo": "escudos/ascenso/sanfelipe.png"
       },
       "link": "https://is.gd/cruvsusf0419",
@@ -972,7 +972,7 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Rangers",
+        "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/rangers.png"
       },
       "visita": {
@@ -986,11 +986,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "San Luis",
+        "nombre": "San Luis de Quillota",
         "logo": "escudos/ascenso/sanluis.png"
       },
       "visita": {
-        "nombre": "Iquique",
+        "nombre": "Deportes Iquique",
         "logo": "escudos/ascenso/iquique.png"
       },
       "link": "https://is.gd/slqvsiqu0419",
@@ -1000,7 +1000,7 @@
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
-        "nombre": "Arica",
+        "nombre": "San Marcos de Arica",
         "logo": "escudos/ascenso/sanmarcos.png"
       },
       "visita": {
@@ -1028,7 +1028,7 @@
       "competencia": "primera",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "La Serena",
+        "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
       "visita": {
@@ -1042,7 +1042,7 @@
       "competencia": "primera",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "Everton",
+        "nombre": "Everton de Viña del Mar",
         "logo": "escudos/primera/everton.png"
       },
       "visita": {
@@ -1060,7 +1060,7 @@
         "logo": "escudos/primera/palestino.png"
       },
       "visita": {
-        "nombre": "D. Concepción",
+        "nombre": "Deportes Concepción",
         "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/palvsdco0426",
@@ -1084,7 +1084,7 @@
       "competencia": "primera",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "U. de Concepción",
+        "nombre": "Universidad de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "visita": {
@@ -1130,7 +1130,7 @@
         "logo": "escudos/ascenso/cobreloa.png"
       },
       "visita": {
-        "nombre": "San Luis",
+        "nombre": "San Luis de Quillota",
         "logo": "escudos/ascenso/sanluis.png"
       },
       "link": "https://is.gd/cocvsslq0426",
@@ -1144,7 +1144,7 @@
         "logo": "escudos/ascenso/curicounido.png"
       },
       "visita": {
-        "nombre": "Puerto Montt",
+        "nombre": "Deportes Puerto Montt",
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "link": "https://is.gd/curvspum0426",
@@ -1158,7 +1158,7 @@
         "logo": "escudos/ascenso/copiapo.png"
       },
       "visita": {
-        "nombre": "Arica",
+        "nombre": "San Marcos de Arica",
         "logo": "escudos/ascenso/sanmarcos.png"
       },
       "link": "https://is.gd/copvssma0426",
@@ -1168,11 +1168,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "Iquique",
+        "nombre": "Deportes Iquique",
         "logo": "escudos/ascenso/iquique.png"
       },
       "visita": {
-        "nombre": "Wanderers",
+        "nombre": "Santiago Wanderers",
         "logo": "escudos/ascenso/wanderers.png"
       },
       "link": "https://is.gd/iquvssw0426",
@@ -1182,11 +1182,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "Recoleta",
+        "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/recoleta.png"
       },
       "visita": {
-        "nombre": "Antofagasta",
+        "nombre": "Club Deportes Antofagasta",
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "link": "https://is.gd/recvsant0426",
@@ -1196,11 +1196,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "Temuco",
+        "nombre": "Deportes Temuco",
         "logo": "escudos/ascenso/temuco.png"
       },
       "visita": {
-        "nombre": "Rangers",
+        "nombre": "Rangers de Talca",
         "logo": "escudos/ascenso/rangers.png"
       },
       "link": "https://is.gd/dtmvsran0426",
@@ -1214,7 +1214,7 @@
         "logo": "escudos/ascenso/unionespanola.png"
       },
       "visita": {
-        "nombre": "Santa Cruz",
+        "nombre": "Deportes Santa Cruz",
         "logo": "escudos/ascenso/santacruz.png"
       },
       "link": "https://is.gd/espvscru0426",
@@ -1224,11 +1224,11 @@
       "competencia": "ascenso",
       "inicio": "2026-04-26T18:00:00-04:00",
       "local": {
-        "nombre": "San Felipe",
+        "nombre": "Unión San Felipe",
         "logo": "escudos/ascenso/sanfelipe.png"
       },
       "visita": {
-        "nombre": "Magallanes",
+        "nombre": "Deportes Magallanes",
         "logo": "escudos/ascenso/magallanes.png"
       },
       "link": "https://is.gd/usfvsmag0426",
