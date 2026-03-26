@@ -41,7 +41,7 @@
         "nombre": "Suriname",
         "logo": ""
       },
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd?ck=eyI1ZjA5NmMxZjllMjQzYjMxZGRjM2JmNGY1ZDg4ZmM1ZiI6IjI3MzM0NTM2ZDYwNzc3MzdiMzIxYzY0NjYzZWJmNTlkIn0%3D",
+      "link": "https://d7pd9oqdl4d44.cloudfront.net/2026_03_25_15_17_05_19bfc46a-cbda-4ba9-b2db-c542dd15c2cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1774561740&ck=eyJjZDEwOTU3ZDgyYzAzZmE4ODM5MjIzNWI5MmE2MWMwMSI6ImRlMzczZGMyY2NlM2RlMDUyZWNkZDc3Y2Q0NWI0ZWYwIn0%3D",
       "sofaId": "15126892"
     },
     {
@@ -664,20 +664,6 @@
       "competencia": "primera",
       "inicio": "2026-04-12T18:00:00-04:00",
       "local": {
-        "nombre": "Colo-Colo",
-        "logo": "escudos/primera/colocolo.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/ccvscoq0412",
-      "sofaId": "15353018"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-12T18:00:00-04:00",
-      "local": {
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
@@ -1261,6 +1247,20 @@
       },
       "link": "https://is.gd/usfvsmag0426",
       "sofaId": "15416197"
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-03T17:30:00-04:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/ccvscoq0412",
+      "sofaId": "15353018"
     }
   ]
 }
