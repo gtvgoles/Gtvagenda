@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "international friendly games",
+      "inicio": "2026-03-26T17:00:00-03:00",
+      "local": {
+        "nombre": "Brazil",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "France",
+        "logo": ""
+      },
+      "link": "https://is.gd/bravsfra0326",
+      "sofaId": "15341366"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-26T18:00:00-03:00",
       "local": {
@@ -319,7 +333,7 @@
       },
       "visita": {
         "nombre": "Unión La Calera",
-        "logo": "escudos/union-la-calera-2026-new-seeklogo-2.svg"
+        "logo": "escudos/primera/unionlacalera.png"
       },
       "link": "https://is.gd/depvsulc0404",
       "sofaId": "15352999"
