@@ -31,6 +31,20 @@
       "sofaId": "15658627"
     },
     {
+      "competencia": "world championship qual. inter-confederation",
+      "inicio": "2026-03-26T19:00:00-03:00",
+      "local": {
+        "nombre": "Bolivia",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Suriname",
+        "logo": ""
+      },
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd?ck=eyI1ZjA5NmMxZjllMjQzYjMxZGRjM2JmNGY1ZDg4ZmM1ZiI6IjI3MzM0NTM2ZDYwNzc3MzdiMzIxYzY0NjYzZWJmNTlkIn0%3D",
+      "sofaId": "15126892"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-03-26T20:30:00-03:00",
       "local": {
