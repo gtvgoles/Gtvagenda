@@ -48,20 +48,6 @@
       "competencia": "copa_liga",
       "inicio": "2026-03-28T18:30:00-03:00",
       "local": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "visita": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/dlsvsulc0328",
-      "sofaId": "15683252"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-28T18:30:00-03:00",
-      "local": {
         "nombre": "Unión La Calera",
         "logo": "escudos/primera/unionlacalera.png"
       },
@@ -147,7 +133,7 @@
       "inicio": "2026-03-30T03:00:00-03:00",
       "local": {
         "nombre": "New Zealand",
-        "logo": ""
+        "logo": "escudos/manual/new_zealand.png"
       },
       "visita": {
         "nombre": "Chile",
@@ -270,6 +256,34 @@
     },
     {
       "competencia": "primera",
+      "inicio": "2026-04-03T17:30:00-03:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/coqvscob0403",
+      "sofaId": "15353007"
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-03T20:00:00-03:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/ohfvsaud0403",
+      "sofaId": "15353016"
+    },
+    {
+      "competencia": "primera",
       "inicio": "2026-04-04T17:30:00-03:00",
       "local": {
         "nombre": "Deportes Limache",
@@ -314,34 +328,6 @@
       "competencia": "primera",
       "inicio": "2026-04-05T18:00:00-04:00",
       "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "link": "https://is.gd/coqvscob0405",
-      "sofaId": "15353007"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-05T18:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://is.gd/ohfvsaud0405",
-      "sofaId": "15353016"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-05T18:00:00-04:00",
-      "local": {
         "nombre": "Universidad de Chile",
         "logo": "escudos/primera/universidaddechile.png"
       },
@@ -375,7 +361,7 @@
       },
       "visita": {
         "nombre": "Millonarios",
-        "logo": ""
+        "logo": "escudos/manual/millonarios.png"
       },
       "link": "https://is.gd/ohfvsmil0407",
       "sofaId": "15832011"
@@ -389,7 +375,7 @@
       },
       "visita": {
         "nombre": "Boca Juniors",
-        "logo": ""
+        "logo": "escudos/manual/boca_juniors.png"
       },
       "link": "https://is.gd/ucvsboc0407",
       "sofaId": "15832740"
@@ -403,7 +389,7 @@
       },
       "visita": {
         "nombre": "Nacional",
-        "logo": ""
+        "logo": "escudos/manual/nacional.png"
       },
       "link": "https://is.gd/coqvsnac0408",
       "sofaId": "15832733"
@@ -413,7 +399,7 @@
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
         "nombre": "Deportivo Riestra",
-        "logo": ""
+        "logo": "escudos/manual/deportivo_riestra.png"
       },
       "visita": {
         "nombre": "Palestino",
@@ -431,7 +417,7 @@
       },
       "visita": {
         "nombre": "Olimpia",
-        "logo": ""
+        "logo": "escudos/manual/olimpia.png"
       },
       "link": "https://is.gd/audvsoli0408",
       "sofaId": "15832020"
@@ -651,7 +637,7 @@
       "inicio": "2026-04-14T18:00:00-04:00",
       "local": {
         "nombre": "São Paulo",
-        "logo": ""
+        "logo": "escudos/manual/sao_paulo.png"
       },
       "visita": {
         "nombre": "O'Higgins",
@@ -665,7 +651,7 @@
       "inicio": "2026-04-14T20:00:00-04:00",
       "local": {
         "nombre": "Vasco da Gama",
-        "logo": ""
+        "logo": "escudos/manual/vasco_da_gama.png"
       },
       "visita": {
         "nombre": "Audax Italiano",
@@ -683,7 +669,7 @@
       },
       "visita": {
         "nombre": "Montevideo City Torque",
-        "logo": ""
+        "logo": "escudos/manual/montevideo_city_torque.png"
       },
       "link": "https://is.gd/palvstor0414",
       "sofaId": "15832052"
@@ -693,7 +679,7 @@
       "inicio": "2026-04-15T18:00:00-04:00",
       "local": {
         "nombre": "Cruzeiro",
-        "logo": ""
+        "logo": "escudos/manual/cruzeiro.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -707,7 +693,7 @@
       "inicio": "2026-04-15T22:00:00-04:00",
       "local": {
         "nombre": "Universitario de Deportes",
-        "logo": ""
+        "logo": "escudos/manual/universitario_de_deportes.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
