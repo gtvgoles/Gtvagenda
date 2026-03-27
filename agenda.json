@@ -7,11 +7,11 @@
       "inicio": "2026-03-27T16:45:00-03:00",
       "local": {
         "nombre": "England",
-        "logo": ""
+        "logo": "escudos/manual/england.png"
       },
       "visita": {
         "nombre": "Uruguay",
-        "logo": ""
+        "logo": "escudos/manual/uruguay.png"
       },
       "link": "https://is.gd/engvsuru0327",
       "sofaId": "15366472"
