@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-26T20:30:00-03:00",
-      "local": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "link": "https://is.gd/ucovscob0326",
-      "sofaId": "15658628"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-26T20:30:00-03:00",
-      "local": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/everton.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/evtvsohf0326",
-      "sofaId": "15658629"
-    },
-    {
       "competencia": "fifa series",
       "inicio": "2026-03-27T00:00:00-03:00",
       "local": {
@@ -41,7 +13,7 @@
         "nombre": "Cabo Verde",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQLvZsLjP1DTdoojgVnCUUMDwKhDrlILc8UAbXOnl_AQ3v4-Zkop0y_W15nsslU-OJ-gGBdbms5AcL2HWlW42geakMjjUd91nnDvQXJkZtAzzBl3ReE0cIVqkyVuQtnEHABvvP5xyLJII/s512/Cabo+Verde.png"
       },
-      "link": "https://is.gd/chivscpv0327",
+      "link": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd?ck=eyI5Mjc3ZGE3YTQ1MGM1MzdhOGNiYjZjODI5YzkzOGJjOSI6Ijc2YTUyMTg3MWQ3MjA4MTI0M2E3NTliMzI0OTAzYWFhIiwiODQ0NWExNDUwMzcyNWQ1MWE4Yjc2MzA5M2U0OTA3ZmEiOiIxM2FhNTNjY2NkZTBjMDg3NWE2ZTc1NjkzMmNmMmVmNSIsIjczZWZmNGQzZTFiYzVlNjE5YTJjNjIxY2ZmYTFmODgyIjoiMTc0NTUwNDMyNWIzNzkyMmMwZDVhZGFlZWFjODAzYzIifQ%3D%3D",
       "sofaId": "15400661"
     },
     {
