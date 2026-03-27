@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "international friendly games",
+      "inicio": "2026-03-27T16:45:00-03:00",
+      "local": {
+        "nombre": "England",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Uruguay",
+        "logo": ""
+      },
+      "link": "https://is.gd/engvsuru0327",
+      "sofaId": "15366472"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-03-27T18:00:00-03:00",
       "local": {
@@ -133,7 +147,7 @@
       "inicio": "2026-03-30T03:00:00-03:00",
       "local": {
         "nombre": "New Zealand",
-        "logo": "escudos/manual/new_zealand.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Chile",
@@ -361,7 +375,7 @@
       },
       "visita": {
         "nombre": "Millonarios",
-        "logo": "escudos/manual/millonarios.png"
+        "logo": ""
       },
       "link": "https://is.gd/ohfvsmil0407",
       "sofaId": "15832011"
@@ -375,7 +389,7 @@
       },
       "visita": {
         "nombre": "Boca Juniors",
-        "logo": "escudos/manual/boca_juniors.png"
+        "logo": ""
       },
       "link": "https://is.gd/ucvsboc0407",
       "sofaId": "15832740"
@@ -389,7 +403,7 @@
       },
       "visita": {
         "nombre": "Nacional",
-        "logo": "escudos/manual/nacional.png"
+        "logo": ""
       },
       "link": "https://is.gd/coqvsnac0408",
       "sofaId": "15832733"
@@ -399,7 +413,7 @@
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
         "nombre": "Deportivo Riestra",
-        "logo": "escudos/manual/deportivo_riestra.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Palestino",
@@ -417,7 +431,7 @@
       },
       "visita": {
         "nombre": "Olimpia",
-        "logo": "escudos/manual/olimpia.png"
+        "logo": ""
       },
       "link": "https://is.gd/audvsoli0408",
       "sofaId": "15832020"
@@ -637,7 +651,7 @@
       "inicio": "2026-04-14T18:00:00-04:00",
       "local": {
         "nombre": "São Paulo",
-        "logo": "escudos/manual/sao_paulo.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "O'Higgins",
@@ -651,7 +665,7 @@
       "inicio": "2026-04-14T20:00:00-04:00",
       "local": {
         "nombre": "Vasco da Gama",
-        "logo": "escudos/manual/vasco_da_gama.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Audax Italiano",
@@ -669,7 +683,7 @@
       },
       "visita": {
         "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideo_city_torque.png"
+        "logo": ""
       },
       "link": "https://is.gd/palvstor0414",
       "sofaId": "15832052"
@@ -679,7 +693,7 @@
       "inicio": "2026-04-15T18:00:00-04:00",
       "local": {
         "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -693,7 +707,7 @@
       "inicio": "2026-04-15T22:00:00-04:00",
       "local": {
         "nombre": "Universitario de Deportes",
-        "logo": "escudos/manual/universitario_de_deportes.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Coquimbo Unido",
