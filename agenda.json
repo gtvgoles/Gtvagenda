@@ -3,48 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "international friendly games",
-      "inicio": "2026-03-26T17:00:00-03:00",
-      "local": {
-        "nombre": "Brazil",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "France",
-        "logo": ""
-      },
-      "link": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?ck=eyI0YmJjZmYzMjg5ZDQ1N2I0ZGQ1ZGJkZDIxMjIxZGU5YSI6ImM0OTA2YjlhOWY4ZGRhM2MwNzI1YmRkYjhjNDk3NzMzIn0%3D",
-      "sofaId": "15341366"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-26T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/depvspal0326",
-      "sofaId": "15658627"
-    },
-    {
-      "competencia": "world championship qual. inter-confederation",
-      "inicio": "2026-03-26T19:00:00-03:00",
-      "local": {
-        "nombre": "Bolivia",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Suriname",
-        "logo": ""
-      },
-      "link": "https://d7pd9oqdl4d44.cloudfront.net/2026_03_25_15_17_05_19bfc46a-cbda-4ba9-b2db-c542dd15c2cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1774561740&ck=eyJjZDEwOTU3ZDgyYzAzZmE4ODM5MjIzNWI5MmE2MWMwMSI6ImRlMzczZGMyY2NlM2RlMDUyZWNkZDc3Y2Q0NWI0ZWYwIn0%3D",
-      "sofaId": "15126892"
-    },
-    {
       "competencia": "copa_liga",
       "inicio": "2026-03-26T20:30:00-03:00",
       "local": {
@@ -77,11 +35,11 @@
       "inicio": "2026-03-27T00:00:00-03:00",
       "local": {
         "nombre": "Chile",
-        "logo": "escudos/seleccion/chile.png"
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjurAn9Pb-ma_xEVq2T5YXy5Sk1X-fDY-JF8mcjXBBRr5py735bdoFFcVxMzjhcQaiJo7bWfLAqUe5fLUL_7OGHW9hIGRXKgWy7ZTj5NnA9NWH7I8TaaY5RnTXWXRWetG3fWhQSnCHGj-Y/s512/Chile.png"
       },
       "visita": {
         "nombre": "Cabo Verde",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQLvZsLjP1DTdoojgVnCUUMDwKhDrlILc8UAbXOnl_AQ3v4-Zkop0y_W15nsslU-OJ-gGBdbms5AcL2HWlW42geakMjjUd91nnDvQXJkZtAzzBl3ReE0cIVqkyVuQtnEHABvvP5xyLJII/s512/Cabo+Verde.png"
       },
       "link": "https://is.gd/chivscpv0327",
       "sofaId": "15400661"
