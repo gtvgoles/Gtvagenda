@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "fifa series",
-      "inicio": "2026-03-27T00:00:00-03:00",
-      "local": {
-        "nombre": "Chile",
-        "logo": "escudos/seleccion/chile.png"
-      },
-      "visita": {
-        "nombre": "Cabo Verde",
-        "logo": "escudos/seleccion/caboverde.png"
-      },
-      "link": "https://is.gd/chivscpv0327",
-      "sofaId": "15400661"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-03-27T18:00:00-03:00",
       "local": {
@@ -270,6 +256,20 @@
     },
     {
       "competencia": "primera",
+      "inicio": "2026-04-02T18:00:00-03:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/ucvspal0402",
+      "sofaId": "15353010"
+    },
+    {
+      "competencia": "primera",
       "inicio": "2026-04-04T17:30:00-03:00",
       "local": {
         "nombre": "Deportes Limache",
@@ -337,20 +337,6 @@
       },
       "link": "https://is.gd/ohfvsaud0405",
       "sofaId": "15353016"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-05T18:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/ucvspal0405",
-      "sofaId": "15353010"
     },
     {
       "competencia": "primera",
