@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "international friendly games",
-      "inicio": "2026-03-27T16:45:00-03:00",
-      "local": {
-        "nombre": "England",
-        "logo": "escudos/manual/england.png"
-      },
-      "visita": {
-        "nombre": "Uruguay",
-        "logo": "escudos/manual/uruguay.png"
-      },
-      "link": "https://is.gd/engvsuru0327",
-      "sofaId": "15366472"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-27T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "link": "https://is.gd/recvsdtm0327",
-      "sofaId": "15416172"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-03-28T12:00:00-03:00",
       "local": {
@@ -116,7 +88,7 @@
     },
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-29T19:00:00-03:00",
+      "inicio": "2026-03-29T18:00:00-03:00",
       "local": {
         "nombre": "Cobreloa",
         "logo": "escudos/ascenso/cobreloa.png"
