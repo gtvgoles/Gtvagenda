@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "ascenso",
-      "inicio": "2026-03-28T12:00:00-03:00",
-      "local": {
-        "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "link": "https://is.gd/smavsesp0328",
-      "sofaId": "15416174"
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-03-28T18:00:00-03:00",
       "local": {
         "nombre": "Deportes Puerto Montt",
@@ -57,6 +43,20 @@
       },
       "link": "https://is.gd/curvscop0328",
       "sofaId": "15416169"
+    },
+    {
+      "competencia": "international friendly games",
+      "inicio": "2026-03-28T22:00:00-03:00",
+      "local": {
+        "nombre": "Mexico",
+        "logo": "escudos/manual/mexico.png"
+      },
+      "visita": {
+        "nombre": "Portugal",
+        "logo": "escudos/manual/portugal.png"
+      },
+      "link": "https://is.gd/mexvspor0328",
+      "sofaId": "15437863"
     },
     {
       "competencia": "ascenso",
