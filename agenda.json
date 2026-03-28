@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "international friendly games",
+      "inicio": "2026-03-28T16:30:00-03:00",
+      "local": {
+        "nombre": "USA",
+        "logo": "escudos/manual/usa.png"
+      },
+      "visita": {
+        "nombre": "Belgium",
+        "logo": "escudos/manual/belgium.png"
+      },
+      "link": "https://is.gd/usavsbel0328",
+      "sofaId": "15184402"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-03-28T18:00:00-03:00",
       "local": {
