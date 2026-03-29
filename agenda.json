@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "international friendly games",
-      "inicio": "2026-03-28T22:00:00-03:00",
-      "local": {
-        "nombre": "Mexico",
-        "logo": "escudos/manual/mexico.png"
-      },
-      "visita": {
-        "nombre": "Portugal",
-        "logo": "escudos/manual/portugal.png"
-      },
-      "link": "https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?ck=eyJkMWExNjM5MTRkYjhmZmFkMmMzZTk0Zjk3OTg5NmEwZCI6Ijk3Mjg4MDBhMzk1OWFhZmRkNWIwYmNmYmYzNzY4ODExIn0%3D",
-      "sofaId": "15437863"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-03-29T12:00:00-03:00",
       "local": {
