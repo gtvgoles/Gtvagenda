@@ -3,32 +3,18 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-03-29T12:00:00-03:00",
+      "competencia": "international friendly games",
+      "inicio": "2026-03-29T16:00:00-03:00",
       "local": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
+        "nombre": "Colombia",
+        "logo": "escudos/manual/colombia.png"
       },
       "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
+        "nombre": "France",
+        "logo": "escudos/manual/france.png"
       },
-      "link": "https://is.gd/antvsiqu0329",
-      "sofaId": "15416167"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-29T12:00:00-03:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "link": "https://is.gd/coqvsdco0329",
-      "sofaId": "15683244"
+      "link": "https://is.gd/colvsfra0329",
+      "sofaId": "15655701"
     },
     {
       "competencia": "ascenso",
@@ -67,7 +53,7 @@
       },
       "visita": {
         "nombre": "Chile",
-        "logo": "escudos/seleccion/chile.png"
+        "logo": "escudos/manual/chile.png"
       },
       "link": "https://is.gd/nzlvschi0330",
       "sofaId": "15718024"
