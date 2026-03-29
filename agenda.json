@@ -4,62 +4,6 @@
   "partidos": [
     {
       "competencia": "international friendly games",
-      "inicio": "2026-03-28T16:30:00-03:00",
-      "local": {
-        "nombre": "USA",
-        "logo": "escudos/manual/usa.png"
-      },
-      "visita": {
-        "nombre": "Belgium",
-        "logo": "escudos/manual/belgium.png"
-      },
-      "link": "https://is.gd/usavsbel0328",
-      "sofaId": "15184402"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-28T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "visita": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "link": "https://is.gd/pumvssw0328",
-      "sofaId": "15416170"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-28T18:30:00-03:00",
-      "local": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "visita": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "link": "https://is.gd/ulcvsdls0328",
-      "sofaId": "15868600"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-28T20:30:00-03:00",
-      "local": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "visita": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "link": "https://is.gd/curvscop0328",
-      "sofaId": "15416169"
-    },
-    {
-      "competencia": "international friendly games",
       "inicio": "2026-03-28T22:00:00-03:00",
       "local": {
         "nombre": "Mexico",
@@ -69,7 +13,7 @@
         "nombre": "Portugal",
         "logo": "escudos/manual/portugal.png"
       },
-      "link": "https://is.gd/mexvspor0328",
+      "link": "https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?ck=eyJkMWExNjM5MTRkYjhmZmFkMmMzZTk0Zjk3OTg5NmEwZCI6Ijk3Mjg4MDBhMzk1OWFhZmRkNWIwYmNmYmYzNzY4ODExIn0%3D",
       "sofaId": "15437863"
     },
     {
