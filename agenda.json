@@ -3,46 +3,18 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "international friendly games",
-      "inicio": "2026-03-29T16:00:00-03:00",
+      "competencia": "fifa series",
+      "inicio": "2026-03-30T00:00:00-03:00",
       "local": {
-        "nombre": "Colombia",
-        "logo": "escudos/manual/colombia.png"
+        "nombre": "Cabo Verde",
+        "logo": "escudos/manual/cabo_verde.png"
       },
       "visita": {
-        "nombre": "France",
-        "logo": "escudos/manual/france.png"
+        "nombre": "Finland",
+        "logo": "escudos/manual/finland.png"
       },
-      "link": "https://is.gd/colvsfra0329",
-      "sofaId": "15655701"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-29T18:00:00-03:00",
-      "local": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "visita": {
-        "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "link": "https://is.gd/cocvsusf0329",
-      "sofaId": "15416168"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-29T20:30:00-03:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "visita": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/santacruz.png"
-      },
-      "link": "https://is.gd/slqvscru0329",
-      "sofaId": "15416173"
+      "link": "https://is.gd/cpvvsfin0330",
+      "sofaId": "15400664"
     },
     {
       "competencia": "fifa series",
