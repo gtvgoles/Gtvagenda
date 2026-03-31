@@ -3,76 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "fifa series",
-      "inicio": "2026-03-30T03:00:00-03:00",
-      "local": {
-        "nombre": "New Zealand",
-        "logo": "escudos/manual/new_zealand.png"
-      },
-      "visita": {
-        "nombre": "Chile",
-        "logo": "escudos/manual/chile.png"
-      },
-      "link": "https://is.gd/nzlvschi0330",
-      "sofaId": "15718024"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-03-30T18:00:00-03:00",
-      "local": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "visita": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "link": "https://is.gd/magvsran0330",
-      "sofaId": "15416171"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-30T18:00:00-03:00",
-      "local": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://is.gd/cobvsuc0330",
-      "sofaId": "15683243"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-30T20:30:00-03:00",
-      "local": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "link": "https://is.gd/ucovsnub0330",
-      "sofaId": "15683247"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-30T20:30:00-03:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/palvsohf0330",
-      "sofaId": "15683251"
-    },
-    {
       "competencia": "copa_liga",
       "inicio": "2026-03-31T18:00:00-03:00",
       "local": {
@@ -1037,6 +967,118 @@
       },
       "link": "https://is.gd/ccvscoq0503",
       "sofaId": "15353018"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/cocvsant0503",
+      "sofaId": "15416200"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/magvscop0503",
+      "sofaId": "15416201"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/cruvsiqu0503",
+      "sofaId": "15416199"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Rangers de Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/ranvspum0503",
+      "sofaId": "15416202"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/slqvsusf0503",
+      "sofaId": "15416204"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/smavsrec0503",
+      "sofaId": "15416205"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/swvsdtm0503",
+      "sofaId": "15416203"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-03T18:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/espvscur0503",
+      "sofaId": "15416206"
     }
   ]
 }
