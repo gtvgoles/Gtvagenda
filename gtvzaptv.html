@@ -1,0 +1,1617 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>GTV Zapping Responsive</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js"></script>
+<style>
+  :root {
+    --bg: #07111f;
+    --bg-soft: rgba(10, 18, 32, 0.78);
+    --panel: rgba(10, 18, 32, 0.72);
+    --panel-strong: rgba(8, 14, 26, 0.92);
+    --border: rgba(255,255,255,0.08);
+    --border-strong: rgba(255,255,255,0.14);
+    --text: #f7f9ff;
+    --muted: #9db0cd;
+    --accent: #ff3b4d;
+    --accent-soft: rgba(255,59,77,0.18);
+    --success: #45d483;
+    --info: #6db7ff;
+    --shadow: 0 18px 60px rgba(0,0,0,0.34);
+    --radius-xl: 26px;
+    --radius-lg: 20px;
+    --radius-md: 16px;
+    --sidebar-width: 330px;
+    --header-height: 82px;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    color: var(--text);
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background:
+      radial-gradient(circle at top left, rgba(255,59,77,0.16), transparent 28%),
+      radial-gradient(circle at top right, rgba(109,183,255,0.12), transparent 24%),
+      linear-gradient(180deg, #08111e 0%, #060c16 100%);
+    overflow: hidden;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background:
+      linear-gradient(120deg, rgba(255,255,255,0.025) 0%, transparent 36%),
+      radial-gradient(circle at bottom, rgba(255,255,255,0.03), transparent 35%);
+    pointer-events: none;
+  }
+
+  .app {
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 18px;
+    gap: 14px;
+  }
+
+  #topBar {
+    min-height: var(--header-height);
+    border: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(17,27,45,0.85), rgba(9,15,27,0.82));
+    border-radius: 28px;
+    box-shadow: var(--shadow);
+    padding: 14px 18px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 14px;
+    backdrop-filter: blur(18px);
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    min-width: 0;
+  }
+
+  #logo {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    border-radius: 18px;
+    background: linear-gradient(145deg, #ff4658, #b61123);
+    color: white;
+    font-size: 19px;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    box-shadow: 0 12px 28px rgba(229, 9, 20, 0.3);
+    flex-shrink: 0;
+  }
+
+  .brand-text {
+    min-width: 0;
+  }
+
+  .brand-title {
+    font-size: 1.1rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+  }
+
+  .brand-subtitle {
+    margin-top: 2px;
+    font-size: 0.82rem;
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .status-strip {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    min-width: 0;
+  }
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 38px;
+    padding: 8px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: rgba(255,255,255,0.04);
+    color: var(--muted);
+    font-size: 0.86rem;
+    backdrop-filter: blur(10px);
+    white-space: nowrap;
+    max-width: 100%;
+  }
+
+  #authStatus {
+    font-weight: 700;
+    color: var(--text);
+  }
+  #authStatus.ok { background: rgba(69,212,131,0.16); border-color: rgba(69,212,131,0.26); color: #b7ffd4; }
+  #authStatus.err { background: rgba(255,80,80,0.16); border-color: rgba(255,80,80,0.26); color: #ffd0d4; }
+  #authStatus.loading { background: rgba(109,183,255,0.16); border-color: rgba(109,183,255,0.26); color: #cce6ff; }
+
+  #hbStatus, #tokenInfo {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .top-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  .action-btn {
+    appearance: none;
+    border: 1px solid var(--border-strong);
+    background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0.04));
+    color: var(--text);
+    border-radius: 999px;
+    min-height: 44px;
+    padding: 0 16px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform .14s ease, border-color .14s ease, background .14s ease, box-shadow .14s ease;
+    backdrop-filter: blur(10px);
+  }
+  .action-btn:hover {
+    transform: translateY(-1px);
+    border-color: rgba(255,255,255,0.24);
+    background: linear-gradient(180deg, rgba(255,255,255,0.12), rgba(255,255,255,0.06));
+  }
+  .action-btn:active {
+    transform: translateY(0);
+  }
+  .action-btn:disabled {
+    opacity: .45;
+    cursor: not-allowed;
+    transform: none;
+  }
+  .action-btn.focused,
+  .action-btn:focus-visible {
+    outline: none;
+    border-color: rgba(255,59,77,0.9);
+    box-shadow: 0 0 0 3px rgba(255,59,77,0.25), 0 10px 24px rgba(0,0,0,0.2);
+    background: linear-gradient(180deg, rgba(255,59,77,0.25), rgba(255,59,77,0.12));
+  }
+
+  .action-btn.primary {
+    background: linear-gradient(180deg, rgba(255,59,77,0.92), rgba(204,20,39,0.84));
+    border-color: rgba(255,89,104,0.7);
+    box-shadow: 0 10px 22px rgba(255,59,77,0.22);
+  }
+  .action-btn.primary:hover {
+    background: linear-gradient(180deg, rgba(255,82,98,1), rgba(214,27,46,0.92));
+  }
+
+  #main {
+    flex: 1;
+    min-height: 0;
+    display: grid;
+    grid-template-columns: minmax(290px, var(--sidebar-width)) minmax(0, 1fr);
+    gap: 14px;
+  }
+
+  .panel {
+    border: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(15,24,40,0.84), rgba(8,14,26,0.86));
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow);
+    backdrop-filter: blur(18px);
+  }
+
+  #sidebar {
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .sidebar-head {
+    padding: 16px 16px 12px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .sidebar-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .sidebar-title {
+    font-size: 1rem;
+    font-weight: 800;
+  }
+
+  .sidebar-meta {
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+
+  #closeSidebarBtn {
+    display: none;
+  }
+
+  #search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 14px;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    background: rgba(255,255,255,0.035);
+  }
+
+  .search-icon {
+    color: var(--muted);
+    font-size: 1rem;
+  }
+
+  #searchInput {
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: transparent;
+    color: var(--text);
+    font-size: 0.98rem;
+  }
+  #searchInput::placeholder {
+    color: #7f90a8;
+  }
+
+  #channelList {
+    flex: 1;
+    overflow: auto;
+    padding: 10px;
+  }
+
+  #channelList::-webkit-scrollbar {
+    width: 9px;
+  }
+  #channelList::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.16);
+    border-radius: 999px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+
+  .channel-item {
+    display: grid;
+    grid-template-columns: 42px 54px minmax(0, 1fr);
+    align-items: center;
+    gap: 12px;
+    padding: 12px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.035);
+    transition: background .14s ease, transform .14s ease, border-color .14s ease, box-shadow .14s ease;
+  }
+  .channel-item:hover {
+    background: rgba(255,255,255,0.07);
+    border-color: rgba(255,255,255,0.08);
+    transform: translateY(-1px);
+  }
+  .channel-item.active {
+    background:
+      linear-gradient(180deg, rgba(255,59,77,0.19), rgba(255,59,77,0.11)),
+      rgba(255,255,255,0.04);
+    border-color: rgba(255,59,77,0.32);
+    box-shadow: inset 0 0 0 1px rgba(255,59,77,0.24);
+  }
+  .channel-item.focused {
+    background: rgba(255,255,255,0.1);
+    border-color: rgba(255,59,77,0.7);
+    box-shadow: 0 0 0 3px rgba(255,59,77,0.18), 0 12px 26px rgba(0,0,0,0.18);
+  }
+
+  .channel-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 36px;
+    border-radius: 14px;
+    background: rgba(255,255,255,0.06);
+    color: #c8d4e8;
+    font-size: 0.84rem;
+    font-weight: 800;
+  }
+
+  .channel-logo {
+    width: 54px;
+    height: 34px;
+    object-fit: contain;
+    filter: drop-shadow(0 6px 10px rgba(0,0,0,.18));
+  }
+
+  .channel-name {
+    min-width: 0;
+    font-size: 0.98rem;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--text);
+  }
+
+  #playerArea {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  #heroBar {
+    padding: 16px 18px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 14px;
+    align-items: center;
+  }
+
+  .hero-copy {
+    min-width: 0;
+  }
+
+  .hero-label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 6px;
+  }
+
+  #nowPlayingName {
+    display: block;
+    font-size: clamp(1.05rem, 1.8vw, 1.5rem);
+    font-weight: 850;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  #nowPlayingStatus {
+    display: inline-flex;
+    margin-top: 8px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid var(--border);
+    color: #d4deef;
+    font-size: .9rem;
+  }
+
+  #playerActions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+
+  #videoFrame {
+    position: relative;
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
+    border-radius: var(--radius-xl);
+  }
+
+  #videoContainer {
+    position: relative;
+    height: 100%;
+    min-height: 320px;
+    background:
+      radial-gradient(circle at top right, rgba(255,59,77,.08), transparent 18%),
+      linear-gradient(180deg, #01060d, #050a12 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  #videoContainer::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(180deg, rgba(7,12,22,0.15), rgba(7,12,22,0.62)),
+      radial-gradient(circle at center, transparent 30%, rgba(0,0,0,0.18) 100%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  #video {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: transparent;
+  }
+
+  #placeholder {
+    position: relative;
+    z-index: 1;
+    max-width: 580px;
+    text-align: center;
+    padding: 38px 24px;
+    color: var(--muted);
+  }
+
+  #placeholder .icon {
+    font-size: clamp(56px, 8vw, 96px);
+    margin-bottom: 16px;
+  }
+
+  #placeholder h2 {
+    margin: 0 0 10px;
+    font-size: clamp(1.3rem, 3vw, 2rem);
+    color: var(--text);
+  }
+
+  #placeholder p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.65;
+  }
+
+  .overlay-top {
+    position: absolute;
+    inset: 14px 14px auto 14px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    z-index: 3;
+    pointer-events: none;
+  }
+
+  .overlay-card {
+    pointer-events: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    border-radius: 18px;
+    border: 1px solid var(--border);
+    background: rgba(4,8,16,0.6);
+    backdrop-filter: blur(14px);
+    color: #dce7f8;
+    font-size: 0.9rem;
+  }
+
+  #tvHint {
+    position: static;
+    max-width: 100%;
+  }
+
+  #loadingOverlay {
+    position: absolute;
+    inset: 0;
+    z-index: 4;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    background: rgba(2,5,10,0.72);
+    backdrop-filter: blur(10px);
+  }
+  #loadingOverlay.visible {
+    display: flex;
+  }
+
+  .spinner {
+    width: 54px;
+    height: 54px;
+    border: 4px solid rgba(255,255,255,0.14);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+  }
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  #toast {
+    position: absolute;
+    left: 50%;
+    bottom: 22px;
+    transform: translateX(-50%);
+    min-width: 180px;
+    max-width: min(92vw, 620px);
+    padding: 12px 18px;
+    border-radius: 18px;
+    display: none;
+    z-index: 8;
+    text-align: center;
+    font-size: 0.95rem;
+    font-weight: 700;
+    box-shadow: 0 18px 32px rgba(0,0,0,0.25);
+    backdrop-filter: blur(12px);
+  }
+  #toast.visible { display: block; }
+  #toast.err  { background: rgba(192,57,43,0.94); color: #fff; }
+  #toast.ok   { background: rgba(39,174,96,0.94); color: #fff; }
+  #toast.info { background: rgba(42,90,138,0.94); color: #fff; }
+
+  #sidebarScrim {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .2s ease;
+    z-index: 20;
+  }
+
+  @media (max-width: 1200px) {
+    .app { padding: 14px; }
+    #topBar { grid-template-columns: 1fr; justify-items: stretch; }
+    .top-actions { justify-content: flex-start; }
+    #main { grid-template-columns: 300px minmax(0, 1fr); }
+  }
+
+  @media (max-width: 900px) {
+    :root {
+      --header-height: auto;
+    }
+    .app {
+      padding: 12px;
+      gap: 12px;
+    }
+    #topBar {
+      padding: 14px;
+      border-radius: 24px;
+      gap: 12px;
+    }
+    .brand {
+      width: 100%;
+    }
+    .status-strip {
+      order: 3;
+    }
+    .top-actions {
+      width: 100%;
+      justify-content: space-between;
+    }
+    #main {
+      grid-template-columns: 1fr;
+    }
+    #sidebarScrim {
+      display: block;
+    }
+    #sidebar {
+      position: fixed;
+      left: 12px;
+      right: 12px;
+      bottom: 12px;
+      top: 92px;
+      z-index: 24;
+      transform: translateY(104%);
+      transition: transform .24s ease;
+    }
+    body.sidebar-open #sidebar {
+      transform: translateY(0);
+    }
+    body.sidebar-open #sidebarScrim {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    #closeSidebarBtn {
+      display: inline-flex;
+    }
+    #heroBar {
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+    #playerActions {
+      justify-content: stretch;
+    }
+    #playerActions .action-btn {
+      flex: 1 1 calc(50% - 10px);
+      justify-content: center;
+    }
+    #videoContainer {
+      min-height: calc(100vh - 260px);
+      border-radius: 24px;
+    }
+    .overlay-top {
+      inset: 12px 12px auto 12px;
+      flex-direction: column;
+      align-items: stretch;
+    }
+    #tvHint {
+      display: none;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .brand-title {
+      font-size: 1rem;
+    }
+    .brand-subtitle {
+      white-space: normal;
+    }
+    .pill {
+      max-width: 100%;
+      white-space: normal;
+    }
+    #logo {
+      width: 46px;
+      height: 46px;
+      border-radius: 16px;
+      font-size: 17px;
+    }
+    .action-btn {
+      min-height: 46px;
+      font-size: 0.92rem;
+    }
+    #playerActions .action-btn {
+      flex: 1 1 100%;
+    }
+    #videoContainer {
+      min-height: 300px;
+    }
+    .channel-item {
+      grid-template-columns: 38px 50px minmax(0, 1fr);
+      gap: 10px;
+      padding: 11px;
+    }
+    .channel-name {
+      font-size: 0.95rem;
+    }
+  }
+
+  @media (min-width: 1400px) {
+    :root {
+      --sidebar-width: 380px;
+    }
+    #topBar {
+      padding: 18px 22px;
+    }
+    .action-btn {
+      min-height: 50px;
+      padding-inline: 18px;
+      font-size: 0.96rem;
+    }
+    .channel-item {
+      padding: 14px;
+    }
+    .channel-name {
+      font-size: 1.02rem;
+    }
+    #playerActions .action-btn {
+      min-width: 168px;
+    }
+    #videoContainer {
+      min-height: 520px;
+    }
+  }
+
+  @media (pointer: coarse), (hover: none) {
+    .action-btn,
+    .channel-item {
+      min-height: 48px;
+    }
+  }
+</style>
+</head>
+<body>
+<div id="sidebarScrim"></div>
+<div class="app">
+  <div id="topBar">
+    <div class="brand">
+      <span id="logo">GTV</span>
+      <div class="brand-text">
+        <div class="brand-title">GTV Zapping</div>
+        <div class="brand-subtitle">Diseño responsive para celular, TV y computador</div>
+      </div>
+    </div>
+
+    <div class="status-strip">
+      <span id="authStatus" class="pill loading">Cargando tokens...</span>
+      <span id="hbStatus" class="pill">Heartbeat pendiente</span>
+      <span id="tokenInfo" class="pill">Sin token</span>
+    </div>
+
+    <div class="top-actions">
+      <button id="toggleSidebarBtn" class="action-btn" type="button" aria-expanded="false">Canales</button>
+      <button id="switchTokenBtn" class="action-btn" type="button" title="Cambiar a otro token al azar">Cambiar token</button>
+    </div>
+  </div>
+
+  <div id="main">
+    <aside id="sidebar" class="panel">
+      <div class="sidebar-head">
+        <div class="sidebar-title-row">
+          <div>
+            <div class="sidebar-title">Lista de canales</div>
+            <div id="channelCount" class="sidebar-meta">0 canales</div>
+          </div>
+          <button id="closeSidebarBtn" class="action-btn" type="button">Cerrar</button>
+        </div>
+        <div id="search">
+          <span class="search-icon">⌕</span>
+          <input type="text" id="searchInput" placeholder="Buscar canal...">
+        </div>
+      </div>
+      <div id="channelList"></div>
+    </aside>
+
+    <section id="playerArea">
+      <div id="heroBar" class="panel">
+        <div class="hero-copy">
+          <div class="hero-label">Reproducción actual</div>
+          <span id="nowPlayingName">Selecciona un canal</span>
+          <span id="nowPlayingStatus">Listo para reproducir</span>
+        </div>
+        <div id="playerActions">
+          <button id="reconnectBtn" class="action-btn" type="button" disabled>Reconectar</button>
+          <button id="refreshBtn" class="action-btn" type="button" disabled>Refrescar</button>
+          <button id="fullscreenBtn" class="action-btn primary" type="button">Pantalla completa</button>
+        </div>
+      </div>
+
+      <div id="videoFrame" class="panel">
+        <div id="videoContainer">
+          <div class="overlay-top">
+            <div class="overlay-card">Último canal y token quedan guardados localmente.</div>
+            <div id="tvHint" class="overlay-card">↑↓ moverte · Enter abrir · → botones · F pantalla completa · R reconectar</div>
+          </div>
+
+          <div id="placeholder">
+            <div class="icon">📺</div>
+            <h2>Elige un canal y empieza al instante</h2>
+            <p>La interfaz se adapta a pantallas táctiles, control remoto y teclado. Si estás en celular, abre <strong>Canales</strong>; si estás en TV o PC, navega con flechas o mouse.</p>
+          </div>
+
+          <video id="video" controls autoplay style="display:none"></video>
+
+          <div id="loadingOverlay">
+            <div class="spinner"></div>
+            <span style="font-size:0.98rem;color:#dce7f8;font-weight:700">Cargando canal...</span>
+          </div>
+
+          <div id="toast"></div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<script>
+const CANALES = [{"id": 52, "name": "24 Horas", "image": "24horas", "url": "https://ringeling.zappingtv.com/v1/24h/auto.smil/playlist.m3u8", "number": 7, "locked": false}, {"id": 142, "name": "CNN Chile", "image": "cnnchile", "url": "https://ringeling.zappingtv.com/v1/cnnchile/auto.smil/playlist.m3u8", "number": 8, "locked": false}, {"id": 2551, "name": "Meganoticias", "image": "meganoticias", "url": "https://ringeling.zappingtv.com/v1/meganoticias/auto.smil/playlist.m3u8", "number": 9, "locked": false}, {"id": 202, "name": "Bio Bio TV", "image": "biobio", "url": "https://ringeling.zappingtv.com/v1/biobiotv/auto.smil/playlist.m3u8", "number": 10, "locked": false}, {"id": 2391, "name": "CHV Noticias", "image": "chvnoticias", "url": "https://ringeling.zappingtv.com/v1/chvnoticias/auto.smil/playlist.m3u8", "number": 11, "locked": false}, {"id": 12, "name": "T13", "image": "t13", "url": "https://ringeling.zappingtv.com/v1/132/auto.smil/playlist.m3u8", "number": 13, "locked": false}, {"id": 225, "name": "Zapping Channel", "image": "zapping-channel1", "url": "https://ringeling.zappingtv.com/v1/zc2/auto.smil/playlist.m3u8", "number": 17, "locked": false}, {"id": 222, "name": "Zapping Mix", "image": "zmix", "url": "https://ringeling.zappingtv.com/v1/zc1/auto.smil/playlist.m3u8", "number": 18, "locked": false}, {"id": 5, "name": "TVN", "image": "tvn", "url": "https://ringeling.zappingtv.com/v1/tvno/auto.smil/playlist.m3u8", "number": 19, "locked": false}, {"id": 4, "name": "Mega", "image": "mega", "url": "https://ringeling.zappingtv.com/v1/mega/auto.smil/playlist.m3u8", "number": 20, "locked": false}, {"id": 6, "name": "Chilevisión", "image": "chv", "url": "https://ringeling.zappingtv.com/v1/chv/auto.smil/playlist.m3u8", "number": 21, "locked": false}, {"id": 3, "name": "Canal 13", "image": "canal13", "url": "https://ringeling.zappingtv.com/v1/13/auto.smil/playlist.m3u8", "number": 22, "locked": false}, {"id": 51, "name": "13C", "image": "13cable", "url": "https://ringeling.zappingtv.com/v1/13c/auto.smil/playlist.m3u8", "number": 23, "locked": false}, {"id": 91, "name": "REC TV", "image": "rec", "url": "https://ringeling.zappingtv.com/v1/rectv/auto.smil/playlist.m3u8", "number": 24, "locked": false}, {"id": 742, "name": "TVN3", "image": "tvn3", "url": "https://ringeling.zappingtv.com/v1/tvn3/auto.smil/playlist.m3u8", "number": 25, "locked": false}, {"id": 289, "name": "Mega Ficción", "image": "megaficcion", "url": "https://ringeling.zappingtv.com/v1/megaficcion/auto.smil/playlist.m3u8", "number": 26, "locked": false}, {"id": 1622, "name": "Mega 2", "image": "mega2", "url": "https://ringeling.zappingtv.com/v1/mega2/auto.smil/playlist.m3u8", "number": 27, "locked": false}, {"id": 165, "name": "La Red", "image": "lared", "url": "https://ringeling.zappingtv.com/v1/lared/auto.smil/playlist.m3u8", "number": 28, "locked": false}, {"id": 13, "name": "TV +", "image": "tvmas", "url": "https://ringeling.zappingtv.com/v1/tvm/auto.smil/playlist.m3u8", "number": 29, "locked": false}, {"id": 156, "name": "TNT Sports", "image": "tntsports3", "url": "https://ringeling.zappingtv.com/v1/tntsports3/sport.smil/playlist.m3u8", "number": 35, "locked": false}, {"id": 164, "name": "TNT Sports Premium", "image": "tntsportshd", "url": "https://ringeling.zappingtv.com/v1/tntsportshd/sport.smil/playlist.m3u8", "number": 36, "locked": false}, {"id": 332, "name": "Zapping Sports", "image": "zappingsports", "url": "https://ringeling.zappingtv.com/v1/zappingsports/sport.smil/playlist.m3u8", "number": 39, "locked": false}, {"id": 171, "name": "ESPN 3", "image": "espn3", "url": "https://ringeling.zappingtv.com/v1/espn3/sport.smil/playlist.m3u8", "number": 47, "locked": false}, {"id": 7, "name": "Teletrak", "image": "teletrak", "url": "https://ringeling.zappingtv.com/v1/teletrak/auto.smil/playlist.m3u8", "number": 52, "locked": false}, {"id": 188, "name": "Cuenta Cuentos", "image": "ccuentos", "url": "https://ringeling.zappingtv.com/v1/cuenta_cuentos/auto.smil/playlist.m3u8", "number": 80, "locked": false}, {"id": 184, "name": "NTV", "image": "ntv", "url": "https://ringeling.zappingtv.com/v1/tveducachile/auto.smil/playlist.m3u8", "number": 84, "locked": false}, {"id": 173, "name": "ETC", "image": "etc", "url": "https://ringeling.zappingtv.com/v1/etctv/auto.smil/playlist.m3u8", "number": 90, "locked": false}, {"id": 288, "name": "Senpai TV", "image": "senpaitv", "url": "https://ringeling.zappingtv.com/v1/senpaitv/auto.smil/playlist.m3u8", "number": 91, "locked": false}, {"id": 221, "name": "Nexoplay", "image": "nexoplay", "url": "https://ringeling.zappingtv.com/v1/nexoplay/auto.smil/playlist.m3u8", "number": 95, "locked": false}, {"id": 3851, "name": "Zapping Popcorn", "image": "zm-popcorn", "url": "https://ringeling.zappingtv.com/v1/zm-popcorn/auto.smil/playlist.m3u8", "number": 99, "locked": false}, {"id": 233, "name": "HBO 2", "image": "hbo2", "url": "https://ringeling.zappingtv.com/v1/hbo2/auto.smil/playlist.m3u8", "number": 100, "locked": false}, {"id": 126, "name": "TNT Series", "image": "tntseries", "url": "https://ringeling.zappingtv.com/v1/tntseries/auto.smil/playlist.m3u8", "number": 102, "locked": false}, {"id": 257, "name": "Playboy", "image": "playboy", "url": "https://ringeling.zappingtv.com/v1/playboy/auto.smil/playlist.m3u8", "number": 144, "locked": false}, {"id": 232, "name": "HBO", "image": "hbo", "url": "https://ringeling.zappingtv.com/v1/hbo/auto.smil/playlist.m3u8", "number": 145, "locked": false}, {"id": 3911, "name": "HBO 2", "image": "hbo2b", "url": "https://ringeling.zappingtv.com/v1/hbo2/auto.smil/playlist.m3u8", "number": 146, "locked": false}, {"id": 239, "name": "HBO Family", "image": "hbofamily", "url": "https://ringeling.zappingtv.com/v1/hbofamily/auto.smil/playlist.m3u8", "number": 147, "locked": false}, {"id": 234, "name": "HBO Plus", "image": "hboplus", "url": "https://ringeling.zappingtv.com/v1/hboplus/auto.smil/playlist.m3u8", "number": 148, "locked": false}, {"id": 237, "name": "HBO Xtreme", "image": "hboxtreme", "url": "https://ringeling.zappingtv.com/v1/hboxtreme/auto.smil/playlist.m3u8", "number": 149, "locked": false}, {"id": 240, "name": "HBO Signature", "image": "hbosignature", "url": "https://ringeling.zappingtv.com/v1/hbosignature/auto.smil/playlist.m3u8", "number": 150, "locked": false}, {"id": 235, "name": "HBO Pop", "image": "hbopop", "url": "https://ringeling.zappingtv.com/v1/hbopop/auto.smil/playlist.m3u8", "number": 151, "locked": false}, {"id": 236, "name": "HBO Mundi", "image": "hbomundi", "url": "https://ringeling.zappingtv.com/v1/hbomundi/auto.smil/playlist.m3u8", "number": 152, "locked": false}, {"id": 245, "name": "Universal Premier", "image": "universalpremier", "url": "https://ringeling.zappingtv.com/v1/universalpremier/auto.smil/playlist.m3u8", "number": 153, "locked": false}, {"id": 246, "name": "Universal Reality", "image": "universalreality", "url": "https://ringeling.zappingtv.com/v1/universalreality/auto.smil/playlist.m3u8", "number": 154, "locked": false}, {"id": 249, "name": "Universal Cinema", "image": "universalcinema", "url": "https://ringeling.zappingtv.com/v1/universalcinema/auto.smil/playlist.m3u8", "number": 155, "locked": false}, {"id": 247, "name": "Universal Crime", "image": "universalcrime", "url": "https://ringeling.zappingtv.com/v1/universalcrime/auto.smil/playlist.m3u8", "number": 156, "locked": false}, {"id": 248, "name": "Universal Comedy", "image": "universalcomedy", "url": "https://ringeling.zappingtv.com/v1/universalcomedy/auto.smil/playlist.m3u8", "number": 157, "locked": false}, {"id": 10, "name": "Cámara de Diputados TV", "image": "camara", "url": "https://ringeling.zappingtv.com/v1/diputados/auto.smil/playlist.m3u8", "number": 160, "locked": false}, {"id": 11, "name": "TV Senado", "image": "tvsenado", "url": "https://ringeling.zappingtv.com/v1/senado/auto.smil/playlist.m3u8", "number": 161, "locked": false}, {"id": 204, "name": "Tevex", "image": "tevex", "url": "https://ringeling.zappingtv.com/v1/tevex/auto.smil/playlist.m3u8", "number": 162, "locked": false}, {"id": 4861, "name": "UChileTV", "image": "uchiletvcl", "url": "https://ringeling.zappingtv.com/v1/uchiletvcl/auto.smil/playlist.m3u8", "number": 163, "locked": false}, {"id": 93, "name": "TVMas2", "image": "tvmas2", "url": "https://ringeling.zappingtv.com/v1/tateti/auto.smil/playlist.m3u8", "number": 164, "locked": false}, {"id": 291, "name": "Mi Radio TV", "image": "miradiotv", "url": "https://ringeling.zappingtv.com/v1/miradiotv/auto.smil/playlist.m3u8", "number": 165, "locked": false}, {"id": 292, "name": "Agricultura TV ", "image": "agriculturatv", "url": "https://ringeling.zappingtv.com/v1/agriculturatv/auto.smil/playlist.m3u8", "number": 166, "locked": false}, {"id": 282, "name": "Antofagasta TV", "image": "antofagastatv", "url": "https://ringeling.zappingtv.com/v1/antofagastatv/auto.smil/playlist.m3u8", "number": 167, "locked": false}, {"id": 4771, "name": "Marga Marga TV", "image": "margamargatv", "url": "https://ringeling.zappingtv.com/v1/margamargatv/auto.smil/playlist.m3u8", "number": 168, "locked": false}, {"id": 73, "name": "UCV", "image": "ucv3", "url": "https://ringeling.zappingtv.com/v1/ucv3o/auto.smil/playlist.m3u8", "number": 169, "locked": false}, {"id": 283, "name": "VTV Quillota", "image": "vtvquillota", "url": "https://ringeling.zappingtv.com/v1/vtvquillota/auto.smil/playlist.m3u8", "number": 170, "locked": false}, {"id": 4791, "name": "Visión Plus TV", "image": "visionplus", "url": "https://ringeling.zappingtv.com/v1/visionplus/auto.smil/playlist.m3u8", "number": 171, "locked": false}, {"id": 181, "name": "UESTV", "image": "uestv", "url": "https://ringeling.zappingtv.com/v1/uestvcl/auto.smil/playlist.m3u8", "number": 172, "locked": false}, {"id": 182, "name": "STGO.TV", "image": "stgotv", "url": "https://ringeling.zappingtv.com/v1/stgotv/auto.smil/playlist.m3u8", "number": 173, "locked": false}, {"id": 290, "name": "El Centro TV", "image": "centrotv", "url": "https://ringeling.zappingtv.com/v1/centrotv/auto.smil/playlist.m3u8", "number": 174, "locked": false}, {"id": 279, "name": "TVR", "image": "tvr", "url": "https://ringeling.zappingtv.com/v1/tvr/auto.smil/playlist.m3u8", "number": 175, "locked": false}, {"id": 293, "name": "ISB", "image": "isb", "url": "https://ringeling.zappingtv.com/v1/isb/auto.smil/playlist.m3u8", "number": 176, "locked": false}, {"id": 286, "name": "Canal 2 San Antonio", "image": "c2sanantonio", "url": "https://ringeling.zappingtv.com/v1/c2sanantonio/auto.smil/playlist.m3u8", "number": 178, "locked": false}, {"id": 17, "name": "Canal 9 Bío-Bío", "image": "canal9", "url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8", "number": 179, "locked": false}, {"id": 280, "name": "TVU", "image": "tvu", "url": "https://ringeling.zappingtv.com/v1/tvu/auto.smil/playlist.m3u8", "number": 180, "locked": false}, {"id": 281, "name": "UATV", "image": "uatv", "url": "https://ringeling.zappingtv.com/v1/uatv/auto.smil/playlist.m3u8", "number": 181, "locked": false}, {"id": 285, "name": "TeleAngol", "image": "teleangol", "url": "https://ringeling.zappingtv.com/v1/teleangol/auto.smil/playlist.m3u8", "number": 182, "locked": false}, {"id": 284, "name": "Canal 2 Quellón", "image": "c2quellon", "url": "https://ringeling.zappingtv.com/v1/c2quellon/auto.smil/playlist.m3u8", "number": 183, "locked": false}, {"id": 203, "name": "ITV", "image": "itv", "url": "https://ringeling.zappingtv.com/v1/itv/auto.smil/playlist.m3u8", "number": 185, "locked": false}, {"id": 287, "name": "Patagonia Radio Televisión", "image": "patagoniartv", "url": "https://ringeling.zappingtv.com/v1/patagoniartv/auto.smil/playlist.m3u8", "number": 186, "locked": false}, {"id": 4781, "name": "La Nuestra, radio streaming", "image": "lanuestracl", "url": "https://ringeling.zappingtv.com/v1/lanuestracl/auto.smil/playlist.m3u8", "number": 193, "locked": false}, {"id": 3151, "name": "La Metro FM", "image": "lametro", "url": "https://ringeling.zappingtv.com/v1/lametro/auto.smil/playlist.m3u8", "number": 194, "locked": false}, {"id": 135, "name": "Carolina TV", "image": "carolinatv", "url": "https://ringeling.zappingtv.com/v1/carolinatv/auto.smil/playlist.m3u8", "number": 195, "locked": false}, {"id": 134, "name": "Radio Romantica", "image": "romantica", "url": "https://ringeling.zappingtv.com/v1/romantica/auto.smil/playlist.m3u8", "number": 196, "locked": false}, {"id": 136, "name": "Radio Infinita", "image": "radioinfinita", "url": "https://ringeling.zappingtv.com/v1/infinitatv/auto.smil/playlist.m3u8", "number": 197, "locked": false}, {"id": 208, "name": "Radio Hoy", "image": "radiohoy", "url": "https://ringeling.zappingtv.com/v1/radiohoy/auto.smil/playlist.m3u8", "number": 198, "locked": false}, {"id": 60, "name": "Zapping Music Retro", "image": "music-retro", "url": "https://ringeling.zappingtv.com/v1/zm-retro/auto.smil/playlist.m3u8", "number": 200, "locked": false}, {"id": 61, "name": "Zapping Music Indie", "image": "music-indie", "url": "https://ringeling.zappingtv.com/v1/zm-indie/auto.smil/playlist.m3u8", "number": 201, "locked": false}, {"id": 1722, "name": "Zapping Music Soft Pop", "image": "music-softpop", "url": "https://ringeling.zappingtv.com/v1/zm-softpop/auto.smil/playlist.m3u8", "number": 202, "locked": false}, {"id": 94, "name": "Zapping Music Classics", "image": "music-classics", "url": "https://ringeling.zappingtv.com/v1/zm-classics/auto.smil/playlist.m3u8", "number": 203, "locked": false}, {"id": 1712, "name": "Zapping Music Punch", "image": "music-punch", "url": "https://ringeling.zappingtv.com/v1/zm-punch/auto.smil/playlist.m3u8", "number": 204, "locked": false}, {"id": 258, "name": "Zapping Music Uwu", "image": "music-uwu", "url": "https://ringeling.zappingtv.com/v1/zm-uwu/auto.smil/playlist.m3u8", "number": 205, "locked": false}, {"id": 189, "name": "Zapping Music LOF-AI", "image": "music-lofi", "url": "https://ringeling.zappingtv.com/v1/zm-lofi/auto.smil/playlist.m3u8", "number": 206, "locked": false}, {"id": 63, "name": "Zapping Music Rock", "image": "music-rock", "url": "https://ringeling.zappingtv.com/v1/zm-rock/auto.smil/playlist.m3u8", "number": 207, "locked": false}, {"id": 62, "name": "Zapping Music Hits", "image": "music-hits", "url": "https://ringeling.zappingtv.com/v1/zm-hits/auto.smil/playlist.m3u8", "number": 208, "locked": false}, {"id": 57, "name": "Zapping Music Chile", "image": "music-chile", "url": "https://ringeling.zappingtv.com/v1/zm-chile/auto.smil/playlist.m3u8", "number": 209, "locked": false}];
+
+const HB_URL = 'https://drhouse.zappingtv.com/hb/v1/webplayer/';
+const HB_INTERVAL_MS = 2 * 60 * 1000;
+const TOKEN_STICKY_MS = 12 * 60 * 60 * 1000;
+const TOKEN_STORAGE_KEY = 'gtv_zapping_active_token_v2';
+const LAST_CHANNEL_STORAGE_KEY = 'gtv_zapping_last_channel_v1';
+const SEARCH_STORAGE_KEY = 'gtv_zapping_search_v1';
+const MAX_STREAM_RETRIES = 2;
+const RETRY_DELAYS_MS = [1500, 3000];
+const LOAD_TIMEOUT_MS = 15000;
+const DIGIT_BUFFER_MS = 1200;
+
+let tokens = [];
+let activeToken = null;
+let activeId = null;
+let activeUrl = '';
+let activeName = '';
+let hls = null;
+let hbTimer = null;
+let loadTimeout = null;
+let playRequestId = 0;
+let visibleChannels = [];
+let focusedZone = 'sidebar';
+let focusedChannelId = null;
+let focusedControlIndex = 0;
+let digitBuffer = '';
+let digitTimer = null;
+
+const authStatus = document.getElementById('authStatus');
+const hbStatus = document.getElementById('hbStatus');
+const tokenInfo = document.getElementById('tokenInfo');
+const switchTokenBtn = document.getElementById('switchTokenBtn');
+const reconnectBtn = document.getElementById('reconnectBtn');
+const refreshBtn = document.getElementById('refreshBtn');
+const fullscreenBtn = document.getElementById('fullscreenBtn');
+const toggleSidebarBtn = document.getElementById('toggleSidebarBtn');
+const closeSidebarBtn = document.getElementById('closeSidebarBtn');
+const sidebarScrim = document.getElementById('sidebarScrim');
+const channelCount = document.getElementById('channelCount');
+const controlButtons = [switchTokenBtn, reconnectBtn, refreshBtn, fullscreenBtn];
+const searchInput = document.getElementById('searchInput');
+const video = document.getElementById('video');
+const placeholder = document.getElementById('placeholder');
+const loading = document.getElementById('loadingOverlay');
+const nowName = document.getElementById('nowPlayingName');
+const nowStatus = document.getElementById('nowPlayingStatus');
+const toast = document.getElementById('toast');
+const channelList = document.getElementById('channelList');
+
+let toastTimer;
+function showToast(msg, type = 'err', duration = 4000) {
+  toast.textContent = msg;
+  toast.className = 'visible ' + type;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { toast.className = ''; }, duration);
+}
+
+function setStatus(type, msg) {
+  authStatus.textContent = msg;
+  authStatus.className = type;
+}
+
+function getUuidFromJwt(jwt) {
+  try {
+    const payload = JSON.parse(atob(jwt.split('.')[1].replace(/-/g,'+').replace(/_/g,'/')));
+    return payload.uuid || '';
+  } catch(e) {
+    return '';
+  }
+}
+
+function getTokenKey(tokenObj) {
+  if (!tokenObj) return '';
+  return tokenObj.label || tokenObj.uuid || tokenObj.token;
+}
+
+function readStickyToken() {
+  try {
+    const raw = localStorage.getItem(TOKEN_STORAGE_KEY);
+    if (!raw) return null;
+    const saved = JSON.parse(raw);
+    if (!saved || !saved.stickyUntil || saved.stickyUntil < Date.now()) {
+      localStorage.removeItem(TOKEN_STORAGE_KEY);
+      return null;
+    }
+    return saved;
+  } catch (e) {
+    return null;
+  }
+}
+
+function clearStickyToken() {
+  try { localStorage.removeItem(TOKEN_STORAGE_KEY); } catch (e) {}
+}
+
+function saveStickyToken() {
+  if (!activeToken) return;
+  try {
+    localStorage.setItem(TOKEN_STORAGE_KEY, JSON.stringify({
+      token: activeToken.token,
+      uuid: activeToken.uuid,
+      label: activeToken.label,
+      stickyUntil: Date.now() + TOKEN_STICKY_MS
+    }));
+  } catch (e) {}
+  updateTokenInfo('fijo');
+}
+
+function formatRemainingMs(ms) {
+  const totalMinutes = Math.max(0, Math.floor(ms / 60000));
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+  return hours > 0 ? `${hours}h ${minutes}m` : `${minutes}m`;
+}
+
+function updateTokenInfo(prefix = 'usando') {
+  if (!activeToken) {
+    tokenInfo.textContent = '';
+    return;
+  }
+  const sticky = readStickyToken();
+  const isCurrentSticky = sticky && (
+    sticky.token === activeToken.token ||
+    sticky.uuid === activeToken.uuid ||
+    sticky.label === activeToken.label
+  );
+
+  let text = `${prefix}: ${activeToken.label}`;
+  if (isCurrentSticky) {
+    text += ` · ${formatRemainingMs(sticky.stickyUntil - Date.now())}`;
+  }
+  tokenInfo.textContent = text;
+}
+
+function findTokenFromSticky(sticky) {
+  if (!sticky) return null;
+  return tokens.find(t =>
+    (sticky.token && t.token === sticky.token) ||
+    (sticky.uuid && t.uuid === sticky.uuid) ||
+    (sticky.label && t.label === sticky.label)
+  ) || null;
+}
+
+function pickRandomToken(excludedKeys = new Set()) {
+  const pool = tokens.filter(t => !excludedKeys.has(getTokenKey(t)));
+  if (!pool.length) return null;
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+function setActiveToken(tokenObj, prefix = 'usando') {
+  activeToken = tokenObj || null;
+  updateTokenInfo(prefix);
+}
+
+function markActiveTokenWorking() {
+  if (!activeToken) return;
+  saveStickyToken();
+  setStatus('ok', `✓ ${tokens.length} token${tokens.length > 1 ? 's' : ''} cargado${tokens.length > 1 ? 's' : ''}`);
+}
+
+function invalidateCurrentToken() {
+  const sticky = readStickyToken();
+  if (!sticky || !activeToken) return;
+  if (
+    sticky.token === activeToken.token ||
+    sticky.uuid === activeToken.uuid ||
+    sticky.label === activeToken.label
+  ) {
+    clearStickyToken();
+  }
+}
+
+function useStickyOrRandomToken() {
+  const sticky = readStickyToken();
+  const stickyToken = findTokenFromSticky(sticky);
+  if (stickyToken) {
+    setActiveToken(stickyToken, 'fijo');
+    return;
+  }
+  setActiveToken(pickRandomToken(), 'usando');
+}
+
+function saveLastChannel(channel) {
+  if (!channel) return;
+  try {
+    localStorage.setItem(LAST_CHANNEL_STORAGE_KEY, JSON.stringify(channel));
+  } catch (e) {}
+}
+
+function readLastChannel() {
+  try {
+    const raw = localStorage.getItem(LAST_CHANNEL_STORAGE_KEY);
+    if (!raw) return null;
+    const saved = JSON.parse(raw);
+    if (!saved || typeof saved.id !== 'number') return null;
+    return CANALES.find(c => c.id === saved.id) || null;
+  } catch (e) {
+    return null;
+  }
+}
+
+function saveSearchTerm(value) {
+  try { localStorage.setItem(SEARCH_STORAGE_KEY, value || ''); } catch (e) {}
+}
+
+function readSearchTerm() {
+  try { return localStorage.getItem(SEARCH_STORAGE_KEY) || ''; } catch (e) { return ''; }
+}
+
+function getCurrentChannel() {
+  if (!activeId || !activeUrl || !activeName) return null;
+  return { id: activeId, url: activeUrl, name: activeName };
+}
+
+function updatePlayerButtons() {
+  const hasChannel = !!activeId;
+  reconnectBtn.disabled = !hasChannel;
+  refreshBtn.disabled = !hasChannel;
+}
+
+function isMobileLayout() {
+  return window.matchMedia('(max-width: 900px)').matches;
+}
+
+function setSidebarOpen(open) {
+  document.body.classList.toggle('sidebar-open', !!open && isMobileLayout());
+  if (toggleSidebarBtn) {
+    toggleSidebarBtn.setAttribute('aria-expanded', document.body.classList.contains('sidebar-open') ? 'true' : 'false');
+  }
+}
+
+function syncResponsiveLayout() {
+  if (!isMobileLayout()) {
+    document.body.classList.remove('sidebar-open');
+  }
+}
+
+function clearLoadTimer() {
+  clearTimeout(loadTimeout);
+  loadTimeout = null;
+}
+
+function destroyHls() {
+  clearLoadTimer();
+  if (hls) {
+    try { hls.destroy(); } catch (e) {}
+    hls = null;
+  }
+  video.onerror = null;
+}
+
+function scrollFocusedChannelIntoView() {
+  if (!focusedChannelId) return;
+  const el = channelList.querySelector(`.channel-item[data-id="${focusedChannelId}"]`);
+  if (el) {
+    el.scrollIntoView({ block: 'nearest' });
+  }
+}
+
+function applyFocusState() {
+  channelList.querySelectorAll('.channel-item').forEach(el => {
+    const isFocused = focusedZone === 'sidebar' && parseInt(el.dataset.id, 10) === focusedChannelId;
+    el.classList.toggle('focused', isFocused);
+  });
+  controlButtons.forEach((btn, idx) => {
+    btn.classList.toggle('focused', focusedZone === 'controls' && idx === focusedControlIndex);
+  });
+  if (focusedZone === 'sidebar') {
+    scrollFocusedChannelIntoView();
+  }
+}
+
+function setFocusZone(zone) {
+  focusedZone = zone;
+  if (zone === 'controls') {
+    const enabledIndexes = controlButtons.map((btn, idx) => !btn.disabled ? idx : -1).filter(idx => idx >= 0);
+    if (!enabledIndexes.length) {
+      focusedZone = 'sidebar';
+    } else if (controlButtons[focusedControlIndex]?.disabled) {
+      focusedControlIndex = enabledIndexes[0];
+    }
+  }
+  applyFocusState();
+}
+
+function setFocusedChannelById(id) {
+  if (visibleChannels.some(c => c.id === id)) {
+    focusedChannelId = id;
+  } else if (visibleChannels.length) {
+    focusedChannelId = visibleChannels[0].id;
+  } else {
+    focusedChannelId = null;
+  }
+  applyFocusState();
+}
+
+function moveFocusedChannel(step) {
+  if (!visibleChannels.length) return;
+  let idx = visibleChannels.findIndex(c => c.id === focusedChannelId);
+  if (idx < 0) idx = 0;
+  idx = (idx + step + visibleChannels.length) % visibleChannels.length;
+  focusedChannelId = visibleChannels[idx].id;
+  applyFocusState();
+}
+
+function moveFocusedControl(step) {
+  const enabledIndexes = controlButtons.map((btn, idx) => !btn.disabled ? idx : -1).filter(idx => idx >= 0);
+  if (!enabledIndexes.length) return;
+  let pos = enabledIndexes.indexOf(focusedControlIndex);
+  if (pos < 0) pos = 0;
+  pos = (pos + step + enabledIndexes.length) % enabledIndexes.length;
+  focusedControlIndex = enabledIndexes[pos];
+  applyFocusState();
+}
+
+function toggleFullscreen() {
+  const target = document.fullscreenElement ? document : document.getElementById('videoContainer');
+  if (!document.fullscreenElement) {
+    target.requestFullscreen?.().catch(() => {});
+  } else {
+    document.exitFullscreen?.().catch(() => {});
+  }
+}
+
+function rememberAndRenderChannels(filter) {
+  saveSearchTerm(filter);
+  renderChannels(filter);
+}
+
+function renderChannels(filter = '') {
+  const q = (filter || '').toLowerCase();
+  visibleChannels = CANALES.filter(c => !q || c.name.toLowerCase().includes(q));
+  if (channelCount) channelCount.textContent = `${visibleChannels.length} canales`;
+  channelList.innerHTML = visibleChannels.map(c => {
+    const logo = `https://davinci.zappingtv.com/gato/media/62/canales/white/${c.image}.png`;
+    const isActive = c.id === activeId;
+    return `<div class="channel-item ${isActive ? 'active' : ''}" data-id="${c.id}" data-url="${c.url}" data-name="${c.name}">
+      <span class="channel-num">${c.number}</span>
+      <img class="channel-logo" src="${logo}" alt="" onerror="this.style.visibility='hidden'">
+      <span class="channel-name">${c.name}</span>
+    </div>`;
+  }).join('');
+
+  channelList.querySelectorAll('.channel-item').forEach(el => {
+    el.addEventListener('click', () => playChannel(parseInt(el.dataset.id, 10), el.dataset.url, el.dataset.name));
+  });
+
+  const preferredFocus = focusedChannelId || activeId || (visibleChannels[0] && visibleChannels[0].id);
+  setFocusedChannelById(preferredFocus);
+}
+
+function handleLastChannelAutoplay() {
+  const lastChannel = readLastChannel();
+  if (!lastChannel) return;
+  focusedChannelId = lastChannel.id;
+  playChannel(lastChannel.id, lastChannel.url, lastChannel.name);
+}
+
+function scheduleReconnect(delayMs = 0, message = '') {
+  const current = getCurrentChannel();
+  if (!current) return;
+  if (message) showToast(message, 'info', Math.max(1800, delayMs + 1200));
+  setTimeout(() => {
+    playChannel(current.id, current.url, current.name);
+  }, delayMs);
+}
+
+async function reconnectCurrentChannel() {
+  const current = getCurrentChannel();
+  if (!current) {
+    showToast('No hay canal activo.');
+    return;
+  }
+  showToast('Reconectando canal...', 'info');
+  playChannel(current.id, current.url, current.name);
+}
+
+async function refreshCurrentChannel() {
+  const current = getCurrentChannel();
+  if (!current) {
+    showToast('No hay canal activo.');
+    return;
+  }
+  nowStatus.textContent = 'Refrescando...';
+  await sendHeartbeat();
+  showToast('Refrescando stream...', 'info');
+  playChannel(current.id, current.url, current.name);
+}
+
+async function switchTokenManually() {
+  if (!tokens.length || !activeToken) {
+    showToast('Todavía no hay tokens listos.');
+    return;
+  }
+
+  const excluded = new Set([getTokenKey(activeToken)]);
+  const next = pickRandomToken(excluded);
+  if (!next) {
+    showToast('No hay otro token disponible.');
+    return;
+  }
+
+  clearStickyToken();
+  setActiveToken(next, 'manual');
+  showToast(`Token cambiado manualmente a ${next.label}`, 'info');
+  await sendHeartbeat();
+  const current = getCurrentChannel();
+  if (current) {
+    playChannel(current.id, current.url, current.name);
+  }
+}
+
+async function switchTokenAfterFailure(triedKeys, reason) {
+  invalidateCurrentToken();
+  const next = pickRandomToken(triedKeys);
+  if (!next) {
+    setStatus('err', '✗ Todos los tokens inválidos');
+    tokenInfo.textContent = 'sin token';
+    showToast('Todos los tokens fallaron. Actualiza play.json.');
+    stopHeartbeat();
+    return false;
+  }
+
+  setActiveToken(next, 'fallback');
+  showToast(`${reason}. Probando ${next.label}...`, 'info');
+  await sendHeartbeat();
+  return true;
+}
+
+async function loadTokens() {
+  try {
+    const res = await fetch('./play.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+
+    let raw = [];
+    if (Array.isArray(data)) {
+      raw = data;
+    } else if (data.tokens && Array.isArray(data.tokens)) {
+      raw = data.tokens;
+    } else {
+      throw new Error('Formato inválido en play.json');
+    }
+
+    tokens = raw.map((item, idx) => {
+      const t = typeof item === 'string' ? item : item.token;
+      return {
+        token: t,
+        uuid: getUuidFromJwt(t),
+        label: typeof item === 'object' && item.label ? item.label : ('T' + (idx + 1))
+      };
+    }).filter(t => t.token && t.uuid);
+
+    if (!tokens.length) throw new Error('No hay tokens válidos en play.json');
+
+    useStickyOrRandomToken();
+    setStatus('ok', `✓ ${tokens.length} token${tokens.length > 1 ? 's' : ''} cargado${tokens.length > 1 ? 's' : ''}`);
+    updateTokenInfo(activeToken && readStickyToken() ? 'fijo' : 'usando');
+    switchTokenBtn.disabled = tokens.length < 2;
+    startHeartbeat();
+    updatePlayerButtons();
+    handleLastChannelAutoplay();
+    return true;
+
+  } catch(e) {
+    setStatus('err', '✗ Error cargando tokens');
+    showToast('No se pudo cargar play.json.');
+    placeholder.querySelector('p').innerHTML =
+      'Crea un archivo <b>play.json</b> en la misma carpeta<br>con tus playTokens de Zapping.<br><br>' +
+      '<span style="color:#666;font-size:11px">Ver formato de ejemplo abajo ↓</span>';
+    console.error('Error cargando play.json:', e.message);
+    return false;
+  }
+}
+
+async function sendHeartbeat() {
+  if (!activeToken) return false;
+  try {
+    const body = new URLSearchParams({
+      playtoken: activeToken.token,
+      uuid: activeToken.uuid,
+      deviceInfo: JSON.stringify({
+        platform: 'Win32',
+        vendor: 'Google Inc.',
+        renderEngine: 'AppleWebKit/537.36',
+        os: 'Windows NT 10.0',
+        browser: 'Chrome/146.0.0.0'
+      })
+    });
+
+    const res = await fetch(HB_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'Accept': '*/*',
+        'Origin': 'https://app.zapping.com',
+        'Referer': 'https://app.zapping.com/'
+      },
+      body: body.toString()
+    });
+
+    if (res.ok) {
+      hbStatus.textContent = '♥ ' + new Date().toLocaleTimeString();
+      const newPt = res.headers.get('zPlayToken') || res.headers.get('zplaytoken') || '';
+      if (newPt && newPt !== activeToken.token) {
+        activeToken.token = newPt;
+        activeToken.uuid = getUuidFromJwt(newPt);
+      }
+      markActiveTokenWorking();
+      return true;
+    }
+
+    if (res.status === 401 || res.status === 403) {
+      hbStatus.textContent = '✗ token ' + activeToken.label;
+      return false;
+    }
+
+    hbStatus.textContent = 'HB ' + res.status;
+    return false;
+
+  } catch(e) {
+    hbStatus.textContent = 'sin red';
+    return false;
+  }
+}
+
+function startHeartbeat() {
+  stopHeartbeat();
+  sendHeartbeat();
+  hbTimer = setInterval(sendHeartbeat, HB_INTERVAL_MS);
+}
+
+function stopHeartbeat() {
+  clearInterval(hbTimer);
+  hbTimer = null;
+}
+
+function finishPlaybackSuccess(sessionId) {
+  if (sessionId !== playRequestId) return;
+  clearLoadTimer();
+  loading.classList.remove('visible');
+  nowStatus.textContent = '● En vivo';
+  markActiveTokenWorking();
+  saveLastChannel({ id: activeId, url: activeUrl, name: activeName });
+  updatePlayerButtons();
+  renderChannels(searchInput.value);
+  video.play().catch(() => {});
+}
+
+async function handlePlaybackFailure(reason, options) {
+  const { id, url, name, triedKeys, attempt, authRelated, sessionId } = options;
+  if (sessionId !== playRequestId) return;
+
+  clearLoadTimer();
+
+  if (authRelated) {
+    const switched = await switchTokenAfterFailure(triedKeys, reason);
+    if (switched) {
+      setTimeout(() => playChannel(id, url, name, new Set(triedKeys), 0), 500);
+    } else {
+      loading.classList.remove('visible');
+      nowStatus.textContent = 'Error';
+    }
+    return;
+  }
+
+  if (attempt < MAX_STREAM_RETRIES) {
+    const delay = RETRY_DELAYS_MS[Math.min(attempt, RETRY_DELAYS_MS.length - 1)];
+    nowStatus.textContent = `Reintentando ${attempt + 1}/${MAX_STREAM_RETRIES}...`;
+    showToast(`${reason}. Reintentando...`, 'info');
+    setTimeout(() => playChannel(id, url, name, new Set(triedKeys), attempt + 1), delay);
+    return;
+  }
+
+  const switched = await switchTokenAfterFailure(triedKeys, `${reason} · cambiando token`);
+  if (switched) {
+    setTimeout(() => playChannel(id, url, name, new Set(triedKeys), 0), 800);
+    return;
+  }
+
+  loading.classList.remove('visible');
+  nowStatus.textContent = 'Error';
+  showToast(reason);
+}
+
+function armLoadTimeout(id, url, name, triedKeys, attempt, sessionId) {
+  clearLoadTimer();
+  loadTimeout = setTimeout(() => {
+    if (sessionId !== playRequestId) return;
+    handlePlaybackFailure('Tiempo de carga agotado', {
+      id, url, name, triedKeys, attempt, authRelated: false, sessionId
+    });
+  }, LOAD_TIMEOUT_MS);
+}
+
+function playChannel(id, url, name, triedKeys = new Set(), attempt = 0) {
+  if (!activeToken) {
+    showToast('Esperando tokens de play.json...');
+    return;
+  }
+
+  playRequestId += 1;
+  const sessionId = playRequestId;
+  activeId = id;
+  activeUrl = url;
+  activeName = name;
+  focusedChannelId = id;
+  setSidebarOpen(false);
+
+  nowName.textContent = name;
+  nowStatus.textContent = attempt > 0 ? `Reintentando... (${attempt})` : 'Conectando...';
+  placeholder.style.display = 'none';
+  video.style.display = 'block';
+  loading.classList.add('visible');
+  updatePlayerButtons();
+  destroyHls();
+
+  triedKeys.add(getTokenKey(activeToken));
+  const tokenLabelInAttempt = activeToken.label;
+  const src = `${url}?token=${encodeURIComponent(activeToken.token)}`;
+
+  armLoadTimeout(id, url, name, new Set(triedKeys), attempt, sessionId);
+
+  if (Hls.isSupported()) {
+    hls = new Hls({
+      enableWorker: false,
+      backBufferLength: 30,
+      manifestLoadingTimeOut: LOAD_TIMEOUT_MS,
+      levelLoadingTimeOut: LOAD_TIMEOUT_MS,
+      fragLoadingTimeOut: LOAD_TIMEOUT_MS
+    });
+    hls.loadSource(src);
+    hls.attachMedia(video);
+
+    hls.on(Hls.Events.MANIFEST_PARSED, () => finishPlaybackSuccess(sessionId));
+
+    hls.on(Hls.Events.ERROR, async (ev, data) => {
+      if (sessionId !== playRequestId || !data.fatal) return;
+
+      const responseCode = data.response && data.response.code;
+      const details = data.details || '';
+      const authRelated = responseCode === 401 || responseCode === 403 || details.includes('manifest');
+      const reason = authRelated
+        ? `Falló ${tokenLabelInAttempt}`
+        : 'No se pudo abrir el stream';
+
+      await handlePlaybackFailure(reason, {
+        id, url, name, triedKeys: new Set(triedKeys), attempt, authRelated, sessionId
+      });
+    });
+
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = src;
+    video.onloadedmetadata = () => finishPlaybackSuccess(sessionId);
+    video.onerror = async () => {
+      if (sessionId !== playRequestId) return;
+      await handlePlaybackFailure('No se pudo abrir el stream', {
+        id, url, name, triedKeys: new Set(triedKeys), attempt, authRelated: false, sessionId
+      });
+    };
+  } else {
+    showToast('Navegador no compatible con HLS.');
+    loading.classList.remove('visible');
+    clearLoadTimer();
+  }
+
+  renderChannels(searchInput.value);
+}
+
+function activateFocusedItem() {
+  if (focusedZone === 'sidebar') {
+    const selected = visibleChannels.find(c => c.id === focusedChannelId);
+    if (selected) {
+      playChannel(selected.id, selected.url, selected.name);
+    }
+    return;
+  }
+  controlButtons[focusedControlIndex]?.click();
+}
+
+function handleNumericJump(key) {
+  digitBuffer += key;
+  clearTimeout(digitTimer);
+  showToast(`Canal ${digitBuffer}`, 'info', DIGIT_BUFFER_MS + 500);
+  digitTimer = setTimeout(() => {
+    const num = parseInt(digitBuffer, 10);
+    digitBuffer = '';
+    const channel = CANALES.find(c => c.number === num);
+    if (!channel) {
+      showToast('Canal no encontrado.');
+      return;
+    }
+    focusedZone = 'sidebar';
+    focusedChannelId = channel.id;
+    searchInput.value = '';
+    rememberAndRenderChannels('');
+    playChannel(channel.id, channel.url, channel.name);
+  }, DIGIT_BUFFER_MS);
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.altKey || e.ctrlKey || e.metaKey) return;
+
+  const activeTag = document.activeElement && document.activeElement.tagName;
+  const typing = activeTag === 'INPUT' || activeTag === 'TEXTAREA';
+  if (typing && e.key !== 'Escape') return;
+
+  if (/^[0-9]$/.test(e.key)) {
+    e.preventDefault();
+    handleNumericJump(e.key);
+    return;
+  }
+
+  switch (e.key) {
+    case 'ArrowDown':
+      if (focusedZone === 'sidebar') {
+        e.preventDefault();
+        moveFocusedChannel(1);
+      }
+      break;
+    case 'ArrowUp':
+      if (focusedZone === 'sidebar') {
+        e.preventDefault();
+        moveFocusedChannel(-1);
+      }
+      break;
+    case 'ArrowRight':
+      e.preventDefault();
+      if (focusedZone === 'sidebar') {
+        focusedControlIndex = 0;
+        setFocusZone('controls');
+      } else {
+        moveFocusedControl(1);
+      }
+      break;
+    case 'ArrowLeft':
+      e.preventDefault();
+      if (focusedZone === 'controls') {
+        if (focusedControlIndex === 0) {
+          setFocusZone('sidebar');
+        } else {
+          moveFocusedControl(-1);
+        }
+      }
+      break;
+    case 'Enter':
+    case ' ':
+      e.preventDefault();
+      activateFocusedItem();
+      break;
+    case 'f':
+    case 'F':
+      e.preventDefault();
+      toggleFullscreen();
+      break;
+    case 'r':
+    case 'R':
+      e.preventDefault();
+      reconnectCurrentChannel();
+      break;
+    case 'Escape':
+      if (document.fullscreenElement) {
+        e.preventDefault();
+        document.exitFullscreen?.();
+      } else if (document.body.classList.contains('sidebar-open')) {
+        e.preventDefault();
+        setSidebarOpen(false);
+      } else {
+        searchInput.blur();
+      }
+      break;
+    case 'c':
+    case 'C':
+      if (isMobileLayout()) {
+        e.preventDefault();
+        setSidebarOpen(!document.body.classList.contains('sidebar-open'));
+      }
+      break;
+  }
+});
+
+searchInput.addEventListener('input', e => {
+  rememberAndRenderChannels(e.target.value);
+});
+
+switchTokenBtn.addEventListener('click', switchTokenManually);
+reconnectBtn.addEventListener('click', reconnectCurrentChannel);
+refreshBtn.addEventListener('click', refreshCurrentChannel);
+fullscreenBtn.addEventListener('click', toggleFullscreen);
+toggleSidebarBtn?.addEventListener('click', () => setSidebarOpen(!document.body.classList.contains('sidebar-open')));
+closeSidebarBtn?.addEventListener('click', () => setSidebarOpen(false));
+sidebarScrim?.addEventListener('click', () => setSidebarOpen(false));
+window.addEventListener('resize', syncResponsiveLayout);
+searchInput.addEventListener('focus', () => { if (isMobileLayout()) setSidebarOpen(true); });
+
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden && activeToken) {
+    updateTokenInfo(readStickyToken() ? 'fijo' : 'usando');
+  }
+});
+
+syncResponsiveLayout();
+const initialSearch = readSearchTerm();
+searchInput.value = initialSearch;
+rememberAndRenderChannels(initialSearch);
+loadTokens();
+</script>
+</body>
+</html>
