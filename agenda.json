@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "copa_liga",
-      "inicio": "2026-03-31T18:00:00-03:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "link": "https://is.gd/audvsudc0331",
-      "sofaId": "15683248"
-    },
-    {
-      "competencia": "copa_liga",
-      "inicio": "2026-03-31T20:30:00-03:00",
-      "local": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/everton.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "link": "https://is.gd/evtvsdep0331",
-      "sofaId": "15683249"
-    },
-    {
-      "competencia": "copa_liga",
       "inicio": "2026-04-01T18:00:00-03:00",
       "local": {
         "nombre": "Colo-Colo",
