@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "copa_liga",
-      "inicio": "2026-04-01T18:00:00-03:00",
-      "local": {
-        "nombre": "Colo-Colo",
-        "logo": "escudos/primera/colocolo.png"
-      },
-      "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "link": "https://is.gd/ccvshua0401",
-      "sofaId": "15683246"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-02T18:00:00-03:00",
       "local": {
@@ -200,6 +186,20 @@
     },
     {
       "competencia": "primera",
+      "inicio": "2026-04-10T20:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/ohfvshua0410",
+      "sofaId": "15353017"
+    },
+    {
+      "competencia": "primera",
       "inicio": "2026-04-11T15:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
@@ -337,20 +337,6 @@
       },
       "link": "https://is.gd/dtmvsant0412",
       "sofaId": "15416178"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-12T18:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "link": "https://is.gd/ohfvshua0412",
-      "sofaId": "15353017"
     },
     {
       "competencia": "ascenso",
