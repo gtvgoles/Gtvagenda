@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-04-02T18:00:00-03:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/ucvspal0402",
-      "sofaId": "15353010"
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-04-03T17:30:00-03:00",
       "local": {
         "nombre": "Coquimbo Unido",
@@ -466,35 +452,35 @@
     },
     {
       "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
+      "inicio": "2026-04-18T17:30:00-04:00",
       "local": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/cobresal.png"
+        "nombre": "Everton de Viña del Mar",
+        "logo": "escudos/primera/everton.png"
       },
       "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
       },
-      "link": "https://is.gd/cobvsohf0419",
-      "sofaId": "15353025"
+      "link": "https://is.gd/evtvsudc0418",
+      "sofaId": "15353020"
     },
     {
       "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
+      "inicio": "2026-04-18T20:00:00-04:00",
       "local": {
-        "nombre": "Colo-Colo",
-        "logo": "escudos/primera/colocolo.png"
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
       },
       "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
       },
-      "link": "https://is.gd/ccvspal0419",
-      "sofaId": "15353024"
+      "link": "https://is.gd/dcovsdls0418",
+      "sofaId": "15353021"
     },
     {
       "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
+      "inicio": "2026-04-19T12:30:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
@@ -508,17 +494,31 @@
     },
     {
       "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
+      "inicio": "2026-04-19T15:30:00-04:00",
       "local": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/cobresal.png"
       },
       "visita": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "https://is.gd/dcovsdls0419",
-      "sofaId": "15353021"
+      "link": "https://is.gd/cobvsohf0419",
+      "sofaId": "15353025"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-19T15:30:00-04:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/antvscop0419",
+      "sofaId": "15416183"
     },
     {
       "competencia": "primera",
@@ -535,62 +535,6 @@
       "sofaId": "15353027"
     },
     {
-      "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
-      "local": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/everton.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "link": "https://is.gd/evtvsudc0419",
-      "sofaId": "15353020"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
-      "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://is.gd/huavsaud0419",
-      "sofaId": "15353023"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-19T18:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/ucvsulc0419",
-      "sofaId": "15353022"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-19T18:00:00-04:00",
-      "local": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "visita": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "link": "https://is.gd/antvscop0419",
-      "sofaId": "15416183"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-04-19T18:00:00-04:00",
       "local": {
@@ -603,20 +547,6 @@
       },
       "link": "https://is.gd/magvssw0419",
       "sofaId": "15416186"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-19T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "link": "https://is.gd/pumvsdtm0419",
-      "sofaId": "15416185"
     },
     {
       "competencia": "ascenso",
@@ -687,6 +617,62 @@
       },
       "link": "https://is.gd/smavscoc0419",
       "sofaId": "15416190"
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T18:30:00-04:00",
+      "local": {
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/ccvspal0419",
+      "sofaId": "15353024"
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-19T20:45:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/huavsaud0419",
+      "sofaId": "15353023"
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-20T20:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/ucvsulc0420",
+      "sofaId": "15353022"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-20T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/pumvsdtm0420",
+      "sofaId": "15416185"
     },
     {
       "competencia": "primera",
