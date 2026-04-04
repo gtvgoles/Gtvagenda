@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "laliga",
+      "inicio": "2026-04-04T16:00:00-03:00",
+      "local": {
+        "nombre": "Atlético Madrid",
+        "logo": "escudos/manual/atletico_madrid.png"
+      },
+      "visita": {
+        "nombre": "Barcelona",
+        "logo": "escudos/manual/barcelona.png"
+      },
+      "link": "https://is.gd/atmvsbar0404",
+      "sofaId": "14081810"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-04T17:30:00-03:00",
       "local": {
