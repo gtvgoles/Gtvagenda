@@ -3,48 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "laliga",
-      "inicio": "2026-04-04T16:00:00-03:00",
-      "local": {
-        "nombre": "Atlético Madrid",
-        "logo": "escudos/manual/atletico_madrid.png"
-      },
-      "visita": {
-        "nombre": "Barcelona",
-        "logo": "escudos/manual/barcelona.png"
-      },
-      "link": "https://is.gd/atmvsbar0404",
-      "sofaId": "14081810"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-04T17:30:00-03:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "visita": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/depvsulc0404",
-      "sofaId": "15352999"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-04T20:00:00-03:00",
-      "local": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/everton.png"
-      },
-      "visita": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "link": "https://is.gd/evtvsnub0404",
-      "sofaId": "15353004"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-05T15:30:00-04:00",
       "local": {
