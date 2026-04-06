@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "liga mx clausura",
-      "inicio": "2026-04-05T22:07:00-04:00",
-      "local": {
-        "nombre": "CD Guadalajara",
-        "logo": "escudos/manual/cd_guadalajara.png"
-      },
-      "visita": {
-        "nombre": "Pumas UNAM",
-        "logo": "escudos/manual/pumas_unam.png"
-      },
-      "link": "https://is.gd/gdlvsunam0405",
-      "sofaId": "15239011"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-06T20:00:00-04:00",
       "local": {
@@ -354,6 +340,20 @@
     },
     {
       "competencia": "libertadores",
+      "inicio": "2026-04-14T22:00:00-04:00",
+      "local": {
+        "nombre": "Universitario de Deportes",
+        "logo": "escudos/manual/universitario_de_deportes.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/univscoq0414",
+      "sofaId": "15832772"
+    },
+    {
+      "competencia": "libertadores",
       "inicio": "2026-04-15T18:00:00-04:00",
       "local": {
         "nombre": "Cruzeiro",
@@ -365,20 +365,6 @@
       },
       "link": "https://is.gd/cruvsuc0415",
       "sofaId": "15832830"
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-15T22:00:00-04:00",
-      "local": {
-        "nombre": "Universitario de Deportes",
-        "logo": "escudos/manual/universitario_de_deportes.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/univscoq0415",
-      "sofaId": "15832772"
     },
     {
       "competencia": "primera",
