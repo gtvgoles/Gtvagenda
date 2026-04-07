@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-04-06T22:00:00-04:00",
-      "local": {
-        "nombre": "Municipal Liberia",
-        "logo": "escudos/manual/municipal_liberia.png"
-      },
-      "visita": {
-        "nombre": "San Carlos",
-        "logo": "escudos/manual/san_carlos.png"
-      },
-      "link": "https://is.gd/libvssca0406",
-      "sofaId": "15706141"
-    },
-    {
       "competencia": "sudamericana",
       "inicio": "2026-04-07T20:00:00-04:00",
       "local": {
