@@ -3,6 +3,34 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "uefa champions league",
+      "inicio": "2026-04-08T15:00:00-04:00",
+      "local": {
+        "nombre": "Paris Saint-Germain",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Liverpool",
+        "logo": ""
+      },
+      "link": "https://is.gd/psgvsliv0408",
+      "sofaId": "15632083"
+    },
+    {
+      "competencia": "uefa champions league",
+      "inicio": "2026-04-08T15:00:00-04:00",
+      "local": {
+        "nombre": "FC Barcelona",
+        "logo": "escudos/manual/barcelona.png"
+      },
+      "visita": {
+        "nombre": "Atlético Madrid",
+        "logo": "escudos/manual/atletico_madrid.png"
+      },
+      "link": "https://is.gd/barvsatm0408",
+      "sofaId": "15632085"
+    },
+    {
       "competencia": "libertadores",
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
