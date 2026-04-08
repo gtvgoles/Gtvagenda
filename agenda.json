@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "libertadores",
-      "inicio": "2026-04-07T20:30:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": "escudos/manual/boca_juniors.png"
-      },
-      "link": "https://is.gd/ucvsboc0407",
-      "sofaId": "15832740"
-    },
-    {
-      "competencia": "concacaf champions cup",
-      "inicio": "2026-04-07T22:00:00-04:00",
-      "local": {
-        "nombre": "Los Angeles FC",
-        "logo": "escudos/manual/los_angeles_fc.png"
-      },
-      "visita": {
-        "nombre": "Cruz Azul",
-        "logo": "escudos/manual/cruz_azul.png"
-      },
-      "link": "https://is.gd/lafcvscrz0407",
-      "sofaId": "15847293"
-    },
-    {
-      "competencia": "libertadores",
       "inicio": "2026-04-08T18:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
