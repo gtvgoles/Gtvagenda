@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-07T20:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "Millonarios",
-        "logo": "escudos/manual/millonarios.png"
-      },
-      "link": "https://is.gd/ohfvsmil0407",
-      "sofaId": "15832011"
-    },
-    {
       "competencia": "libertadores",
       "inicio": "2026-04-07T20:30:00-04:00",
       "local": {
@@ -29,6 +15,20 @@
       },
       "link": "https://is.gd/ucvsboc0407",
       "sofaId": "15832740"
+    },
+    {
+      "competencia": "concacaf champions cup",
+      "inicio": "2026-04-07T22:00:00-04:00",
+      "local": {
+        "nombre": "Los Angeles FC",
+        "logo": "escudos/manual/los_angeles_fc.png"
+      },
+      "visita": {
+        "nombre": "Cruz Azul",
+        "logo": "escudos/manual/cruz_azul.png"
+      },
+      "link": "https://is.gd/lafcvscrz0407",
+      "sofaId": "15847293"
     },
     {
       "competencia": "libertadores",
@@ -85,6 +85,20 @@
       },
       "link": "https://is.gd/ohfvshua0410",
       "sofaId": "15353017"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-10T20:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/espvscoc0410",
+      "sofaId": "15416182"
     },
     {
       "competencia": "primera",
@@ -225,20 +239,6 @@
       },
       "link": "https://is.gd/dtmvsant0412",
       "sofaId": "15416178"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-12T18:00:00-04:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "visita": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "link": "https://is.gd/espvscoc0412",
-      "sofaId": "15416182"
     },
     {
       "competencia": "primera",
@@ -799,6 +799,48 @@
       },
       "link": "https://is.gd/usfvsmag0426",
       "sofaId": "15416197"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-28T20:00:00-04:00",
+      "local": {
+        "nombre": "Barracas Central",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/barvsaud0428",
+      "sofaId": "15832080"
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-28T22:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Tolima",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/tolvscoq0428",
+      "sofaId": "15832775"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-28T22:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Boston River",
+        "logo": ""
+      },
+      "link": "https://is.gd/ohfvsbri0428",
+      "sofaId": "15832093"
     },
     {
       "competencia": "primera",
