@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "laliga",
+      "inicio": "2026-04-10T15:00:00-04:00",
+      "local": {
+        "nombre": "Real Madrid",
+        "logo": "escudos/manual/real_madrid.png"
+      },
+      "visita": {
+        "nombre": "Girona FC",
+        "logo": "escudos/manual/girona_fc.png"
+      },
+      "link": "https://is.gd/rmavsgir0410",
+      "sofaId": "14083191"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-10T20:00:00-04:00",
       "local": {
