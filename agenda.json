@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "libertadores",
-      "inicio": "2026-04-09T22:00:00-04:00",
-      "local": {
-        "nombre": "Independiente Santa Fe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "visita": {
-        "nombre": "Peñarol",
-        "logo": "escudos/manual/penarol.png"
-      },
-      "link": "https://is.gd/sfevspen0409",
-      "sofaId": "15832738"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-10T20:00:00-04:00",
       "local": {
