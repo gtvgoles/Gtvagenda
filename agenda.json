@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "premier league",
+      "inicio": "2026-04-11T12:30:00-04:00",
+      "local": {
+        "nombre": "Liverpool",
+        "logo": "escudos/manual/liverpool.png"
+      },
+      "visita": {
+        "nombre": "Fulham",
+        "logo": "escudos/manual/fulham.png"
+      },
+      "link": "https://is.gd/livvsful0411",
+      "sofaId": "14024000"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-11T15:00:00-04:00",
       "local": {
