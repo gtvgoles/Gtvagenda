@@ -3,102 +3,18 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "premier league",
-      "inicio": "2026-04-11T12:30:00-04:00",
+      "competencia": "liga mx clausura",
+      "inicio": "2026-04-11T23:05:00-04:00",
       "local": {
-        "nombre": "Liverpool",
-        "logo": "escudos/manual/liverpool.png"
+        "nombre": "Club América",
+        "logo": "escudos/manual/club_america.png"
       },
       "visita": {
-        "nombre": "Fulham",
-        "logo": "escudos/manual/fulham.png"
+        "nombre": "Cruz Azul",
+        "logo": "escudos/manual/cruz_azul.png"
       },
-      "link": "https://is.gd/livvsful0411",
-      "sofaId": "14024000"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-11T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "visita": {
-        "nombre": "Everton de Viña del Mar",
-        "logo": "escudos/primera/everton.png"
-      },
-      "link": "https://is.gd/dlsvsevt0411",
-      "sofaId": "15353008"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-11T15:00:00-04:00",
-      "local": {
-        "nombre": "Unión San Felipe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "link": "https://is.gd/usfvscur0411",
-      "sofaId": "15416181"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-11T17:30:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://is.gd/audvsuc0411",
-      "sofaId": "15353003"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-11T17:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/santacruz.png"
-      },
-      "visita": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "link": "https://is.gd/cruvsmag0411",
-      "sofaId": "15416175"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-11T20:00:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "link": "https://is.gd/palvsdep0411",
-      "sofaId": "15353011"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-11T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "visita": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "link": "https://is.gd/iquvspum0411",
-      "sofaId": "15416177"
+      "link": "https://is.gd/amevscrz0411",
+      "sofaId": "15239019"
     },
     {
       "competencia": "ascenso",
