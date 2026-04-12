@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "premier league",
+      "inicio": "2026-04-12T11:30:00-04:00",
+      "local": {
+        "nombre": "Chelsea",
+        "logo": "escudos/manual/chelsea.png"
+      },
+      "visita": {
+        "nombre": "Manchester City",
+        "logo": "escudos/manual/manchester_city.png"
+      },
+      "link": "https://is.gd/chevsmci0412",
+      "sofaId": "14023998"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-04-12T12:30:00-04:00",
       "local": {
@@ -689,6 +703,48 @@
       "sofaId": "15832077"
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-02T12:30:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/audvsulc0502",
+      "sofaId": "15995244"
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-02T15:00:00-04:00",
+      "local": {
+        "nombre": "Everton de Viña del Mar",
+        "logo": "escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/evtvspal0502",
+      "sofaId": "15995242"
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-02T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/dlsvsudc0502",
+      "sofaId": "15995241"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-05-02T17:30:00-04:00",
       "local": {
@@ -715,6 +771,20 @@
       },
       "link": "https://is.gd/ranvspum0502",
       "sofaId": "15416202"
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-02T20:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/nubvscob0502",
+      "sofaId": "15995248"
     },
     {
       "competencia": "ascenso",
