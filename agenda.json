@@ -4,20 +4,6 @@
   "partidos": [
     {
       "competencia": "ascenso",
-      "inicio": "2026-04-12T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "visita": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/254_CixkYTcwZTEzMS0xMGUzLTRiNjMtYWY2OS0zZjljMzI3NTEyZDgtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776097966&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6Ijk4OGUzYmY3LTQ3NzMtNDQzZS04MDBiLTdkODhlN2E5YjJlZSIsICJlZGl0SWQiOiJkYTcwZTEzMS0xMGUzLTRiNjMtYWY2OS0zZjljMzI3NTEyZDgiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQxNjozMjo0NloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=b195a152fb7b96babd82fe2ecec1b76929b48210d09dbc379b09d5d89cbc5472/main.mpd?manifest-params=prod-20260412%7C-tWcX3kscBVfSu3eP6CRCCj_H54h9gHk4tW8CHgpmuk%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkYyNTRfQ2l4a1lUY3daVEV6TVMweE1HVXpMVFJpTmpNdFlXWTJPUzB6Wmpsak16STNOVEV5WkRndGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDE2JTNBMjAlM0EzOVo%3D&rtype=admo&ck=eyIwMTAwYTFjMTgzZjhlOWMwZGJhY2MxZmUxNDAyNDkzNyI6Ijk0N2QxZjAzOGE1YjViOWI4MTIyMzFlYmRhMmRlMTE2IiwiMDEwMWZmZmNiYTllNzA4MGE5Y2Q5ZDc3N2ViMzZlNzgiOiJkMzNiMjkzMDFkM2U0OWYwMTlkNjNhOWNmMjRjYjJhNiIsIjAxMDJmMzA1MThlMjJmNjk5ODk5ZGI4YTk0ZjNhZjNkIjoiYWFiODNhNjk1ODI0OTBjMDZlMzNjZTdmNDgwNGU3MGQifQ%3D%3D",
-      "sofaId": "15416176"
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-04-12T15:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
@@ -41,7 +27,7 @@
         "nombre": "Universidad de Chile",
         "logo": "escudos/primera/universidaddechile.png"
       },
-      "link": "https://is.gd/nubvsudc0412",
+      "link": "https://cf.live.latam.prd.media.max.com/live/use1/5c3_Ciw4MzAyMTg3YS1lYTA4LTQzYmItODIwYS0yMjgxODdjYjMyODMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776114352&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6IjhhNWM2ZDIzLTIzNDQtNDZmOC04N2MxLTNkOTQzM2UzNzhlNiIsICJlZGl0SWQiOiI4MzAyMTg3YS1lYTA4LTQzYmItODIwYS0yMjgxODdjYjMyODMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQyMTowNTo1MloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=7a60b8f35f1fafd20acc5b36f5808af7e76890ee409f1b71f122adcbbc64ecda/main.mpd?manifest-params=prod-20260412%7CygW0_UCuKm_NE6tGmIoFlnq3Zd_nbVKA1Ul3n_SbpaM%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY1YzNfQ2l3NE16QXlNVGczWVMxbFlUQTRMVFF6WW1JdE9ESXdZUzB5TWpneE9EZGpZak15T0RNdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDIxJTNBMTAlM0EwMFo%3D&rtype=admo&ck=eyIwMTAwNDVkYWY3MDYyZDBkZjA1MGJmYjg4YWIzZjIyZSI6IjY2N2RjMDc5ZTE5MmJjYWUzNjRjOTc0NzA2MjUyNTNmIiwiMDEwMTkyZjkwNmIzOTRlN2UyY2VmOTJiMjg1MzBkNTUiOiI1MTNkNGQ3ZTljODZiNWZiZGM5NDE1ZTRlMzI1NDZhYyIsIjAxMDI1MzM1Njg5Mzk5MDZmNTU1YzRhNzY4MzQ2MTdjIjoiZWM0ZmM5N2NlZTkxZDU2OTUzZDhlMTVkZjJiMGFkYTAifQ%3D%3D",
       "sofaId": "15353012"
     },
     {
