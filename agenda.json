@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "liga mx clausura",
-      "inicio": "2026-04-11T23:05:00-04:00",
-      "local": {
-        "nombre": "Club América",
-        "logo": "escudos/manual/club_america.png"
-      },
-      "visita": {
-        "nombre": "Cruz Azul",
-        "logo": "escudos/manual/cruz_azul.png"
-      },
-      "link": "https://is.gd/amevscrz0411",
-      "sofaId": "15239019"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-04-12T12:30:00-04:00",
       "local": {
