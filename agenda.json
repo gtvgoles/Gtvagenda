@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "premier league",
-      "inicio": "2026-04-12T11:30:00-04:00",
-      "local": {
-        "nombre": "Chelsea",
-        "logo": "escudos/manual/chelsea.png"
-      },
-      "visita": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchester_city.png"
-      },
-      "link": "https://cdn-live.mundogo.cl/espn/espn.mpd?ck=eyI5MDY3MTE4NGRkODI1NDFhOWQxNzg2ZWFhMDI1ZTM0NSI6Ijc0ZjhlYWI0NmMxZTQzZmQ4ZjdiNjRjMjFhOTZmYzViIiwiYjg3ZDdkYTg4NGJkNWYzNDk2MDE1ZjljMmU1M2M4OTYiOiI0NDUxNDQ3YmRmNTVmZTQ0NTFmNGEzYmYxNzdkYTU5YSIsImI2OTg5YmEwYWEwZjVlOGE4MTdlY2RmZDljMzg1OTk0IjoiNzVjNmU2ZDU3MzA4ZjM0Y2E0ODI4MDJhNWU3OTZhMDUifQ%3D%3D",
-      "sofaId": "14023998"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-04-12T12:30:00-04:00",
       "local": {
@@ -41,7 +27,7 @@
         "nombre": "San Luis de Quillota",
         "logo": "escudos/ascenso/sanluis.png"
       },
-      "link": "https://is.gd/swvsslq0412",
+      "link": "https://fly.live.latam.prd.media.max.com/live/use1/1f2_Ciw1ZWRjYmUxNS00MTFhLTRkMWMtYWRlZC04YTY2NTI4M2ExZjAtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776106521&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6IjRhNGYwZjkwLTQ2MDItNDI4MS05NDQ5LTcxOTk4Y2E3ZTllYiIsICJlZGl0SWQiOiI1ZWRjYmUxNS00MTFhLTRkMWMtYWRlZC04YTY2NTI4M2ExZjAiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQxODo1NToyMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=20e97c5ddb82849c60d7ae33234b4a8e6802a0dfb610db9ebf55f9b77c799d08/main.mpd?manifest-params=prod-20260412%7CWx07e9CHzLo0xhJNkEkpDwSG9LeMI3XsgqHIX_wJCl0%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkYxZjJfQ2l3MVpXUmpZbVV4TlMwME1URmhMVFJrTVdNdFlXUmxaQzA0WVRZMk5USTRNMkV4WmpBdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDE4JTNBNTAlM0E0NFo%3D&rtype=admo&ck=eyIwMTAwNDc3NGM5YzkxZTZkMWU5ZmQyMTA3OTkwM2IwMSI6IjUzMmYwMzBmMmM1MTYxNmJhOGExYWQxMzA0MTAxMzFiIiwiMDEwMWFmYjQ2NTMwODQ1NjMzNTU2MDM0YzQ5NTc0YWUiOiIzNjNlZjQ3Y2FhZGQwOGI0MTFiNjUxN2JkNzRjNGNmMSIsIjAxMDIwZTcyYzk0YzdkZjhiZjdlOGFkYTEyYzBlNWUwIjoiNTQ1MzZhNDBiNjdlZTM4ZjMyZmY2ZTI3OGE3NTYxYmYifQ%3D%3D",
       "sofaId": "15416180"
     },
     {
