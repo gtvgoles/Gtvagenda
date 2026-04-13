@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "trendyol 1.lig",
+      "inicio": "2026-04-13T10:00:00-04:00",
+      "local": {
+        "nombre": "Erzurumspor FK",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Boluspor",
+        "logo": ""
+      },
+      "link": "https://is.gd/erzvsbol0413",
+      "sofaId": "14138615"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-13T20:00:00-04:00",
       "local": {
