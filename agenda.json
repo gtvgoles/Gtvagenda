@@ -4,62 +4,6 @@
   "partidos": [
     {
       "competencia": "primera",
-      "inicio": "2026-04-12T17:30:00-04:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/5c3_Ciw4MzAyMTg3YS1lYTA4LTQzYmItODIwYS0yMjgxODdjYjMyODMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776114352&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6IjhhNWM2ZDIzLTIzNDQtNDZmOC04N2MxLTNkOTQzM2UzNzhlNiIsICJlZGl0SWQiOiI4MzAyMTg3YS1lYTA4LTQzYmItODIwYS0yMjgxODdjYjMyODMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQyMTowNTo1MloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=7a60b8f35f1fafd20acc5b36f5808af7e76890ee409f1b71f122adcbbc64ecda/main.mpd?manifest-params=prod-20260412%7CygW0_UCuKm_NE6tGmIoFlnq3Zd_nbVKA1Ul3n_SbpaM%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY1YzNfQ2l3NE16QXlNVGczWVMxbFlUQTRMVFF6WW1JdE9ESXdZUzB5TWpneE9EZGpZak15T0RNdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDIxJTNBMTAlM0EwMFo%3D&rtype=admo&ck=eyIwMTAwNDVkYWY3MDYyZDBkZjA1MGJmYjg4YWIzZjIyZSI6IjY2N2RjMDc5ZTE5MmJjYWUzNjRjOTc0NzA2MjUyNTNmIiwiMDEwMTkyZjkwNmIzOTRlN2UyY2VmOTJiMjg1MzBkNTUiOiI1MTNkNGQ3ZTljODZiNWZiZGM5NDE1ZTRlMzI1NDZhYyIsIjAxMDI1MzM1Njg5Mzk5MDZmNTU1YzRhNzY4MzQ2MTdjIjoiZWM0ZmM5N2NlZTkxZDU2OTUzZDhlMTVkZjJiMGFkYTAifQ%3D%3D",
-      "sofaId": "15353012"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-12T17:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "visita": {
-        "nombre": "Club Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/4c8_CiwwNjdmNmM2My02OGUzLTRkN2YtOTU2OC03Y2YyNDBiMTVhY2QtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776115059&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6ImI1NDE5Y2JjLTYxMzItNGI3OC1hOTJlLWY1ZGFmN2M4ZTU5MCIsICJlZGl0SWQiOiIwNjdmNmM2My02OGUzLTRkN2YtOTU2OC03Y2YyNDBiMTVhY2QiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQyMToxNzozOVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=040628242afcece77bf05dc529476b6535fa9cf2381cd82ecc76cacf7a1b50e1/main.mpd?manifest-params=prod-20260412%7CqqfOpdX3MgKnSSSlMzZOMd3dmfB598PfkLsC68-QZ5o%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY0YzhfQ2l3d05qZG1ObU0yTXkwMk9HVXpMVFJrTjJZdE9UVTJPQzAzWTJZeU5EQmlNVFZoWTJRdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDIxJTNBMDklM0E1OVo%3D&rtype=admo&ck=eyIwMTAwM2M4MDVhMWNlYWMzM2Q2NzUzMDhhOWE0MGQzNSI6IjBhMzFmYmU5N2EzNTk0YTZjODUzNjliMGE4M2Q3YmRiIiwiMDEwMTFiNzZkNDYwYTRlZTAzODQwNjE2MDFjNTgxMmQiOiJjYjdlOTFlZTM5NmFlYzgxNTFmYzZhZjQ0ZjU2MDYyMCIsIjAxMDJlNjNkYWFjZDc2ZjFhYjEwYTc2MjJmM2FhMTVhIjoiMWZjN2FiZTNjMzkwMzZlYmEzM2M1NjM4MDFmOTA0NjgifQ%3D%3D",
-      "sofaId": "15416178"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-12T20:00:00-04:00",
-      "local": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/902_CixiM2VmZmI1NS03N2VjLTRiOWEtOWFiNi02OGIzODgyNDgxYWYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776123850&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6IjYyZmZiMDMzLWE2ODMtNDJlYy05MTIyLTE0Njc1YjlmMzhhOCIsICJlZGl0SWQiOiJiM2VmZmI1NS03N2VjLTRiOWEtOWFiNi02OGIzODgyNDgxYWYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQyMzo0NDoxMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=6b83cb6ec9715e64c6a669188d5d410b19405c883aa92a78f3ad531ab737c5af/main.mpd?manifest-params=prod-20260412%7CHgrFbHubS5ULAisjpOXbUBO2nDMaqQ4XAIwiZlkLguI%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY5MDJfQ2l4aU0yVm1abUkxTlMwM04yVmpMVFJpT1dFdE9XRmlOaTAyT0dJek9EZ3lORGd4WVdZdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDIzJTNBNDUlM0EwMFo%3D&rtype=admo&ck=eyIwMTAwMzUxYTVlYzMxMTk3Yzc3MmE0M2JkYzJiYjUxNCI6IjRlMjk2NWM4Yzg4MTFlNTNmODg4Mzg1NDcwZjc3OGRjIiwiMDEwMTQ5NzUwZWUwNzBhYmMwMGVmZjhjMGI3M2FlMzIiOiI1MjM4ZjM0ZTBhOTU0MzY2ZDVlMjMxMTYxYmI1MDY5YyIsIjAxMDI1YzY3N2IxY2EzZDFlYWI1NTcwNjg0NjEyMDU1IjoiZjk0NGQyNTI3YWM0ZjA0M2FlZTQwNTUxZTNhOTk0YWYifQ%3D%3D",
-      "sofaId": "15353014"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-12T20:00:00-04:00",
-      "local": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "visita": {
-        "nombre": "San Marcos de Arica",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/79f_Ciw5ZWIyNThjYi1hOGRmLTRkYTAtOTU0OS1kZGU4ZTQ5OTkzYWYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1776124021&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiMzBkM2I3YWQtN2U3My00MDNiLTlhM2QtNDQ0MGNmYjNmZmRjIiwgInNlc3Npb25JZCI6ImIxNTY0ZmVjLTE3ZTgtNDEzYi04MmI2LWMzM2ZlZDk4Nzg2YSIsICJlZGl0SWQiOiI5ZWIyNThjYi1hOGRmLTRkYTAtOTU0OS1kZGU4ZTQ5OTkzYWYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNC0xMlQyMzo0NzowMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=59ddd6f6262f4a334653e1fe0c1752e1ad3592f72f014d6c2728a3c2291f79ea/main.mpd?manifest-params=prod-20260412%7C4Jl3tSphFG6gFuho9SFbwOPO4mOrfbqJjAUPjjQd5WQ%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY3OWZfQ2l3NVpXSXlOVGhqWWkxaE9HUm1MVFJrWVRBdE9UVTBPUzFrWkdVNFpUUTVPVGt6WVdZdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA0LTEyVDIzJTNBMzklM0E0MVo%3D&rtype=admo&ck=eyIwMTAwY2FhYTQxMTJhYzAxNjRjMjA0N2VhODBhOWUwZiI6IjQ3YjU4NDc4MjM1NzVkYWM1MjNmZDNhMGJhZWZhZGI1IiwiMDEwMTNlOTNkZDk3YWQxMzkxMDhmYzVjYzQ3ZmU0ZDkiOiI0MTM3MmJjNzk1NTlhY2IyNmFhYjlkNTdjZjRjYTk3NiIsIjAxMDIyNzQ4ZTk1YmVlOWZjMDZhMjU5OTA5MzUxYzVlIjoiNTQxYzRjODIyNGNjMDhjMjM1NGQwNDE5NGI4OTdkNWEifQ%3D%3D",
-      "sofaId": "15416179"
-    },
-    {
-      "competencia": "primera",
       "inicio": "2026-04-13T20:00:00-04:00",
       "local": {
         "nombre": "Unión La Calera",
@@ -759,6 +703,20 @@
       "sofaId": "15416201"
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-03T12:30:00-04:00",
+      "local": {
+        "nombre": "Universidad de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/ucovsuc0503",
+      "sofaId": "15995247"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-05-03T15:00:00-04:00",
       "local": {
@@ -815,6 +773,20 @@
       "sofaId": "15416206"
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-03T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/depvsohf0503",
+      "sofaId": "15995243"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-05-04T18:00:00-04:00",
       "local": {
@@ -841,6 +813,118 @@
       },
       "link": "https://is.gd/smavsrec0504",
       "sofaId": "15416205"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-09T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/recvscru0509",
+      "sofaId": "15416213"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-09T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/dtmvsesp0509",
+      "sofaId": "15416212"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-09T20:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/swvscoc0509",
+      "sofaId": "15416214"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T12:30:00-04:00",
+      "local": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/antvsslq0510",
+      "sofaId": "15416207"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "Unión San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/copvsusf0510",
+      "sofaId": "15416208"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/iquvsran0510",
+      "sofaId": "15416211"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-10T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Deportes Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/pumvsmag0510",
+      "sofaId": "15416210"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-11T20:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "San Marcos de Arica",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/curvssma0511",
+      "sofaId": "15416209"
     },
     {
       "competencia": "primera",
