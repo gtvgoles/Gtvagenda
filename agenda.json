@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "trendyol 1.lig",
-      "inicio": "2026-04-13T10:00:00-04:00",
-      "local": {
-        "nombre": "Erzurumspor FK",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Boluspor",
-        "logo": ""
-      },
-      "link": "https://is.gd/erzvsbol0413",
-      "sofaId": "14138615"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-13T20:00:00-04:00",
-      "local": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "visita": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "link": "https://is.gd/ulcvsdco0413",
-      "sofaId": "15353019"
-    },
-    {
       "competencia": "sudamericana",
       "inicio": "2026-04-14T18:00:00-04:00",
       "local": {
@@ -827,6 +799,20 @@
       },
       "link": "https://is.gd/smavsrec0504",
       "sofaId": "15416205"
+    },
+    {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-04T20:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/dcovshua0504",
+      "sofaId": "15995246"
     },
     {
       "competencia": "ascenso",
