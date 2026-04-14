@@ -3,6 +3,34 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "uefa champions league",
+      "inicio": "2026-04-14T15:00:00-04:00",
+      "local": {
+        "nombre": "Atlético Madrid",
+        "logo": "escudos/manual/atletico_madrid.png"
+      },
+      "visita": {
+        "nombre": "FC Barcelona",
+        "logo": "escudos/manual/barcelona.png"
+      },
+      "link": "https://is.gd/atmvsbar0414",
+      "sofaId": "15632089"
+    },
+    {
+      "competencia": "uefa champions league",
+      "inicio": "2026-04-14T15:00:00-04:00",
+      "local": {
+        "nombre": "Liverpool",
+        "logo": "escudos/manual/liverpool.png"
+      },
+      "visita": {
+        "nombre": "Paris Saint-Germain",
+        "logo": "escudos/manual/paris_saint_germain.png"
+      },
+      "link": "https://is.gd/livvspsg0414",
+      "sofaId": "15632087"
+    },
+    {
       "competencia": "sudamericana",
       "inicio": "2026-04-14T18:00:00-04:00",
       "local": {
@@ -269,20 +297,6 @@
       "sofaId": "15353023"
     },
     {
-      "competencia": "primera",
-      "inicio": "2026-04-20T20:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/ucvsulc0420",
-      "sofaId": "15353022"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-04-20T20:00:00-04:00",
       "local": {
@@ -295,6 +309,20 @@
       },
       "link": "https://is.gd/pumvsdtm0420",
       "sofaId": "15416185"
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-04-20T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Unión La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/ucvsulc0420",
+      "sofaId": "15353022"
     },
     {
       "competencia": "primera",
@@ -591,6 +619,20 @@
       "sofaId": "15832077"
     },
     {
+      "competencia": "ascenso",
+      "inicio": "2026-04-30T20:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/espvscur0430",
+      "sofaId": "15416206"
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-05-02T12:30:00-04:00",
       "local": {
@@ -743,20 +785,6 @@
       },
       "link": "https://is.gd/cocvsant0503",
       "sofaId": "15416200"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-05-03T18:00:00-04:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "link": "https://is.gd/espvscur0503",
-      "sofaId": "15416206"
     },
     {
       "competencia": "copa_liga",
