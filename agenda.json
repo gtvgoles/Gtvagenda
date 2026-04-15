@@ -3,6 +3,34 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "uefa champions league",
+      "inicio": "2026-04-15T15:00:00-04:00",
+      "local": {
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
+      },
+      "visita": {
+        "nombre": "Sporting CP",
+        "logo": "escudos/manual/sporting_cp.png"
+      },
+      "link": "https://is.gd/arsvsscp0415",
+      "sofaId": "15632631"
+    },
+    {
+      "competencia": "uefa champions league",
+      "inicio": "2026-04-15T15:00:00-04:00",
+      "local": {
+        "nombre": "FC Bayern München",
+        "logo": "escudos/manual/fc_bayern_munchen.png"
+      },
+      "visita": {
+        "nombre": "Real Madrid",
+        "logo": "escudos/manual/real_madrid.png"
+      },
+      "link": "https://is.gd/fcbvsrma0415",
+      "sofaId": "15632088"
+    },
+    {
       "competencia": "libertadores",
       "inicio": "2026-04-15T18:00:00-04:00",
       "local": {
