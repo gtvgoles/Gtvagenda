@@ -3,90 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "uefa champions league",
-      "inicio": "2026-04-14T15:00:00-04:00",
-      "local": {
-        "nombre": "Atlético Madrid",
-        "logo": "escudos/manual/atletico_madrid.png"
-      },
-      "visita": {
-        "nombre": "FC Barcelona",
-        "logo": "escudos/manual/barcelona.png"
-      },
-      "link": "https://is.gd/atmvsbar0414",
-      "sofaId": "15632089"
-    },
-    {
-      "competencia": "uefa champions league",
-      "inicio": "2026-04-14T15:00:00-04:00",
-      "local": {
-        "nombre": "Liverpool",
-        "logo": "escudos/manual/liverpool.png"
-      },
-      "visita": {
-        "nombre": "Paris Saint-Germain",
-        "logo": "escudos/manual/paris_saint_germain.png"
-      },
-      "link": "https://is.gd/Livvspsg1404",
-      "sofaId": "15632087"
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-14T18:00:00-04:00",
-      "local": {
-        "nombre": "São Paulo",
-        "logo": "escudos/manual/sao_paulo.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/spavsohf0414",
-      "sofaId": "15832090"
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-14T20:00:00-04:00",
-      "local": {
-        "nombre": "Vasco da Gama",
-        "logo": "escudos/manual/vasco_da_gama.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://is.gd/vasvsaud0414",
-      "sofaId": "15832054"
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-14T20:30:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideo_city_torque.png"
-      },
-      "link": "https://is.gd/palvstor0414",
-      "sofaId": "15832052"
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-14T22:00:00-04:00",
-      "local": {
-        "nombre": "Universitario de Deportes",
-        "logo": "escudos/manual/universitario_de_deportes.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/univscoq0414",
-      "sofaId": "15832772"
-    },
-    {
       "competencia": "libertadores",
       "inicio": "2026-04-15T18:00:00-04:00",
       "local": {
@@ -409,20 +325,6 @@
       "sofaId": "15353033"
     },
     {
-      "competencia": "ascenso",
-      "inicio": "2026-04-25T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "visita": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "link": "https://is.gd/dtmvsran0425",
-      "sofaId": "15416195"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-25T18:00:00-04:00",
       "local": {
@@ -449,6 +351,20 @@
       },
       "link": "https://is.gd/curvspum0425",
       "sofaId": "15416193"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-04-25T20:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/dtmvsran0425",
+      "sofaId": "15416195"
     },
     {
       "competencia": "primera",
