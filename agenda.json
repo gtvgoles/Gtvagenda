@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "u17 conmebol championship",
+      "inicio": "2026-04-16T19:00:00-04:00",
+      "local": {
+        "nombre": "Bolivia U17",
+        "logo": "escudos/manual/bolivia_u17.png"
+      },
+      "visita": {
+        "nombre": "Chile U17",
+        "logo": "escudos/seleccion/chile.png"
+      },
+      "link": "https://is.gd/bolvschi0416",
+      "sofaId": "15998969"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-17T20:00:00-04:00",
       "local": {
