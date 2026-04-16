@@ -3,48 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "uefa champions league",
-      "inicio": "2026-04-15T15:00:00-04:00",
-      "local": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "visita": {
-        "nombre": "Sporting CP",
-        "logo": "escudos/manual/sporting_cp.png"
-      },
-      "link": "https://is.gd/arsvsscp0415",
-      "sofaId": "15632631"
-    },
-    {
-      "competencia": "uefa champions league",
-      "inicio": "2026-04-15T15:00:00-04:00",
-      "local": {
-        "nombre": "FC Bayern München",
-        "logo": "escudos/manual/fc_bayern_munchen.png"
-      },
-      "visita": {
-        "nombre": "Real Madrid",
-        "logo": "escudos/manual/real_madrid.png"
-      },
-      "link": "https://is.gd/fcbvsrma0415",
-      "sofaId": "15632088"
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-15T18:00:00-04:00",
-      "local": {
-        "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://is.gd/cruvsuc0415",
-      "sofaId": "15832830"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-17T20:00:00-04:00",
       "local": {
@@ -785,6 +743,48 @@
       },
       "link": "https://is.gd/dcovshua0504",
       "sofaId": "15995246"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-05-06T18:00:00-04:00",
+      "local": {
+        "nombre": "Montevideo City Torque",
+        "logo": "escudos/manual/montevideo_city_torque.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/torvspal0506",
+      "sofaId": "15832104"
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-05-06T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Vasco da Gama",
+        "logo": "escudos/manual/vasco_da_gama.png"
+      },
+      "link": "https://is.gd/audvsvas0506",
+      "sofaId": "15832110"
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-05-06T22:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Cruzeiro",
+        "logo": "escudos/manual/cruzeiro.png"
+      },
+      "link": "https://is.gd/ucvscru0506",
+      "sofaId": "15832839"
     },
     {
       "competencia": "ascenso",
