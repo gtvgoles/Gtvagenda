@@ -17,6 +17,20 @@
       "sofaId": "15416188"
     },
     {
+      "competencia": "premier league",
+      "inicio": "2026-04-18T12:30:00-04:00",
+      "local": {
+        "nombre": "Tottenham Hotspur",
+        "logo": "escudos/manual/tottenham_hotspur.png"
+      },
+      "visita": {
+        "nombre": "Brighton & Hove Albion",
+        "logo": "escudos/manual/brighton_hove_albion.png"
+      },
+      "link": "https://is.gd/totvsbha0418",
+      "sofaId": "14025042"
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-04-18T15:00:00-04:00",
       "local": {
