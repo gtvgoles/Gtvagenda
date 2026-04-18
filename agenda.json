@@ -3,20 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "npl northern new south wales",
-      "inicio": "2026-04-18T00:00:00-04:00",
-      "local": {
-        "nombre": "Edgeworth Eagles",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Charlestown Azzurri",
-        "logo": ""
-      },
-      "link": "https://is.gd/edgvscha0418",
-      "sofaId": "15379559"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-04-18T12:30:00-04:00",
       "local": {
