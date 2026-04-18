@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-04-18T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "visita": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "link": "https://is.gd/magvssw0418",
-      "sofaId": "15416186"
-    },
-    {
-      "competencia": "premier league",
-      "inicio": "2026-04-18T15:00:00-04:00",
-      "local": {
-        "nombre": "Chelsea",
-        "logo": "escudos/manual/chelsea.png"
-      },
-      "visita": {
-        "nombre": "Manchester United",
-        "logo": "escudos/manual/manchester_united.png"
-      },
-      "link": "https://is.gd/chevsmun0418",
-      "sofaId": "14025032"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-18T17:30:00-04:00",
       "local": {
@@ -57,6 +29,20 @@
       },
       "link": "https://is.gd/smavscoc0418",
       "sofaId": "15416190"
+    },
+    {
+      "competencia": "u17 conmebol championship",
+      "inicio": "2026-04-18T19:00:00-04:00",
+      "local": {
+        "nombre": "Uruguay U17",
+        "logo": "escudos/manual/uruguay_u17.png"
+      },
+      "visita": {
+        "nombre": "Chile U17",
+        "logo": "escudos/manual/chile_u17.png"
+      },
+      "link": "https://is.gd/uuuvschi0418",
+      "sofaId": "16022793"
     },
     {
       "competencia": "primera",
