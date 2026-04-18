@@ -3,32 +3,18 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-04-17T20:00:00-04:00",
+      "competencia": "npl northern new south wales",
+      "inicio": "2026-04-18T00:00:00-04:00",
       "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
+        "nombre": "Edgeworth Eagles",
+        "logo": ""
       },
       "visita": {
-        "nombre": "Universidad de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
+        "nombre": "Charlestown Azzurri",
+        "logo": ""
       },
-      "link": "https://is.gd/depvsuco0417",
-      "sofaId": "15353027"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-17T20:00:00-04:00",
-      "local": {
-        "nombre": "Rangers de Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "link": "https://is.gd/ranvsesp0417",
-      "sofaId": "15416187"
+      "link": "https://is.gd/edgvscha0418",
+      "sofaId": "15379559"
     },
     {
       "competencia": "ascenso",
