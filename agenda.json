@@ -4,34 +4,6 @@
   "partidos": [
     {
       "competencia": "ascenso",
-      "inicio": "2026-04-18T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "link": "https://is.gd/reccur2",
-      "sofaId": "15416188"
-    },
-    {
-      "competencia": "premier league",
-      "inicio": "2026-04-18T12:30:00-04:00",
-      "local": {
-        "nombre": "Tottenham Hotspur",
-        "logo": "escudos/manual/tottenham_hotspur.png"
-      },
-      "visita": {
-        "nombre": "Brighton & Hove Albion",
-        "logo": "escudos/manual/brighton_hove_albion.png"
-      },
-      "link": "https://is.gd/totvsbha0418",
-      "sofaId": "14025042"
-    },
-    {
-      "competencia": "ascenso",
       "inicio": "2026-04-18T15:00:00-04:00",
       "local": {
         "nombre": "Deportes Magallanes",
@@ -43,6 +15,20 @@
       },
       "link": "https://is.gd/magvssw0418",
       "sofaId": "15416186"
+    },
+    {
+      "competencia": "premier league",
+      "inicio": "2026-04-18T15:00:00-04:00",
+      "local": {
+        "nombre": "Chelsea",
+        "logo": "escudos/manual/chelsea.png"
+      },
+      "visita": {
+        "nombre": "Manchester United",
+        "logo": "escudos/manual/manchester_united.png"
+      },
+      "link": "https://is.gd/chevsmun0418",
+      "sofaId": "14025032"
     },
     {
       "competencia": "primera",
