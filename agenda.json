@@ -3,6 +3,20 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "premier league",
+      "inicio": "2026-04-19T09:00:00-04:00",
+      "local": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Liverpool",
+        "logo": "escudos/manual/liverpool.png"
+      },
+      "link": "https://is.gd/evevsliv0419",
+      "sofaId": "14025035"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-19T12:30:00-04:00",
       "local": {
