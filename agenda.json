@@ -3,48 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "premier league",
-      "inicio": "2026-04-19T09:00:00-04:00",
-      "local": {
-        "nombre": "Everton",
-        "logo": "escudos/manual/everton.png"
-      },
-      "visita": {
-        "nombre": "Liverpool",
-        "logo": "escudos/manual/liverpool.png"
-      },
-      "link": "https://is.gd/evevsliv0419",
-      "sofaId": "14025035"
-    },
-    {
-      "competencia": "premier league",
-      "inicio": "2026-04-19T11:30:00-04:00",
-      "local": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchester_city.png"
-      },
-      "visita": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "link": "https://cdn-live.mundogo.cl/espn/espn.mpd?ck=eyI5MDY3MTE4NGRkODI1NDFhOWQxNzg2ZWFhMDI1ZTM0NSI6Ijc0ZjhlYWI0NmMxZTQzZmQ4ZjdiNjRjMjFhOTZmYzViIiwiYjg3ZDdkYTg4NGJkNWYzNDk2MDE1ZjljMmU1M2M4OTYiOiI0NDUxNDQ3YmRmNTVmZTQ0NTFmNGEzYmYxNzdkYTU5YSIsImI2OTg5YmEwYWEwZjVlOGE4MTdlY2RmZDljMzg1OTk0IjoiNzVjNmU2ZDU3MzA4ZjM0Y2E0ODI4MDJhNWU3OTZhMDUifQ%3D%3D",
-      "sofaId": "14025039"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-19T12:30:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "link": "https://is.gd/coqvsnub0419",
-      "sofaId": "15353026"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-19T15:30:00-04:00",
       "local": {
@@ -71,6 +29,20 @@
       },
       "link": "https://is.gd/antvscop0419",
       "sofaId": "15416183"
+    },
+    {
+      "competencia": "liga profesional de futbol",
+      "inicio": "2026-04-19T16:00:00-04:00",
+      "local": {
+        "nombre": "River Plate",
+        "logo": "escudos/manual/river_plate.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": "escudos/manual/boca_juniors.png"
+      },
+      "link": "https://is.gd/rivvsboc0419",
+      "sofaId": "15269951"
     },
     {
       "competencia": "ascenso",
