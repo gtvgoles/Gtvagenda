@@ -3,62 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "liga profesional de futbol",
-      "inicio": "2026-04-19T16:00:00-04:00",
-      "local": {
-        "nombre": "River Plate",
-        "logo": "escudos/manual/river_plate.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": "escudos/manual/boca_juniors.png"
-      },
-      "link": "https://is.gd/rivvsboc0419",
-      "sofaId": "15269951"
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-19T18:00:00-04:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "link": "https://is.gd/slqvsiqu0419",
-      "sofaId": "15416189"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-19T18:30:00-04:00",
-      "local": {
-        "nombre": "Colo-Colo",
-        "logo": "escudos/primera/colocolo.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/ccvspal0419",
-      "sofaId": "15353024"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-19T20:45:00-04:00",
-      "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://is.gd/huavsaud0419",
-      "sofaId": "15353023"
-    },
-    {
       "competencia": "ascenso",
       "inicio": "2026-04-20T20:00:00-04:00",
       "local": {
