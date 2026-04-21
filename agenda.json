@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ascenso",
-      "inicio": "2026-04-20T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "link": "https://is.gd/pumvsdtm0420",
-      "sofaId": "15416185"
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-20T20:30:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Unión La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/ucvsulc0420",
-      "sofaId": "15353022"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-23T20:00:00-04:00",
       "local": {
@@ -731,6 +703,48 @@
       "sofaId": "15416209"
     },
     {
+      "competencia": "ascenso",
+      "inicio": "2026-05-16T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/magvsrec0516",
+      "sofaId": "15416218"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-16T15:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/cocvscop0516",
+      "sofaId": "15416216"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-16T15:00:00-04:00",
+      "local": {
+        "nombre": "Unión San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Rangers de Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/usfvsran0516",
+      "sofaId": "15416219"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-05-16T17:30:00-04:00",
       "local": {
@@ -743,6 +757,20 @@
       },
       "link": "https://is.gd/ohfvsuco0516",
       "sofaId": "15353043"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-16T17:30:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/curvssw0516",
+      "sofaId": "15416217"
     },
     {
       "competencia": "primera",
@@ -787,6 +815,20 @@
       "sofaId": "15353036"
     },
     {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T15:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Deportes Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/slqvspum0517",
+      "sofaId": "15416220"
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-05-17T17:30:00-04:00",
       "local": {
@@ -799,6 +841,20 @@
       },
       "link": "https://is.gd/ccvsnub0517",
       "sofaId": "15353041"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-17T17:30:00-04:00",
+      "local": {
+        "nombre": "San Marcos de Arica",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Club Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/smavsant0517",
+      "sofaId": "15416221"
     },
     {
       "competencia": "primera",
@@ -841,6 +897,34 @@
       },
       "link": "https://is.gd/dcovsevt0517",
       "sofaId": "15353040"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-18T19:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/cruvsdtm0518",
+      "sofaId": "15416215"
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-18T19:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/espvsiqu0518",
+      "sofaId": "15416222"
     }
   ]
 }
