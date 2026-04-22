@@ -14,7 +14,8 @@
         "logo": "escudos/primera/dconcepcion.png"
       },
       "link": "https://is.gd/palvsdco0423",
-      "sofaId": "15353035"
+      "sofaId": "15353035",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -28,7 +29,8 @@
         "logo": "escudos/primera/coquimbounido.png"
       },
       "link": "https://is.gd/ulcvscoq0424",
-      "sofaId": "15353030"
+      "sofaId": "15353030",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -42,7 +44,8 @@
         "logo": "escudos/primera/limache.png"
       },
       "link": "https://is.gd/audvsdep0424",
-      "sofaId": "15353031"
+      "sofaId": "15353031",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -56,7 +59,8 @@
         "logo": "escudos/ascenso/sanmarcos.png"
       },
       "link": "https://is.gd/copvssma0425",
-      "sofaId": "15416192"
+      "sofaId": "15416192",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -70,7 +74,8 @@
         "logo": "escudos/ascenso/magallanes.png"
       },
       "link": "https://is.gd/usfvsmag0425",
-      "sofaId": "15416197"
+      "sofaId": "15416197",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -84,7 +89,8 @@
         "logo": "escudos/primera/ohiggins.png"
       },
       "link": "https://is.gd/nubvsohf0425",
-      "sofaId": "15353033"
+      "sofaId": "15353033",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -98,7 +104,8 @@
         "logo": "escudos/primera/universidadcatolica.png"
       },
       "link": "https://is.gd/udcvsuc0425",
-      "sofaId": "15353029"
+      "sofaId": "15353029",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -112,7 +119,8 @@
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "link": "https://is.gd/curvspum0425",
-      "sofaId": "15416193"
+      "sofaId": "15416193",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -126,7 +134,8 @@
         "logo": "escudos/ascenso/rangers.png"
       },
       "link": "https://is.gd/dtmvsran0425",
-      "sofaId": "15416195"
+      "sofaId": "15416195",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -140,7 +149,8 @@
         "logo": "escudos/primera/huachipato.png"
       },
       "link": "https://is.gd/dlsvshua0426",
-      "sofaId": "15353034"
+      "sofaId": "15353034",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -154,7 +164,8 @@
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "link": "https://is.gd/recvsant0426",
-      "sofaId": "15416196"
+      "sofaId": "15416196",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -168,7 +179,8 @@
         "logo": "escudos/primera/colocolo.png"
       },
       "link": "https://is.gd/ucovscc0426",
-      "sofaId": "15353028"
+      "sofaId": "15353028",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -182,7 +194,8 @@
         "logo": "escudos/ascenso/sanluis.png"
       },
       "link": "https://is.gd/cocvsslq0426",
-      "sofaId": "15416191"
+      "sofaId": "15416191",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -196,7 +209,8 @@
         "logo": "escudos/primera/cobresal.png"
       },
       "link": "https://is.gd/evtvscob0426",
-      "sofaId": "15353032"
+      "sofaId": "15353032",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -210,7 +224,8 @@
         "logo": "escudos/ascenso/santacruz.png"
       },
       "link": "https://is.gd/espvscru0426",
-      "sofaId": "15416198"
+      "sofaId": "15416198",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -224,7 +239,8 @@
         "logo": "escudos/ascenso/wanderers.png"
       },
       "link": "https://is.gd/iquvssw0427",
-      "sofaId": "15416194"
+      "sofaId": "15416194",
+      "channel": ""
     },
     {
       "competencia": "sudamericana",
@@ -238,7 +254,8 @@
         "logo": "escudos/primera/audax.png"
       },
       "link": "https://is.gd/barvsaud0428",
-      "sofaId": "15832080"
+      "sofaId": "15832080",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "libertadores",
@@ -252,7 +269,8 @@
         "logo": "escudos/primera/coquimbounido.png"
       },
       "link": "https://is.gd/tolvscoq0428",
-      "sofaId": "15832775"
+      "sofaId": "15832775",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "sudamericana",
@@ -266,7 +284,8 @@
         "logo": ""
       },
       "link": "https://is.gd/ohfvsbri0428",
-      "sofaId": "15832093"
+      "sofaId": "15832093",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "libertadores",
@@ -280,7 +299,8 @@
         "logo": "escudos/primera/universidadcatolica.png"
       },
       "link": "https://is.gd/bscvsuc0429",
-      "sofaId": "15832835"
+      "sofaId": "15832835",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "sudamericana",
@@ -294,7 +314,8 @@
         "logo": ""
       },
       "link": "https://is.gd/palvsgre0429",
-      "sofaId": "15832077"
+      "sofaId": "15832077",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "ascenso",
@@ -308,7 +329,8 @@
         "logo": "escudos/ascenso/curicounido.png"
       },
       "link": "https://is.gd/espvscur0430",
-      "sofaId": "15416206"
+      "sofaId": "15416206",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -322,7 +344,8 @@
         "logo": "escudos/primera/unionlacalera.png"
       },
       "link": "https://is.gd/audvsulc0502",
-      "sofaId": "15995244"
+      "sofaId": "15995244",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -336,7 +359,8 @@
         "logo": "escudos/primera/palestino.png"
       },
       "link": "https://is.gd/evtvspal0502",
-      "sofaId": "15995242"
+      "sofaId": "15995242",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -350,7 +374,8 @@
         "logo": "escudos/primera/universidaddechile.png"
       },
       "link": "https://is.gd/dlsvsudc0502",
-      "sofaId": "15995241"
+      "sofaId": "15995241",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -364,7 +389,8 @@
         "logo": "escudos/ascenso/iquique.png"
       },
       "link": "https://is.gd/cruvsiqu0502",
-      "sofaId": "15416199"
+      "sofaId": "15416199",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -378,7 +404,8 @@
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "link": "https://is.gd/ranvspum0502",
-      "sofaId": "15416202"
+      "sofaId": "15416202",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -392,7 +419,8 @@
         "logo": "escudos/primera/cobresal.png"
       },
       "link": "https://is.gd/nubvscob0502",
-      "sofaId": "15995248"
+      "sofaId": "15995248",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -406,7 +434,8 @@
         "logo": "escudos/ascenso/copiapo.png"
       },
       "link": "https://is.gd/magvscop0503",
-      "sofaId": "15416201"
+      "sofaId": "15416201",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -420,7 +449,8 @@
         "logo": "escudos/primera/universidadcatolica.png"
       },
       "link": "https://is.gd/ucovsuc0503",
-      "sofaId": "15995247"
+      "sofaId": "15995247",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -434,7 +464,8 @@
         "logo": "escudos/ascenso/temuco.png"
       },
       "link": "https://is.gd/swvsdtm0503",
-      "sofaId": "15416203"
+      "sofaId": "15416203",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -448,7 +479,8 @@
         "logo": "escudos/primera/coquimbounido.png"
       },
       "link": "https://is.gd/ccvscoq0503",
-      "sofaId": "15353018"
+      "sofaId": "15353018",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -462,7 +494,8 @@
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "link": "https://is.gd/cocvsant0503",
-      "sofaId": "15416200"
+      "sofaId": "15416200",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -476,7 +509,8 @@
         "logo": "escudos/primera/ohiggins.png"
       },
       "link": "https://is.gd/depvsohf0503",
-      "sofaId": "15995243"
+      "sofaId": "15995243",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -490,7 +524,8 @@
         "logo": "escudos/ascenso/sanfelipe.png"
       },
       "link": "https://is.gd/slqvsusf0504",
-      "sofaId": "15416204"
+      "sofaId": "15416204",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -504,7 +539,8 @@
         "logo": "escudos/ascenso/recoleta.png"
       },
       "link": "https://is.gd/smavsrec0504",
-      "sofaId": "15416205"
+      "sofaId": "15416205",
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -518,7 +554,8 @@
         "logo": "escudos/primera/huachipato.png"
       },
       "link": "https://is.gd/dcovshua0504",
-      "sofaId": "15995246"
+      "sofaId": "15995246",
+      "channel": ""
     },
     {
       "competencia": "sudamericana",
@@ -532,7 +569,8 @@
         "logo": "escudos/primera/palestino.png"
       },
       "link": "https://is.gd/torvspal0506",
-      "sofaId": "15832104"
+      "sofaId": "15832104",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "sudamericana",
@@ -546,7 +584,8 @@
         "logo": ""
       },
       "link": "https://is.gd/audvsvas0506",
-      "sofaId": "15832110"
+      "sofaId": "15832110",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "libertadores",
@@ -560,7 +599,8 @@
         "logo": ""
       },
       "link": "https://is.gd/ucvscru0506",
-      "sofaId": "15832839"
+      "sofaId": "15832839",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "sudamericana",
@@ -574,7 +614,8 @@
         "logo": ""
       },
       "link": "https://is.gd/ohfvsspa0507",
-      "sofaId": "15832102"
+      "sofaId": "15832102",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "libertadores",
@@ -588,7 +629,8 @@
         "logo": ""
       },
       "link": "https://is.gd/coqvsuni0507",
-      "sofaId": "15832779"
+      "sofaId": "15832779",
+      "channel": "⚠️ Falta"
     },
     {
       "competencia": "ascenso",
@@ -602,7 +644,8 @@
         "logo": "escudos/ascenso/rangers.png"
       },
       "link": "https://is.gd/iquvsran0508",
-      "sofaId": "16054933"
+      "sofaId": "16054933",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -616,7 +659,8 @@
         "logo": "escudos/ascenso/santacruz.png"
       },
       "link": "https://is.gd/recvscru0509",
-      "sofaId": "15416213"
+      "sofaId": "15416213",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -630,7 +674,8 @@
         "logo": "escudos/ascenso/unionespanola.png"
       },
       "link": "https://is.gd/dtmvsesp0509",
-      "sofaId": "15416212"
+      "sofaId": "15416212",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -644,7 +689,8 @@
         "logo": "escudos/ascenso/cobreloa.png"
       },
       "link": "https://is.gd/swvscoc0509",
-      "sofaId": "15416214"
+      "sofaId": "15416214",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -658,7 +704,8 @@
         "logo": "escudos/ascenso/sanluis.png"
       },
       "link": "https://is.gd/antvsslq0510",
-      "sofaId": "15416207"
+      "sofaId": "15416207",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -672,7 +719,8 @@
         "logo": "escudos/ascenso/sanfelipe.png"
       },
       "link": "https://is.gd/copvsusf0510",
-      "sofaId": "15416208"
+      "sofaId": "15416208",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -686,7 +734,8 @@
         "logo": "escudos/ascenso/magallanes.png"
       },
       "link": "https://is.gd/pumvsmag0510",
-      "sofaId": "15416210"
+      "sofaId": "15416210",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -700,7 +749,8 @@
         "logo": "escudos/ascenso/sanmarcos.png"
       },
       "link": "https://is.gd/curvssma0511",
-      "sofaId": "15416209"
+      "sofaId": "15416209",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -714,7 +764,8 @@
         "logo": "escudos/ascenso/recoleta.png"
       },
       "link": "https://is.gd/magvsrec0516",
-      "sofaId": "15416218"
+      "sofaId": "15416218",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -728,7 +779,8 @@
         "logo": "escudos/ascenso/copiapo.png"
       },
       "link": "https://is.gd/cocvscop0516",
-      "sofaId": "15416216"
+      "sofaId": "15416216",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -742,7 +794,8 @@
         "logo": "escudos/ascenso/rangers.png"
       },
       "link": "https://is.gd/usfvsran0516",
-      "sofaId": "15416219"
+      "sofaId": "15416219",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -756,7 +809,8 @@
         "logo": "escudos/primera/udeconcepcion.png"
       },
       "link": "https://is.gd/ohfvsuco0516",
-      "sofaId": "15353043"
+      "sofaId": "15353043",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -770,7 +824,8 @@
         "logo": "escudos/ascenso/wanderers.png"
       },
       "link": "https://is.gd/curvssw0516",
-      "sofaId": "15416217"
+      "sofaId": "15416217",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -784,7 +839,8 @@
         "logo": "escudos/primera/universidadcatolica.png"
       },
       "link": "https://is.gd/depvsuc0516",
-      "sofaId": "15353042"
+      "sofaId": "15353042",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -798,7 +854,8 @@
         "logo": "escudos/primera/unionlacalera.png"
       },
       "link": "https://is.gd/huavsulc0517",
-      "sofaId": "15353038"
+      "sofaId": "15353038",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -812,7 +869,8 @@
         "logo": "escudos/primera/universidaddechile.png"
       },
       "link": "https://is.gd/cobvsudc0517",
-      "sofaId": "15353036"
+      "sofaId": "15353036",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -826,7 +884,8 @@
         "logo": "escudos/ascenso/puertomontt.png"
       },
       "link": "https://is.gd/slqvspum0517",
-      "sofaId": "15416220"
+      "sofaId": "15416220",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -840,7 +899,8 @@
         "logo": "escudos/primera/Ñublense.png"
       },
       "link": "https://is.gd/ccvsnub0517",
-      "sofaId": "15353041"
+      "sofaId": "15353041",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -854,7 +914,8 @@
         "logo": "escudos/ascenso/antofagasta.png"
       },
       "link": "https://is.gd/smavsant0517",
-      "sofaId": "15416221"
+      "sofaId": "15416221",
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -868,7 +929,8 @@
         "logo": "escudos/primera/audax.png"
       },
       "link": "https://is.gd/coqvsaud0517",
-      "sofaId": "15353039"
+      "sofaId": "15353039",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -882,7 +944,8 @@
         "logo": "escudos/primera/laserena.png"
       },
       "link": "https://is.gd/palvsdls0517",
-      "sofaId": "15353037"
+      "sofaId": "15353037",
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -896,7 +959,8 @@
         "logo": "escudos/primera/everton.png"
       },
       "link": "https://is.gd/dcovsevt0517",
-      "sofaId": "15353040"
+      "sofaId": "15353040",
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -910,7 +974,8 @@
         "logo": "escudos/ascenso/temuco.png"
       },
       "link": "https://is.gd/cruvsdtm0518",
-      "sofaId": "15416215"
+      "sofaId": "15416215",
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -924,7 +989,8 @@
         "logo": "escudos/ascenso/iquique.png"
       },
       "link": "https://is.gd/espvsiqu0518",
-      "sofaId": "15416222"
+      "sofaId": "15416222",
+      "channel": ""
     }
   ]
 }
