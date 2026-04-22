@@ -3,34 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "premier league",
-      "inicio": "2026-04-21T15:00:00-04:00",
-      "local": {
-        "nombre": "Brighton & Hove Albion",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Chelsea",
-        "logo": ""
-      },
-      "link": "https://is.gd/bhavsche0421",
-      "sofaId": "14024001"
-    },
-    {
-      "competencia": "laliga",
-      "inicio": "2026-04-21T15:30:00-04:00",
-      "local": {
-        "nombre": "Real Madrid",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Deportivo Alavés",
-        "logo": ""
-      },
-      "link": "https://gtvchile.pages.dev/tv/gtvzappingf?ch=36",
-      "sofaId": "14083295"
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-23T20:00:00-04:00",
       "local": {
