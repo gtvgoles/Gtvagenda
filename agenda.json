@@ -15,7 +15,7 @@
       },
       "link": "https://is.gd/palvsdep0423",
       "sofaId": 4650641,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -30,7 +30,7 @@
       },
       "link": "https://is.gd/ulavscoq0424",
       "sofaId": 4650644,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -45,7 +45,7 @@
       },
       "link": "https://is.gd/audvsdep0424",
       "sofaId": 4650645,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -71,7 +71,7 @@
       },
       "visita": {
         "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/sanmarcos.png"
       },
       "link": "https://is.gd/depvssan0425",
       "sofaId": 4656716,
@@ -90,7 +90,7 @@
       },
       "link": "https://is.gd/nubvsohi0425",
       "sofaId": 4650643,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -105,7 +105,7 @@
       },
       "link": "https://is.gd/univsuni0425",
       "sofaId": 4650647,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -150,7 +150,7 @@
       },
       "link": "https://is.gd/depvshua0426",
       "sofaId": 4650642,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -180,7 +180,7 @@
       },
       "link": "https://is.gd/udevscol0426",
       "sofaId": 4650648,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -210,7 +210,7 @@
       },
       "link": "https://is.gd/evevsdep0426",
       "sofaId": 4650646,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -247,7 +247,7 @@
       "inicio": "2026-04-28T20:00:00-04:00",
       "local": {
         "nombre": "Barracas Central",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-sGXoBJ0xoyQmrMud5B31X4DmQEmkonqBHTTzc5IhBeY0HSfhk-F-Iv2PAk-w6RtXAAOI_zK5ItuXmvCMqRQIeZ2UEffOJFGLHNtkLA5S1W9zz4P8i8CogBe1nK3wcDvjBp0wWaUZOuwuLJGrgNywqyyq0yl4eg0bJj0GugzAm30KwKd1GDwrxWsz/s512/CA%20Barracas%20Central.png"
       },
       "visita": {
         "nombre": "Audax Italiano",
@@ -495,7 +495,7 @@
       },
       "link": "https://is.gd/colvscoq0503",
       "sofaId": 4650661,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -547,7 +547,7 @@
       "inicio": "2026-05-04T20:30:00-04:00",
       "local": {
         "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/sanmarcos.png"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
