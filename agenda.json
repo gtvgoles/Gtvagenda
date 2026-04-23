@@ -244,21 +244,6 @@
     },
     {
       "competencia": "sudamericana",
-      "inicio": "2026-04-28T18:00:00-04:00",
-      "local": {
-        "nombre": "San Lorenzo",
-        "logo": "escudos/manual/sanlorenzo.png"
-      },
-      "visita": {
-        "nombre": "Santos",
-        "logo": "escudos/manual/santos.png"
-      },
-      "link": "https://is.gd/sanvssan0428",
-      "sofaId": 4690073,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
       "inicio": "2026-04-28T20:00:00-04:00",
       "local": {
         "nombre": "Barracas Central",
@@ -270,21 +255,6 @@
       },
       "link": "https://is.gd/barvsaud0428",
       "sofaId": 4690078,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-28T20:30:00-04:00",
-      "local": {
-        "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": "escudos/manual/bocajuniors.png"
-      },
-      "link": "https://is.gd/cruvsboc0428",
-      "sofaId": 4690139,
       "channel": ""
     },
     {
@@ -333,26 +303,11 @@
       "channel": ""
     },
     {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-29T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Riestra",
-        "logo": "escudos/manual/deportivoriestra.png"
-      },
-      "visita": {
-        "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideocitytorque.png"
-      },
-      "link": "https://is.gd/depvsmon0429",
-      "sofaId": 4690077,
-      "channel": ""
-    },
-    {
       "competencia": "libertadores",
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
         "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -371,40 +326,10 @@
       },
       "visita": {
         "nombre": "Grêmio",
-        "logo": "escudos/manual/gremio.png"
+        "logo": ""
       },
       "link": "https://is.gd/palvsgre0429",
       "sofaId": 4690076,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-29T22:00:00-04:00",
-      "local": {
-        "nombre": "Universitario",
-        "logo": "escudos/manual/universitario.png"
-      },
-      "visita": {
-        "nombre": "Nacional",
-        "logo": "escudos/manual/nacional.png"
-      },
-      "link": "https://is.gd/univsnac0429",
-      "sofaId": 4690136,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-30T18:00:00-04:00",
-      "local": {
-        "nombre": "Vasco Da Gama",
-        "logo": "escudos/manual/vascodagama.png"
-      },
-      "visita": {
-        "nombre": "Olimpia",
-        "logo": "escudos/manual/olimpia.png"
-      },
-      "link": "https://is.gd/vasvsoli0430",
-      "sofaId": 4690002,
       "channel": ""
     },
     {
@@ -649,36 +574,6 @@
     },
     {
       "competencia": "sudamericana",
-      "inicio": "2026-05-05T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Riestra",
-        "logo": "escudos/manual/deportivoriestra.png"
-      },
-      "visita": {
-        "nombre": "Grêmio",
-        "logo": "escudos/manual/gremio.png"
-      },
-      "link": "https://is.gd/depvsgre0505",
-      "sofaId": 4690125,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-05-05T20:00:00-04:00",
-      "local": {
-        "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": "escudos/manual/bocajuniors.png"
-      },
-      "link": "https://is.gd/barvsboc0505",
-      "sofaId": 4690174,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
       "inicio": "2026-05-05T20:30:00-04:00",
       "local": {
         "nombre": "Recoleta FC",
@@ -686,7 +581,7 @@
       },
       "visita": {
         "nombre": "Santos",
-        "logo": "escudos/manual/santos.png"
+        "logo": ""
       },
       "link": "https://is.gd/recvssan0505",
       "sofaId": 4690112,
@@ -694,25 +589,10 @@
     },
     {
       "competencia": "sudamericana",
-      "inicio": "2026-05-05T22:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Cuenca",
-        "logo": "escudos/manual/deportivocuenca.png"
-      },
-      "visita": {
-        "nombre": "San Lorenzo",
-        "logo": "escudos/manual/sanlorenzo.png"
-      },
-      "link": "https://is.gd/depvssan0505",
-      "sofaId": 4690110,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
       "inicio": "2026-05-06T18:00:00-04:00",
       "local": {
         "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideocitytorque.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Palestino",
@@ -731,40 +611,10 @@
       },
       "visita": {
         "nombre": "Vasco Da Gama",
-        "logo": "escudos/manual/vascodagama.png"
+        "logo": ""
       },
       "link": "https://is.gd/audvsvas0506",
       "sofaId": 4690126,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-06T20:00:00-04:00",
-      "local": {
-        "nombre": "Barracas Central",
-        "logo": "escudos/manual/barracascentral.png"
-      },
-      "visita": {
-        "nombre": "Olimpia",
-        "logo": "escudos/manual/olimpia.png"
-      },
-      "link": "https://is.gd/barvsoli0506",
-      "sofaId": 4690129,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-05-06T22:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Tolima",
-        "logo": "escudos/manual/deportestolima.png"
-      },
-      "visita": {
-        "nombre": "Nacional",
-        "logo": "escudos/manual/nacional.png"
-      },
-      "link": "https://is.gd/depvsnac0506",
-      "sofaId": 4690161,
       "channel": ""
     },
     {
@@ -776,7 +626,7 @@
       },
       "visita": {
         "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
+        "logo": ""
       },
       "link": "https://is.gd/univscru0506",
       "sofaId": 4690172,
