@@ -266,7 +266,7 @@
       },
       "visita": {
         "nombre": "Deportivo Cuenca",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/deportivocuenca.png"
       },
       "link": "https://is.gd/recvsdep0428",
       "sofaId": 4690074,
@@ -277,7 +277,7 @@
       "inicio": "2026-04-28T22:00:00-04:00",
       "local": {
         "nombre": "Deportes Tolima",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/deportestolima.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -296,7 +296,7 @@
       },
       "visita": {
         "nombre": "Boston River",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/bostonriver.png"
       },
       "link": "https://is.gd/ohivsbos0428",
       "sofaId": 4690072,
@@ -307,7 +307,7 @@
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
         "nombre": "Barcelona SC",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/barcelonasc.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -326,7 +326,7 @@
       },
       "visita": {
         "nombre": "Grêmio",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/gremio.png"
       },
       "link": "https://is.gd/palvsgre0429",
       "sofaId": 4690076,
@@ -581,7 +581,7 @@
       },
       "visita": {
         "nombre": "Santos",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/santos.png"
       },
       "link": "https://is.gd/recvssan0505",
       "sofaId": 4690112,
@@ -592,7 +592,7 @@
       "inicio": "2026-05-06T18:00:00-04:00",
       "local": {
         "nombre": "Montevideo City Torque",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/montevideocitytorque.png"
       },
       "visita": {
         "nombre": "Palestino",
@@ -611,10 +611,25 @@
       },
       "visita": {
         "nombre": "Vasco Da Gama",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/vascodagama.png"
       },
       "link": "https://is.gd/audvsvas0506",
       "sofaId": 4690126,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-05-06T20:00:00-04:00",
+      "local": {
+        "nombre": "Barracas Central",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-sGXoBJ0xoyQmrMud5B31X4DmQEmkonqBHTTzc5IhBeY0HSfhk-F-Iv2PAk-w6RtXAAOI_zK5ItuXmvCMqRQIeZ2UEffOJFGLHNtkLA5S1W9zz4P8i8CogBe1nK3wcDvjBp0wWaUZOuwuLJGrgNywqyyq0yl4eg0bJj0GugzAm30KwKd1GDwrxWsz/s512/CA%20Barracas%20Central.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/olimpia.png"
+      },
+      "link": "https://is.gd/barvsoli0506",
+      "sofaId": 4690129,
       "channel": ""
     },
     {
@@ -626,7 +641,7 @@
       },
       "visita": {
         "nombre": "Cruzeiro",
-        "logo": ""
+        "logo": "https://gtvchile.pages.dev/assets/escudos/manual/cruzeiro.png"
       },
       "link": "https://is.gd/univscru0506",
       "sofaId": 4690172,
