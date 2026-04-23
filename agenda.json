@@ -753,6 +753,21 @@
       "channel": ""
     },
     {
+      "competencia": "copa_liga",
+      "inicio": "2026-05-13T20:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Colo-Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/coqvscc0513",
+      "sofaId": "15995249",
+      "channel": ""
+    },
+    {
       "competencia": "ascenso",
       "inicio": "2026-05-16T12:30:00-04:00",
       "local": {
