@@ -3,6 +3,21 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Brasil, Copa de Brasil - 5ta Fase",
+      "inicio": "2026-04-23T18:30:00-04:00",
+      "local": {
+        "nombre": "Palmeiras",
+        "logo": "escudos/manual/palmeiras.png"
+      },
+      "visita": {
+        "nombre": "Jacuipense",
+        "logo": "escudos/manual/jacuipense.png"
+      },
+      "link": "https://is.gd/palvsjac0423",
+      "sofaId": 4691842,
+      "channel": 35
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-23T20:00:00-04:00",
       "local": {
@@ -120,7 +135,7 @@
       },
       "link": "https://is.gd/curvsdep0425",
       "sofaId": 4656709,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "ascenso",
@@ -240,7 +255,7 @@
       },
       "link": "https://is.gd/depvssan0427",
       "sofaId": 4656713,
-      "channel": 36
+      "channel": 35
     },
     {
       "competencia": "sudamericana",
@@ -360,6 +375,21 @@
       },
       "link": "https://is.gd/barvsuni0429",
       "sofaId": 4690229,
+      "channel": ""
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-29T20:30:00-04:00",
+      "local": {
+        "nombre": "Cerro Porteño",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Palmeiras",
+        "logo": "escudos/manual/palmeiras.png"
+      },
+      "link": "https://is.gd/cervspal0429",
+      "sofaId": 4690147,
       "channel": ""
     },
     {
@@ -630,6 +660,21 @@
       },
       "link": "https://is.gd/depvshua0504",
       "sofaId": 4700795,
+      "channel": ""
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-05-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Sporting Cristal",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Palmeiras",
+        "logo": "escudos/manual/palmeiras.png"
+      },
+      "link": "https://is.gd/spovspal0505",
+      "sofaId": 4690181,
       "channel": ""
     },
     {
