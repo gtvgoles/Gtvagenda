@@ -3,21 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Argentina, Liga Profesional - Reserva - Apertura",
-      "inicio": "2026-04-23T17:00:00-04:00",
-      "local": {
-        "nombre": "Gimnasia de Mendoza (Reserva)",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Independiente Rivadavia (Reserva)",
-        "logo": ""
-      },
-      "link": "https://is.gd/gimvsind0423",
-      "sofaId": 4658491,
-      "channel": 49
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-23T20:00:00-04:00",
       "local": {
@@ -75,7 +60,7 @@
       },
       "link": "https://is.gd/univsmag0425",
       "sofaId": 4656712,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "ascenso",
@@ -90,7 +75,7 @@
       },
       "link": "https://is.gd/depvssan0425",
       "sofaId": 4656716,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "primera",
@@ -150,7 +135,7 @@
       },
       "link": "https://is.gd/depvsran0425",
       "sofaId": 4656710,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "primera",
@@ -180,7 +165,7 @@
       },
       "link": "https://is.gd/depvsdep0426",
       "sofaId": 4656715,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "primera",
@@ -210,7 +195,7 @@
       },
       "link": "https://is.gd/cobvssan0426",
       "sofaId": 4656714,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "primera",
@@ -240,7 +225,7 @@
       },
       "link": "https://is.gd/univsdep0426",
       "sofaId": 4656711,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "ascenso",
@@ -255,7 +240,7 @@
       },
       "link": "https://is.gd/depvssan0427",
       "sofaId": 4656713,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "sudamericana",
@@ -420,7 +405,7 @@
       },
       "link": "https://is.gd/univscur0430",
       "sofaId": 4656703,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "copa_liga",
@@ -480,7 +465,7 @@
       },
       "link": "https://is.gd/depvsdep0502",
       "sofaId": 4656708,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "ascenso",
@@ -495,7 +480,7 @@
       },
       "link": "https://is.gd/ranvsdep0502",
       "sofaId": 4656701,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "copa_liga",
@@ -525,7 +510,7 @@
       },
       "link": "https://is.gd/magvsdep0503",
       "sofaId": 4656706,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "copa_liga",
@@ -555,7 +540,7 @@
       },
       "link": "https://is.gd/sanvsdep0503",
       "sofaId": 4656702,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "primera",
@@ -585,7 +570,7 @@
       },
       "link": "https://is.gd/cobvsdep0503",
       "sofaId": 4656707,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "copa_liga",
@@ -615,7 +600,7 @@
       },
       "link": "https://is.gd/sanvsuni0504",
       "sofaId": 4656705,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "ascenso",
@@ -630,7 +615,7 @@
       },
       "link": "https://is.gd/sanvsdep0504",
       "sofaId": 4656704,
-      "channel": ""
+      "channel": 35
     },
     {
       "competencia": "copa_liga",
