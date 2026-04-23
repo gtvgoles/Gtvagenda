@@ -3,6 +3,21 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Argentina, Liga Profesional - Reserva - Apertura",
+      "inicio": "2026-04-23T17:00:00-04:00",
+      "local": {
+        "nombre": "Gimnasia de Mendoza (Reserva)",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Independiente Rivadavia (Reserva)",
+        "logo": ""
+      },
+      "link": "https://is.gd/gimvsind0423",
+      "sofaId": 4658491,
+      "channel": ""
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-23T20:00:00-04:00",
       "local": {
@@ -244,6 +259,21 @@
     },
     {
       "competencia": "sudamericana",
+      "inicio": "2026-04-28T18:00:00-04:00",
+      "local": {
+        "nombre": "San Lorenzo",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Santos",
+        "logo": "escudos/manual/santos.png"
+      },
+      "link": "https://is.gd/sanvssan0428",
+      "sofaId": 4690073,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
       "inicio": "2026-04-28T20:00:00-04:00",
       "local": {
         "nombre": "Barracas Central",
@@ -255,6 +285,21 @@
       },
       "link": "https://is.gd/barvsaud0428",
       "sofaId": 4690078,
+      "channel": ""
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-04-28T20:30:00-04:00",
+      "local": {
+        "nombre": "Cruzeiro",
+        "logo": "escudos/manual/cruzeiro.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": ""
+      },
+      "link": "https://is.gd/cruvsboc0428",
+      "sofaId": 4690139,
       "channel": ""
     },
     {
@@ -303,11 +348,26 @@
       "channel": ""
     },
     {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-29T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportivo Riestra",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Montevideo City Torque",
+        "logo": "escudos/manual/montevideocitytorque.png"
+      },
+      "link": "https://is.gd/depvsmon0429",
+      "sofaId": 4690077,
+      "channel": ""
+    },
+    {
       "competencia": "libertadores",
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
         "nombre": "Barcelona SC",
-        "logo": ""
+        "logo": "escudos/manual/barcelonasc.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -326,10 +386,25 @@
       },
       "visita": {
         "nombre": "Grêmio",
-        "logo": ""
+        "logo": "escudos/manual/gremio.png"
       },
       "link": "https://is.gd/palvsgre0429",
       "sofaId": 4690076,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-04-30T18:00:00-04:00",
+      "local": {
+        "nombre": "Vasco Da Gama",
+        "logo": "escudos/manual/vascodagama.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": ""
+      },
+      "link": "https://is.gd/vasvsoli0430",
+      "sofaId": 4690002,
       "channel": ""
     },
     {
@@ -574,6 +649,36 @@
     },
     {
       "competencia": "sudamericana",
+      "inicio": "2026-05-05T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportivo Riestra",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Grêmio",
+        "logo": "escudos/manual/gremio.png"
+      },
+      "link": "https://is.gd/depvsgre0505",
+      "sofaId": 4690125,
+      "channel": ""
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-05-05T20:00:00-04:00",
+      "local": {
+        "nombre": "Barcelona SC",
+        "logo": "escudos/manual/barcelonasc.png"
+      },
+      "visita": {
+        "nombre": "Boca Juniors",
+        "logo": ""
+      },
+      "link": "https://is.gd/barvsboc0505",
+      "sofaId": 4690174,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
       "inicio": "2026-05-05T20:30:00-04:00",
       "local": {
         "nombre": "Recoleta FC",
@@ -581,7 +686,7 @@
       },
       "visita": {
         "nombre": "Santos",
-        "logo": ""
+        "logo": "escudos/manual/santos.png"
       },
       "link": "https://is.gd/recvssan0505",
       "sofaId": 4690112,
@@ -589,10 +694,25 @@
     },
     {
       "competencia": "sudamericana",
+      "inicio": "2026-05-05T22:00:00-04:00",
+      "local": {
+        "nombre": "Deportivo Cuenca",
+        "logo": "escudos/manual/deportivocuenca.png"
+      },
+      "visita": {
+        "nombre": "San Lorenzo",
+        "logo": ""
+      },
+      "link": "https://is.gd/depvssan0505",
+      "sofaId": 4690110,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
       "inicio": "2026-05-06T18:00:00-04:00",
       "local": {
         "nombre": "Montevideo City Torque",
-        "logo": ""
+        "logo": "escudos/manual/montevideocitytorque.png"
       },
       "visita": {
         "nombre": "Palestino",
@@ -611,10 +731,40 @@
       },
       "visita": {
         "nombre": "Vasco Da Gama",
-        "logo": ""
+        "logo": "escudos/manual/vascodagama.png"
       },
       "link": "https://is.gd/audvsvas0506",
       "sofaId": 4690126,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-05-06T20:00:00-04:00",
+      "local": {
+        "nombre": "Barracas Central",
+        "logo": "escudos/manual/barracascentral.png"
+      },
+      "visita": {
+        "nombre": "Olimpia",
+        "logo": ""
+      },
+      "link": "https://is.gd/barvsoli0506",
+      "sofaId": 4690129,
+      "channel": ""
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-05-06T22:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Tolima",
+        "logo": "escudos/manual/deportestolima.png"
+      },
+      "visita": {
+        "nombre": "Nacional",
+        "logo": ""
+      },
+      "link": "https://is.gd/depvsnac0506",
+      "sofaId": 4690161,
       "channel": ""
     },
     {
@@ -626,7 +776,7 @@
       },
       "visita": {
         "nombre": "Cruzeiro",
-        "logo": ""
+        "logo": "escudos/manual/cruzeiro.png"
       },
       "link": "https://is.gd/univscru0506",
       "sofaId": 4690172,
@@ -765,6 +915,246 @@
       },
       "link": "https://is.gd/coqvscol0513",
       "sofaId": 4700804,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-15T20:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/coqvsaud0515",
+      "sofaId": 4650635,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-15T20:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/palvsdep0515",
+      "sofaId": 4650638,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-16T17:30:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/ohivsude0516",
+      "sofaId": 4650632,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-16T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/depvsuni0516",
+      "sofaId": 4650640,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T12:30:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/huavsula0517",
+      "sofaId": 4650637,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/depvsuni0517",
+      "sofaId": 4650639,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T17:30:00-04:00",
+      "local": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "link": "https://is.gd/colvsnub0517",
+      "sofaId": 4650634,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-17T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/depvseve0517",
+      "sofaId": 4650636,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-22T20:00:00-04:00",
+      "local": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/evevscoq0522",
+      "sofaId": 4650630,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-23T12:30:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/audvsdep0523",
+      "sofaId": 4650631,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-23T15:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/nubvsude0523",
+      "sofaId": 4650625,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-23T17:30:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/univsohi0523",
+      "sofaId": 4650627,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-23T20:00:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/ulavspal0523",
+      "sofaId": 4650628,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/depvshua0524",
+      "sofaId": 4650626,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/depvsdep0524",
+      "sofaId": 4650629,
+      "channel": ""
+    },
+    {
+      "competencia": "primera",
+      "inicio": "2026-05-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/univscol0524",
+      "sofaId": 4650633,
       "channel": ""
     }
   ]
