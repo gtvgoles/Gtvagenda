@@ -3,6 +3,21 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "España, LaLiga",
+      "inicio": "2026-04-24T15:00:00-04:00",
+      "local": {
+        "nombre": "Real Betis",
+        "logo": "escudos/manual/realbetis.png"
+      },
+      "visita": {
+        "nombre": "Real Madrid",
+        "logo": "escudos/manual/realmadrid.png"
+      },
+      "link": "https://is.gd/reavsrea0424",
+      "sofaId": 4467348,
+      "channel": ""
+    },
+    {
       "competencia": "primera",
       "inicio": "2026-04-24T18:00:00-04:00",
       "local": {
