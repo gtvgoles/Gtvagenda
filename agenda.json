@@ -3,36 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Brasil, Copa de Brasil - 5ta Fase",
-      "inicio": "2026-04-23T18:30:00-04:00",
-      "local": {
-        "nombre": "Palmeiras",
-        "logo": "escudos/manual/palmeiras.png"
-      },
-      "visita": {
-        "nombre": "Jacuipense",
-        "logo": "escudos/manual/jacuipense.png"
-      },
-      "link": "https://is.gd/palvsjac0423",
-      "sofaId": 4691842,
-      "channel": 35
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-23T20:00:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "link": "https://is.gd/palvsdep0423",
-      "sofaId": 4650641,
-      "channel": 36
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-24T18:00:00-04:00",
       "local": {
@@ -75,7 +45,7 @@
       },
       "link": "https://is.gd/univsmag0425",
       "sofaId": 4656712,
-      "channel": 35
+      "channel": 36
     },
     {
       "competencia": "ascenso",
@@ -86,7 +56,7 @@
       },
       "visita": {
         "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
+        "logo": ""
       },
       "link": "https://is.gd/depvssan0425",
       "sofaId": 4656716,
@@ -135,7 +105,7 @@
       },
       "link": "https://is.gd/curvsdep0425",
       "sofaId": 4656709,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -255,29 +225,14 @@
       },
       "link": "https://is.gd/depvssan0427",
       "sofaId": 4656713,
-      "channel": 35
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-28T18:00:00-04:00",
-      "local": {
-        "nombre": "San Lorenzo",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Santos",
-        "logo": "escudos/manual/santos.png"
-      },
-      "link": "https://is.gd/sanvssan0428",
-      "sofaId": 4690073,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "sudamericana",
       "inicio": "2026-04-28T20:00:00-04:00",
       "local": {
         "nombre": "Barracas Central",
-        "logo": "escudos/manual/barracascentral.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Audax Italiano",
@@ -285,21 +240,6 @@
       },
       "link": "https://is.gd/barvsaud0428",
       "sofaId": 4690078,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-28T20:30:00-04:00",
-      "local": {
-        "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": ""
-      },
-      "link": "https://is.gd/cruvsboc0428",
-      "sofaId": 4690139,
       "channel": ""
     },
     {
@@ -311,7 +251,7 @@
       },
       "visita": {
         "nombre": "Deportivo Cuenca",
-        "logo": "escudos/manual/deportivocuenca.png"
+        "logo": ""
       },
       "link": "https://is.gd/recvsdep0428",
       "sofaId": 4690074,
@@ -322,7 +262,7 @@
       "inicio": "2026-04-28T22:00:00-04:00",
       "local": {
         "nombre": "Deportes Tolima",
-        "logo": "escudos/manual/deportestolima.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -341,25 +281,10 @@
       },
       "visita": {
         "nombre": "Boston River",
-        "logo": "escudos/manual/bostonriver.png"
+        "logo": ""
       },
       "link": "https://is.gd/ohivsbos0428",
       "sofaId": 4690072,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-29T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Riestra",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideocitytorque.png"
-      },
-      "link": "https://is.gd/depvsmon0429",
-      "sofaId": 4690077,
       "channel": ""
     },
     {
@@ -367,7 +292,7 @@
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
         "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -375,21 +300,6 @@
       },
       "link": "https://is.gd/barvsuni0429",
       "sofaId": 4690229,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-04-29T20:30:00-04:00",
-      "local": {
-        "nombre": "Cerro Porteño",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Palmeiras",
-        "logo": "escudos/manual/palmeiras.png"
-      },
-      "link": "https://is.gd/cervspal0429",
-      "sofaId": 4690147,
       "channel": ""
     },
     {
@@ -401,25 +311,10 @@
       },
       "visita": {
         "nombre": "Grêmio",
-        "logo": "escudos/manual/gremio.png"
+        "logo": ""
       },
       "link": "https://is.gd/palvsgre0429",
       "sofaId": 4690076,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-30T18:00:00-04:00",
-      "local": {
-        "nombre": "Vasco Da Gama",
-        "logo": "escudos/manual/vascodagama.png"
-      },
-      "visita": {
-        "nombre": "Olimpia",
-        "logo": ""
-      },
-      "link": "https://is.gd/vasvsoli0430",
-      "sofaId": 4690002,
       "channel": ""
     },
     {
@@ -637,7 +532,7 @@
       "inicio": "2026-05-04T20:30:00-04:00",
       "local": {
         "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Deportes Recoleta",
@@ -663,51 +558,6 @@
       "channel": ""
     },
     {
-      "competencia": "libertadores",
-      "inicio": "2026-05-05T18:00:00-04:00",
-      "local": {
-        "nombre": "Sporting Cristal",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Palmeiras",
-        "logo": "escudos/manual/palmeiras.png"
-      },
-      "link": "https://is.gd/spovspal0505",
-      "sofaId": 4690181,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-05T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Riestra",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Grêmio",
-        "logo": "escudos/manual/gremio.png"
-      },
-      "link": "https://is.gd/depvsgre0505",
-      "sofaId": 4690125,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-05-05T20:00:00-04:00",
-      "local": {
-        "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": ""
-      },
-      "link": "https://is.gd/barvsboc0505",
-      "sofaId": 4690174,
-      "channel": ""
-    },
-    {
       "competencia": "sudamericana",
       "inicio": "2026-05-05T20:30:00-04:00",
       "local": {
@@ -716,7 +566,7 @@
       },
       "visita": {
         "nombre": "Santos",
-        "logo": "escudos/manual/santos.png"
+        "logo": ""
       },
       "link": "https://is.gd/recvssan0505",
       "sofaId": 4690112,
@@ -724,25 +574,10 @@
     },
     {
       "competencia": "sudamericana",
-      "inicio": "2026-05-05T22:00:00-04:00",
-      "local": {
-        "nombre": "Deportivo Cuenca",
-        "logo": "escudos/manual/deportivocuenca.png"
-      },
-      "visita": {
-        "nombre": "San Lorenzo",
-        "logo": ""
-      },
-      "link": "https://is.gd/depvssan0505",
-      "sofaId": 4690110,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
       "inicio": "2026-05-06T18:00:00-04:00",
       "local": {
         "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideocitytorque.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Palestino",
@@ -761,40 +596,10 @@
       },
       "visita": {
         "nombre": "Vasco Da Gama",
-        "logo": "escudos/manual/vascodagama.png"
+        "logo": ""
       },
       "link": "https://is.gd/audvsvas0506",
       "sofaId": 4690126,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-06T20:00:00-04:00",
-      "local": {
-        "nombre": "Barracas Central",
-        "logo": "escudos/manual/barracascentral.png"
-      },
-      "visita": {
-        "nombre": "Olimpia",
-        "logo": ""
-      },
-      "link": "https://is.gd/barvsoli0506",
-      "sofaId": 4690129,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-05-06T22:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Tolima",
-        "logo": "escudos/manual/deportestolima.png"
-      },
-      "visita": {
-        "nombre": "Nacional",
-        "logo": ""
-      },
-      "link": "https://is.gd/depvsnac0506",
-      "sofaId": 4690161,
       "channel": ""
     },
     {
@@ -806,10 +611,40 @@
       },
       "visita": {
         "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
+        "logo": ""
       },
       "link": "https://is.gd/univscru0506",
       "sofaId": 4690172,
+      "channel": ""
+    },
+    {
+      "competencia": "sudamericana",
+      "inicio": "2026-05-07T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "São Paulo",
+        "logo": ""
+      },
+      "link": "https://is.gd/ohivssao0507",
+      "sofaId": 4690106,
+      "channel": ""
+    },
+    {
+      "competencia": "libertadores",
+      "inicio": "2026-05-07T20:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Universitario",
+        "logo": ""
+      },
+      "link": "https://is.gd/coqvsuni0507",
+      "sofaId": 4690159,
       "channel": ""
     },
     {
@@ -960,7 +795,7 @@
       },
       "link": "https://is.gd/coqvsaud0515",
       "sofaId": 4650635,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -975,7 +810,7 @@
       },
       "link": "https://is.gd/palvsdep0515",
       "sofaId": 4650638,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -990,7 +825,7 @@
       },
       "link": "https://is.gd/ohivsude0516",
       "sofaId": 4650632,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1005,7 +840,7 @@
       },
       "link": "https://is.gd/depvsuni0516",
       "sofaId": 4650640,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1020,7 +855,7 @@
       },
       "link": "https://is.gd/huavsula0517",
       "sofaId": 4650637,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1035,7 +870,7 @@
       },
       "link": "https://is.gd/depvsuni0517",
       "sofaId": 4650639,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1050,7 +885,7 @@
       },
       "link": "https://is.gd/colvsnub0517",
       "sofaId": 4650634,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1065,7 +900,7 @@
       },
       "link": "https://is.gd/depvseve0517",
       "sofaId": 4650636,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1080,7 +915,7 @@
       },
       "link": "https://is.gd/evevscoq0522",
       "sofaId": 4650630,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1095,7 +930,7 @@
       },
       "link": "https://is.gd/audvsdep0523",
       "sofaId": 4650631,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1110,7 +945,7 @@
       },
       "link": "https://is.gd/nubvsude0523",
       "sofaId": 4650625,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1125,7 +960,7 @@
       },
       "link": "https://is.gd/univsohi0523",
       "sofaId": 4650627,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1140,7 +975,7 @@
       },
       "link": "https://is.gd/ulavspal0523",
       "sofaId": 4650628,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1155,7 +990,7 @@
       },
       "link": "https://is.gd/depvshua0524",
       "sofaId": 4650626,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1170,7 +1005,7 @@
       },
       "link": "https://is.gd/depvsdep0524",
       "sofaId": 4650629,
-      "channel": ""
+      "channel": 36
     },
     {
       "competencia": "primera",
@@ -1185,7 +1020,7 @@
       },
       "link": "https://is.gd/univscol0524",
       "sofaId": 4650633,
-      "channel": ""
+      "channel": 36
     }
   ]
 }
