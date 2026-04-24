@@ -56,7 +56,7 @@
       },
       "visita": {
         "nombre": "San Marcos",
-        "logo": ""
+        "logo": "escudos/ascenso/sanmarcos.png"
       },
       "link": "https://is.gd/depvssan0425",
       "sofaId": 4656716,
@@ -532,7 +532,7 @@
       "inicio": "2026-05-04T20:30:00-04:00",
       "local": {
         "nombre": "San Marcos",
-        "logo": ""
+        "logo": "escudos/ascenso/sanmarcos.png"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
