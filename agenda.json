@@ -3,21 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "España, LaLiga",
-      "inicio": "2026-04-24T15:00:00-04:00",
-      "local": {
-        "nombre": "Real Betis",
-        "logo": "escudos/manual/realbetis.png"
-      },
-      "visita": {
-        "nombre": "Real Madrid",
-        "logo": "escudos/manual/realmadrid.png"
-      },
-      "link": "https://is.gd/reavsrea0424",
-      "sofaId": 4467348,
-      "channel": ""
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-24T18:00:00-04:00",
       "local": {
@@ -30,7 +15,7 @@
       },
       "link": "https://is.gd/ulavscoq0424",
       "sofaId": 4650644,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -45,7 +30,7 @@
       },
       "link": "https://is.gd/audvsdep0424",
       "sofaId": 4650645,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -60,7 +45,7 @@
       },
       "link": "https://is.gd/univsmag0425",
       "sofaId": 4656712,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -75,7 +60,7 @@
       },
       "link": "https://is.gd/depvssan0425",
       "sofaId": 4656716,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -90,7 +75,7 @@
       },
       "link": "https://is.gd/nubvsohi0425",
       "sofaId": 4650643,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -105,7 +90,7 @@
       },
       "link": "https://is.gd/univsuni0425",
       "sofaId": 4650647,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -135,7 +120,7 @@
       },
       "link": "https://is.gd/depvsran0425",
       "sofaId": 4656710,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -150,7 +135,7 @@
       },
       "link": "https://is.gd/depvshua0426",
       "sofaId": 4650642,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -165,7 +150,7 @@
       },
       "link": "https://is.gd/depvsdep0426",
       "sofaId": 4656715,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -180,7 +165,7 @@
       },
       "link": "https://is.gd/udevscol0426",
       "sofaId": 4650648,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -195,7 +180,7 @@
       },
       "link": "https://is.gd/cobvssan0426",
       "sofaId": 4656714,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -210,7 +195,7 @@
       },
       "link": "https://is.gd/evevsdep0426",
       "sofaId": 4650646,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -225,7 +210,7 @@
       },
       "link": "https://is.gd/univsdep0426",
       "sofaId": 4656711,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -240,7 +225,7 @@
       },
       "link": "https://is.gd/depvssan0427",
       "sofaId": 4656713,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "sudamericana",
@@ -345,7 +330,7 @@
       },
       "link": "https://is.gd/univscur0430",
       "sofaId": 4656703,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -405,7 +390,7 @@
       },
       "link": "https://is.gd/depvsdep0502",
       "sofaId": 4656708,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -420,7 +405,7 @@
       },
       "link": "https://is.gd/ranvsdep0502",
       "sofaId": 4656701,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -450,7 +435,7 @@
       },
       "link": "https://is.gd/magvsdep0503",
       "sofaId": 4656706,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -480,7 +465,7 @@
       },
       "link": "https://is.gd/sanvsdep0503",
       "sofaId": 4656702,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -495,7 +480,7 @@
       },
       "link": "https://is.gd/colvscoq0503",
       "sofaId": 4650661,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -510,7 +495,7 @@
       },
       "link": "https://is.gd/cobvsdep0503",
       "sofaId": 4656707,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -540,7 +525,7 @@
       },
       "link": "https://is.gd/sanvsuni0504",
       "sofaId": 4656705,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "ascenso",
@@ -555,7 +540,7 @@
       },
       "link": "https://is.gd/sanvsdep0504",
       "sofaId": 4656704,
-      "channel": 35
+      "channel": ""
     },
     {
       "competencia": "copa_liga",
@@ -810,7 +795,7 @@
       },
       "link": "https://is.gd/coqvsaud0515",
       "sofaId": 4650635,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -825,7 +810,7 @@
       },
       "link": "https://is.gd/palvsdep0515",
       "sofaId": 4650638,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -840,7 +825,7 @@
       },
       "link": "https://is.gd/ohivsude0516",
       "sofaId": 4650632,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -855,7 +840,7 @@
       },
       "link": "https://is.gd/depvsuni0516",
       "sofaId": 4650640,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -870,7 +855,7 @@
       },
       "link": "https://is.gd/huavsula0517",
       "sofaId": 4650637,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -885,7 +870,7 @@
       },
       "link": "https://is.gd/depvsuni0517",
       "sofaId": 4650639,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -900,7 +885,7 @@
       },
       "link": "https://is.gd/colvsnub0517",
       "sofaId": 4650634,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -915,7 +900,7 @@
       },
       "link": "https://is.gd/depvseve0517",
       "sofaId": 4650636,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -930,7 +915,7 @@
       },
       "link": "https://is.gd/evevscoq0522",
       "sofaId": 4650630,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -945,7 +930,7 @@
       },
       "link": "https://is.gd/audvsdep0523",
       "sofaId": 4650631,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -960,7 +945,7 @@
       },
       "link": "https://is.gd/nubvsude0523",
       "sofaId": 4650625,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -975,7 +960,7 @@
       },
       "link": "https://is.gd/univsohi0523",
       "sofaId": 4650627,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -990,7 +975,7 @@
       },
       "link": "https://is.gd/ulavspal0523",
       "sofaId": 4650628,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -1005,7 +990,7 @@
       },
       "link": "https://is.gd/depvshua0524",
       "sofaId": 4650626,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -1020,7 +1005,7 @@
       },
       "link": "https://is.gd/depvsdep0524",
       "sofaId": 4650629,
-      "channel": 36
+      "channel": ""
     },
     {
       "competencia": "primera",
@@ -1035,7 +1020,7 @@
       },
       "link": "https://is.gd/univscol0524",
       "sofaId": 4650633,
-      "channel": 36
+      "channel": ""
     }
   ]
 }
