@@ -3,34 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
-      "inicio": "2026-04-24T18:00:00-04:00",
+      "competencia": "Inglaterra, FA Cup - Semifinales",
+      "inicio": "2026-04-25T12:15:00-04:00",
       "local": {
-        "nombre": "U. La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
+        "nombre": "Manchester City",
+        "logo": ""
       },
       "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
+        "nombre": "Southampton",
+        "logo": ""
       },
-      "link": "https://is.gd/ulavscoq0424",
-      "sofaId": 4650644,
-      "channel": ""
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-24T20:30:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "link": "https://is.gd/audvsdep0424",
-      "sofaId": 4650645,
-      "channel": ""
+      "link": "https://is.gd/manvssou0425",
+      "sofaId": 4699330,
+      "channel": 41
     },
     {
       "competencia": "ascenso",
