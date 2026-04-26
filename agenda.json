@@ -88,7 +88,7 @@
       "inicio": "2026-04-28T20:00:00-04:00",
       "local": {
         "nombre": "Barracas Central",
-        "logo": ""
+        "logo": "escudos/manual/barracascentral.png"
       },
       "visita": {
         "nombre": "Audax Italiano",
@@ -104,7 +104,7 @@
       "inicio": "2026-04-28T22:00:00-04:00",
       "local": {
         "nombre": "Deportes Tolima",
-        "logo": ""
+        "logo": "escudos/manual/deportestolima.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -124,7 +124,7 @@
       },
       "visita": {
         "nombre": "Boston River",
-        "logo": ""
+        "logo": "escudos/manual/bostonriver.png"
       },
       "link": "https://is.gd/ohivsbos0428",
       "sofaId": 4690072,
@@ -136,7 +136,7 @@
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
         "nombre": "Barcelona SC",
-        "logo": ""
+        "logo": "escudos/manual/barcelonasc.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -156,7 +156,7 @@
       },
       "visita": {
         "nombre": "Grêmio",
-        "logo": ""
+        "logo": "escudos/manual/gremio.png"
       },
       "link": "https://is.gd/palvsgre0429",
       "sofaId": 4690076,
