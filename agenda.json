@@ -3,146 +3,11 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, FA Cup - Semifinales",
-      "inicio": "2026-04-25T12:15:00-04:00",
-      "local": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchestercity.png"
-      },
-      "visita": {
-        "nombre": "Southampton",
-        "logo": "escudos/manual/southampton.png"
-      },
-      "link": "https://is.gd/manvssou0425",
-      "sofaId": 4699330,
-      "channel": 41
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-25T12:30:00-04:00",
-      "local": {
-        "nombre": "Union San Felipe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "visita": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "link": "https://is.gd/univsmag0425",
-      "sofaId": 4656712,
-      "channel": ""
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-25T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "visita": {
-        "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "link": "https://is.gd/depvssan0425",
-      "sofaId": 4656716,
-      "channel": ""
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-25T15:00:00-04:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/nubvsohi0425",
-      "sofaId": 4650643,
-      "channel": ""
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-25T18:00:00-04:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://is.gd/univsuni0425",
-      "sofaId": 4650647,
-      "channel": ""
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-25T20:00:00-04:00",
-      "local": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "visita": {
-        "nombre": "Dep Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "link": "https://is.gd/curvsdep0425",
-      "sofaId": 4656709,
-      "channel": ""
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-25T20:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "visita": {
-        "nombre": "Rangers De Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "link": "https://is.gd/depvsran0425",
-      "sofaId": 4656710,
-      "channel": ""
-    },
-    {
-      "competencia": "primera",
-      "inicio": "2026-04-26T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "link": "https://is.gd/depvshua0426",
-      "sofaId": 4650642,
-      "channel": ""
-    },
-    {
-      "competencia": "ascenso",
-      "inicio": "2026-04-26T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "link": "https://is.gd/depvsdep0426",
-      "sofaId": 4656715,
-      "channel": ""
-    },
-    {
       "competencia": "primera",
       "inicio": "2026-04-26T15:00:00-04:00",
       "local": {
         "nombre": "U. de Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
+        "logo": "escudos/primera/udeconcepcion.png"
       },
       "visita": {
         "nombre": "Colo Colo",
@@ -427,7 +292,7 @@
       "inicio": "2026-05-03T12:30:00-04:00",
       "local": {
         "nombre": "U. de Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
+        "logo": "escudos/primera/udeconcepcion.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -633,6 +498,66 @@
       "channel": ""
     },
     {
+      "competencia": "ascenso",
+      "inicio": "2026-05-08T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/depvsran0508",
+      "sofaId": 4656693,
+      "channel": ""
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-08T20:00:00-04:00",
+      "local": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/depvsmag0508",
+      "sofaId": 4656695,
+      "channel": ""
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-09T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/depvsdep0509",
+      "sofaId": 4656694,
+      "channel": ""
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-09T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/depvsuni0509",
+      "sofaId": 4656696,
+      "channel": ""
+    },
+    {
       "competencia": "copa_liga",
       "inicio": "2026-05-09T15:00:00-04:00",
       "local": {
@@ -671,10 +596,25 @@
       },
       "visita": {
         "nombre": "U. de Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
+        "logo": "escudos/primera/udeconcepcion.png"
       },
       "link": "https://is.gd/depvsude0509",
       "sofaId": 4700798,
+      "channel": ""
+    },
+    {
+      "competencia": "ascenso",
+      "inicio": "2026-05-09T20:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/sanvscob0509",
+      "sofaId": 4656699,
       "channel": ""
     },
     {
@@ -806,7 +746,7 @@
       },
       "visita": {
         "nombre": "U. de Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
+        "logo": "escudos/primera/udeconcepcion.png"
       },
       "link": "https://is.gd/ohivsude0516",
       "sofaId": 4650632,
@@ -926,7 +866,7 @@
       },
       "visita": {
         "nombre": "U. de Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
+        "logo": "escudos/primera/udeconcepcion.png"
       },
       "link": "https://is.gd/nubvsude0523",
       "sofaId": 4650625,
