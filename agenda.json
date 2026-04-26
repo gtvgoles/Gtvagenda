@@ -3,7 +3,7 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-04-26T15:00:00-04:00",
       "local": {
         "nombre": "U. de Concepción",
@@ -18,7 +18,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-04-26T15:00:00-04:00",
       "local": {
         "nombre": "Cobreloa",
@@ -33,7 +33,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-04-26T17:30:00-04:00",
       "local": {
         "nombre": "Everton",
@@ -48,7 +48,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-04-26T20:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
@@ -63,7 +63,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-04-27T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
@@ -78,7 +78,7 @@
       "channel": ""
     },
     {
-      "competencia": "sudamericana",
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "inicio": "2026-04-28T20:00:00-04:00",
       "local": {
         "nombre": "Barracas Central",
@@ -93,22 +93,7 @@
       "channel": ""
     },
     {
-      "competencia": "sudamericana",
-      "inicio": "2026-04-28T20:30:00-04:00",
-      "local": {
-        "nombre": "Recoleta FC",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Deportivo Cuenca",
-        "logo": ""
-      },
-      "link": "https://is.gd/recvsdep0428",
-      "sofaId": 4690074,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
+      "competencia": "CONMEBOL Copa Libertadores",
       "inicio": "2026-04-28T22:00:00-04:00",
       "local": {
         "nombre": "Deportes Tolima",
@@ -123,7 +108,7 @@
       "channel": ""
     },
     {
-      "competencia": "sudamericana",
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
       "inicio": "2026-04-28T22:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
@@ -138,7 +123,7 @@
       "channel": ""
     },
     {
-      "competencia": "libertadores",
+      "competencia": "CONMEBOL Copa Libertadores",
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
         "nombre": "Barcelona SC",
@@ -153,7 +138,7 @@
       "channel": ""
     },
     {
-      "competencia": "sudamericana",
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
       "inicio": "2026-04-29T20:30:00-04:00",
       "local": {
         "nombre": "Palestino",
@@ -168,7 +153,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-04-30T20:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
@@ -183,7 +168,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-02T12:30:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
@@ -198,7 +183,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-02T15:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
@@ -213,7 +198,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-02T15:00:00-04:00",
       "local": {
         "nombre": "Everton",
@@ -228,7 +213,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-02T17:30:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
@@ -243,7 +228,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-02T20:00:00-04:00",
       "local": {
         "nombre": "Rangers De Talca",
@@ -258,7 +243,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-02T20:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
@@ -273,7 +258,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-03T12:30:00-04:00",
       "local": {
         "nombre": "Magallanes",
@@ -288,7 +273,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-03T12:30:00-04:00",
       "local": {
         "nombre": "U. de Concepción",
@@ -303,7 +288,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-03T15:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
@@ -318,7 +303,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-03T17:30:00-04:00",
       "local": {
         "nombre": "Colo Colo",
@@ -333,7 +318,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-03T17:30:00-04:00",
       "local": {
         "nombre": "Cobreloa",
@@ -348,7 +333,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-03T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
@@ -363,7 +348,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-04T18:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
@@ -378,7 +363,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-04T20:30:00-04:00",
       "local": {
         "nombre": "San Marcos",
@@ -393,7 +378,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-04T20:30:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
@@ -408,97 +393,7 @@
       "channel": ""
     },
     {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-05T20:30:00-04:00",
-      "local": {
-        "nombre": "Recoleta FC",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Santos",
-        "logo": ""
-      },
-      "link": "https://is.gd/recvssan0505",
-      "sofaId": 4690112,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-06T18:00:00-04:00",
-      "local": {
-        "nombre": "Montevideo City Torque",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/monvspal0506",
-      "sofaId": 4690123,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-06T18:00:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Vasco Da Gama",
-        "logo": ""
-      },
-      "link": "https://is.gd/audvsvas0506",
-      "sofaId": 4690126,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-05-06T22:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Cruzeiro",
-        "logo": ""
-      },
-      "link": "https://is.gd/univscru0506",
-      "sofaId": 4690172,
-      "channel": ""
-    },
-    {
-      "competencia": "sudamericana",
-      "inicio": "2026-05-07T18:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "São Paulo",
-        "logo": ""
-      },
-      "link": "https://is.gd/ohivssao0507",
-      "sofaId": 4690106,
-      "channel": ""
-    },
-    {
-      "competencia": "libertadores",
-      "inicio": "2026-05-07T20:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Universitario",
-        "logo": ""
-      },
-      "link": "https://is.gd/coqvsuni0507",
-      "sofaId": 4690159,
-      "channel": ""
-    },
-    {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-08T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
@@ -513,7 +408,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-08T20:00:00-04:00",
       "local": {
         "nombre": "Dep Puerto Montt",
@@ -528,7 +423,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-09T12:30:00-04:00",
       "local": {
         "nombre": "Deportes Recoleta",
@@ -543,7 +438,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-09T15:00:00-04:00",
       "local": {
         "nombre": "Deportes Temuco",
@@ -558,7 +453,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-09T15:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
@@ -573,7 +468,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-09T17:30:00-04:00",
       "local": {
         "nombre": "Colo Colo",
@@ -588,7 +483,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-09T17:30:00-04:00",
       "local": {
         "nombre": "Deportes Cobresal",
@@ -603,7 +498,7 @@
       "channel": ""
     },
     {
-      "competencia": "ascenso",
+      "competencia": "Liga de Ascenso",
       "inicio": "2026-05-09T20:00:00-04:00",
       "local": {
         "nombre": "Santiago Wanderers",
@@ -618,7 +513,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-10T15:00:00-04:00",
       "local": {
         "nombre": "U. La Calera",
@@ -633,7 +528,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-10T15:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
@@ -648,7 +543,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-10T17:30:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
@@ -663,7 +558,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-10T20:00:00-04:00",
       "local": {
         "nombre": "O'Higgins",
@@ -678,7 +573,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-11T20:00:00-04:00",
       "local": {
         "nombre": "Palestino",
@@ -693,7 +588,7 @@
       "channel": ""
     },
     {
-      "competencia": "copa_liga",
+      "competencia": "Copa de la Liga",
       "inicio": "2026-05-13T20:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
@@ -708,7 +603,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-15T20:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
@@ -723,7 +618,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-15T20:00:00-04:00",
       "local": {
         "nombre": "Palestino",
@@ -738,7 +633,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-16T17:30:00-04:00",
       "local": {
         "nombre": "O'Higgins",
@@ -753,7 +648,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-16T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
@@ -768,7 +663,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-17T12:30:00-04:00",
       "local": {
         "nombre": "Huachipato",
@@ -783,7 +678,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-17T15:00:00-04:00",
       "local": {
         "nombre": "Deportes Cobresal",
@@ -798,7 +693,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-17T17:30:00-04:00",
       "local": {
         "nombre": "Colo Colo",
@@ -813,7 +708,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-17T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
@@ -828,7 +723,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-22T20:00:00-04:00",
       "local": {
         "nombre": "Everton",
@@ -843,7 +738,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-23T12:30:00-04:00",
       "local": {
         "nombre": "Audax Italiano",
@@ -858,7 +753,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-23T15:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
@@ -873,7 +768,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-23T17:30:00-04:00",
       "local": {
         "nombre": "Universidad de Chile",
@@ -888,7 +783,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-23T20:00:00-04:00",
       "local": {
         "nombre": "U. La Calera",
@@ -903,7 +798,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-24T12:30:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
@@ -918,7 +813,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-24T15:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
@@ -933,7 +828,7 @@
       "channel": ""
     },
     {
-      "competencia": "primera",
+      "competencia": "Liga de Primera",
       "inicio": "2026-05-24T18:00:00-04:00",
       "local": {
         "nombre": "Universidad Católica",
