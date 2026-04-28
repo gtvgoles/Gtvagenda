@@ -4,7 +4,7 @@
   "partidos": [
     {
       "competencia": "Malasia, Liga Super",
-      "fondo": "assets/fondo_copa_liga.jpg",
+      "fondo": "",
       "inicio": "2026-04-28T09:00:00-04:00",
       "local": {
         "nombre": "Melaka FC",
