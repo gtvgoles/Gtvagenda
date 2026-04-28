@@ -3,19 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Malasia, Liga Super",
+      "competencia": "Europa, UEFA Champions League - Semifinales",
       "fondo": "",
-      "inicio": "2026-04-28T09:00:00-04:00",
+      "inicio": "2026-04-28T15:00:00-04:00",
       "local": {
-        "nombre": "Melaka FC",
-        "logo": "escudos/manual/melakafc.png"
+        "nombre": "PSG",
+        "logo": "escudos/manual/psg.png"
       },
       "visita": {
-        "nombre": "Johor Darul Ta’zim",
-        "logo": "escudos/manual/johordarultazim.png"
+        "nombre": "Bayern Munich",
+        "logo": "escudos/manual/bayernmunich.png"
       },
-      "link": "https://is.gd/melvsjoh0428",
-      "sofaId": 4483529,
+      "link": "https://is.gd/psgvsbay0428",
+      "sofaId": 4702862,
       "channel": ""
     },
     {
