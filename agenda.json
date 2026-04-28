@@ -3,19 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Europa, UEFA Champions League - Semifinales",
+      "competencia": "ATP, Madrid, Arcilla - Octavos de final",
       "fondo": "",
-      "inicio": "2026-04-28T15:00:00-04:00",
+      "inicio": "2026-04-28T17:02:18-04:00",
       "local": {
-        "nombre": "PSG",
-        "logo": "escudos/manual/psg.png"
+        "nombre": "Jakub Mensik",
+        "logo": ""
       },
       "visita": {
-        "nombre": "Bayern Munich",
-        "logo": "escudos/manual/bayernmunich.png"
+        "nombre": "Alexander Zverev",
+        "logo": ""
       },
-      "link": "https://is.gd/psgvsbay2",
-      "sofaId": 4702862,
+      "link": "https://is.gd/jakvsale0428",
+      "sofaId": 4708496,
       "channel": ""
     },
     {
