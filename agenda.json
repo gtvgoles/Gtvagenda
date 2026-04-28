@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Malasia, Liga Super",
+      "fondo": "",
+      "inicio": "2026-04-28T09:00:00-04:00",
+      "local": {
+        "nombre": "Melaka FC",
+        "logo": "escudos/manual/melakafc.png"
+      },
+      "visita": {
+        "nombre": "Johor Darul Ta’zim",
+        "logo": "escudos/manual/johordarultazim.png"
+      },
+      "link": "https://is.gd/melvsjoh0428",
+      "sofaId": 4483529,
+      "channel": ""
+    },
+    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-04-28T20:00:00-04:00",
