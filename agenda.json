@@ -3,19 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ATP, Madrid, Arcilla - Octavos de final",
-      "fondo": "",
-      "inicio": "2026-04-28T17:02:18-04:00",
+      "competencia": "Sudamerica, CONMEBOL Copa Libertadores",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-04-28T18:00:00-04:00",
       "local": {
-        "nombre": "Jakub Mensik",
-        "logo": ""
+        "nombre": "Lanús",
+        "logo": "escudos/manual/lanus.png"
       },
       "visita": {
-        "nombre": "Alexander Zverev",
-        "logo": ""
+        "nombre": "Liga de Quito",
+        "logo": "escudos/manual/ligadequito.png"
       },
-      "link": "https://is.gd/jakvsale0428",
-      "sofaId": 4708496,
+      "link": "https://is.gd/lanvslig0428",
+      "sofaId": 4690150,
       "channel": ""
     },
     {
