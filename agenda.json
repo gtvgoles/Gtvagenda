@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Sudamerica, CONMEBOL Copa Libertadores",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-04-28T18:00:00-04:00",
-      "local": {
-        "nombre": "Lanús",
-        "logo": "escudos/manual/lanus.png"
-      },
-      "visita": {
-        "nombre": "Liga de Quito",
-        "logo": "escudos/manual/ligadequito.png"
-      },
-      "link": "https://is.gd/lanvslig0428",
-      "sofaId": 4690150,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-04-28T20:00:00-04:00",
@@ -46,7 +30,7 @@
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
       },
-      "link": "https://is.gd/depvscoq0428",
+      "link": "https://is.gd/tolvscoq2804",
       "sofaId": 4690137,
       "channel": ""
     },
