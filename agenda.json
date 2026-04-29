@@ -3,23 +3,7 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Europa, UEFA Champions League - Semifinales",
-      "fondo": "",
-      "inicio": "2026-04-29T15:00:00-04:00",
-      "local": {
-        "nombre": "Atlético de Madrid",
-        "logo": "escudos/manual/atleticodemadrid.png"
-      },
-      "visita": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "link": "https://is.gd/atmvsars2904",
-      "sofaId": 4702860,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Libertadores",
+      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
       "fondo": "assets/fondo_libertadores.jpg",
       "inicio": "2026-04-29T20:00:00-04:00",
       "local": {
