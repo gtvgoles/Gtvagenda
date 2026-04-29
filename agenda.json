@@ -3,51 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-04-28T20:00:00-04:00",
+      "competencia": "Europa, UEFA Champions League - Semifinales",
+      "fondo": "",
+      "inicio": "2026-04-29T15:00:00-04:00",
       "local": {
-        "nombre": "Barracas Central",
-        "logo": "escudos/manual/barracascentral.png"
+        "nombre": "Atlético de Madrid",
+        "logo": "escudos/manual/atleticodemadrid.png"
       },
       "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
       },
-      "link": "https://is.gd/barvsaud0428",
-      "sofaId": 4690078,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Libertadores",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-04-28T22:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Tolima",
-        "logo": "escudos/manual/deportestolima.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/tolvscoq2804",
-      "sofaId": 4690137,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-04-28T22:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "Boston River",
-        "logo": "escudos/manual/bostonriver.png"
-      },
-      "link": "https://is.gd/ohivsbos0428",
-      "sofaId": 4690072,
+      "link": "https://is.gd/atlvsars0429",
+      "sofaId": 4702860,
       "channel": ""
     },
     {
