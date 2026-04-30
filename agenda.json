@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-04-29T20:00:00-04:00",
-      "local": {
-        "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://is.gd/barvsuni0429",
-      "sofaId": 4690229,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-04-29T20:30:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Grêmio",
-        "logo": "escudos/manual/gremio.png"
-      },
-      "link": "https://is.gd/palvsgre0429",
-      "sofaId": 4690076,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-04-30T20:00:00-04:00",
@@ -288,6 +256,86 @@
       },
       "link": "https://is.gd/depvshua0504",
       "sofaId": 4700795,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-06T18:00:00-04:00",
+      "local": {
+        "nombre": "Montevideo City Torque",
+        "logo": "escudos/manual/montevideocitytorque.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/monvspal0506",
+      "sofaId": 4690123,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-06T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Vasco Da Gama",
+        "logo": "escudos/manual/vascodagama.png"
+      },
+      "link": "https://is.gd/audvsvas0506",
+      "sofaId": 4690126,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-06T22:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Cruzeiro",
+        "logo": "escudos/manual/cruzeiro.png"
+      },
+      "link": "https://is.gd/univscru0506",
+      "sofaId": 4690172,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-07T18:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "São Paulo",
+        "logo": "escudos/manual/saopaulo.png"
+      },
+      "link": "https://is.gd/ohivssao0507",
+      "sofaId": 4690106,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-07T20:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Universitario",
+        "logo": "escudos/manual/universitario.png"
+      },
+      "link": "https://is.gd/coqvsuni0507",
+      "sofaId": 4690159,
       "channel": ""
     },
     {
@@ -549,7 +597,7 @@
     {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-13T20:00:00-04:00",
+      "inicio": "2026-05-13T19:00:00-04:00",
       "local": {
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
