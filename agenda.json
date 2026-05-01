@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-04-30T20:00:00-04:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "link": "https://is.gd/univscur0430",
-      "sofaId": 4656703,
-      "channel": ""
-    },
-    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-02T12:30:00-04:00",
@@ -789,22 +773,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-23T17:30:00-04:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/univsohi0523",
-      "sofaId": 4650627,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-23T20:00:00-04:00",
       "local": {
         "nombre": "U. La Calera",
@@ -992,6 +960,22 @@
       },
       "link": "https://is.gd/palvsaud0531",
       "sofaId": 4651128,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-10T20:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/univsohi0610",
+      "sofaId": 4650627,
       "channel": ""
     }
   ]
