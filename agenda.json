@@ -5,38 +5,6 @@
     {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-02T12:30:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "U. La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://is.gd/audvsula0502",
-      "sofaId": 4700789,
-      "channel": ""
-    },
-    {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-02T12:30:00-04:00",
-      "local": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "visita": {
-        "nombre": "Fulham",
-        "logo": "escudos/manual/fulham.png"
-      },
-      "link": "https://is.gd/arsvsful0502",
-      "sofaId": 4452588,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-02T15:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
@@ -64,6 +32,22 @@
       },
       "link": "https://is.gd/evevspal0502",
       "sofaId": 4700793,
+      "channel": ""
+    },
+    {
+      "competencia": "España, LaLiga",
+      "fondo": "",
+      "inicio": "2026-05-02T15:00:00-04:00",
+      "local": {
+        "nombre": "Osasuna",
+        "logo": "escudos/manual/osasuna.png"
+      },
+      "visita": {
+        "nombre": "FC Barcelona",
+        "logo": "escudos/manual/fcbarcelona.png"
+      },
+      "link": "https://is.gd/osavsfcb0502",
+      "sofaId": 4467328,
       "channel": ""
     },
     {
