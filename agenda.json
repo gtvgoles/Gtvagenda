@@ -19,6 +19,22 @@
       "channel": ""
     },
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-02T12:30:00-04:00",
+      "local": {
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
+      },
+      "visita": {
+        "nombre": "Fulham",
+        "logo": ""
+      },
+      "link": "https://is.gd/arsvsful0502",
+      "sofaId": 4452588,
+      "channel": ""
+    },
+    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-02T15:00:00-04:00",
