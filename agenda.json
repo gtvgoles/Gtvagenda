@@ -977,6 +977,22 @@
       "link": "https://is.gd/univsohi0610",
       "sofaId": 4650627,
       "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-10T20:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/univsohi0610",
+      "sofaId": 4709604,
+      "channel": ""
     }
   ]
 }
