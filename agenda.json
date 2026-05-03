@@ -3,99 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-02T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "link": "https://is.gd/depvsuni0502",
-      "sofaId": 4700791,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-02T15:00:00-04:00",
-      "local": {
-        "nombre": "Everton",
-        "logo": "escudos/primera/everton.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/evevspal0502",
-      "sofaId": 4700793,
-      "channel": ""
-    },
-    {
-      "competencia": "España, LaLiga",
+      "competencia": "Inglaterra, Premier League",
       "fondo": "",
-      "inicio": "2026-05-02T15:00:00-04:00",
+      "inicio": "2026-05-03T10:30:00-04:00",
       "local": {
-        "nombre": "Osasuna",
-        "logo": "escudos/manual/osasuna.png"
+        "nombre": "Manchester United",
+        "logo": "escudos/manual/manchesterunited.png"
       },
       "visita": {
-        "nombre": "FC Barcelona",
-        "logo": "escudos/manual/fcbarcelona.png"
+        "nombre": "Liverpool",
+        "logo": "escudos/manual/liverpool.png"
       },
-      "link": "https://is.gd/osavsfcb0502",
-      "sofaId": 4467328,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-02T17:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/santacruz.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "link": "https://is.gd/depvsdep0502",
-      "sofaId": 4656708,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-02T20:00:00-04:00",
-      "local": {
-        "nombre": "Rangers De Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "visita": {
-        "nombre": "Dep Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "link": "https://is.gd/ranvsdep0502",
-      "sofaId": 4656701,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-02T20:00:00-04:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "Deportes Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "link": "https://is.gd/nubvsdep0502",
-      "sofaId": 4700790,
+      "link": "https://is.gd/manvsliv0503",
+      "sofaId": 4452583,
       "channel": ""
     },
     {
@@ -128,6 +48,22 @@
       },
       "link": "https://is.gd/udevsuni0503",
       "sofaId": 4700792,
+      "channel": ""
+    },
+    {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-03T14:00:00-04:00",
+      "local": {
+        "nombre": "Aston Villa",
+        "logo": "escudos/manual/astonvilla.png"
+      },
+      "visita": {
+        "nombre": "Tottenham",
+        "logo": "escudos/manual/tottenham.png"
+      },
+      "link": "https://is.gd/astvstot0503",
+      "sofaId": 4452587,
       "channel": ""
     },
     {
@@ -627,6 +563,54 @@
       "channel": ""
     },
     {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-16T12:30:00-04:00",
+      "local": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/magvsdep0516",
+      "sofaId": 4656688,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-16T15:00:00-04:00",
+      "local": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/univsran0516",
+      "sofaId": 4656687,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-16T15:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/cobvsdep0516",
+      "sofaId": 4656690,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-16T17:30:00-04:00",
@@ -640,6 +624,22 @@
       },
       "link": "https://is.gd/ohivsude0516",
       "sofaId": 4650632,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-16T17:30:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/curvssan0516",
+      "sofaId": 4656689,
       "channel": ""
     },
     {
