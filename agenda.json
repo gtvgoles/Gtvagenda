@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-03T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/depvsohi0503",
-      "sofaId": 4700794,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-04T18:00:00-04:00",
