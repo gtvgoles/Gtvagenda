@@ -3,118 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-03T10:30:00-04:00",
-      "local": {
-        "nombre": "Manchester United",
-        "logo": "escudos/manual/manchesterunited.png"
-      },
-      "visita": {
-        "nombre": "Liverpool",
-        "logo": "escudos/manual/liverpool.png"
-      },
-      "link": "https://is.gd/manvsliv0503",
-      "sofaId": 4452583,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-03T12:30:00-04:00",
-      "local": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "visita": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "link": "https://is.gd/magvsdep0503",
-      "sofaId": 4656706,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-03T12:30:00-04:00",
-      "local": {
-        "nombre": "U. de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://is.gd/udevsuni0503",
-      "sofaId": 4700792,
-      "channel": ""
-    },
-    {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-03T14:00:00-04:00",
-      "local": {
-        "nombre": "Aston Villa",
-        "logo": "escudos/manual/astonvilla.png"
-      },
-      "visita": {
-        "nombre": "Tottenham",
-        "logo": "escudos/manual/tottenham.png"
-      },
-      "link": "https://is.gd/astvstot0503",
-      "sofaId": 4452587,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-03T15:00:00-04:00",
-      "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "link": "https://is.gd/sanvsdep0503",
-      "sofaId": 4656702,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-03T17:30:00-04:00",
-      "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/colocolo.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/colvscoq0503",
-      "sofaId": 4650661,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-03T17:30:00-04:00",
-      "local": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "visita": {
-        "nombre": "Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "link": "https://is.gd/cobvsdep0503",
-      "sofaId": 4656707,
-      "channel": ""
-    },
-    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-03T20:00:00-04:00",
@@ -691,6 +579,22 @@
       "channel": ""
     },
     {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-17T15:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/sanvsdep0517",
+      "sofaId": 4656685,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-17T17:30:00-04:00",
@@ -704,6 +608,22 @@
       },
       "link": "https://is.gd/colvsnub0517",
       "sofaId": 4650634,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-17T17:30:00-04:00",
+      "local": {
+        "nombre": "San Marcos",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/sanvsdep0517",
+      "sofaId": 4656691,
       "channel": ""
     },
     {
@@ -992,6 +912,134 @@
       },
       "link": "https://is.gd/univsohi0610",
       "sofaId": 4709604,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-12T20:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/audvsdep0612",
+      "sofaId": 4651124,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-13T15:00:00-04:00",
+      "local": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/evevspal0613",
+      "sofaId": 4651122,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-13T17:30:00-04:00",
+      "local": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/colvsdep0613",
+      "sofaId": 4651123,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-13T20:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/nubvshua0613",
+      "sofaId": 4650619,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-14T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/depvsdep0614",
+      "sofaId": 4650621,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-14T15:00:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/ulavsuni0614",
+      "sofaId": 4650622,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-14T17:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/univsude0614",
+      "sofaId": 4651121,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-14T20:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/coqvsohi0614",
+      "sofaId": 4650620,
       "channel": ""
     }
   ]
