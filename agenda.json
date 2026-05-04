@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-04T10:00:00-04:00",
+      "local": {
+        "nombre": "Chelsea",
+        "logo": "escudos/manual/chelsea.png"
+      },
+      "visita": {
+        "nombre": "Nottingham Forest",
+        "logo": "escudos/manual/nottinghamforest.png"
+      },
+      "link": "https://is.gd/chevsnot0504",
+      "sofaId": 4452585,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-04T18:00:00-04:00",
