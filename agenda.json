@@ -5,17 +5,17 @@
     {
       "competencia": "Inglaterra, Premier League",
       "fondo": "",
-      "inicio": "2026-05-04T10:00:00-04:00",
+      "inicio": "2026-05-04T15:00:00-04:00",
       "local": {
-        "nombre": "Chelsea",
-        "logo": "escudos/manual/chelsea.png"
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
       },
       "visita": {
-        "nombre": "Nottingham Forest",
-        "logo": "escudos/manual/nottinghamforest.png"
+        "nombre": "Manchester City",
+        "logo": "escudos/manual/manchestercity.png"
       },
-      "link": "https://is.gd/chevsnot0504",
-      "sofaId": 4452585,
+      "link": "https://is.gd/evevsman0504",
+      "sofaId": 4452584,
       "channel": ""
     },
     {
