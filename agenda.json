@@ -35,6 +35,22 @@
       "channel": ""
     },
     {
+      "competencia": "Europa, UEFA Champions League - Semifinales",
+      "fondo": "",
+      "inicio": "2026-05-05T15:00:00-04:00",
+      "local": {
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
+      },
+      "visita": {
+        "nombre": "Atlético de Madrid",
+        "logo": "escudos/manual/atleticodemadrid.png"
+      },
+      "link": "https://is.gd/arsvsatl0505",
+      "sofaId": 4702861,
+      "channel": ""
+    },
+    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-06T18:00:00-04:00",
