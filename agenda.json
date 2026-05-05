@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-04T15:00:00-04:00",
-      "local": {
-        "nombre": "Everton",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw7VT-s7_BvZkTxYEiFQl58jlBw8VwDgKhk_QAx86jcTd2-4ftxwY9D10FdRurjBtOE9nZg6PCT9x5NrRowDy8AuQ065Etp9GJ0f5UM7DQ5KeaoT3bKdNNXhpqAQlceYQBdNrw632ymP0C/s1600/Everton+FC.png"
-      },
-      "visita": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchestercity.png"
-      },
-      "link": "https://is.gd/evevsman0504",
-      "sofaId": 4452584,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-04T18:00:00-04:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "visita": {
-        "nombre": "Union San Felipe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "link": "https://is.gd/sanvsuni0504",
-      "sofaId": 4656705,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-04T20:30:00-04:00",
@@ -640,6 +608,38 @@
       },
       "link": "https://is.gd/depvseve0517",
       "sofaId": 4650636,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-18T19:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/depvsdep0518",
+      "sofaId": 4656686,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-18T19:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/univsdep0518",
+      "sofaId": 4656692,
       "channel": ""
     },
     {
