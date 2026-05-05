@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-04T20:30:00-04:00",
-      "local": {
-        "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "visita": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "link": "https://is.gd/sanvsdep0504",
-      "sofaId": 4656704,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-04T20:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "link": "https://is.gd/depvshua0504",
-      "sofaId": 4700795,
-      "channel": ""
-    },
-    {
       "competencia": "Europa, UEFA Champions League - Semifinales",
       "fondo": "",
       "inicio": "2026-05-05T15:00:00-04:00",
