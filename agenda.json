@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Sudamerica, CONMEBOL Copa Libertadores - Grupo D",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-05-05T20:00:00-04:00",
-      "local": {
-        "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
-      },
-      "visita": {
-        "nombre": "Boca Juniors",
-        "logo": "escudos/manual/bocajuniors.png"
-      },
-      "link": "https://is.gd/barvsboc0505",
-      "sofaId": 4690174,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-06T18:00:00-04:00",
