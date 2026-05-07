@@ -3,54 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-06T18:00:00-04:00",
-      "local": {
-        "nombre": "Montevideo City Torque",
-        "logo": "escudos/manual/montevideocitytorque.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/monvspal0506",
-      "sofaId": 4690123,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-06T18:00:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Vasco Da Gama",
-        "logo": "escudos/manual/vascodagama.png"
-      },
-      "link": "https://is.gd/audvsvas0506",
-      "sofaId": 4690126,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-05-06T22:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Cruzeiro",
-        "logo": "escudos/manual/cruzeiro.png"
-      },
-      "link": "https://is.gd/univscru0506",
-      "sofaId": 4690172,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-07T18:00:00-04:00",
@@ -611,6 +563,70 @@
       "channel": ""
     },
     {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Tolima",
+        "logo": "escudos/manual/deportestolima.png"
+      },
+      "link": "https://is.gd/coqvsdep0519",
+      "sofaId": 4690200,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Barracas Central",
+        "logo": "escudos/manual/barracascentral.png"
+      },
+      "link": "https://is.gd/audvsbar0519",
+      "sofaId": 4690165,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-20T18:00:00-04:00",
+      "local": {
+        "nombre": "Boston River",
+        "logo": "escudos/manual/bostonriver.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/bosvsohi0520",
+      "sofaId": 4690145,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-20T20:00:00-04:00",
+      "local": {
+        "nombre": "Grêmio",
+        "logo": "escudos/manual/gremio.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/grevspal0520",
+      "sofaId": 4690163,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-22T20:00:00-04:00",
@@ -848,6 +864,22 @@
       },
       "link": "https://is.gd/palvsaud0531",
       "sofaId": 4651128,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa de la Liga",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-06-05T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/depvscoq0605",
+      "sofaId": 4705487,
       "channel": ""
     },
     {
