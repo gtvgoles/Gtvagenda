@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-07T18:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "São Paulo",
-        "logo": "escudos/manual/saopaulo.png"
-      },
-      "link": "https://is.gd/ohivssao0507",
-      "sofaId": 4690106,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-05-07T20:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Universitario",
-        "logo": "escudos/manual/universitario.png"
-      },
-      "link": "https://is.gd/coqvsuni0507",
-      "sofaId": 4690159,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-08T20:00:00-04:00",
@@ -627,6 +595,38 @@
       "channel": ""
     },
     {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-21T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/depvscob0521",
+      "sofaId": 4656683,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-21T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Barcelona SC",
+        "logo": "escudos/manual/barcelonasc.png"
+      },
+      "link": "https://is.gd/univsbar0521",
+      "sofaId": 4690208,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-22T20:00:00-04:00",
@@ -880,6 +880,54 @@
       },
       "link": "https://is.gd/depvscoq0605",
       "sofaId": 4705487,
+      "channel": ""
+    },
+    {
+      "competencia": "Amistoso Internacional",
+      "fondo": "",
+      "inicio": "2026-06-06T13:45:00-04:00",
+      "local": {
+        "nombre": "Portugal",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Chile",
+        "logo": "escudos/seleccion/chile.png"
+      },
+      "link": "https://is.gd/porvschi0606",
+      "sofaId": 4678933,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa de la Liga",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-06-06T18:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/nubvsude0606",
+      "sofaId": 4705488,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa de la Liga",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-06-06T18:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/univsdep0606",
+      "sofaId": 4705490,
       "channel": ""
     },
     {
