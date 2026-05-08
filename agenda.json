@@ -888,11 +888,11 @@
       "inicio": "2026-06-06T13:45:00-04:00",
       "local": {
         "nombre": "Portugal",
-        "logo": ""
+        "logo": "escudos/manual/portugal.png"
       },
       "visita": {
         "nombre": "Chile",
-        "logo": "escudos/seleccion/chile.png"
+        "logo": "escudos/manual/chile.png"
       },
       "link": "https://is.gd/porvschi0606",
       "sofaId": 4678933,
