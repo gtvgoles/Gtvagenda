@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-09T10:00:00-04:00",
+      "local": {
+        "nombre": "Sunderland",
+        "logo": "escudos/manual/sunderland.png"
+      },
+      "visita": {
+        "nombre": "Manchester United",
+        "logo": "escudos/manual/manchesterunited.png"
+      },
+      "link": "https://is.gd/sunvsman0509",
+      "sofaId": 4452835,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-09T12:30:00-04:00",
