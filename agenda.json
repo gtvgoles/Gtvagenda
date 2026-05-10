@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-10T11:30:00-04:00",
-      "local": {
-        "nombre": "West Ham United",
-        "logo": "escudos/manual/westhamunited.png"
-      },
-      "visita": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "link": "https://is.gd/wesvsars0510",
-      "sofaId": 4452575,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-10T12:30:00-04:00",
@@ -80,6 +64,22 @@
       },
       "link": "https://is.gd/coqvshua0510",
       "sofaId": 4700800,
+      "channel": ""
+    },
+    {
+      "competencia": "España, LaLiga",
+      "fondo": "",
+      "inicio": "2026-05-10T15:00:00-04:00",
+      "local": {
+        "nombre": "FC Barcelona",
+        "logo": "escudos/manual/fcbarcelona.png"
+      },
+      "visita": {
+        "nombre": "Real Madrid",
+        "logo": "escudos/manual/realmadrid.png"
+      },
+      "link": "https://is.gd/fcbvsrea0510",
+      "sofaId": 4467324,
       "channel": ""
     },
     {
