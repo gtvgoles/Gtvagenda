@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-11T15:00:00-04:00",
+      "local": {
+        "nombre": "Tottenham",
+        "logo": "escudos/manual/tottenham.png"
+      },
+      "visita": {
+        "nombre": "Leeds United",
+        "logo": "escudos/manual/leedsunited.png"
+      },
+      "link": "https://is.gd/totvslee0511",
+      "sofaId": 4452834,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-11T20:00:00-04:00",
