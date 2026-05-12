@@ -3,54 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-11T15:00:00-04:00",
-      "local": {
-        "nombre": "Tottenham",
-        "logo": "escudos/manual/tottenham.png"
-      },
-      "visita": {
-        "nombre": "Leeds United",
-        "logo": "escudos/manual/leedsunited.png"
-      },
-      "link": "https://is.gd/totvslee0511",
-      "sofaId": 4452834,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-11T20:00:00-04:00",
-      "local": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "visita": {
-        "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "link": "https://is.gd/curvssan0511",
-      "sofaId": 4656700,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-05-11T20:00:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "link": "https://is.gd/palvsdep0511",
-      "sofaId": 4700803,
-      "channel": ""
-    },
-    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-13T19:00:00-04:00",
@@ -624,6 +576,22 @@
       },
       "link": "https://is.gd/sanvsmag0524",
       "sofaId": 4656679,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-25T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/depvsuni0525",
+      "sofaId": 4656680,
       "channel": ""
     },
     {
