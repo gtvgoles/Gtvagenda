@@ -19,6 +19,22 @@
       "channel": ""
     },
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-13T15:00:00-04:00",
+      "local": {
+        "nombre": "Manchester City",
+        "logo": "escudos/manual/manchestercity.png"
+      },
+      "visita": {
+        "nombre": "Crystal Palace",
+        "logo": "escudos/manual/crystalpalace.png"
+      },
+      "link": "https://is.gd/manvscry0513",
+      "sofaId": 4452613,
+      "channel": ""
+    },
+    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-13T19:00:00-04:00",
