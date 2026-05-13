@@ -595,6 +595,54 @@
       "channel": ""
     },
     {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Millonarios",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/milvsohi0526",
+      "sofaId": 4690179,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-26T18:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Deportivo Riestra",
+        "logo": ""
+      },
+      "link": "https://is.gd/palvsdep0526",
+      "sofaId": 4690191,
+      "channel": ""
+    },
+    {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-26T20:30:00-04:00",
+      "local": {
+        "nombre": "Nacional",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/nacvscoq0526",
+      "sofaId": 4690202,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-29T18:00:00-04:00",
@@ -896,6 +944,38 @@
       },
       "link": "https://is.gd/univsohi0610",
       "sofaId": 4709604,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-11T15:00:00-04:00",
+      "local": {
+        "nombre": "México",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Sudáfrica",
+        "logo": ""
+      },
+      "link": "https://is.gd/mexvssud0611",
+      "sofaId": 4627866,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-11T22:00:00-04:00",
+      "local": {
+        "nombre": "Corea del Sur",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Republica Checa",
+        "logo": ""
+      },
+      "link": "https://is.gd/corvsrep0611",
+      "sofaId": 4697696,
       "channel": ""
     },
     {
