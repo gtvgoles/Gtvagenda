@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "España, LaLiga",
-      "fondo": "",
-      "inicio": "2026-05-13T13:00:00-04:00",
-      "local": {
-        "nombre": "Villarreal CF",
-        "logo": "escudos/manual/villarrealcf.png"
-      },
-      "visita": {
-        "nombre": "Sevilla FC",
-        "logo": "escudos/manual/sevillafc.png"
-      },
-      "link": "https://is.gd/vilvssev0513",
-      "sofaId": 4467314,
-      "channel": ""
-    },
-    {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-13T15:00:00-04:00",
-      "local": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchestercity.png"
-      },
-      "visita": {
-        "nombre": "Crystal Palace",
-        "logo": "escudos/manual/crystalpalace.png"
-      },
-      "link": "https://is.gd/manvscry0513",
-      "sofaId": 4452613,
-      "channel": ""
-    },
-    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-13T19:00:00-04:00",
@@ -1008,6 +976,22 @@
       },
       "link": "https://is.gd/corvsrep0611",
       "sofaId": 4697696,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-12T15:00:00-04:00",
+      "local": {
+        "nombre": "Canadá",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Bosnia Herzegovina",
+        "logo": ""
+      },
+      "link": "https://is.gd/canvsbos0612",
+      "sofaId": 4697699,
       "channel": ""
     },
     {
