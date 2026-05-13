@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "España, LaLiga",
+      "fondo": "",
+      "inicio": "2026-05-13T13:00:00-04:00",
+      "local": {
+        "nombre": "Villarreal CF",
+        "logo": "escudos/manual/villarrealcf.png"
+      },
+      "visita": {
+        "nombre": "Sevilla FC",
+        "logo": "escudos/manual/sevillafc.png"
+      },
+      "link": "https://is.gd/vilvssev0513",
+      "sofaId": 4467314,
+      "channel": ""
+    },
+    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-05-13T19:00:00-04:00",
@@ -600,7 +616,7 @@
       "inicio": "2026-05-26T18:00:00-04:00",
       "local": {
         "nombre": "Millonarios",
-        "logo": ""
+        "logo": "escudos/manual/millonarios.png"
       },
       "visita": {
         "nombre": "O'Higgins",
@@ -620,7 +636,7 @@
       },
       "visita": {
         "nombre": "Deportivo Riestra",
-        "logo": ""
+        "logo": "escudos/manual/deportivoriestra.png"
       },
       "link": "https://is.gd/palvsdep0526",
       "sofaId": 4690191,
@@ -632,7 +648,7 @@
       "inicio": "2026-05-26T20:30:00-04:00",
       "local": {
         "nombre": "Nacional",
-        "logo": ""
+        "logo": "escudos/manual/nacional.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -952,11 +968,11 @@
       "inicio": "2026-06-11T15:00:00-04:00",
       "local": {
         "nombre": "México",
-        "logo": ""
+        "logo": "escudos/manual/mexico.png"
       },
       "visita": {
         "nombre": "Sudáfrica",
-        "logo": ""
+        "logo": "escudos/manual/sudafrica.png"
       },
       "link": "https://is.gd/mexvssud0611",
       "sofaId": 4627866,
@@ -968,11 +984,11 @@
       "inicio": "2026-06-11T22:00:00-04:00",
       "local": {
         "nombre": "Corea del Sur",
-        "logo": ""
+        "logo": "escudos/manual/coreadelsur.png"
       },
       "visita": {
         "nombre": "Republica Checa",
-        "logo": ""
+        "logo": "escudos/manual/republicacheca.png"
       },
       "link": "https://is.gd/corvsrep0611",
       "sofaId": 4697696,
