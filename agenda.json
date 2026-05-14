@@ -643,6 +643,22 @@
       "channel": ""
     },
     {
+      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
+      "fondo": "assets/fondo_sudamericana.jpg",
+      "inicio": "2026-05-27T20:30:00-04:00",
+      "local": {
+        "nombre": "Olimpia",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/olivsaud0527",
+      "sofaId": 4690192,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-29T18:00:00-04:00",
@@ -1008,6 +1024,22 @@
       },
       "link": "https://is.gd/audvsdep0612",
       "sofaId": 4651124,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-12T21:00:00-04:00",
+      "local": {
+        "nombre": "Estados Unidos",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Paraguay",
+        "logo": ""
+      },
+      "link": "https://is.gd/estvspar0612",
+      "sofaId": 4627869,
       "channel": ""
     },
     {
