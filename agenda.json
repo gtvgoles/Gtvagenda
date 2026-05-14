@@ -1075,6 +1075,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-13T18:00:00-04:00",
+      "local": {
+        "nombre": "Brasil",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Marruecos",
+        "logo": ""
+      },
+      "link": "https://is.gd/bravsmar0613",
+      "sofaId": 4627856,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-13T20:00:00-04:00",
