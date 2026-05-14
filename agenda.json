@@ -632,7 +632,7 @@
       "inicio": "2026-05-27T20:30:00-04:00",
       "local": {
         "nombre": "Olimpia",
-        "logo": ""
+        "logo": "escudos/manual/olimpia.png"
       },
       "visita": {
         "nombre": "Audax Italiano",
@@ -984,11 +984,11 @@
       "inicio": "2026-06-12T15:00:00-04:00",
       "local": {
         "nombre": "Canadá",
-        "logo": ""
+        "logo": "escudos/manual/canada.png"
       },
       "visita": {
         "nombre": "Bosnia Herzegovina",
-        "logo": ""
+        "logo": "escudos/manual/bosniaherzegovina.png"
       },
       "link": "https://is.gd/canvsbos0612",
       "sofaId": 4697699,
@@ -1016,14 +1016,30 @@
       "inicio": "2026-06-12T21:00:00-04:00",
       "local": {
         "nombre": "Estados Unidos",
-        "logo": ""
+        "logo": "escudos/manual/estadosunidos.png"
       },
       "visita": {
         "nombre": "Paraguay",
-        "logo": ""
+        "logo": "escudos/manual/paraguay.png"
       },
       "link": "https://is.gd/estvspar0612",
       "sofaId": 4627869,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-13T15:00:00-04:00",
+      "local": {
+        "nombre": "Qatar",
+        "logo": "escudos/manual/qatar.png"
+      },
+      "visita": {
+        "nombre": "Suiza",
+        "logo": "escudos/manual/suiza.png"
+      },
+      "link": "https://is.gd/qatvssui0613",
+      "sofaId": 4627868,
       "channel": ""
     },
     {
