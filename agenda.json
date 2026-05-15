@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-15T15:00:00-04:00",
+      "local": {
+        "nombre": "Aston Villa",
+        "logo": "escudos/manual/astonvilla.png"
+      },
+      "visita": {
+        "nombre": "Liverpool",
+        "logo": "escudos/manual/liverpool.png"
+      },
+      "link": "https://is.gd/astvsliv0515",
+      "sofaId": 4452573,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-15T20:00:00-04:00",
