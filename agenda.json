@@ -1123,6 +1123,38 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-13T21:00:00-04:00",
+      "local": {
+        "nombre": "Haití",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Escocia",
+        "logo": ""
+      },
+      "link": "https://is.gd/haivsesc0613",
+      "sofaId": 4627891,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-14T00:00:00-04:00",
+      "local": {
+        "nombre": "Australia",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Turquía",
+        "logo": ""
+      },
+      "link": "https://is.gd/ausvstur0614",
+      "sofaId": 4697702,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-14T12:30:00-04:00",
