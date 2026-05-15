@@ -1187,6 +1187,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-14T13:00:00-04:00",
+      "local": {
+        "nombre": "Alemania",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Curazao",
+        "logo": ""
+      },
+      "link": "https://is.gd/alevscur0614",
+      "sofaId": 4627884,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-14T15:00:00-04:00",
