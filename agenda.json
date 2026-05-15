@@ -1096,11 +1096,11 @@
       "inicio": "2026-06-13T18:00:00-04:00",
       "local": {
         "nombre": "Brasil",
-        "logo": ""
+        "logo": "escudos/manual/brasil.png"
       },
       "visita": {
         "nombre": "Marruecos",
-        "logo": ""
+        "logo": "escudos/manual/marruecos.png"
       },
       "link": "https://is.gd/bravsmar0613",
       "sofaId": 4627856,
