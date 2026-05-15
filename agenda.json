@@ -1128,11 +1128,11 @@
       "inicio": "2026-06-13T21:00:00-04:00",
       "local": {
         "nombre": "Haití",
-        "logo": ""
+        "logo": "escudos/manual/haiti.png"
       },
       "visita": {
         "nombre": "Escocia",
-        "logo": ""
+        "logo": "escudos/manual/escocia.png"
       },
       "link": "https://is.gd/haivsesc0613",
       "sofaId": 4627891,
@@ -1144,11 +1144,11 @@
       "inicio": "2026-06-14T00:00:00-04:00",
       "local": {
         "nombre": "Australia",
-        "logo": ""
+        "logo": "escudos/manual/australia.png"
       },
       "visita": {
         "nombre": "Turquía",
-        "logo": ""
+        "logo": "escudos/manual/turquia.png"
       },
       "link": "https://is.gd/ausvstur0614",
       "sofaId": 4697702,
