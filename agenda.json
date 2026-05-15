@@ -643,6 +643,22 @@
       "channel": ""
     },
     {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-28T20:30:00-04:00",
+      "local": {
+        "nombre": "Boca Juniors",
+        "logo": "escudos/manual/bocajuniors.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/bocvsuni0528",
+      "sofaId": 4690210,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-29T18:00:00-04:00",
