@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, FA Cup - Final",
-      "fondo": "",
-      "inicio": "2026-05-16T10:00:00-04:00",
-      "local": {
-        "nombre": "Chelsea",
-        "logo": "escudos/manual/chelsea.png"
-      },
-      "visita": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchestercity.png"
-      },
-      "link": "https://is.gd/chevsman0516",
-      "sofaId": 4708030,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-16T12:30:00-04:00",
@@ -46,7 +30,7 @@
         "nombre": "Rangers De Talca",
         "logo": "escudos/ascenso/rangers.png"
       },
-      "link": "https://is.gd/univsran0516",
+      "link": "https://cf.live.latam.prd.media.max.com/live/use1/609_CixlYWMyYTU5Yi1hNmNhLTQ1YmUtYmYzOC00Y2M2MDA4Njk3NDItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779043856&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6Ijk0NDI5ZTQxLTY5M2UtNDk5YS04NmJjLTNlNjBhNWExZmE5YyIsICJlZGl0SWQiOiJlYWMyYTU5Yi1hNmNhLTQ1YmUtYmYzOC00Y2M2MDA4Njk3NDIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQxODo1MDo1NloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=5535bcc05fe743cd9af8a915ee19430d5d3188ed0efb891b1a4f24f46cffd2dd/main.mpd?manifest-params=prod-20260516%7C38FVWyKLdT1g8kbS8pJAg1_z5Ej3xCezJ0GT_LlY-7Y%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY2MDlfQ2l4bFlXTXlZVFU1WWkxaE5tTmhMVFExWW1VdFltWXpPQzAwWTJNMk1EQTROamszTkRJdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDE4JTNBMzAlM0EwM1o%3D&rtype=admo&ck=eyIwMTAwM2UyYmU1NWY3MGUzZmQwZmFhYmFjNzZlYzA0NiI6IjQyNTYzMGVjZTdkYTY2MmM5ZjE1Nzk5MDlhMzY0MjEwIiwiMDEwMTg0YjFkYzIwY2FlZmE0YzQ3Y2ZjNmY4YzNmNzQiOiI1M2E1MDkwMGNmYWM2NzFhMjk5NTBkMTFjNWI3NjgyYSIsIjAxMDJkYjA2YzA2MGMyNjUyZGZlMzRjZWI1ZjE2NTZiIjoiOTZkMjE0OTE3NDE3MTVmMjBlMjc3NzU1OTBlMWY0NzkifQ%3D%3D",
       "sofaId": 4656687,
       "channel": ""
     },
