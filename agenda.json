@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-16T15:00:00-04:00",
-      "local": {
-        "nombre": "Union San Felipe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "visita": {
-        "nombre": "Rangers De Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/609_CixlYWMyYTU5Yi1hNmNhLTQ1YmUtYmYzOC00Y2M2MDA4Njk3NDItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779043856&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6Ijk0NDI5ZTQxLTY5M2UtNDk5YS04NmJjLTNlNjBhNWExZmE5YyIsICJlZGl0SWQiOiJlYWMyYTU5Yi1hNmNhLTQ1YmUtYmYzOC00Y2M2MDA4Njk3NDIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQxODo1MDo1NloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=5535bcc05fe743cd9af8a915ee19430d5d3188ed0efb891b1a4f24f46cffd2dd/main.mpd?manifest-params=prod-20260516%7C38FVWyKLdT1g8kbS8pJAg1_z5Ej3xCezJ0GT_LlY-7Y%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY2MDlfQ2l4bFlXTXlZVFU1WWkxaE5tTmhMVFExWW1VdFltWXpPQzAwWTJNMk1EQTROamszTkRJdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDE4JTNBMzAlM0EwM1o%3D&rtype=admo&ck=eyIwMTAwM2UyYmU1NWY3MGUzZmQwZmFhYmFjNzZlYzA0NiI6IjQyNTYzMGVjZTdkYTY2MmM5ZjE1Nzk5MDlhMzY0MjEwIiwiMDEwMTg0YjFkYzIwY2FlZmE0YzQ3Y2ZjNmY4YzNmNzQiOiI1M2E1MDkwMGNmYWM2NzFhMjk5NTBkMTFjNWI3NjgyYSIsIjAxMDJkYjA2YzA2MGMyNjUyZGZlMzRjZWI1ZjE2NTZiIjoiOTZkMjE0OTE3NDE3MTVmMjBlMjc3NzU1OTBlMWY0NzkifQ%3D%3D",
-      "sofaId": 4656687,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-16T15:00:00-04:00",
-      "local": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "visita": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/49d_CixiYzdjYTE4Zi00MjIwLTQ2MzEtOTU4MS05NWYxY2NjNjczMzQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779044552&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6Ijc5ODkzYzgwLTVjMTktNDBkNi04MWU1LWMxNGZhOWMzZjMyOSIsICJlZGl0SWQiOiJiYzdjYTE4Zi00MjIwLTQ2MzEtOTU4MS05NWYxY2NjNjczMzQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQxOTowMjozMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=6647f813ae4553011ceefb0eb07f0c46d55c3e9a9f3d5e85e0819ab1cf470d72/main.mpd?manifest-params=prod-20260516%7CEjrksCDVrfXP03hzFvC-_EWQ42B2C3-5LCXrSMBEqDk%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY0OWRfQ2l4aVl6ZGpZVEU0WmkwME1qSXdMVFEyTXpFdE9UVTRNUzA1TldZeFkyTmpOamN6TXpRdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDE4JTNBNDglM0EyNVo%3D&rtype=admo&ck=eyIwMTAwMDYyNGQzNDNlZGIzN2Q2MTUwNjZkNzg1NWRkMyI6IjczM2U4MzU4Y2Y5MmRhODZjZjJkNWRiMGNmM2E0MDRhIiwiMDEwMTM4MWFhNzY4Njg1YTQzNTUyMjhkZjJlMTZhMWUiOiJkNjYzMGYyM2Y1YjgyZmI3YzRhMjJjM2JiM2RkYjYyNyIsIjAxMDI4OGQyMDEwMjVjNzg4YWMwYjAzMGNlYmNmODhhIjoiMzAwNmU3YjRmYWU5YzZmYWE5YWM4ZDNkMDJkMzA0MzAifQ%3D%3D",
-      "sofaId": 4656690,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-16T17:30:00-04:00",
@@ -78,7 +46,7 @@
         "nombre": "Universidad Católica",
         "logo": "escudos/primera/universidadcatolica.png"
       },
-      "link": "https://is.gd/depvsuni0516",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/ffd_CixlYjMyYjI5Zi0xYzZkLTQxYmMtYTRjMi0xMDI2ZjIyMGFmNTYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779061284&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjVkYTFjMDM1LTIxYWItNGM2Ny1iYzRiLTUzN2M0YzU5ZTcxMSIsICJlZGl0SWQiOiJlYjMyYjI5Zi0xYzZkLTQxYmMtYTRjMi0xMDI2ZjIyMGFmNTYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQyMzo0MToyNFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=656bd7e8619468c5cacddd25d0c44726ce748665d52a3af1f6959b188969b7ee/main.mpd?manifest-params=prod-20260516%7CRWY0hSHRvQTjQtZ5K1J4-T4OrVpO4UYeE2HpdJ7zO7g%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZmZmRfQ2l4bFlqTXlZakk1WmkweFl6WmtMVFF4WW1NdFlUUmpNaTB4TURJMlpqSXlNR0ZtTlRZdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDIzJTNBMzklM0E1OVo%3D&rtype=admo&ck=eyIwMTAwOTY5YjFmNTU1YWRjNmViYmU5ZDVmZWNkODQ4YiI6IjJhNjA0MTcyODFjMDc2ZmYxN2YzMWExMDcxNWM5NTc3IiwiMDEwMTI1OTkyNTRlMGYzZTA5YmI1OTY4NmUwNzM5MTYiOiI4OWFjNDA3NTY5M2ViYmVkYWNiM2NmNDdmZTJlNWQ2OCIsIjAxMDIxZjIyODM5YjhhNzBiNmZhOWI1ZThjZWQ0ZTFmIjoiYzA0OTViMmY3YzYyN2JiYWZhYjNiYThlOTEyMjc5MTQifQ%3D%3D",
       "sofaId": 4650640,
       "channel": ""
     },
