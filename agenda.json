@@ -3,51 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
+      "competencia": "Inglaterra, FA Cup - Final",
       "fondo": "",
-      "inicio": "2026-05-15T15:00:00-04:00",
+      "inicio": "2026-05-16T10:00:00-04:00",
       "local": {
-        "nombre": "Aston Villa",
-        "logo": "escudos/manual/astonvilla.png"
+        "nombre": "Chelsea",
+        "logo": "escudos/manual/chelsea.png"
       },
       "visita": {
-        "nombre": "Liverpool",
-        "logo": "escudos/manual/liverpool.png"
+        "nombre": "Manchester City",
+        "logo": "escudos/manual/manchestercity.png"
       },
-      "link": "https://is.gd/astvsliv0515",
-      "sofaId": 4452573,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-15T20:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://is.gd/coqvsaud0515",
-      "sofaId": 4650635,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-15T20:00:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "link": "https://is.gd/palvsdep0515",
-      "sofaId": 4650638,
+      "link": "https://is.gd/chevsman0516",
+      "sofaId": 4708030,
       "channel": ""
     },
     {
@@ -1192,11 +1160,11 @@
       "inicio": "2026-06-14T13:00:00-04:00",
       "local": {
         "nombre": "Alemania",
-        "logo": ""
+        "logo": "escudos/manual/alemania.png"
       },
       "visita": {
         "nombre": "Curazao",
-        "logo": ""
+        "logo": "escudos/manual/curazao.png"
       },
       "link": "https://is.gd/alevscur0614",
       "sofaId": 4627884,
@@ -1219,6 +1187,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-14T16:00:00-04:00",
+      "local": {
+        "nombre": "Países Bajos",
+        "logo": "escudos/manual/paisesbajos.png"
+      },
+      "visita": {
+        "nombre": "Japón",
+        "logo": "escudos/manual/japon.png"
+      },
+      "link": "https://is.gd/paivsjap0614",
+      "sofaId": 4627859,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-14T17:30:00-04:00",
@@ -1235,6 +1219,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-14T19:00:00-04:00",
+      "local": {
+        "nombre": "Costa de Marfil",
+        "logo": "escudos/manual/costademarfil.png"
+      },
+      "visita": {
+        "nombre": "Ecuador",
+        "logo": "escudos/manual/ecuador.png"
+      },
+      "link": "https://is.gd/cosvsecu0614",
+      "sofaId": 4627871,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-14T20:00:00-04:00",
@@ -1248,6 +1248,22 @@
       },
       "link": "https://is.gd/coqvsohi0614",
       "sofaId": 4650620,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-14T22:00:00-04:00",
+      "local": {
+        "nombre": "Suecia",
+        "logo": "escudos/manual/suecia.png"
+      },
+      "visita": {
+        "nombre": "Túnez",
+        "logo": "escudos/manual/tunez.png"
+      },
+      "link": "https://is.gd/suevstun0614",
+      "sofaId": 4697705,
       "channel": ""
     }
   ]
