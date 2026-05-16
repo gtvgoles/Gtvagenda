@@ -5,22 +5,6 @@
     {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-16T12:30:00-04:00",
-      "local": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "visita": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/95b_CixiMGVlYTRkOC1hYmY1LTQzMjMtOGU4YS01YzE5YzZlNDQyNjEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779033911&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6ImUxZWNhM2M1LTY2NTEtNDU1Yy04YTU5LWYxODJiZWI5NjViZiIsICJlZGl0SWQiOiJiMGVlYTRkOC1hYmY1LTQzMjMtOGU4YS01YzE5YzZlNDQyNjEiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQxNjowNToxMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=c91d2c6af89ab93868814914e2603f3a9512158ab3d6e8ae997a4223d89ab810/main.mpd?manifest-params=prod-20260516%7Cd0RAVMMZQ_BZaSmiQ3TD0ozcFLuJKNu39ukIT6D2VRU%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY5NWJfQ2l4aU1HVmxZVFJrT0MxaFltWTFMVFF6TWpNdE9HVTRZUzAxWXpFNVl6WmxORFF5TmpFdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDE2JTNBMDAlM0EwMlo%3D&rtype=admo&ck=eyIwMTAwMWU0NWFiOGRlZWJmMmIyN2Y1MDFkNWEyZTM1MCI6ImZkNDJkODAwNDY3MjNlNTMwYzcyMWJhMjA3OGY2ZTk4IiwiMDEwMWE5YzFjMGVmNTQ4YmY4MDczYmU5MDJiMTBlMmMiOiIwNGFkZTc0OWE4YzE5OThkODJhYjQ3M2RiYTY1OTczNiIsIjAxMDI0M2Q4ODRjNTMzMWFmMzc2YjI2MjViMjk2NzdmIjoiOThiNTE4OGQxYjE3N2U2Nzk2M2M2YjUxNmUwMWFiNjYifQ%3D%3D",
-      "sofaId": 4656688,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-16T15:00:00-04:00",
       "local": {
         "nombre": "Union San Felipe",
@@ -46,7 +30,7 @@
         "nombre": "Deportes Copiapó",
         "logo": "escudos/ascenso/copiapo.png"
       },
-      "link": "https://is.gd/cobvsdep0516",
+      "link": "https://cf.live.latam.prd.media.max.com/live/use1/49d_CixiYzdjYTE4Zi00MjIwLTQ2MzEtOTU4MS05NWYxY2NjNjczMzQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779044552&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6Ijc5ODkzYzgwLTVjMTktNDBkNi04MWU1LWMxNGZhOWMzZjMyOSIsICJlZGl0SWQiOiJiYzdjYTE4Zi00MjIwLTQ2MzEtOTU4MS05NWYxY2NjNjczMzQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQxOTowMjozMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=6647f813ae4553011ceefb0eb07f0c46d55c3e9a9f3d5e85e0819ab1cf470d72/main.mpd?manifest-params=prod-20260516%7CEjrksCDVrfXP03hzFvC-_EWQ42B2C3-5LCXrSMBEqDk%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY0OWRfQ2l4aVl6ZGpZVEU0WmkwME1qSXdMVFEyTXpFdE9UVTRNUzA1TldZeFkyTmpOamN6TXpRdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDE4JTNBNDglM0EyNVo%3D&rtype=admo&ck=eyIwMTAwMDYyNGQzNDNlZGIzN2Q2MTUwNjZkNzg1NWRkMyI6IjczM2U4MzU4Y2Y5MmRhODZjZjJkNWRiMGNmM2E0MDRhIiwiMDEwMTM4MWFhNzY4Njg1YTQzNTUyMjhkZjJlMTZhMWUiOiJkNjYzMGYyM2Y1YjgyZmI3YzRhMjJjM2JiM2RkYjYyNyIsIjAxMDI4OGQyMDEwMjVjNzg4YWMwYjAzMGNlYmNmODhhIjoiMzAwNmU3YjRmYWU5YzZmYWE5YWM4ZDNkMDJkMzA0MzAifQ%3D%3D",
       "sofaId": 4656690,
       "channel": ""
     },
