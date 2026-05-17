@@ -51,6 +51,22 @@
       "channel": ""
     },
     {
+      "competencia": "España, LaLiga",
+      "fondo": "",
+      "inicio": "2026-05-17T15:15:00-04:00",
+      "local": {
+        "nombre": "FC Barcelona",
+        "logo": "escudos/manual/fcbarcelona.png"
+      },
+      "visita": {
+        "nombre": "Real Betis",
+        "logo": "escudos/manual/realbetis.png"
+      },
+      "link": "https://is.gd/fcbvsrea0517",
+      "sofaId": 4467311,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-17T17:30:00-04:00",
