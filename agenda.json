@@ -19,6 +19,22 @@
       "channel": ""
     },
     {
+      "competencia": "España, LaLiga",
+      "fondo": "",
+      "inicio": "2026-05-17T13:00:00-04:00",
+      "local": {
+        "nombre": "Sevilla FC",
+        "logo": "escudos/manual/sevillafc.png"
+      },
+      "visita": {
+        "nombre": "Real Madrid",
+        "logo": "escudos/manual/realmadrid.png"
+      },
+      "link": "https://is.gd/sevvsrea0517",
+      "sofaId": 4467307,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-17T15:00:00-04:00",
