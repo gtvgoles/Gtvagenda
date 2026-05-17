@@ -5,38 +5,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-16T17:30:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "U. de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/b7d_Ciw5OTkzYjg1ZC02YjIyLTRlMzMtOWFlZC01OTA1MGE1ODI2Y2EtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779052809&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6ImIwYTFjYTc2LWJkOTgtNGM3Yi1hODgzLTA4ZGIyZmI5MGQ2NyIsICJlZGl0SWQiOiI5OTkzYjg1ZC02YjIyLTRlMzMtOWFlZC01OTA1MGE1ODI2Y2EiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQyMToyMDowOVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=168c8892e1c58c5abb7471e34303f4d7342956ed49c09fde66a35c071b6c00d9/main.mpd?manifest-params=prod-20260516%7CbrVoYQvw8J6tul06dAlld9B5Uo-nm2JN3vaZXVioGQI%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiN2RfQ2l3NU9Ua3pZamcxWkMwMllqSXlMVFJsTXpNdE9XRmxaQzAxT1RBMU1HRTFPREkyWTJFdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDIxJTNBMDklM0EyOFo%3D&rtype=admo&ck=eyIwMTAwODZlYjc3MDM5YjNiODQ0MDczNTA5NjIzN2U5MyI6IjFhZmQ4MDc2NTVlNGMxY2I5NjdlZDM3NTliNDhiOWNjIiwiMDEwMWMwNmI5ZTczNWJjZWRjYWYyZDNmYWIzYjk2OWMiOiJlZmZhNDY4YzlkZjZhYzdiZTRhODcyMGRmODk2Y2Y0MiIsIjAxMDIyYzk3Yjc0NDgyNjMzNDFmZjBmMzM0MjdjMzUzIjoiYjg5N2UyOWZmYTcxNWMxYjFhZjI0NGI0N2M0MmRmOTMifQ%3D%3D",
-      "sofaId": 4650632,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-16T17:30:00-04:00",
-      "local": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "visita": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/5b7_CiwyNzEwMTQ2ZC1iZTkzLTRhNzQtOGJiOS03MWNlZTVmNjBiMDYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779052607&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6ImI4ZGY3YTE0LWE5OTItNDU0My1hOWIzLWFhMmI5YjZlZmYxNSIsICJlZGl0SWQiOiIyNzEwMTQ2ZC1iZTkzLTRhNzQtOGJiOS03MWNlZTVmNjBiMDYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQyMToxNjo0N1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=4c067efdaac8b9ff3143c902df6fba52f58f82715a6375f56efdda3e2c12dce8/main.mpd?manifest-params=prod-20260516%7CzRxHcz61BBhUbxJSPkjMfl21Be1xCAdsP-Y6-6CqSVU%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY1YjdfQ2l3eU56RXdNVFEyWkMxaVpUa3pMVFJoTnpRdE9HSmlPUzAzTVdObFpUVm1OakJpTURZdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDIxJTNBMTElM0EzNVo%3D&rtype=admo&ck=eyIwMTAwNDNkOTk2Y2VjOGYwNjQzZGQyZDM1MjA3YTk0MyI6ImM4NTBmOThmN2Q5YjkzN2IxZTA2ZjI0ZTg5Y2VmMzA1IiwiMDEwMTg0ZDUwNGViZTZjNGZjMTEyMTZlY2IxOGRjZjIiOiJlNDdkZmQzMjlhOTZkOGQ5MzhjZGU3ZWU4MDE3NTU3ZiIsIjAxMDJlNjM0YjdiNGFhMmRmZTY0MDNjNDdhMWRhZDZiIjoiZGExYjkxODc5ZDk4MWZlMTM5Y2UwMjc1Zjg1MzM5YWUifQ%3D%3D",
-      "sofaId": 4656689,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-16T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Limache",
@@ -62,7 +30,7 @@
         "nombre": "U. La Calera",
         "logo": "escudos/primera/unionlacalera.png"
       },
-      "link": "https://is.gd/huavsula0517",
+      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1778611593~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F11%2FTottenham_Hotspur_vs_Leed_20260511_1778518231020%2F~psid=c0f0c82b-7af8-4a7f-9170-88d224b333e0~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=278a0028710d96daa22cd6328188054ba6123956374614603c9e4e20254c8616/gru1/va01/disneyplus/event/2026/05/11/Tottenham_Hotspur_vs_Leed_20260511_1778518231020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=1daf39e31000610ff3b6e0d783e539f8057e134d&ck=eyJiYzQ2NzBiZjllMTg0M2EzOWM5MzQzNjM2MDA2ZmVkYyI6IjYwNWEwZjg4ODIzMDI2M2E1MzA4MzAwNDEyMzc4MDU2In0%3D",
       "sofaId": 4650637,
       "channel": ""
     },
@@ -270,7 +238,7 @@
         "nombre": "Barcelona SC",
         "logo": "escudos/manual/barcelonasc.png"
       },
-      "link": "https://is.gd/univsbar0521",
+      "link": "",
       "sofaId": 4690208,
       "channel": ""
     },
@@ -510,7 +478,7 @@
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "https://is.gd/milvsohi0526",
+      "link": "",
       "sofaId": 4690179,
       "channel": ""
     },
@@ -526,7 +494,7 @@
         "nombre": "Deportivo Riestra",
         "logo": "escudos/manual/deportivoriestra.png"
       },
-      "link": "https://is.gd/palvsdep0526",
+      "link": "",
       "sofaId": 4690191,
       "channel": ""
     },
@@ -542,7 +510,7 @@
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
       },
-      "link": "https://is.gd/nacvscoq0526",
+      "link": "",
       "sofaId": 4690202,
       "channel": ""
     },
@@ -558,7 +526,7 @@
         "nombre": "Audax Italiano",
         "logo": "escudos/primera/audax.png"
       },
-      "link": "https://is.gd/olivsaud0527",
+      "link": "",
       "sofaId": 4690192,
       "channel": ""
     },
@@ -574,7 +542,7 @@
         "nombre": "Universidad Católica",
         "logo": "escudos/primera/universidadcatolica.png"
       },
-      "link": "https://is.gd/bocvsuni0528",
+      "link": "",
       "sofaId": 4690210,
       "channel": ""
     },
@@ -611,6 +579,22 @@
       "channel": ""
     },
     {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/depvssan0530",
+      "sofaId": 4656673,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-30T15:00:00-04:00",
@@ -624,6 +608,22 @@
       },
       "link": "https://is.gd/depvscol0530",
       "sofaId": 4650624,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T15:00:00-04:00",
+      "local": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/univsdep0530",
+      "sofaId": 4656669,
       "channel": ""
     },
     {
@@ -643,6 +643,38 @@
       "channel": ""
     },
     {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T17:30:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/sanvsuni0530",
+      "sofaId": 4656672,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T20:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/sanvsdep0530",
+      "sofaId": 4656670,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-31T12:30:00-04:00",
@@ -654,7 +686,7 @@
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
       },
-      "link": "https://is.gd/depvscoq0531",
+      "link": "",
       "sofaId": 4650623,
       "channel": ""
     },
@@ -670,7 +702,7 @@
         "nombre": "Universidad Católica",
         "logo": "escudos/primera/universidadcatolica.png"
       },
-      "link": "https://is.gd/huavsuni0531",
+      "link": "",
       "sofaId": 4651130,
       "channel": ""
     },
@@ -686,7 +718,7 @@
         "nombre": "Everton",
         "logo": "escudos/primera/everton.png"
       },
-      "link": "https://is.gd/ohivseve0531",
+      "link": "",
       "sofaId": 4651129,
       "channel": ""
     },
@@ -702,7 +734,7 @@
         "nombre": "Audax Italiano",
         "logo": "escudos/primera/audax.png"
       },
-      "link": "https://is.gd/palvsaud0531",
+      "link": "",
       "sofaId": 4651128,
       "channel": ""
     },
@@ -862,7 +894,7 @@
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "https://is.gd/univsohi0610",
+      "link": "",
       "sofaId": 4650627,
       "channel": ""
     },
@@ -878,7 +910,7 @@
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "https://is.gd/univsohi0610",
+      "link": "",
       "sofaId": 4709604,
       "channel": ""
     },
@@ -942,7 +974,7 @@
         "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
       },
-      "link": "https://is.gd/audvsdep0612",
+      "link": "",
       "sofaId": 4651124,
       "channel": ""
     },
@@ -990,7 +1022,7 @@
         "nombre": "Palestino",
         "logo": "escudos/primera/palestino.png"
       },
-      "link": "https://is.gd/evevspal0613",
+      "link": "",
       "sofaId": 4651122,
       "channel": ""
     },
@@ -1006,7 +1038,7 @@
         "nombre": "Deportes Cobresal",
         "logo": "escudos/primera/cobresal.png"
       },
-      "link": "https://is.gd/colvsdep0613",
+      "link": "",
       "sofaId": 4651123,
       "channel": ""
     },
@@ -1038,7 +1070,7 @@
         "nombre": "Huachipato",
         "logo": "escudos/primera/huachipato.png"
       },
-      "link": "https://is.gd/nubvshua0613",
+      "link": "",
       "sofaId": 4650619,
       "channel": ""
     },
@@ -1086,7 +1118,7 @@
         "nombre": "Deportes Limache",
         "logo": "escudos/primera/limache.png"
       },
-      "link": "https://is.gd/depvsdep0614",
+      "link": "",
       "sofaId": 4650621,
       "channel": ""
     },
@@ -1118,7 +1150,7 @@
         "nombre": "Universidad de Chile",
         "logo": "escudos/primera/universidaddechile.png"
       },
-      "link": "https://is.gd/ulavsuni0614",
+      "link": "",
       "sofaId": 4650622,
       "channel": ""
     },
@@ -1150,7 +1182,7 @@
         "nombre": "U. de Concepción",
         "logo": "escudos/primera/udeconcepcion.png"
       },
-      "link": "https://is.gd/univsude0614",
+      "link": "",
       "sofaId": 4651121,
       "channel": ""
     },
@@ -1182,7 +1214,7 @@
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "https://is.gd/coqvsohi0614",
+      "link": "",
       "sofaId": 4650620,
       "channel": ""
     },
@@ -1200,6 +1232,70 @@
       },
       "link": "https://is.gd/suevstun0614",
       "sofaId": 4697705,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-15T12:00:00-04:00",
+      "local": {
+        "nombre": "España",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Cabo Verde",
+        "logo": ""
+      },
+      "link": "https://is.gd/espvscab0615",
+      "sofaId": 4627904,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-15T15:00:00-04:00",
+      "local": {
+        "nombre": "Bélgica",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Egipto",
+        "logo": ""
+      },
+      "link": "https://is.gd/belvsegi0615",
+      "sofaId": 4627932,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-15T18:00:00-04:00",
+      "local": {
+        "nombre": "Arabia Saudita",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Uruguay",
+        "logo": ""
+      },
+      "link": "https://is.gd/aravsuru0615",
+      "sofaId": 4627876,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-15T21:00:00-04:00",
+      "local": {
+        "nombre": "Irán",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Nueva Zelanda",
+        "logo": ""
+      },
+      "link": "https://is.gd/iravsnue0615",
+      "sofaId": 4627902,
       "channel": ""
     }
   ]
