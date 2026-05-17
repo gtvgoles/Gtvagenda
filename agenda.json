@@ -19,6 +19,22 @@
       "channel": ""
     },
     {
+      "competencia": "México, Liga de Expansión MX - Final",
+      "fondo": "",
+      "inicio": "2026-05-16T21:00:00-04:00",
+      "local": {
+        "nombre": "Tepatitlán de Morelos",
+        "logo": "escudos/manual/tepatitlandemorelos.png"
+      },
+      "visita": {
+        "nombre": "Jaiba Brava",
+        "logo": "escudos/manual/jaibabrava.png"
+      },
+      "link": "https://is.gd/tepvsjai0516",
+      "sofaId": 4710464,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-17T12:30:00-04:00",
