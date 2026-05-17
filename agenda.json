@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-17T12:30:00-04:00",
-      "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "visita": {
-        "nombre": "U. La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/708_Ciw3MmI2NDRiZi0xZjM2LTQ0ZWEtYWZmZS1lYjljZDQ0MWUwZWQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779121741&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6ImUzYmMwOWU2LTgyN2YtNDM0MC05N2VmLWNjYmRmMGU2NTE2ZSIsICJlZGl0SWQiOiI3MmI2NDRiZi0xZjM2LTQ0ZWEtYWZmZS1lYjljZDQ0MWUwZWQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xN1QxNjoyOTowMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=6493aaadd3a8d500effd9411cb2e9036b5beb4db6864855c9227a3baea673cf2/main.mpd?manifest-params=prod-20260517%7CcIMjwHshszutimr5--p2krPNwi6QPJ-VqYVMIT8uSV8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY3MDhfQ2l3M01tSTJORFJpWmkweFpqTTJMVFEwWldFdFlXWm1aUzFsWWpsalpEUTBNV1V3WldRdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDE2JTNBMjAlM0EzNVo%3D&rtype=admo&ck=eyIwMTAwOTgyZTI0NGFjNzk4NjFmZmY0OTcyMWRjY2JjOSI6ImRjNGI4NTFmOWQyNTRkZWZjYWNjYWFlNWU1ZDFmYmUwIiwiMDEwMWI3OTJmMjA0NTQyYTE5NjM2ODczZDEyM2Y4NDUiOiJjNDU1MjdmNTU3OWZhMTg1YzMwOWI0ZTY1NTNmZmQ3NCIsIjAxMDIzNTkyYTUzNmYwYTc1Yzc5ZTQ4YjliMmNjOTYwIjoiY2UzZTBiOGJiOWFjMDEyZTAyNjhhYjljODJkMDBlNWQifQ%3D%3D",
-      "sofaId": 4650637,
-      "channel": ""
-    },
-    {
       "competencia": "España, LaLiga",
       "fondo": "",
       "inicio": "2026-05-17T13:00:00-04:00",
@@ -46,7 +30,7 @@
         "nombre": "Universidad de Chile",
         "logo": "escudos/primera/universidaddechile.png"
       },
-      "link": "https://is.gd/depvsuni0517",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/bcf_CixhZTE1NjgzYy05ZmVlLTQ5YTUtYjliZi02NDYzNjMwOGIyZWMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779130927&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6Ijk5MTk0YzRlLTAyODktNDc1Ny1iODJiLWI1MDEyYTU0MzVlYSIsICJlZGl0SWQiOiJhZTE1NjgzYy05ZmVlLTQ5YTUtYjliZi02NDYzNjMwOGIyZWMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xN1QxOTowMjowN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=1e5103880065040981cf5af0f8cd3e8c4118ede26bc7bdcff689d7ce85c0ba26/main.mpd?manifest-params=prod-20260517%7CL9mgTxff2QQuME-UCELoVfepioGoqSWBOkv5INzRdTo%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiY2ZfQ2l4aFpURTFOamd6WXkwNVptVmxMVFE1WVRVdFlqbGlaaTAyTkRZek5qTXdPR0l5WldNdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDE4JTNBNTIlM0EwN1o%3D&rtype=admo&ck=eyIwMTAwZmU3Y2Q2MDY5M2M2MGFkZjRhNjdhZDgwY2M0NCI6IjI2OTk0MDc1ODQ4OTdmNTRkYzBkODZhMjUyZTdhODYxIiwiMDEwMWQzYWVjNmVmZTFlODk4MjVhY2ExOGU1OTFiOTUiOiJiNTdhZjg3M2RkNGRmNzUyZDBiYTJmMzM2MTk2MmNiOCIsIjAxMDI2ZjY4ZDY3ZmU0ZmE5MGQ5ZTc3YmQ4ZWZhMjhhIjoiZDU3Mjk2OTYzY2MzNzk1N2MwNDI2MDgwZjUwZDM0ZWMifQ%3D%3D",
       "sofaId": 4650639,
       "channel": ""
     },
@@ -1240,11 +1224,11 @@
       "inicio": "2026-06-15T12:00:00-04:00",
       "local": {
         "nombre": "España",
-        "logo": "escudos/manual/espana.png"
+        "logo": ""
       },
       "visita": {
         "nombre": "Cabo Verde",
-        "logo": "escudos/manual/caboverde.png"
+        "logo": ""
       },
       "link": "https://is.gd/espvscab0615",
       "sofaId": 4627904,
