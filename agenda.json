@@ -5,38 +5,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-16T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/ffd_CixlYjMyYjI5Zi0xYzZkLTQxYmMtYTRjMi0xMDI2ZjIyMGFmNTYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779061284&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjVkYTFjMDM1LTIxYWItNGM2Ny1iYzRiLTUzN2M0YzU5ZTcxMSIsICJlZGl0SWQiOiJlYjMyYjI5Zi0xYzZkLTQxYmMtYTRjMi0xMDI2ZjIyMGFmNTYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xNlQyMzo0MToyNFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=656bd7e8619468c5cacddd25d0c44726ce748665d52a3af1f6959b188969b7ee/main.mpd?manifest-params=prod-20260516%7CRWY0hSHRvQTjQtZ5K1J4-T4OrVpO4UYeE2HpdJ7zO7g%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZmZmRfQ2l4bFlqTXlZakk1WmkweFl6WmtMVFF4WW1NdFlUUmpNaTB4TURJMlpqSXlNR0ZtTlRZdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE2VDIzJTNBMzklM0E1OVo%3D&rtype=admo&ck=eyIwMTAwOTY5YjFmNTU1YWRjNmViYmU5ZDVmZWNkODQ4YiI6IjJhNjA0MTcyODFjMDc2ZmYxN2YzMWExMDcxNWM5NTc3IiwiMDEwMTI1OTkyNTRlMGYzZTA5YmI1OTY4NmUwNzM5MTYiOiI4OWFjNDA3NTY5M2ViYmVkYWNiM2NmNDdmZTJlNWQ2OCIsIjAxMDIxZjIyODM5YjhhNzBiNmZhOWI1ZThjZWQ0ZTFmIjoiYzA0OTViMmY3YzYyN2JiYWZhYjNiYThlOTEyMjc5MTQifQ%3D%3D",
-      "sofaId": 4650640,
-      "channel": ""
-    },
-    {
-      "competencia": "México, Liga de Expansión MX - Final",
-      "fondo": "",
-      "inicio": "2026-05-16T21:00:00-04:00",
-      "local": {
-        "nombre": "Tepatitlán de Morelos",
-        "logo": "escudos/manual/tepatitlandemorelos.png"
-      },
-      "visita": {
-        "nombre": "Jaiba Brava",
-        "logo": "escudos/manual/jaibabrava.png"
-      },
-      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1779068859~url=%2Flas1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F17%2FTepatitln_FC_vs_Jaiba_Bra_20260517_1778971800042%2F~psid=cc13837d-1470-433f-844e-88dfa8c8d27b~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=3affa4fc9d62f1b909fd1f964b4269c36e98421aa623a72e7c9070c4d47b4c2f/las1/va01/disneyplus/event/2026/05/17/Tepatitln_FC_vs_Jaiba_Bra_20260517_1778971800042/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=bc6cc881b4952e0b928404f481b1344bd65b891d&ck=eyI3MzlmMTU4OTU5MjU0NzFhYjEzNzg0MWFiOWZmOWNmNyI6Ijg2MTI0YWYyOTY5MTZiODEzNWM1OTdiNmU4MmE4YTlhIn0%3D",
-      "sofaId": 4710464,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-17T12:30:00-04:00",
       "local": {
         "nombre": "Huachipato",
@@ -1256,7 +1224,7 @@
       "inicio": "2026-06-15T12:00:00-04:00",
       "local": {
         "nombre": "España",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKwo848rFEx95XfTUOvDC9HrPLzswa-8auIRUyOcark6GyBDE47pXRRSZ7qkxEgPOZcMEAqThe2O99Q9VNzpQZqOlKIHz-jhYwKiQ6p26GfWwCfw-1Do219QzXXLt0qH4stU9aS-IDBOE/s512-c/Real+CD+Espa%25C3%25B1a.png"
       },
       "visita": {
         "nombre": "Cabo Verde",
@@ -1272,11 +1240,11 @@
       "inicio": "2026-06-15T15:00:00-04:00",
       "local": {
         "nombre": "Bélgica",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwnLbj2FP2ywH_LSe5iWwP3LiCZysxAjkBoi13JCy7cX1SMTQFvE_zNXqS8WjINT0bqSTGQLaKd8EQDsJ2t6AuKwJCgyAQIYO2cisk48HLciNivMM9Ya8jtTLOWdQ8zP9OKrpyX8z-I_s/s512-c/Belgica.png"
       },
       "visita": {
         "nombre": "Egipto",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dErDz1OlKQLQ37NMMoGTNUcBtRnfzTu2nSoOQ7ntS4pGKP2t_eggsaSSv4MazAjBrOf0YYy1zFVI3p7S8w6FphN0oJHrOFqaeCAyN7HsY4ssdMTA6GQEDsA5mMGP5t_pD8ntRq7ug3U5YLKiWPsYAUWyT1KZ29GM8zGta-Cf5ZibNcck8FLB0Y_N-u4/s512-c/Egipto.png"
       },
       "link": "https://is.gd/belvsegi0615",
       "sofaId": 4627932,
@@ -1288,11 +1256,11 @@
       "inicio": "2026-06-15T18:00:00-04:00",
       "local": {
         "nombre": "Arabia Saudita",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcO4hquf4o1YFYcg1c2hLkt0bM5J1_cSpui0a2uRY41nHgG5jC4H8OCIY1ST6zuHEfRhesDJa4Iswg5S2FHfwm7uU-FbgAYq8Qq5iCc275Ynnaob0VkuDUaZ4N2MQ_fkC5paGw92kUag2-EfPnRz5pbzbYH9K6yPJu7VgnwCbuf_L7TXb2-ttPX1jbWuc/s512-c/AFC%20Asian%20Cup.png"
       },
       "visita": {
         "nombre": "Uruguay",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizyx8YnxZCFQhjr2RGGFMVPZgh71-3wTs5SdrU1GyOzCvaig1U9UBfpoDmTInMVyOCti0UMPdsLbNLt79p3r-TxNCxRwIIl4MJetS59VDfEwV5vUJCO8L_qpfcsBn5rhp4GsMohJtG3vdPpZYknBSCNRhxn0wZOVHtsAI68SspR0aXDYoqsTQnMGriDtQ/s512-c/Liga%20AUF%20Uruguay.png"
       },
       "link": "https://is.gd/aravsuru0615",
       "sofaId": 4627876,
@@ -1304,11 +1272,11 @@
       "inicio": "2026-06-15T21:00:00-04:00",
       "local": {
         "nombre": "Irán",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbU1IRL5WFdblzYR4QhuGT6CYhi3ENBE47ElubBpNd1DBS2oKChRwEV-hdJe0whEWnHR8fMcwOid7o2b_RfICghj8tDsfkTCaE9nc1xKkpbpIMOsY-i3O-vPAAsc0GbiQ2et-bkGApcbu5QzFGDpUt4vwtza7fIfK03ZVFOAtD5ht9dWABc_GvTpft/s512-c/Iran.png"
       },
       "visita": {
         "nombre": "Nueva Zelanda",
-        "logo": ""
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3_eG6Zt_gmrA3wwGgbUDI5G7ovGVuKyOm1E1uCLIQ_X2h8keXpWd80YXFeaAxs2tYOm5n9UBiYRw7RPBceqfWjxvvYtnoKMDu4V_XePFqSQIL9T2Zc4bOl9QwTxzLXfPcjsX1nEeJRf9c7ARJmmf1s-QpOeXHsQ_WBGdbDRo-S5ahEr0IerTbIxE/s512-c/Nueva%20Zelanda.png"
       },
       "link": "https://is.gd/iravsnue0615",
       "sofaId": 4627902,
