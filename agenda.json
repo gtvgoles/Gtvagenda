@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-17T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Everton",
-        "logo": "escudos/primera/everton.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/b44_CiwwYjVlNmE5Yi0wZjMyLTQwZTAtYjE1NS1kMDI4NGMxMjgyNzItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779149117&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjVhNTM4NTU4LTU1MWUtNDc1Yi1hMzA3LWI2MWFiMzdjN2Q4NyIsICJlZGl0SWQiOiIwYjVlNmE5Yi0wZjMyLTQwZTAtYjE1NS1kMDI4NGMxMjgyNzIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xOFQwMDowNToxN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=e75e08bb4eb078b26e5dc294f687d50e9bcb35219f3a226d1098440a82696cd2/main.mpd?manifest-params=prod-20260517%7CTQU8_CxTya36aPDSAoJh9apHEOa1HeKqMIHreNye6AM%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiNDRfQ2l3d1lqVmxObUU1WWkwd1pqTXlMVFF3WlRBdFlqRTFOUzFrTURJNE5HTXhNamd5TnpJdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDIzJTNBNTElM0E0NVo%3D&rtype=admo&ck=eyIwMTAwYzU1MGM3ZWI2ZTc2NWRjYTBkNDBmYTg3ZThjZCI6IjA1MDBiMjNkMDYzY2ExNjE1ZWEzZjJiMTQ3Yzk3YTk4IiwiMDEwMWM1NzhiNWIxYjQ2MjgzMTljYTNhMTM4YzA0YzgiOiJkZWEzODRlMmZmMDg4NDYyMWQwNTgzMjBiNzJlMDBlMCIsIjAxMDI2NjVmYzc1Yzc0YjlhNWRmMWFjZTcwYmQwNTk1IjoiYThmNmQ2ZDljZWFjN2U4ODhhYTgzNTUzYmUwMTlmZDIifQ%3D%3D",
-      "sofaId": 4650636,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-18T19:00:00-04:00",
@@ -142,7 +126,7 @@
         "nombre": "Barcelona SC",
         "logo": "escudos/manual/barcelonasc.png"
       },
-      "link": "",
+      "link": "https://is.gd/univsbar0521",
       "sofaId": 4690208,
       "channel": ""
     },
@@ -590,8 +574,24 @@
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
       },
-      "link": "",
+      "link": "https://is.gd/depvscoq0531",
       "sofaId": 4650623,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-31T12:30:00-04:00",
+      "local": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/magvsdep0531",
+      "sofaId": 4656676,
       "channel": ""
     },
     {
@@ -606,7 +606,7 @@
         "nombre": "Universidad Católica",
         "logo": "escudos/primera/universidadcatolica.png"
       },
-      "link": "",
+      "link": "https://is.gd/huavsuni0531",
       "sofaId": 4651130,
       "channel": ""
     },
@@ -622,8 +622,24 @@
         "nombre": "Everton",
         "logo": "escudos/primera/everton.png"
       },
-      "link": "",
+      "link": "https://is.gd/ohivseve0531",
       "sofaId": 4651129,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-31T17:30:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/cobvsran0531",
+      "sofaId": 4656671,
       "channel": ""
     },
     {
@@ -638,7 +654,7 @@
         "nombre": "Audax Italiano",
         "logo": "escudos/primera/audax.png"
       },
-      "link": "",
+      "link": "https://is.gd/palvsaud0531",
       "sofaId": 4651128,
       "channel": ""
     },
@@ -1216,6 +1232,54 @@
       },
       "link": "https://is.gd/fravssen0616",
       "sofaId": 4627862,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo I",
+      "fondo": "",
+      "inicio": "2026-06-16T18:00:00-04:00",
+      "local": {
+        "nombre": "Irak",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Noruega",
+        "logo": ""
+      },
+      "link": "https://is.gd/iravsnor0616",
+      "sofaId": 4697921,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo J",
+      "fondo": "",
+      "inicio": "2026-06-16T21:00:00-04:00",
+      "local": {
+        "nombre": "Argentina",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Argelia",
+        "logo": ""
+      },
+      "link": "https://is.gd/argvsarg0616",
+      "sofaId": 4627879,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo J",
+      "fondo": "",
+      "inicio": "2026-06-17T00:00:00-04:00",
+      "local": {
+        "nombre": "Austria",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Jordania",
+        "logo": ""
+      },
+      "link": "https://is.gd/ausvsjor0617",
+      "sofaId": 4627910,
       "channel": ""
     }
   ]
