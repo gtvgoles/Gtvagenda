@@ -35,6 +35,22 @@
       "channel": ""
     },
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-19T14:30:00-04:00",
+      "local": {
+        "nombre": "Bournemouth",
+        "logo": "escudos/manual/bournemouth.png"
+      },
+      "visita": {
+        "nombre": "Manchester City",
+        "logo": "escudos/manual/manchestercity.png"
+      },
+      "link": "https://is.gd/bouvsman0519",
+      "sofaId": 4452574,
+      "channel": ""
+    },
+    {
       "competencia": "CONMEBOL Copa Libertadores - Grupo B",
       "fondo": "assets/fondo_libertadores.jpg",
       "inicio": "2026-05-19T18:00:00-04:00",
@@ -240,6 +256,38 @@
       },
       "link": "https://is.gd/depvsuni0523",
       "sofaId": 4656681,
+      "channel": ""
+    },
+    {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-24T11:00:00-04:00",
+      "local": {
+        "nombre": "Crystal Palace",
+        "logo": "escudos/manual/crystalpalace.png"
+      },
+      "visita": {
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
+      },
+      "link": "https://is.gd/cryvsars0524",
+      "sofaId": 4452566,
+      "channel": ""
+    },
+    {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-24T11:00:00-04:00",
+      "local": {
+        "nombre": "Manchester City",
+        "logo": "escudos/manual/manchestercity.png"
+      },
+      "visita": {
+        "nombre": "Aston Villa",
+        "logo": "escudos/manual/astonvilla.png"
+      },
+      "link": "https://is.gd/manvsast0524",
+      "sofaId": 4452562,
       "channel": ""
     },
     {
@@ -464,6 +512,22 @@
       },
       "link": "https://is.gd/udevsula0529",
       "sofaId": 4651127,
+      "channel": ""
+    },
+    {
+      "competencia": "Europa, UEFA Champions League - Final",
+      "fondo": "",
+      "inicio": "2026-05-30T12:00:00-04:00",
+      "local": {
+        "nombre": "PSG",
+        "logo": "escudos/manual/psg.png"
+      },
+      "visita": {
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
+      },
+      "link": "https://is.gd/psgvsars0530",
+      "sofaId": 4711770,
       "channel": ""
     },
     {
