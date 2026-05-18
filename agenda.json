@@ -30,7 +30,7 @@
         "nombre": "Deportes Iquique",
         "logo": "escudos/ascenso/iquique.png"
       },
-      "link": "https://is.gd/univsdep0518",
+      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/0f1_CiwwYjVhNmIwMC0zODEyLTRjMjEtOWMzYy1jNWU5ZTM2OTU1MDktdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779229503&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNDA1OWQxODEtODE4MC00NzBlLTg0ZTAtMjcwMTY3NzhjY2M0IiwgInNlc3Npb25JZCI6IjYyMDY4NDQ1LThiNjktNGY3Ny1iZWFlLWI2YTU2YjdiZTg3MSIsICJlZGl0SWQiOiIwYjVhNmIwMC0zODEyLTRjMjEtOWMzYy1jNWU5ZTM2OTU1MDkiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xOFQyMjoyNTowM1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=aadafbd14743205e2a3e912cd602a7b19e222c65e45e1fef1623be6222ce3ba3/main.mpd?manifest-params=prod-20260518%7COdLXqceCFSx3vACd1NStwYNN_g38YvYzHFf9rfkz4xo%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkYwZjFfQ2l3d1lqVmhObUl3TUMwek9ERXlMVFJqTWpFdE9XTXpZeTFqTldVNVpUTTJPVFUxTURrdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE4VDIyJTNBMzAlM0EwMFo%3D&rtype=admo&ck=eyIwMTAxZWI3ODYxYWVkOTdlMTEzMzllNmIzYzZmYTVkZCI6IjQzNTIwY2I0ZjVmMTMwNDI3NTU0ZThmNGQwMmMzNDY5IiwiMDEwMmJiNTg4NjcyYWZjM2IwOTE1MTQ1MTBlZDdhMzQiOiIwOTc2ODEyYTMwN2YyZTg0Mjc5ZThjMmFjZjBlNGQ1MiIsIjAxMDA5YWRkZjgzOTYxNzVjZDdiMjAzNDliMTNlMWRmIjoiZDVmM2YxMzAwNWNjMDE3MWFmYzAzYTU4ZGEyYjk3YmYifQ%3D%3D",
       "sofaId": 4656692,
       "channel": ""
     },
@@ -48,6 +48,22 @@
       },
       "link": "https://is.gd/bouvsman0519",
       "sofaId": 4452574,
+      "channel": ""
+    },
+    {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-19T15:15:00-04:00",
+      "local": {
+        "nombre": "Chelsea",
+        "logo": "escudos/manual/chelsea.png"
+      },
+      "visita": {
+        "nombre": "Tottenham",
+        "logo": "escudos/manual/tottenham.png"
+      },
+      "link": "https://is.gd/chevstot0519",
+      "sofaId": 4452571,
       "channel": ""
     },
     {
