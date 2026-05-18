@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Inglaterra, Premier League",
+      "fondo": "",
+      "inicio": "2026-05-18T15:00:00-04:00",
+      "local": {
+        "nombre": "Arsenal",
+        "logo": "escudos/manual/arsenal.png"
+      },
+      "visita": {
+        "nombre": "Burnley",
+        "logo": "escudos/manual/burnley.png"
+      },
+      "link": "https://is.gd/arsvsbur0518",
+      "sofaId": 4452833,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-18T19:00:00-04:00",
@@ -1228,7 +1244,7 @@
       },
       "visita": {
         "nombre": "Senegal",
-        "logo": ""
+        "logo": "escudos/manual/senegal.png"
       },
       "link": "https://is.gd/fravssen0616",
       "sofaId": 4627862,
@@ -1244,7 +1260,7 @@
       },
       "visita": {
         "nombre": "Noruega",
-        "logo": ""
+        "logo": "escudos/manual/noruega.png"
       },
       "link": "https://is.gd/iravsnor0616",
       "sofaId": 4697921,
@@ -1256,11 +1272,11 @@
       "inicio": "2026-06-16T21:00:00-04:00",
       "local": {
         "nombre": "Argentina",
-        "logo": ""
+        "logo": "escudos/manual/argentina.png"
       },
       "visita": {
         "nombre": "Argelia",
-        "logo": ""
+        "logo": "escudos/manual/argelia.png"
       },
       "link": "https://is.gd/argvsarg0616",
       "sofaId": 4627879,
@@ -1272,14 +1288,30 @@
       "inicio": "2026-06-17T00:00:00-04:00",
       "local": {
         "nombre": "Austria",
-        "logo": ""
+        "logo": "escudos/manual/austria.png"
       },
       "visita": {
         "nombre": "Jordania",
-        "logo": ""
+        "logo": "escudos/manual/jordania.png"
       },
       "link": "https://is.gd/ausvsjor0617",
       "sofaId": 4627910,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo K",
+      "fondo": "",
+      "inicio": "2026-06-17T13:00:00-04:00",
+      "local": {
+        "nombre": "Portugal",
+        "logo": "escudos/manual/portugal.png"
+      },
+      "visita": {
+        "nombre": "RD Congo",
+        "logo": ""
+      },
+      "link": "https://is.gd/porvsrdc0617",
+      "sofaId": 4697734,
       "channel": ""
     }
   ]
