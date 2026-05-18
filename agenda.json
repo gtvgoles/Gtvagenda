@@ -5,86 +5,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-17T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "visita": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/bcf_CixhZTE1NjgzYy05ZmVlLTQ5YTUtYjliZi02NDYzNjMwOGIyZWMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779130927&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6Ijk5MTk0YzRlLTAyODktNDc1Ny1iODJiLWI1MDEyYTU0MzVlYSIsICJlZGl0SWQiOiJhZTE1NjgzYy05ZmVlLTQ5YTUtYjliZi02NDYzNjMwOGIyZWMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xN1QxOTowMjowN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=1e5103880065040981cf5af0f8cd3e8c4118ede26bc7bdcff689d7ce85c0ba26/main.mpd?manifest-params=prod-20260517%7CL9mgTxff2QQuME-UCELoVfepioGoqSWBOkv5INzRdTo%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiY2ZfQ2l4aFpURTFOamd6WXkwNVptVmxMVFE1WVRVdFlqbGlaaTAyTkRZek5qTXdPR0l5WldNdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDE4JTNBNTIlM0EwN1o%3D&rtype=admo&ck=eyIwMTAwZmU3Y2Q2MDY5M2M2MGFkZjRhNjdhZDgwY2M0NCI6IjI2OTk0MDc1ODQ4OTdmNTRkYzBkODZhMjUyZTdhODYxIiwiMDEwMWQzYWVjNmVmZTFlODk4MjVhY2ExOGU1OTFiOTUiOiJiNTdhZjg3M2RkNGRmNzUyZDBiYTJmMzM2MTk2MmNiOCIsIjAxMDI2ZjY4ZDY3ZmU0ZmE5MGQ5ZTc3YmQ4ZWZhMjhhIjoiZDU3Mjk2OTYzY2MzNzk1N2MwNDI2MDgwZjUwZDM0ZWMifQ%3D%3D",
-      "sofaId": 4650639,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-17T15:00:00-04:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "visita": {
-        "nombre": "Dep Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/b16_CiwwYTg5MGIzYS1jMDg2LTRjOGMtODVlNS05ZTNkY2ZlNjNlMGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779131026&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjFiYTkwYmY1LTM2M2QtNDNjOC04NTRlLWNlMzQ2NjNhMjUyMiIsICJlZGl0SWQiOiIwYTg5MGIzYS1jMDg2LTRjOGMtODVlNS05ZTNkY2ZlNjNlMGUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xN1QxOTowMzo0NloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=808d5db49db8eed3fe80bc6393c16441c725c7a2f5746ffc7aca9fbbdf4f115e/main.mpd?manifest-params=prod-20260517%7C7qYv0K42bFct78NdE8-2Slejf8851x8l7pE6Jz0v9GA%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiMTZfQ2l3d1lUZzVNR0l6WVMxak1EZzJMVFJqT0dNdE9EVmxOUzA1WlROa1kyWmxOak5sTUdVdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDE4JTNBNTAlM0EzNVo%3D&rtype=admo&ck=eyIwMTAwZjhlMDU4NDlmMmRhMWYwNTAwMWI3NjE5Y2VkOCI6IjIxNDhmYjg0NmZkYTI1YzMyZWE2NjMwOTU5NjFmYWUzIiwiMDEwMWYxYWM0MWU1OGNlMjVlYzZlNTZkN2M5ZGY1OTQiOiI5MmUyOGQ1MTI2Mjk3MDUyNDY1NDhkNDVhOWY4ODhkNyIsIjAxMDJmNDg0NjU5NjEyYWRhZjg0ZDljZDhlNWIyYTI1IjoiODA1ZmE1MGM3OTI4YjExNTMzMmMxNGY5MWI0NWY3Y2QifQ%3D%3D",
-      "sofaId": 4656685,
-      "channel": ""
-    },
-    {
-      "competencia": "España, LaLiga",
-      "fondo": "",
-      "inicio": "2026-05-17T15:15:00-04:00",
-      "local": {
-        "nombre": "FC Barcelona",
-        "logo": "escudos/manual/fcbarcelona.png"
-      },
-      "visita": {
-        "nombre": "Real Betis",
-        "logo": "escudos/manual/realbetis.png"
-      },
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/9kcivibroo/out/v1/428785df4cdc4938921429607904bc19/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237604.0&encoding=segmentBase&ck=eyI0OWZlMjlhMDAzOGQwMTNmZTVjMDdhZDNiZWY0ZTMwZCI6IjlkM2M3MDI0NjMxNGIyNmU1MzFkMjQxYjc5ODRkZTJhIiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4467311,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-17T17:30:00-04:00",
-      "local": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/colocolo.png"
-      },
-      "visita": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/525_CixhZjNmOTBkNi00ZDFiLTQxY2UtOTJkNC1kMWUyNzk5ZWYxMDUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779138682&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6ImFmNmYxZTE5LTIxZjYtNDZlZC1iM2M0LWE5ZmRjYjQ3Y2E3MSIsICJlZGl0SWQiOiJhZjNmOTBkNi00ZDFiLTQxY2UtOTJkNC1kMWUyNzk5ZWYxMDUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xN1QyMToxMToyMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=cf5a27f52fdc60b26420e718d9b90ba00c19b59b257a860b0fb07bbba9eeacf3/main.mpd?manifest-params=prod-20260517%7CC8PO2-9xVp9XNMlHNmjMTQrcLN905tqmjowFbomHdGg%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkY1MjVfQ2l4aFpqTm1PVEJrTmkwMFpERmlMVFF4WTJVdE9USmtOQzFrTVdVeU56azVaV1l4TURVdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDIxJTNBMDklM0EwMlo%3D&rtype=admo&ck=eyIwMTAwOWFiOTk0M2MyZWY3YTUyOGMyMTdhNTIxN2QxMCI6ImIwMTQ3NWNlOTg5MmI4YWEwMTkxMThhM2U5ODJmZDA0IiwiMDEwMWVkMmUwOGFjNjhkNDQxZjM2OTY5NjYyMDI5ZDMiOiI4ZDhhODZmNzhiMTJmOTkzOGJmZDE5ZDU3YWYxMjA0ZSIsIjAxMDJhNGE1YmQwNGRkOThmMmVkYjMwMGJlOGUwMTE1IjoiMjc4OTc3NTY2YjBlYjVmNzEzNDczYWRkYWE3NTg4MzEifQ%3D%3D",
-      "sofaId": 4650634,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-17T17:30:00-04:00",
-      "local": {
-        "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "visita": {
-        "nombre": "Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/b15_CiwzNWZlZDMwYi1iMDY1LTQyMWQtODYzNi1hYjA4ZGI3MDcwMDAtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779138845&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6ImNhNmYwNGE0LTEzY2MtNGQ2ZC1iM2MxLWMzOGVmNzBiNTE4NSIsICJlZGl0SWQiOiIzNWZlZDMwYi1iMDY1LTQyMWQtODYzNi1hYjA4ZGI3MDcwMDAiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xN1QyMToxNDowNVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=fec6f0e2cb7671c685a1bf6aa07b9f74e25d83bd8bac1e23767ca27fefbd23cf/main.mpd?manifest-params=prod-20260517%7C9ti_6514RTYPpp97mQYMZaWBZcOeixfX9LqbfLw4Q78%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiMTVfQ2l3ek5XWmxaRE13WWkxaU1EWTFMVFF5TVdRdE9EWXpOaTFoWWpBNFpHSTNNRGN3TURBdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDIxJTNBMTAlM0E1MFo%3D&rtype=admo&ck=eyIwMTAwNmE2NWQwOGQ5MTBlMzg3NTM0YjA3MTNiYjE2ZiI6IjYwYTI2ZmUwZjY4MTRkNzhiNzBmM2M5OTdmZGNhYWI3IiwiMDEwMTA4MWJlMzY3ZjZhYTQ4MGMxZDI1NmMyNGYxNTIiOiIwYTczM2YzYWU5MzBmMTQ0MjQzYWIxNWNlZDA1N2M4OCIsIjAxMDI1ZTE2NTM1YTJiYWZkMzZkMDBkZmI2Y2UyYTgxIjoiOTE0NzBiMzY3MDQ4NTM5ZDAyYTRiMmIzNWE0Yjk4ZWMifQ%3D%3D",
-      "sofaId": 4656691,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-17T20:00:00-04:00",
       "local": {
         "nombre": "Deportes Concepción",
@@ -94,7 +14,7 @@
         "nombre": "Everton",
         "logo": "escudos/primera/everton.png"
       },
-      "link": "https://is.gd/depvseve0517",
+      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/b44_CiwwYjVlNmE5Yi0wZjMyLTQwZTAtYjE1NS1kMDI4NGMxMjgyNzItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779149117&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjVhNTM4NTU4LTU1MWUtNDc1Yi1hMzA3LWI2MWFiMzdjN2Q4NyIsICJlZGl0SWQiOiIwYjVlNmE5Yi0wZjMyLTQwZTAtYjE1NS1kMDI4NGMxMjgyNzIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xOFQwMDowNToxN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=e75e08bb4eb078b26e5dc294f687d50e9bcb35219f3a226d1098440a82696cd2/main.mpd?manifest-params=prod-20260517%7CTQU8_CxTya36aPDSAoJh9apHEOa1HeKqMIHreNye6AM%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZiNDRfQ2l3d1lqVmxObUU1WWkwd1pqTXlMVFF3WlRBdFlqRTFOUzFrTURJNE5HTXhNamd5TnpJdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE3VDIzJTNBNTElM0E0NVo%3D&rtype=admo&ck=eyIwMTAwYzU1MGM3ZWI2ZTc2NWRjYTBkNDBmYTg3ZThjZCI6IjA1MDBiMjNkMDYzY2ExNjE1ZWEzZjJiMTQ3Yzk3YTk4IiwiMDEwMWM1NzhiNWIxYjQ2MjgzMTljYTNhMTM4YzA0YzgiOiJkZWEzODRlMmZmMDg4NDYyMWQwNTgzMjBiNzJlMDBlMCIsIjAxMDI2NjVmYzc1Yzc0YjlhNWRmMWFjZTcwYmQwNTk1IjoiYThmNmQ2ZDljZWFjN2U4ODhhYTgzNTUzYmUwMTlmZDIifQ%3D%3D",
       "sofaId": 4650636,
       "channel": ""
     },
