@@ -1292,7 +1292,7 @@
       },
       "visita": {
         "nombre": "RD Congo",
-        "logo": ""
+        "logo": "escudos/manual/rdcongo.png"
       },
       "link": "https://is.gd/porvsrdc0617",
       "sofaId": 4697734,
@@ -1304,11 +1304,11 @@
       "inicio": "2026-06-17T16:00:00-04:00",
       "local": {
         "nombre": "Inglaterra",
-        "logo": ""
+        "logo": "escudos/manual/inglaterra.png"
       },
       "visita": {
         "nombre": "Croacia",
-        "logo": ""
+        "logo": "escudos/manual/croacia.png"
       },
       "link": "https://is.gd/ingvscro0617",
       "sofaId": 4627865,
