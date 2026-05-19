@@ -1441,6 +1441,22 @@
       "link": "https://is.gd/suivsbos0618",
       "sofaId": 4697700,
       "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-18T18:00:00-04:00",
+      "local": {
+        "nombre": "Canadá",
+        "logo": "escudos/manual/canada.png"
+      },
+      "visita": {
+        "nombre": "Qatar",
+        "logo": "escudos/manual/qatar.png"
+      },
+      "link": "https://is.gd/canvsqat0618",
+      "sofaId": 4627937,
+      "channel": ""
     }
   ]
 }
