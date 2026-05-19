@@ -195,6 +195,22 @@
       "channel": ""
     },
     {
+      "competencia": "España, LaLiga",
+      "fondo": "",
+      "inicio": "2026-05-23T15:00:00-04:00",
+      "local": {
+        "nombre": "Celta de Vigo",
+        "logo": "escudos/manual/celtadevigo.png"
+      },
+      "visita": {
+        "nombre": "Sevilla FC",
+        "logo": "escudos/manual/sevillafc.png"
+      },
+      "link": "https://is.gd/celvssev0523",
+      "sofaId": 4467305,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-23T17:30:00-04:00",
