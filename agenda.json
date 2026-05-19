@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-18T19:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/santacruz.png"
-      },
-      "visita": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/a38_CiwxZTc3ODk1ZC1kZDRiLTRlOGItOTZiZC1iNTQ1NmIyN2ZjYTQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779230809&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNDA1OWQxODEtODE4MC00NzBlLTg0ZTAtMjcwMTY3NzhjY2M0IiwgInNlc3Npb25JZCI6ImFkMzNlMDJjLWJlNGItNDYyOS04NWExLWMwZmRmMTVhZmE3NSIsICJlZGl0SWQiOiIxZTc3ODk1ZC1kZDRiLTRlOGItOTZiZC1iNTQ1NmIyN2ZjYTQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xOFQyMjo0Njo0OVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=09aeaaa0f8180a4a16f1fbe3be5311c714b8f8c5a8c6199bf84d2026fc01cde2/main.mpd?manifest-params=prod-20260518%7C4-CRc9B5K8EgDlRX0igBM1yTl7D4tD8RnAizn7ZK208%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkZhMzhfQ2l3eFpUYzNPRGsxWkMxa1pEUmlMVFJsT0dJdE9UWmlaQzFpTlRRMU5tSXlOMlpqWVRRdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE4VDIyJTNBNTAlM0EwMFo%3D&rtype=admo&ck=eyIwMTAxMjUxYTVjNTA1YTEzZGRmYTg3YzNiYjc2N2Q2MSI6Ijk5ZGQ1YjA3NzRhNGZmYjQxNjhiOTdhMmNmYWQ3MzhiIiwiMDEwMjhlMDgzMGIxNTE1NmQ4YjdjNDE1MjlhOGRmMjUiOiIzNjI0ODEwMzM5OTk3YTA0MWVjYTZlYTMyMzRkN2Q1ZSIsIjAxMDA1YzM3ODBjZmEyMDRhOGM3YmEzNGZmNzQ0ZDhhIjoiNmIwZmZjYmNlYjY3ZjdmYjlkNjc4NDhjNzE3YWM4OWEifQ%3D%3D",
-      "sofaId": 4656686,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-18T19:00:00-04:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/0f1_CiwwYjVhNmIwMC0zODEyLTRjMjEtOWMzYy1jNWU5ZTM2OTU1MDktdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779229503&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNDA1OWQxODEtODE4MC00NzBlLTg0ZTAtMjcwMTY3NzhjY2M0IiwgInNlc3Npb25JZCI6IjYyMDY4NDQ1LThiNjktNGY3Ny1iZWFlLWI2YTU2YjdiZTg3MSIsICJlZGl0SWQiOiIwYjVhNmIwMC0zODEyLTRjMjEtOWMzYy1jNWU5ZTM2OTU1MDkiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0xOFQyMjoyNTowM1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=aadafbd14743205e2a3e912cd602a7b19e222c65e45e1fef1623be6222ce3ba3/main.mpd?manifest-params=prod-20260518%7COdLXqceCFSx3vACd1NStwYNN_g38YvYzHFf9rfkz4xo%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJnIubWFuaWZlc3Q9bGl2ZSUyRnVzZTElMkYwZjFfQ2l3d1lqVmhObUl3TUMwek9ERXlMVFJqTWpFdE9XTXpZeTFqTldVNVpUTTJPVFUxTURrdGRYTXRaV0Z6ZEJJTlltOXNkQzFuYkc4dGNISnZaQm9URWhGd1lXTnJZV2RsY2kxdGNEUXRZMlZ1WXclMkZtYWluLm1wZCZzdGFydD0yMDI2LTA1LTE4VDIyJTNBMzAlM0EwMFo%3D&rtype=admo&ck=eyIwMTAxZWI3ODYxYWVkOTdlMTEzMzllNmIzYzZmYTVkZCI6IjQzNTIwY2I0ZjVmMTMwNDI3NTU0ZThmNGQwMmMzNDY5IiwiMDEwMmJiNTg4NjcyYWZjM2IwOTE1MTQ1MTBlZDdhMzQiOiIwOTc2ODEyYTMwN2YyZTg0Mjc5ZThjMmFjZjBlNGQ1MiIsIjAxMDA5YWRkZjgzOTYxNzVjZDdiMjAzNDliMTNlMWRmIjoiZDVmM2YxMzAwNWNjMDE3MWFmYzAzYTU4ZGEyYjk3YmYifQ%3D%3D",
-      "sofaId": 4656692,
-      "channel": ""
-    },
-    {
       "competencia": "Inglaterra, Premier League",
       "fondo": "",
       "inicio": "2026-05-19T14:30:00-04:00",
@@ -739,6 +707,38 @@
       "channel": ""
     },
     {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-06-01T19:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/ascenso/copiapo.png"
+      },
+      "link": "https://is.gd/depvsdep0601",
+      "sofaId": 4656674,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-06-01T19:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/curvsdep0601",
+      "sofaId": 4656675,
+      "channel": ""
+    },
+    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-06-05T20:00:00-04:00",
@@ -1392,6 +1392,38 @@
       },
       "link": "https://is.gd/ingvscro0617",
       "sofaId": 4627865,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo L",
+      "fondo": "",
+      "inicio": "2026-06-17T19:00:00-04:00",
+      "local": {
+        "nombre": "Ghana",
+        "logo": "escudos/manual/ghana.png"
+      },
+      "visita": {
+        "nombre": "Panamá",
+        "logo": "escudos/manual/panama.png"
+      },
+      "link": "https://is.gd/ghavspan0617",
+      "sofaId": 4627918,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo K",
+      "fondo": "",
+      "inicio": "2026-06-17T22:00:00-04:00",
+      "local": {
+        "nombre": "Uzbekistán",
+        "logo": "escudos/manual/uzbekistan.png"
+      },
+      "visita": {
+        "nombre": "Colombia",
+        "logo": "escudos/manual/colombia.png"
+      },
+      "link": "https://is.gd/uzbvscol0617",
+      "sofaId": 4627930,
       "channel": ""
     }
   ]
