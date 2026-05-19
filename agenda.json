@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-19T14:30:00-04:00",
-      "local": {
-        "nombre": "Bournemouth",
-        "logo": "escudos/manual/bournemouth.png"
-      },
-      "visita": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchestercity.png"
-      },
-      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1779300737~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F19%2FBournemouth_vs_Manchester_20260519_1779207351036%2F~psid=e9331506-3975-4163-a60f-b7570a4cccde~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=21a7c134-976a-4bbb-b085-32fc4e792540~country=CL~kid=k02~hmac=5dfca8411ec513419ed059ffa95296203bfef8f2ff0ade68826837bc2a6b85f2/gru1/va01/disneyplus/event/2026/05/19/Bournemouth_vs_Manchester_20260519_1779207351036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=28cb1960ab0b06564285b50642c2e2e1d473395b&ck=eyJhNWE4YzlkNmRkZDU0OTZlOGQwZGFiYWIyN2EyNmJiOSI6IjdjMzc0MzMzMjJmN2EyMDBiODUxODEyMzQ0MGU1NTc0In0%3D",
-      "sofaId": 4452574,
-      "channel": ""
-    },
-    {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-19T15:15:00-04:00",
-      "local": {
-        "nombre": "Chelsea",
-        "logo": "escudos/manual/chelsea.png"
-      },
-      "visita": {
-        "nombre": "Tottenham",
-        "logo": "escudos/manual/tottenham.png"
-      },
-      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1779305396~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F19%2FChelsea_vs_Tottenham_Hots_20260519_1779209744020%2F~psid=d7fe9ed5-2f69-4f31-8b64-381e0b0d0e11~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=21a7c134-976a-4bbb-b085-32fc4e792540~country=CL~kid=k02~hmac=36dd5e091fb35097634eec2c4093351c632cc74a1b947b66843c59df94941d03/gru1/va01/disneyplus/event/2026/05/19/Chelsea_vs_Tottenham_Hots_20260519_1779209744020/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=a1bed7d2046545372f2023e7d6ada7d0fb743ce0&ck=eyI4MzZlMjBjMWNiNTI0ZDFiOGM5ZGQ5ZWUxMTE0MzZlMSI6IjY5Y2RkMTkyM2Y0NjFkMjBhNjA3MTg5NGRhYzcwYjg5In0%3D",
-      "sofaId": 4452571,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Libertadores - Grupo B",
       "fondo": "assets/fondo_libertadores.jpg",
       "inicio": "2026-05-19T18:00:00-04:00",
@@ -46,7 +14,7 @@
         "nombre": "Deportes Tolima",
         "logo": "escudos/manual/deportestolima.png"
       },
-      "link": "https://is.gd/coqvsdep0519",
+      "link": "https://live-ftc-sa-west-2.media.dssott.com/dvt2=exp=1779313453~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F19%2FCoquimbo_Unido_CHI_vs_Dep_20260519_1779219944035%2F~psid=9a518e63-dc04-4fcd-8fd4-0eb3e27a101e~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=21a7c134-976a-4bbb-b085-32fc4e792540~country=CL~kid=k02~hmac=10ead87df61d51b79a651232039242c8490f2d6d4a4b2b4c617fbd559a32159f/gru1/va01/disneyplus/event/2026/05/19/Coquimbo_Unido_CHI_vs_Dep_20260519_1779219944035/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=465d5bfa70fd0bc1a10b31d6282da1c8a59143be&ck=eyIxN2I3NjViMTVlOTk0MWUxOGU2MWJlYjZlM2QzNDU5NCI6IjhkYjBmNzBiZjhkZTNiZWI2NjZmNjg2NTU4ZDNjYzM5In0%3D",
       "sofaId": 4690200,
       "channel": ""
     },
@@ -62,7 +30,7 @@
         "nombre": "Barracas Central",
         "logo": "escudos/manual/barracascentral.png"
       },
-      "link": "https://is.gd/audvsbar0519",
+      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1779313505~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F19%2FAudax_Italiano_CHI_vs_Bar_20260519_1779219947030%2F~psid=8691e7d8-09fe-47a7-b7f9-d665e870135b~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=21a7c134-976a-4bbb-b085-32fc4e792540~country=CL~kid=k02~hmac=7efc14dc6c04c3befdafa69021c4633318074d55a7a5e3cae41228cc8bc0c67d/gru1/va01/disneyplus/event/2026/05/19/Audax_Italiano_CHI_vs_Bar_20260519_1779219947030/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=c9d6300b056083026c9b77c68fc02a869c4cbcfc&ck=eyJkOTUwOGQ1ODEyMzY0NDYyYjhjMzFkNGUyNjZjOTQ1MiI6ImFkMzQwOGZmYmJkM2FjNDY1MGZhYzc2NzUxMjAzODA2In0%3D",
       "sofaId": 4690165,
       "channel": ""
     },
@@ -1456,6 +1424,22 @@
       },
       "link": "https://is.gd/repvssud0618",
       "sofaId": 4697697,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-18T15:00:00-04:00",
+      "local": {
+        "nombre": "Suiza",
+        "logo": "escudos/manual/suiza.png"
+      },
+      "visita": {
+        "nombre": "Bosnia Herzegovina",
+        "logo": "escudos/manual/bosniaherzegovina.png"
+      },
+      "link": "https://is.gd/suivsbos0618",
+      "sofaId": 4697700,
       "channel": ""
     }
   ]
