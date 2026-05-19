@@ -14,7 +14,7 @@
         "nombre": "Manchester City",
         "logo": "escudos/manual/manchestercity.png"
       },
-      "link": "https://is.gd/bouvsman0519",
+      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1779300737~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F19%2FBournemouth_vs_Manchester_20260519_1779207351036%2F~psid=e9331506-3975-4163-a60f-b7570a4cccde~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=21a7c134-976a-4bbb-b085-32fc4e792540~country=CL~kid=k02~hmac=5dfca8411ec513419ed059ffa95296203bfef8f2ff0ade68826837bc2a6b85f2/gru1/va01/disneyplus/event/2026/05/19/Bournemouth_vs_Manchester_20260519_1779207351036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=28cb1960ab0b06564285b50642c2e2e1d473395b&ck=eyJhNWE4YzlkNmRkZDU0OTZlOGQwZGFiYWIyN2EyNmJiOSI6IjdjMzc0MzMzMjJmN2EyMDBiODUxODEyMzQ0MGU1NTc0In0%3D",
       "sofaId": 4452574,
       "channel": ""
     },
@@ -1440,6 +1440,22 @@
       },
       "link": "https://is.gd/uzbvscol0617",
       "sofaId": 4627930,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-18T12:00:00-04:00",
+      "local": {
+        "nombre": "Republica Checa",
+        "logo": "escudos/manual/republicacheca.png"
+      },
+      "visita": {
+        "nombre": "Sudáfrica",
+        "logo": "escudos/manual/sudafrica.png"
+      },
+      "link": "https://is.gd/repvssud0618",
+      "sofaId": 4697697,
       "channel": ""
     }
   ]
