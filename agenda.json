@@ -14,7 +14,7 @@
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "https://is.gd/bosvsohi0520",
+      "link": "https://live-ftc-sa-west-2.media.dssott.com/dvt2=exp=1779399788~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F20%2FBoston_River_URU_vs_OHigg_20260520_1779306345038%2F~psid=10f9b02a-8d8c-4820-b87f-29c3027a5c68~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=21a7c134-976a-4bbb-b085-32fc4e792540~country=CL~kid=k02~hmac=5afd209da444b90ab3696391ee6361830b463e9553b578c0be122494d24ebd01/gru1/va01/disneyplus/event/2026/05/20/Boston_River_URU_vs_OHigg_20260520_1779306345038/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=0e8abfea12de0e62470b5f4d6e51772d5c3317e1&ck=eyJjNWMzNWJhNGQzMWQ0ZjI1YWRjZTYxNWM1ZDYyZGE5MyI6IjIxMDM2MzgxYzVlMzk5YjdkYjE1YzVkMjNmZmUzOTNkIn0%3D",
       "sofaId": 4690145,
       "channel": ""
     },
@@ -1440,6 +1440,22 @@
       },
       "link": "https://is.gd/mexvscor0618",
       "sofaId": 4627854,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-19T15:00:00-04:00",
+      "local": {
+        "nombre": "Estados Unidos",
+        "logo": "escudos/manual/estadosunidos.png"
+      },
+      "visita": {
+        "nombre": "Australia",
+        "logo": "escudos/manual/australia.png"
+      },
+      "link": "https://is.gd/estvsaus0619",
+      "sofaId": 4627857,
       "channel": ""
     }
   ]
