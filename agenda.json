@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-21T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/c9e_Ciw2Njc2NDA0Mi0xMzNmLTQ2NGUtYTc3MS00YzViYWNhZGM0YzUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779474322&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjgwZTdjZWRjLWJjNWYtNGJmMS04M2I2LTE1N2E4ZGM1MWJlMiIsICJlZGl0SWQiOiI2Njc2NDA0Mi0xMzNmLTQ2NGUtYTc3MS00YzViYWNhZGM0YzUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yMVQxODoyNToyMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=61264718aacf066b0f3dd914b9056d663effff0a8c808639204e072a585ff9bd/main.mpd?manifest-params=prod-20260521%7CyTtQD0mUf0f0XPU1JfM5e5PJQxSPLBU_rns5-jevOTY%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIxVDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmM5ZV9DaXcyTmpjMk5EQTBNaTB4TXpObUxUUTJOR1V0WVRjM01TMDBZelZpWVdOaFpHTTBZelV0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjFUMTglM0EzMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwMmYwMWM3ODEyZmM3ZTkwOGI5YWJiNDk4MTFjMyI6IjdmYTM5N2MyYzI1NDQyODM2MTE4ZmZhMzMyMmJkM2E4IiwiMDEwMWVjZjNjZTU3NjU4MTI5YzBmMWNmODkyZDEzYWMiOiJkZjcyZTc1NDU5ZTAzYjNlY2ViYmU2MjNhYWMwZDU0OSIsIjAxMDJiYjhmNzA0Y2Q1MDFkZTEyZGMwNDA2NGI4ZDIxIjoiMTZiYzc0NjNiNzJjYzNhMDk2NjkxNmYwYTIyYzgzNzIifQ%3D%3D",
-      "sofaId": 4656683,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Libertadores - Grupo D",
       "fondo": "assets/fondo_libertadores.jpg",
       "inicio": "2026-05-21T20:30:00-04:00",
@@ -30,7 +14,7 @@
         "nombre": "Barcelona SC",
         "logo": "escudos/manual/barcelonasc.png"
       },
-      "link": "https://is.gd/univsbar0521",
+      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779492974~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fb3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738%2F~psid=b3001bab-a6de-4183-a4a4-553f6e1de24b~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=25484c317d0dd64bcc9b54eee30caf9386ef58dbac7e648cc845dd164baf1abb/gru1/va01/disneyplus/channel/b3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=d5eb274ec6f5e6580831d64d584a1b2f78801f4e&ck=eyJlNWEzMGJmNjNkYjM0NjkzOTMzZDg5YWVhOWYxNTk0OCI6IjM4N2ViNWQxODgyYzVhYzUwNWJhMWQwNTY2YTc2Y2MyIn0%3D",
       "sofaId": 4690208,
       "channel": ""
     },
