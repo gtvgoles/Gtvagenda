@@ -14,7 +14,7 @@
         "nombre": "Cobreloa",
         "logo": "escudos/ascenso/cobreloa.png"
       },
-      "link": "https://is.gd/depvscob0521",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/c9e_Ciw2Njc2NDA0Mi0xMzNmLTQ2NGUtYTc3MS00YzViYWNhZGM0YzUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779474322&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiZGE1ZDY3MWYtMzg2NS00OTA1LWExNTAtNDY0NGVjYjIxYjgxIiwgInNlc3Npb25JZCI6IjgwZTdjZWRjLWJjNWYtNGJmMS04M2I2LTE1N2E4ZGM1MWJlMiIsICJlZGl0SWQiOiI2Njc2NDA0Mi0xMzNmLTQ2NGUtYTc3MS00YzViYWNhZGM0YzUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yMVQxODoyNToyMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=61264718aacf066b0f3dd914b9056d663effff0a8c808639204e072a585ff9bd/main.mpd?manifest-params=prod-20260521%7CyTtQD0mUf0f0XPU1JfM5e5PJQxSPLBU_rns5-jevOTY%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIxVDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmM5ZV9DaXcyTmpjMk5EQTBNaTB4TXpObUxUUTJOR1V0WVRjM01TMDBZelZpWVdOaFpHTTBZelV0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjFUMTglM0EzMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwMmYwMWM3ODEyZmM3ZTkwOGI5YWJiNDk4MTFjMyI6IjdmYTM5N2MyYzI1NDQyODM2MTE4ZmZhMzMyMmJkM2E4IiwiMDEwMWVjZjNjZTU3NjU4MTI5YzBmMWNmODkyZDEzYWMiOiJkZjcyZTc1NDU5ZTAzYjNlY2ViYmU2MjNhYWMwZDU0OSIsIjAxMDJiYjhmNzA0Y2Q1MDFkZTEyZGMwNDA2NGI4ZDIxIjoiMTZiYzc0NjNiNzJjYzNhMDk2NjkxNmYwYTIyYzgzNzIifQ%3D%3D",
       "sofaId": 4656683,
       "channel": ""
     },
@@ -37,7 +37,7 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-22T20:00:00-04:00",
+      "inicio": "2026-05-22T15:00:00-04:00",
       "local": {
         "nombre": "Everton",
         "logo": "escudos/primera/everton.png"
@@ -357,7 +357,7 @@
     {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-27T20:30:00-04:00",
+      "inicio": "2026-05-27T18:00:00-04:00",
       "local": {
         "nombre": "Olimpia",
         "logo": "escudos/manual/olimpia.png"
@@ -1504,6 +1504,38 @@
       },
       "link": "https://is.gd/turvspar0619",
       "sofaId": 4697703,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-20T12:30:00-04:00",
+      "local": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/magvspal0620",
+      "sofaId": 4711988,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-20T13:00:00-04:00",
+      "local": {
+        "nombre": "Países Bajos",
+        "logo": "escudos/manual/paisesbajos.png"
+      },
+      "visita": {
+        "nombre": "Suecia",
+        "logo": "escudos/manual/suecia.png"
+      },
+      "link": "https://is.gd/paivssue0620",
+      "sofaId": 4697706,
       "channel": ""
     }
   ]
