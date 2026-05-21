@@ -30,7 +30,7 @@
         "nombre": "Palestino",
         "logo": "escudos/primera/palestino.png"
       },
-      "link": "https://is.gd/grevspal0520",
+      "link": "https://a101live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash-sd/enc/9kcivibroo/out/v1/428785df4cdc4938921429607904bc19/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237604.0&encoding=segmentBase&ck=eyI0OWZlMjlhMDAzOGQwMTNmZTVjMDdhZDNiZWY0ZTMwZCI6IjlkM2M3MDI0NjMxNGIyNmU1MzFkMjQxYjc5ODRkZTJhIiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
       "sofaId": 4690163,
       "channel": ""
     },
@@ -350,7 +350,7 @@
         "nombre": "O'Higgins",
         "logo": "escudos/primera/ohiggins.png"
       },
-      "link": "",
+      "link": "https://is.gd/milvsohi0526",
       "sofaId": 4690179,
       "channel": ""
     },
@@ -366,7 +366,7 @@
         "nombre": "Deportivo Riestra",
         "logo": "escudos/manual/deportivoriestra.png"
       },
-      "link": "",
+      "link": "https://is.gd/palvsdep0526",
       "sofaId": 4690191,
       "channel": ""
     },
@@ -398,7 +398,7 @@
         "nombre": "Audax Italiano",
         "logo": "escudos/primera/audax.png"
       },
-      "link": "",
+      "link": "https://is.gd/olivsaud0527",
       "sofaId": 4690192,
       "channel": ""
     },
@@ -1456,6 +1456,54 @@
       },
       "link": "https://is.gd/estvsaus0619",
       "sofaId": 4627857,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Escocia",
+        "logo": "escudos/manual/escocia.png"
+      },
+      "visita": {
+        "nombre": "Marruecos",
+        "logo": "escudos/manual/marruecos.png"
+      },
+      "link": "https://is.gd/escvsmar0619",
+      "sofaId": 4627882,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-19T19:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "link": "https://is.gd/audvsdep0619",
+      "sofaId": 4711990,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-19T20:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/sanvsdep0619",
+      "sofaId": 4711989,
       "channel": ""
     }
   ]
