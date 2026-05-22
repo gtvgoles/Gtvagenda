@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "CONMEBOL Copa Libertadores - Grupo D",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-05-21T20:30:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Barcelona SC",
-        "logo": "escudos/manual/barcelonasc.png"
-      },
-      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779492974~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fb3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738%2F~psid=b3001bab-a6de-4183-a4a4-553f6e1de24b~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=25484c317d0dd64bcc9b54eee30caf9386ef58dbac7e648cc845dd164baf1abb/gru1/va01/disneyplus/channel/b3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=d5eb274ec6f5e6580831d64d584a1b2f78801f4e&ck=eyJlNWEzMGJmNjNkYjM0NjkzOTMzZDg5YWVhOWYxNTk0OCI6IjM4N2ViNWQxODgyYzVhYzUwNWJhMWQwNTY2YTc2Y2MyIn0%3D",
-      "sofaId": 4690208,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-22T15:00:00-04:00",
@@ -30,7 +14,7 @@
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
       },
-      "link": "https://is.gd/evevscoq0522",
+      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779508158~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F3def1d80-318c-45bd-8e78-adb78813141f-1778647013189%2F~psid=521ce051-f88b-4469-9a87-c6dbf9714620~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=d9d9da7cdd6ad6482ef991a6584e45392def851581f912dae8ced23761ab0a10/gru1/va01/disneyplus/channel/3def1d80-318c-45bd-8e78-adb78813141f-1778647013189/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=302e208e6e11e22a6490d2f8a567310c46806c6d&ck=eyJhNTdlNmNiNjUzNjY0OWJlYjk0Mzc2OGVkOWEwNWEzNiI6IjdjM2M5ODFhNzI3MThhZGMyNzE3MjJjZTNkNmU3MWY4In0%3D",
       "sofaId": 4650630,
       "channel": ""
     },
@@ -1616,6 +1600,38 @@
       },
       "link": "https://is.gd/ranvsude0620",
       "sofaId": 4711984,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-20T20:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/coqvsdep0620",
+      "sofaId": 4711981,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-20T20:00:00-04:00",
+      "local": {
+        "nombre": "Ecuador",
+        "logo": "escudos/manual/ecuador.png"
+      },
+      "visita": {
+        "nombre": "Curazao",
+        "logo": "escudos/manual/curazao.png"
+      },
+      "link": "https://is.gd/ecuvscur0620",
+      "sofaId": 4627896,
       "channel": ""
     }
   ]
