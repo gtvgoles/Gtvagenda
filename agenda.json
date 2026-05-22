@@ -1633,6 +1633,22 @@
       "link": "https://is.gd/ecuvscur0620",
       "sofaId": 4627896,
       "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-21T00:00:00-04:00",
+      "local": {
+        "nombre": "Túnez",
+        "logo": "escudos/manual/tunez.png"
+      },
+      "visita": {
+        "nombre": "Japón",
+        "logo": "escudos/manual/japon.png"
+      },
+      "link": "https://is.gd/tunvsjap0621",
+      "sofaId": 4627873,
+      "channel": ""
     }
   ]
 }
