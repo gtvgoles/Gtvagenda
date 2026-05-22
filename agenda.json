@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-22T15:00:00-04:00",
-      "local": {
-        "nombre": "Everton",
-        "logo": "escudos/primera/everton.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/cac_Ciw5Y2VlZjUzNS03YTg0LTQ1ODItODgwMy0zY2ZlODA5NWVkMzMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779561782&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImYwYzRkYjBiLThmOWItNGZlNy04N2NlLWQ3NjMwZjI4ZWQ5NyIsICJlZGl0SWQiOiI5Y2VlZjUzNS03YTg0LTQ1ODItODgwMy0zY2ZlODA5NWVkMzMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yMlQxODo0MzowMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=5950421dec08740c7771911eef5f01a09c49e25aad3518921edf8ec2e9d07374/main.mpd?manifest-params=prod-20260522%7CAK-TDpI5NiWCmG4djUCdoj8Ft-ZNlHT1lLqZ2thzGbE%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIyVDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmNhY19DaXc1WTJWbFpqVXpOUzAzWVRnMExUUTFPREl0T0Rnd015MHpZMlpsT0RBNU5XVmtNek10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjJUMTglM0EzOCUzQTAxWg%3D%3D&rtype=admo&ck=eyIwMTAwZTdjN2VhZjVkNmJhNTljMjZkM2FlYzExZGExMCI6ImIwNWI4YzAzYWUxZDE4N2ZlMmIxZmU0ZjdkMDNhOTQxIiwiMDEwMWUzMTc4ZDUzODFjNTdhOTRjN2U0MGYwMmJiZDgiOiJhNzI4NGU5MzBlODBmMGQyNDQwNmJkZTc1MWExZGVlOCIsIjAxMDIwZmYyZDEwY2NmMDFmMjljMjhhMDNmYTIzYzNhIjoiZDQ3OGUyNTVkNjNiMGJjMzY3ZmNkM2M1MjU1MjRjOTIifQ%3D%3D",
-      "sofaId": 4650630,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-22T20:00:00-04:00",
@@ -30,7 +14,7 @@
         "nombre": "Santiago Wanderers",
         "logo": "escudos/ascenso/wanderers.png"
       },
-      "link": "https://is.gd/ranvssan0522",
+      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/143_CixmYWM1ZjNmMi04NGMxLTQzYjQtOTM0Ni0yZmQ1NDRiZDQ3ZmEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779579439&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjBmZWFiMzk0LTQ3MjAtNGIwZC05N2NiLWQ4NjczN2E0MTljMiIsICJlZGl0SWQiOiJmYWM1ZjNmMi04NGMxLTQzYjQtOTM0Ni0yZmQ1NDRiZDQ3ZmEiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yMlQyMzozNzoxOVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=9591f3951422a6b4334dd9ae870cacdca49b26da71134bcf69a35f85ab81d580/main.mpd?manifest-params=prod-20260522%7CS2vm3JVXgmFpVKEX0RL4wYcTEdU7LTipswd-Hcd2XfU%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIyVDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjE0M19DaXhtWVdNMVpqTm1NaTA0TkdNeExUUXpZalF0T1RNME5pMHlabVExTkRSaVpEUTNabUV0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjJUMjMlM0EzMSUzQTEwWg%3D%3D&rtype=admo&ck=eyIwMTAwYWY1YTllOGIxOWFmNzU1ZmEwMTljZWVmODRjZSI6IjlhZjBkYjYwNWM2MzAzMjlkNGQ3NWEwYjRlMjkwZDYzIiwiMDEwMWQyY2UxYTZkMDIxZTdhMDM0YWU2M2NhN2QyYzMiOiI2YTU5MGFlZTZmYjViYjM5MTk4YjdhN2RhMjViNDgwZSIsIjAxMDI2NTZjZTkxMGY1MzMwMTI5NTIwYzYyYzdlY2I2IjoiYjVhOTBjYmE0MTVlZTE0NThmMDk3YTRkMDkzOTk0YzQifQ%3D%3D",
       "sofaId": 4656682,
       "channel": ""
     },
@@ -768,6 +752,22 @@
       },
       "link": "https://is.gd/ohivspal0607",
       "sofaId": 4705493,
+      "channel": ""
+    },
+    {
+      "competencia": "Amistoso Internacional",
+      "fondo": "",
+      "inicio": "2026-06-09T10:00:00-04:00",
+      "local": {
+        "nombre": "RD Congo",
+        "logo": "escudos/manual/rdcongo.png"
+      },
+      "visita": {
+        "nombre": "Chile",
+        "logo": "escudos/manual/chile.png"
+      },
+      "link": "https://is.gd/rdcvschi0609",
+      "sofaId": 4726202,
       "channel": ""
     },
     {
@@ -1696,6 +1696,102 @@
       },
       "link": "https://is.gd/depvsdep0621",
       "sofaId": 4711980,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-21T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/depvsdep0621",
+      "sofaId": 4711977,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-21T15:00:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/ulavsuni0621",
+      "sofaId": 4711978,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-21T15:00:00-04:00",
+      "local": {
+        "nombre": "Bélgica",
+        "logo": "escudos/manual/belgica.png"
+      },
+      "visita": {
+        "nombre": "Irán",
+        "logo": "escudos/manual/iran.png"
+      },
+      "link": "https://is.gd/belvsira0621",
+      "sofaId": 4627860,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-21T16:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "link": "https://is.gd/curvsnub0621",
+      "sofaId": 4711983,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-21T17:30:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/univssan0621",
+      "sofaId": 4711976,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-21T18:00:00-04:00",
+      "local": {
+        "nombre": "Uruguay",
+        "logo": "escudos/manual/uruguay.png"
+      },
+      "visita": {
+        "nombre": "Cabo Verde",
+        "logo": "escudos/manual/caboverde.png"
+      },
+      "link": "https://is.gd/uruvscab0621",
+      "sofaId": 4627905,
       "channel": ""
     }
   ]
