@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-23T15:00:00-04:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
-      },
-      "visita": {
-        "nombre": "U. de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/df9_CixlZTA1MmFkZC0xZmE5LTQyZGMtOGJhMi1jMGI0MTYyMzZiZWUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779647713&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6Ijg5NzIxZDExLTgyZjYtNDRjZS1hODQ0LWJjNzA5MzRjZTY1ZSIsICJlZGl0SWQiOiJlZTA1MmFkZC0xZmE5LTQyZGMtOGJhMi1jMGI0MTYyMzZiZWUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yM1QxODozNToxM1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=2fd7e0b5053ff22300597aae9b6469ee38568b6a9ac9af354628192a420cd5b1/main.mpd?manifest-params=prod-20260523%7CSxJx6TFj43D5MIRrTQm3J5-fu68Y20gxp2jObe5N2ok%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIzVDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmRmOV9DaXhsWlRBMU1tRmtaQzB4Wm1FNUxUUXlaR010T0dKaE1pMWpNR0kwTVRZeU16WmlaV1V0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjNUMTglM0E0MCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwMWZlZjVhZGQyMzczNzc2NDgyODZhNDA1ZTkzOSI6IjNiNjMzYjQ4MjMyY2Q5NTJlZjNlZTVmMDI3OTU4MmE1IiwiMDEwMTc5YTk1OWIzY2NhMDI5Y2I3ODJmNjdhNzEzODQiOiIxYmY0OWUxNzgwZjI5Y2EyYTgxNzJkY2ZhZWZmY2Q2YiIsIjAxMDIzODZkMDEwMTVmYTI1OGU1ODI5NDk3MzJmMTNlIjoiYThiMzkyN2FkMGYwYjIyZTUyNGVhMmNkZWI0Njg4NTEifQ%3D%3D",
-      "sofaId": 4650625,
-      "channel": ""
-    },
-    {
-      "competencia": "España, LaLiga",
-      "fondo": "",
-      "inicio": "2026-05-23T15:00:00-04:00",
-      "local": {
-        "nombre": "Celta de Vigo",
-        "logo": "escudos/manual/celtadevigo.png"
-      },
-      "visita": {
-        "nombre": "Sevilla FC",
-        "logo": "escudos/manual/sevillafc.png"
-      },
-      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779646499~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1779290421550%2F~psid=102cf1fe-f835-43a5-b4dd-38041689fa97~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=e36c1557d9a47e445f3641ca22c18730852c5e6a00a82bc70ac0272dbf57fd65/gru1/va01/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1779290421550/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=c3504bec7ec7abe14335af289c0a72516b152a50&ck=eyJhMDg0Zjc0MDQ3NmQ0NmQ2YjBlODY3MjRjNjU0YmEwYiI6ImI5YjY5NTE4MzEwYTNiYjBkMDQ1YmJkMjNhNGRkNTU3In0%3D",
-      "sofaId": 4467305,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-23T17:30:00-04:00",
@@ -62,7 +30,7 @@
         "nombre": "Palestino",
         "logo": "escudos/primera/palestino.png"
       },
-      "link": "https://is.gd/ulavspal0523",
+      "link": "https://fly.live.latam.prd.media.max.com/live/use1/6fc_CixkZDUxZWU4OC02N2FiLTQxODctYmY3Ny1mODFmZjMwYTIyNzktdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779666153&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjQxMjZmMGUxLTFjNTgtNGM3ZC1iZmMwLTc2YWM5NjI4ODk2NyIsICJlZGl0SWQiOiJkZDUxZWU4OC02N2FiLTQxODctYmY3Ny1mODFmZjMwYTIyNzkiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yM1QyMzo0MjozM1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=5edcf27166733d97a63f5badf79af7fc310c4f4011054b31888922a77953235f/main.mpd?manifest-params=prod-20260523%7CZ75r12HWLSa3sHcBxawMbuZf9fy_eAiuKXF_WM1jImY%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIzVDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjZmY19DaXhrWkRVeFpXVTRPQzAyTjJGaUxUUXhPRGN0WW1ZM055MW1PREZtWmpNd1lUSXlOemt0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjNUMjMlM0E0MCUzQTExWg%3D%3D&rtype=admo&ck=eyIwMTAwOGMyNDc5ODUwOGJlM2E4N2ZlM2IzNjc4MWVhMyI6ImViNjExY2U1NmVmY2ZjNTZkMjc5YjQ2NDZiZWJiZDViIiwiMDEwMWY1ZDBlYjBjNjA5ZTM1ZjAwYzBjOGViNWVkNWYiOiI4MjhlYzE0NjUwODE4ZTZkNDkwZjI1NzVlNWFiNDliNCIsIjAxMDJlNjdkNGJmZjM5NDgzNGYyZGJkNzJjNWEwM2NiIjoiODE4MGIyODg0NGRiNjdmODJkYmNiODJlOWQ4MzY5MmQifQ%3D%3D",
       "sofaId": 4650628,
       "channel": ""
     },
@@ -78,7 +46,7 @@
         "nombre": "Union San Felipe",
         "logo": "escudos/ascenso/sanfelipe.png"
       },
-      "link": "https://is.gd/depvsuni0523",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/332_CiwzZWYzNGVhYi00YmY0LTQxNzAtYmM2ZC0xYzRkMmVmOTY1OTQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779666078&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImNlYTRkOWYzLWUyMjMtNGU4Yi05MDdmLWM1YmI2M2MxZjU5MiIsICJlZGl0SWQiOiIzZWYzNGVhYi00YmY0LTQxNzAtYmM2ZC0xYzRkMmVmOTY1OTQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yM1QyMzo0MToxOFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=f5d2807b284be2188f47ce2e26c240c61af3da6c3dd969d884bbb952e475286c/main.mpd?manifest-params=prod-20260523%7C4YJTMQDYOjooDM_6mYKXlvlFGnwbiNCljcKr08vx470%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIzVDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjMzMl9DaXd6WldZek5HVmhZaTAwWW1ZMExUUXhOekF0WW1NMlpDMHhZelJrTW1WbU9UWTFPVFF0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjNUMjMlM0EzOSUzQTU3Wg%3D%3D&rtype=admo&ck=eyIwMTAwNTkzYjFjNjA5YjFkZTE5ZDdjM2RlZDY4ODYwMSI6IjY4ODUxODMwMjgyMmQ4M2U0MTU2MmJjMDA5NTljZTczIiwiMDEwMTJlZTFkMTE2YTAzY2NhNmZjZWU1NTcwNWJkOWMiOiI5NzI0ODYzM2MxOThlNjE0NTY0YzNlYjA0NzBlZmJiZCIsIjAxMDIxNTFiZWM1OGNlZDYwZGMyOTE2MDdjMDU5NjEyIjoiMzdjNGE3ZDdiNDE5OWU5ZjQxMTAwYjdmY2Y2ZTIxZjMifQ%3D%3D",
       "sofaId": 4656681,
       "channel": ""
     },
