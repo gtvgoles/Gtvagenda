@@ -46,7 +46,7 @@
         "nombre": "Sevilla FC",
         "logo": "escudos/manual/sevillafc.png"
       },
-      "link": "https://is.gd/celvssev0523",
+      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779646499~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fec26a05e-a9cc-4db4-804e-77465738e667-1779290421550%2F~psid=102cf1fe-f835-43a5-b4dd-38041689fa97~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=e36c1557d9a47e445f3641ca22c18730852c5e6a00a82bc70ac0272dbf57fd65/gru1/va01/disneyplus/channel/ec26a05e-a9cc-4db4-804e-77465738e667-1779290421550/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=c3504bec7ec7abe14335af289c0a72516b152a50&ck=eyJhMDg0Zjc0MDQ3NmQ0NmQ2YjBlODY3MjRjNjU0YmEwYiI6ImI5YjY5NTE4MzEwYTNiYjBkMDQ1YmJkMjNhNGRkNTU3In0%3D",
       "sofaId": 4467305,
       "channel": ""
     },
@@ -1840,6 +1840,22 @@
       },
       "link": "https://is.gd/nuevsegi0621",
       "sofaId": 4627901,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo J",
+      "fondo": "",
+      "inicio": "2026-06-22T13:00:00-04:00",
+      "local": {
+        "nombre": "Argentina",
+        "logo": "escudos/manual/argentina.png"
+      },
+      "visita": {
+        "nombre": "Austria",
+        "logo": "escudos/manual/austria.png"
+      },
+      "link": "https://is.gd/argvsaus0622",
+      "sofaId": 4627863,
       "channel": ""
     }
   ]
