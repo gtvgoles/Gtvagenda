@@ -5,22 +5,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-23T12:30:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Deportes Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/1c1_Ciw0ZmQ1MzQ5NC1lNmY5LTQ1OTgtOWExOS02ZjgyMzhjZWNiMWYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779638595&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjI1OWRkNWVkLTk1ZGYtNDEyMC04NWI5LTY4Y2YyZmMxOThmMSIsICJlZGl0SWQiOiI0ZmQ1MzQ5NC1lNmY5LTQ1OTgtOWExOS02ZjgyMzhjZWNiMWYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yM1QxNjowMzoxNVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=b04f73d22e9b9cc2dd957a648dd4aeeabf25eeff399235f3cfebb30e960ae36a/main.mpd?manifest-params=prod-20260523%7CboOT6-6bt8BegQJ7DMOuc7p7qVgsj7tI-tgeyWFaRDg%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIzVDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjFjMV9DaXcwWm1RMU16UTVOQzFsTm1ZNUxUUTFPVGd0T1dFeE9TMDJaamd5TXpoalpXTmlNV1l0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjNUMTYlM0EwMCUzQTA1Wg%3D%3D&rtype=admo&ck=eyIwMTAwMzRkNGRjZGRhYWRmNTVjMTJkZjk3MzViOWVlNSI6ImI3MDZlODk4MzgyZGQ2MTljNzcyYTIwODQyYTZkN2U1IiwiMDEwMTNmMjM3MmRjMjRjOTc4ZjIwOTc2Mzc1NzEyZWUiOiJlMzBkOTFjYzg3NzAzNTk3OWRhZWY0N2E3MWQyYmU1MiIsIjAxMDIwNDdkN2MyNjllMTAxMTZhN2FkYzQwMGVmODk1IjoiN2FkZDdiMDZiZjFhYzE0ZTJmMGZhODg3ZjgxYTdjODYifQ%3D%3D",
-      "sofaId": 4650631,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-23T15:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
@@ -62,7 +46,7 @@
         "nombre": "Curicó Unido",
         "logo": "escudos/ascenso/curicounido.png"
       },
-      "link": "https://is.gd/depvscur0523",
+      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/a9f_Ciw5N2VkZDA0Yy01NjJmLTRkODktYmVmNy0wYTk1YTM4ZWMxNmItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779656730&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjE4MDY1OTM1LWVlMWQtNDM0ZS05NTU0LWQyMTU2ZmY1Zjg0NyIsICJlZGl0SWQiOiI5N2VkZDA0Yy01NjJmLTRkODktYmVmNy0wYTk1YTM4ZWMxNmIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yM1QyMTowNTozMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=0d0efbc2fd2c073aee7286aed2a4525a374b5eb306c6aa6ee29ac5ada4266085/main.mpd?manifest-params=prod-20260523%7CLMIJZ--vx2p6yt7nRm8hsOAeYsWv5n5PXb3nKav90-c%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTIzVDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmE5Zl9DaXc1TjJWa1pEQTBZeTAxTmpKbUxUUmtPRGt0WW1WbU55MHdZVGsxWVRNNFpXTXhObUl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjNUMjElM0ExMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwZWQzZmMwMTBiMGM0YzhhZDczNTY4MjlkOGYzZiI6IjZlZmJjZWUyMzQyZTkzZmU0M2UxYjQzMzc1NzQxMThkIiwiMDEwMTkwZWVkYmIzMDM4MWUwZjIzMTQwOGU1M2UwYWMiOiI5YjgzODU1NjQxNDVkMmZiYTNmMDM2NTE2YzdlYTA5ZCIsIjAxMDJkMmM0YmZlMzM3YmE1MTc0NTYxNjc3ZjkxYmU2IjoiNWMzMTNlNTJhZTg3MjkyOGY3NWY3NTkzNzFlMWZkOGMifQ%3D%3D",
       "sofaId": 4656677,
       "channel": ""
     },
@@ -1856,6 +1840,22 @@
       },
       "link": "https://is.gd/argvsaus0622",
       "sofaId": 4627863,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo I",
+      "fondo": "",
+      "inicio": "2026-06-22T17:00:00-04:00",
+      "local": {
+        "nombre": "Francia",
+        "logo": "escudos/manual/francia.png"
+      },
+      "visita": {
+        "nombre": "Irak",
+        "logo": "escudos/manual/irak.png"
+      },
+      "link": "https://is.gd/fravsira0622",
+      "sofaId": 4697922,
       "channel": ""
     }
   ]
