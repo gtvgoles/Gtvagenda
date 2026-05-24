@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-24T11:00:00-04:00",
-      "local": {
-        "nombre": "Crystal Palace",
-        "logo": "escudos/manual/crystalpalace.png"
-      },
-      "visita": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "link": "https://linear-ftc-sa-west-2.media.dssott.com/dvt2=exp=1779723127~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1778646681697%2F~psid=7e171ed8-d61b-467f-9f44-cb909c2e3b39~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=fc635954098b7a022dce1d990d715255550b1b389db4175b2c9b18b9638f78ac/gru1/va01/disneyplus/channel/7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1778646681697/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=a16455f783739a1a835ccbf3da447bbc5f832622&ck=eyI4MGU4MDE2YTI1Mzc0MDcxOTNhZmYxMGZkMDk4ZGI1ZCI6IjdlNWI3M2U1NGZkZWNmZTk3NTJmZTcwMWJjMzA4ODAzIn0%3D",
-      "sofaId": 4452566,
-      "channel": ""
-    },
-    {
-      "competencia": "Inglaterra, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-24T11:00:00-04:00",
-      "local": {
-        "nombre": "Manchester City",
-        "logo": "escudos/manual/manchestercity.png"
-      },
-      "visita": {
-        "nombre": "Aston Villa",
-        "logo": "escudos/manual/astonvilla.png"
-      },
-      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779723083~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F3def1d80-318c-45bd-8e78-adb78813141f-1778647013189%2F~psid=0f2650fc-1fd8-4bfb-9eb9-11e45f661900~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=767674ade6c7104b6405720774f8ebdd1875c9914d9ae5a1612f23768a68de60/gru1/va01/disneyplus/channel/3def1d80-318c-45bd-8e78-adb78813141f-1778647013189/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=302e208e6e11e22a6490d2f8a567310c46806c6d&ck=eyI3YTU3MTI2YmM5YzE0MTljODEwYzJhNzcxNjg3YmZhNSI6IjBmZDgwMTI2YzNjNzcwNjI5MTljZjM5MDRmNmI2NzJiIn0%3D",
-      "sofaId": 4452562,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-24T12:30:00-04:00",
@@ -78,7 +46,7 @@
         "nombre": "Deportes Limache",
         "logo": "escudos/primera/limache.png"
       },
-      "link": "https://is.gd/depvsdep0524",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/167_CixmNWFjYjNmZS03NmEwLTQ1ZjYtYTYwYy04OTQzNmRkY2Q5YWUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779734231&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImU2OGQ0NjFjLTY5NjQtNDM2OS1hOWUxLTAwYzBiNWNhN2Q5NyIsICJlZGl0SWQiOiJmNWFjYjNmZS03NmEwLTQ1ZjYtYTYwYy04OTQzNmRkY2Q5YWUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yNFQxODozNzoxMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=dd55aa01cfb0e7e438385654c121ff3840d6b3f16c699fecd104b5795028b8ba/main.mpd?manifest-params=prod-20260524%7CpQALnNfRd1ZiQfHOPK0Rmgmq4ZZ1ccUXKmmnEWV5rxc%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTI0VDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjE2N19DaXhtTldGallqTm1aUzAzTm1Fd0xUUTFaall0WVRZd1l5MDRPVFF6Tm1Sa1kyUTVZV1V0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjRUMTglM0E0MCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwYmEwZTQ5MzJjYjdjMGRjNDViMWVkNGU4MDExOSI6IjQ2NGNlZDczZWQ0YTNhNGQ2ZGE1NmY1MmQ2N2Y5ZDQ5IiwiMDEwMThmYmM0MmIyNWEzMDgwYmZiYzg1YzMxMTJkOWUiOiI3NTdhYjYwY2ZkNjYxOGE3ZTEyYmU0ZWU2YzI3OTc4YyIsIjAxMDJjNjQ0NDQ2ZTRlYjQxNTJmOTVhZWM3YjMwMDg1IjoiNWMxYTI4OGUwZGI3YTI1OWMyNmIxYjJmOWU3N2VkYjkifQ%3D%3D",
       "sofaId": 4650629,
       "channel": ""
     },
@@ -94,7 +62,7 @@
         "nombre": "San Marcos",
         "logo": "escudos/ascenso/sanmarcos.png"
       },
-      "link": "https://is.gd/depvssan0524",
+      "link": "https://fly.live.latam.prd.media.max.com/live/use1/c9b_Ciw4YjhiOTliMy1mZmMzLTQ4ZDUtYmI0NS1kMzNhMmJhN2ZhZDYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779734143&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjVhZjJiNzE3LTI2OGQtNGY0MS1hMjI4LTljY2E0NTVkZWQzZCIsICJlZGl0SWQiOiI4YjhiOTliMy1mZmMzLTQ4ZDUtYmI0NS1kMzNhMmJhN2ZhZDYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yNFQxODozNTo0M1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=7ffeeb4d18d24ea12fc74d06951b0f59f4d1a7020242def851cff49112f49b29/main.mpd?manifest-params=prod-20260524%7CGXuFBAcL3_bkl9aTkhMCLu5CZ3f5FA574vi8DBmIlzE%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTI0VDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmM5Yl9DaXc0WWpoaU9UbGlNeTFtWm1NekxUUTRaRFV0WW1JME5TMWtNek5oTW1KaE4yWmhaRFl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjRUMTglM0E0MCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwNjFiM2Q5MDdmNzEyY2NiNWM2Y2E3Y2FiY2UwZSI6IjdkODk0NmM1NzgzMjBlNWQwYWQxMjI4MDk3N2M4NmZhIiwiMDEwMTA4Mjc5Mjk5ZTYzN2ZkYjI0OThjYTJjMTQ3ZjMiOiIyYjQ1MmE4NWMzYjJmMWFmNDg3ZTFhODdmN2FiMjFmMiIsIjAxMDI4NDM5Y2ZiODJiZTNlNzcxOWU4NTZjODE5MWI1IjoiM2ExOTFjNjllZjFjZDQzYjNkYThkN2QxMzQxYTgzODIifQ%3D%3D",
       "sofaId": 4656684,
       "channel": ""
     },
@@ -176,22 +144,6 @@
       },
       "link": "https://is.gd/palvsdep0526",
       "sofaId": 4690191,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-05-26T20:30:00-04:00",
-      "local": {
-        "nombre": "Nacional",
-        "logo": "escudos/manual/nacional.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://is.gd/nacvscoq0526",
-      "sofaId": 4690202,
       "channel": ""
     },
     {
@@ -1872,6 +1824,22 @@
       },
       "link": "https://is.gd/jorvsarg0622",
       "sofaId": 4627911,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo K",
+      "fondo": "",
+      "inicio": "2026-06-23T13:00:00-04:00",
+      "local": {
+        "nombre": "Portugal",
+        "logo": "escudos/manual/portugal.png"
+      },
+      "visita": {
+        "nombre": "Uzbekistán",
+        "logo": "escudos/manual/uzbekistan.png"
+      },
+      "link": "https://is.gd/porvsuzb0623",
+      "sofaId": 4627929,
       "channel": ""
     }
   ]
