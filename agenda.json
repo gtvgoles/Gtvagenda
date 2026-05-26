@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-25T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/ec5_CiwzMWMyMjk5NS05YmIyLTQ2MDItOGQxMC0zNjA0Nzg0ODBiYzYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779840090&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjI0ODJhY2U0LTAyYTUtNGEyYy1hZWQyLTE0YjU3MDg2MzNmNyIsICJlZGl0SWQiOiIzMWMyMjk5NS05YmIyLTQ2MDItOGQxMC0zNjA0Nzg0ODBiYzYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yNlQwMDowMTozMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=91620893f624a4b1f7b435bb661b39ffee86e204a08d0c1a889957956172e42d/main.mpd?manifest-params=prod-20260525%7CWlg8ax9fro_54sw0qX1XjxPRHDa0nuMShspjsogTTx4%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTI2VDAwJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmVjNV9DaXd6TVdNeU1qazVOUzA1WW1JeUxUUTJNREl0T0dReE1DMHpOakEwTnpnME9EQmlZell0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjVUMjMlM0E1MCUzQTU2Wg%3D%3D&rtype=admo&ck=eyIwMTAwZTNkM2JlZWZlOGE3ZWE4NzRmYzg3ZTM3MzExYSI6ImI4NTNkMzgxMTE3NDAyNDYwZmNmZmNmZTFhMDRjNWI4IiwiMDEwMWRlMWRhZjNhNTI5ZmUwYzVlMzU5ZTkzYzc0MDIiOiJhZDcxYzllNzc2ZDUwNjE1NTlmNGQ0ZGZhNTMwNTFhYSIsIjAxMDI5MDlmMjhiMTc1YTUzNDhmYjcyNjVhYmQ0NDM4IjoiYzZlMzAyYTQ5YTE5YzdkMzg5MDE3OTQ5YjAyN2I2YTcifQ%3D%3D",
-      "sofaId": 4656680,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-26T18:00:00-04:00",
@@ -2000,6 +1984,38 @@
       },
       "link": "https://is.gd/ulavsuni0624",
       "sofaId": 4711970,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-24T21:00:00-04:00",
+      "local": {
+        "nombre": "Sudáfrica",
+        "logo": "escudos/manual/sudafrica.png"
+      },
+      "visita": {
+        "nombre": "Corea del Sur",
+        "logo": "escudos/manual/coreadelsur.png"
+      },
+      "link": "https://is.gd/sudvscor0624",
+      "sofaId": 4627867,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-24T21:00:00-04:00",
+      "local": {
+        "nombre": "Republica Checa",
+        "logo": "escudos/manual/republicacheca.png"
+      },
+      "visita": {
+        "nombre": "México",
+        "logo": "escudos/manual/mexico.png"
+      },
+      "link": "https://is.gd/repvsmex0624",
+      "sofaId": 4697698,
       "channel": ""
     },
     {
