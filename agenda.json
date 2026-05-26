@@ -51,6 +51,22 @@
       "channel": ""
     },
     {
+      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-26T20:30:00-04:00",
+      "local": {
+        "nombre": "Nacional",
+        "logo": "escudos/manual/nacional.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/nacvscoq0526",
+      "sofaId": 4690202,
+      "channel": ""
+    },
+    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-27T18:00:00-04:00",
