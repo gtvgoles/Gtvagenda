@@ -14,7 +14,7 @@
         "nombre": "Unión Española",
         "logo": "escudos/ascenso/unionespanola.png"
       },
-      "link": "https://is.gd/depvsuni0525",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/ec5_CiwzMWMyMjk5NS05YmIyLTQ2MDItOGQxMC0zNjA0Nzg0ODBiYzYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1779840090&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjI0ODJhY2U0LTAyYTUtNGEyYy1hZWQyLTE0YjU3MDg2MzNmNyIsICJlZGl0SWQiOiIzMWMyMjk5NS05YmIyLTQ2MDItOGQxMC0zNjA0Nzg0ODBiYzYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yNlQwMDowMTozMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=91620893f624a4b1f7b435bb661b39ffee86e204a08d0c1a889957956172e42d/main.mpd?manifest-params=prod-20260525%7CWlg8ax9fro_54sw0qX1XjxPRHDa0nuMShspjsogTTx4%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTI2VDAwJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmVjNV9DaXd6TVdNeU1qazVOUzA1WW1JeUxUUTJNREl0T0dReE1DMHpOakEwTnpnME9EQmlZell0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjVUMjMlM0E1MCUzQTU2Wg%3D%3D&rtype=admo&ck=eyIwMTAwZTNkM2JlZWZlOGE3ZWE4NzRmYzg3ZTM3MzExYSI6ImI4NTNkMzgxMTE3NDAyNDYwZmNmZmNmZTFhMDRjNWI4IiwiMDEwMWRlMWRhZjNhNTI5ZmUwYzVlMzU5ZTkzYzc0MDIiOiJhZDcxYzllNzc2ZDUwNjE1NTlmNGQ0ZGZhNTMwNTFhYSIsIjAxMDI5MDlmMjhiMTc1YTUzNDhmYjcyNjVhYmQ0NDM4IjoiYzZlMzAyYTQ5YTE5YzdkMzg5MDE3OTQ5YjAyN2I2YTcifQ%3D%3D",
       "sofaId": 4656680,
       "channel": ""
     },
@@ -357,22 +357,6 @@
     {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-05T19:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
-      },
-      "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
-      },
-      "link": "https://is.gd/depvscur0605",
-      "sofaId": 4656661,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-06-05T20:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
@@ -547,22 +531,6 @@
       "channel": ""
     },
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-07T15:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "visita": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "link": "https://is.gd/depvsmag0607",
-      "sofaId": 4656663,
-      "channel": ""
-    },
-    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-06-07T15:00:00-04:00",
@@ -576,6 +544,22 @@
       },
       "link": "https://is.gd/huavscol0607",
       "sofaId": 4705491,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-06-07T15:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/depvsmag0607",
+      "sofaId": 4656663,
       "channel": ""
     },
     {
@@ -608,6 +592,38 @@
       },
       "link": "https://is.gd/ohivspal0607",
       "sofaId": 4705493,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-06-08T19:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/depvscur0605",
+      "sofaId": 4656661,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-06-08T19:30:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/univsuni0608",
+      "sofaId": 4656665,
       "channel": ""
     },
     {
@@ -1872,6 +1888,118 @@
       },
       "link": "https://is.gd/colvsrdc0623",
       "sofaId": 4697735,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-24T15:00:00-04:00",
+      "local": {
+        "nombre": "Suiza",
+        "logo": "escudos/manual/suiza.png"
+      },
+      "visita": {
+        "nombre": "Canadá",
+        "logo": "escudos/manual/canada.png"
+      },
+      "link": "https://is.gd/suivscan0624",
+      "sofaId": 4627855,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-24T15:00:00-04:00",
+      "local": {
+        "nombre": "Bosnia Herzegovina",
+        "logo": "escudos/manual/bosniaherzegovina.png"
+      },
+      "visita": {
+        "nombre": "Qatar",
+        "logo": "escudos/manual/qatar.png"
+      },
+      "link": "https://is.gd/bosvsqat0624",
+      "sofaId": 4697701,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/depvsdep0624",
+      "sofaId": 4711971,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Escocia",
+        "logo": "escudos/manual/escocia.png"
+      },
+      "visita": {
+        "nombre": "Brasil",
+        "logo": "escudos/manual/brasil.png"
+      },
+      "link": "https://is.gd/escvsbra0624",
+      "sofaId": 4627881,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-24T18:00:00-04:00",
+      "local": {
+        "nombre": "Marruecos",
+        "logo": "escudos/manual/marruecos.png"
+      },
+      "visita": {
+        "nombre": "Haití",
+        "logo": "escudos/manual/haiti.png"
+      },
+      "link": "https://is.gd/marvshai0624",
+      "sofaId": 4627938,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-24T19:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/depvshua0624",
+      "sofaId": 4711969,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-24T19:30:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/ulavsuni0624",
+      "sofaId": 4711970,
       "channel": ""
     },
     {
