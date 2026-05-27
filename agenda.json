@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "ATP, Roland Garros, Arcilla - Segunda Ronda",
+      "fondo": "",
+      "inicio": "2026-05-27T09:51:37-04:00",
+      "local": {
+        "nombre": "Valentin Royer",
+        "logo": "escudos/manual/valentinroyer.png"
+      },
+      "visita": {
+        "nombre": "Novak Djokovic",
+        "logo": "escudos/manual/novakdjokovic.png"
+      },
+      "link": "https://is.gd/valvsnov0527",
+      "sofaId": 4726784,
+      "channel": ""
+    },
+    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-27T18:00:00-04:00",
