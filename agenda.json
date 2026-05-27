@@ -3,19 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ATP, Roland Garros, Arcilla - Segunda Ronda",
+      "competencia": "Europa, UEFA Conference League - Final",
       "fondo": "",
-      "inicio": "2026-05-27T09:51:37-04:00",
+      "inicio": "2026-05-27T15:00:00-04:00",
       "local": {
-        "nombre": "Valentin Royer",
-        "logo": "escudos/manual/valentinroyer.png"
+        "nombre": "Crystal Palace",
+        "logo": "escudos/manual/crystalpalace.png"
       },
       "visita": {
-        "nombre": "Novak Djokovic",
-        "logo": "escudos/manual/novakdjokovic.png"
+        "nombre": "Rayo Vallecano",
+        "logo": "escudos/manual/rayovallecano.png"
       },
-      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779979217~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1778646681697%2F~psid=e7bdd628-7c35-4afa-b2cb-e8d951a7045c~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=209ffa6438ed49958725d83efe1f1873cbd8e159b998c460635f1a1f5334a884/gru1/va01/disneyplus/channel/7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1778646681697/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=a16455f783739a1a835ccbf3da447bbc5f832622&ck=eyI1ZTE3N2NhNTA2NDA0ZDNlYjBjODJjYjdkNzhhYzBhYSI6IjJkYjBjODc1ZWRhMWIwYjY0MzI5MTRiODU0OGJhYzY5In0%3D",
-      "sofaId": 4726784,
+      "link": "https://is.gd/cryvsray0527",
+      "sofaId": 4712055,
       "channel": ""
     },
     {
