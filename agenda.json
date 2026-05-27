@@ -3,70 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Armenia, Premier League",
-      "fondo": "",
-      "inicio": "2026-05-26T11:00:00-04:00",
-      "local": {
-        "nombre": "Alashkert Martuni",
-        "logo": "escudos/manual/alashkertmartuni.png"
-      },
-      "visita": {
-        "nombre": "Shirak FC",
-        "logo": "escudos/manual/shirakfc.png"
-      },
-      "link": "https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1779896248~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F26%2FLa_Copa_Imposible_Ronda_3_20260526_1779792657036%2F~psid=9117ac99-9d2b-44ee-a5cc-d20609a015e3~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=e1e510d5e64a6a18fd20527c5be82b00907b4c25f622d9db81c5e0c5dc96188d/gru1/va01/disneyplus/event/2026/05/26/La_Copa_Imposible_Ronda_3_20260526_1779792657036/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=69c02b07248a4d16cbf3b093ee5e07ff61a96bca&ck=eyIxMWMzYWJkNGViMzE0YWM1YWE3OGNmMzI3YzE4ZDE4NiI6IjQwZjAyZmY1N2FkZTViZmVlZGI3NzlmZmJlZDhiOTQzIn0%3D",
-      "sofaId": 4713961,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo C",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-26T18:00:00-04:00",
-      "local": {
-        "nombre": "Millonarios",
-        "logo": "escudos/manual/millonarios.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://otte.bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?ck=eyIwYWQ0MDgwY2RmZjhjNjBiMTIzM2IyMjA4N2YwYjM0MCI6IjI4NWYxMjljNWVjYTAxZGQwOGE1ZDVhMTRhZDgwMWM4In0%3D",
-      "sofaId": 4690179,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo F",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-26T18:00:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Deportivo Riestra",
-        "logo": "escudos/manual/deportivoriestra.png"
-      },
-      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1779918460~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F3def1d80-318c-45bd-8e78-adb78813141f-1778647013189%2F~psid=669a66ed-0ac6-4417-984e-b91f83b0e457~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=cb3dc14a8d7ad712afa72aa64d8dee49cfac670330731d63d43f76b700717e0d/gru1/va01/disneyplus/channel/3def1d80-318c-45bd-8e78-adb78813141f-1778647013189/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=302e208e6e11e22a6490d2f8a567310c46806c6d&ck=eyIwMmYxYWM4MzI1Njk0Mjg0YTg2MzA2MDdmMzMyMDk2MSI6ImRhYjA3MzBkZjdmNmE3NzgwZTgyNTU1ZjBkYmZjYzUzIn0%3D",
-      "sofaId": 4690191,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Libertadores - Grupo B",
-      "fondo": "assets/fondo_libertadores.jpg",
-      "inicio": "2026-05-26T20:30:00-04:00",
-      "local": {
-        "nombre": "Nacional",
-        "logo": "escudos/manual/nacional.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://linear-ftc-sa-west-2.media.dssott.com/dvt2=exp=1779917969~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2Fb3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738%2F~psid=68b946af-ca8c-4ea7-8bc8-4f2b844465cb~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=69c569a4cd2838a253b39cf7170d178cd97c4821895384cd41c2586f919bd3d9/gru1/va01/disneyplus/channel/b3519391-dc5c-4978-b1c3-14a551bb4f49-1778631259738/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=d5eb274ec6f5e6580831d64d584a1b2f78801f4e&ck=eyJkODlkMWVkNjI0NDA0ZmFiYWQzMjU3NTFjOWUzYTE0NCI6ImQ1MTU4M2ZhMWJlMTE3Yjc0Y2U3MjFiZWU0MmYyMWEwIn0%3D",
-      "sofaId": 4690202,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
       "fondo": "assets/fondo_sudamericana.jpg",
       "inicio": "2026-05-27T18:00:00-04:00",
@@ -2048,6 +1984,134 @@
       },
       "link": "https://is.gd/repvsmex0624",
       "sofaId": 4697698,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-25T16:00:00-04:00",
+      "local": {
+        "nombre": "Ecuador",
+        "logo": "escudos/manual/ecuador.png"
+      },
+      "visita": {
+        "nombre": "Alemania",
+        "logo": "escudos/manual/alemania.png"
+      },
+      "link": "https://is.gd/ecuvsale0625",
+      "sofaId": 4627858,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-25T16:00:00-04:00",
+      "local": {
+        "nombre": "Curazao",
+        "logo": "escudos/manual/curazao.png"
+      },
+      "visita": {
+        "nombre": "Costa de Marfil",
+        "logo": "escudos/manual/costademarfil.png"
+      },
+      "link": "https://is.gd/curvscos0625",
+      "sofaId": 4627897,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-25T19:00:00-04:00",
+      "local": {
+        "nombre": "Túnez",
+        "logo": "escudos/manual/tunez.png"
+      },
+      "visita": {
+        "nombre": "Países Bajos",
+        "logo": "escudos/manual/paisesbajos.png"
+      },
+      "link": "https://is.gd/tunvspai0625",
+      "sofaId": 4627874,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-25T19:00:00-04:00",
+      "local": {
+        "nombre": "Japón",
+        "logo": "escudos/manual/japon.png"
+      },
+      "visita": {
+        "nombre": "Suecia",
+        "logo": "escudos/manual/suecia.png"
+      },
+      "link": "https://is.gd/japvssue0625",
+      "sofaId": 4697707,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-25T19:30:00-04:00",
+      "local": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/colvsohi0625",
+      "sofaId": 4711967,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-25T19:30:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/nubvsude0625",
+      "sofaId": 4711968,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-25T22:00:00-04:00",
+      "local": {
+        "nombre": "Paraguay",
+        "logo": "escudos/manual/paraguay.png"
+      },
+      "visita": {
+        "nombre": "Australia",
+        "logo": "escudos/manual/australia.png"
+      },
+      "link": "https://is.gd/parvsaus0625",
+      "sofaId": 4627870,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-25T22:00:00-04:00",
+      "local": {
+        "nombre": "Turquía",
+        "logo": "escudos/manual/turquia.png"
+      },
+      "visita": {
+        "nombre": "Estados Unidos",
+        "logo": "escudos/manual/estadosunidos.png"
+      },
+      "link": "https://is.gd/turvsest0625",
+      "sofaId": 4697704,
       "channel": ""
     },
     {
