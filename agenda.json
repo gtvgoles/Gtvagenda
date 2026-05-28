@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Europa, UEFA Conference League - Final",
-      "fondo": "",
-      "inicio": "2026-05-27T15:00:00-04:00",
-      "local": {
-        "nombre": "Crystal Palace",
-        "logo": "escudos/manual/crystalpalace.png"
-      },
-      "visita": {
-        "nombre": "Rayo Vallecano",
-        "logo": "escudos/manual/rayovallecano.png"
-      },
-      "link": "https://linear-ftc-sa-west-2.media.dssott.com/dvt2=exp=1779992312~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1778646681697%2F~psid=37a44f7d-ae62-46e8-9902-53499651b77a~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=22278ac006529964b76689cbeed415bf127c6275758bba16309a11194d99348f/gru1/va01/disneyplus/channel/7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1778646681697/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=a16455f783739a1a835ccbf3da447bbc5f832622&ck=eyI1ZTE3N2NhNTA2NDA0ZDNlYjBjODJjYjdkNzhhYzBhYSI6IjJkYjBjODc1ZWRhMWIwYjY0MzI5MTRiODU0OGJhYzY5In0%3D",
-      "sofaId": 4712055,
-      "channel": ""
-    },
-    {
-      "competencia": "CONMEBOL Copa Sudamericana - Grupo G",
-      "fondo": "assets/fondo_sudamericana.jpg",
-      "inicio": "2026-05-27T18:00:00-04:00",
-      "local": {
-        "nombre": "Olimpia",
-        "logo": "escudos/manual/olimpia.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://live-ftc-sa-west-2.media.dssott.com/dvt2=exp=1780004535~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F05%2F27%2FOlimpia_PAR_vs_Audax_Ital_20260527_1779911158031%2F~psid=9a451903-7866-4701-91e6-24b0c182990e~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=770c59b2257f2b814267ba468b68ad7abbe2fee5fa8ca1f8d2dc1fb2b26c7254/gru1/va01/disneyplus/event/2026/05/27/Olimpia_PAR_vs_Audax_Ital_20260527_1779911158031/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=d9c2f49ad3dc3333300a72dce1665ebe2aef0fd0&ck=eyI1MTQ3ZWRkNTEyZjM0NmY3YWM3ZGRlZjBkMTNiMDY5YSI6ImM4NjMwMDgzNjRkNDY0ODEzYmQyNjgyNzY5NzZmOTllIn0%3D",
-      "sofaId": 4690192,
-      "channel": ""
-    },
-    {
       "competencia": "CONMEBOL Copa Libertadores - Grupo D",
       "fondo": "assets/fondo_libertadores.jpg",
       "inicio": "2026-05-28T20:30:00-04:00",
@@ -2128,6 +2096,118 @@
       },
       "link": "https://is.gd/turvsest0625",
       "sofaId": 4697704,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo I",
+      "fondo": "",
+      "inicio": "2026-06-26T15:00:00-04:00",
+      "local": {
+        "nombre": "Noruega",
+        "logo": "escudos/manual/noruega.png"
+      },
+      "visita": {
+        "nombre": "Francia",
+        "logo": "escudos/manual/francia.png"
+      },
+      "link": "https://is.gd/norvsfra0626",
+      "sofaId": 4627924,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo I",
+      "fondo": "",
+      "inicio": "2026-06-26T15:00:00-04:00",
+      "local": {
+        "nombre": "Senegal",
+        "logo": "escudos/manual/senegal.png"
+      },
+      "visita": {
+        "nombre": "Irak",
+        "logo": "escudos/manual/irak.png"
+      },
+      "link": "https://is.gd/senvsira0626",
+      "sofaId": 4697923,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-26T19:00:00-04:00",
+      "local": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": ""
+      },
+      "link": "https://is.gd/evevsdep0626",
+      "sofaId": 4711966,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-26T20:00:00-04:00",
+      "local": {
+        "nombre": "Uruguay",
+        "logo": "escudos/manual/uruguay.png"
+      },
+      "visita": {
+        "nombre": "España",
+        "logo": "escudos/manual/espana.png"
+      },
+      "link": "https://is.gd/uruvsesp0626",
+      "sofaId": 4627861,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-26T20:00:00-04:00",
+      "local": {
+        "nombre": "Cabo Verde",
+        "logo": "escudos/manual/caboverde.png"
+      },
+      "visita": {
+        "nombre": "Arabia Saudita",
+        "logo": "escudos/manual/arabiasaudita.png"
+      },
+      "link": "https://is.gd/cabvsara0626",
+      "sofaId": 4627906,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-26T23:00:00-04:00",
+      "local": {
+        "nombre": "Egipto",
+        "logo": "escudos/manual/egipto.png"
+      },
+      "visita": {
+        "nombre": "Irán",
+        "logo": "escudos/manual/iran.png"
+      },
+      "link": "https://is.gd/egivsira0626",
+      "sofaId": 4627875,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-26T23:00:00-04:00",
+      "local": {
+        "nombre": "Nueva Zelanda",
+        "logo": "escudos/manual/nuevazelanda.png"
+      },
+      "visita": {
+        "nombre": "Bélgica",
+        "logo": "escudos/manual/belgica.png"
+      },
+      "link": "https://is.gd/nuevsbel0626",
+      "sofaId": 4627903,
       "channel": ""
     },
     {
