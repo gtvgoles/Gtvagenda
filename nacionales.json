@@ -468,6 +468,12 @@
       "nombre": "TNT Sports",
       "logo": "https://davinci.zappingtv.com/gato/media/256/canales/white/tntsports3.png",
       "link": "https://cdn-live.mundogo.cl/tntsports/tntsports.mpd?ck=eyIyZGJkNmQ2ODZiODg1MzY2OGZiNjNmYWE2YWNjOWNlNyI6ImZhN2YxYjZhY2E0OWQ5ZjE0YmUyZGI1ZGUzNjI5ZmU0IiwiN2MyZjJkMjc5NzFjNWRjNjljMzZjY2E3MTBkYWExNGQiOiJmMWMwY2RjZWRlNmIxYTY0NWM4NzBmM2U2ZjliMTc2ZiIsIjEyMzM4NzYzOTRiYzU0OTNiMzJiMmNiY2JjOTc3NmQ5IjoiY2RhYjNiMjUzMzhkN2MzNDg0YzdkNjAwMWQwMjUwNDIifQ%3D%3D"
+    },
+    {
+      "id": "DSports",
+      "nombre": "Directv Sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9"
     }
   ]
 }
