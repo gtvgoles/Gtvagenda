@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Sudamerica, CONMEBOL Copa Libertadores - Grupo F",
+      "fondo": "assets/fondo_libertadores.jpg",
+      "inicio": "2026-05-28T18:00:00-04:00",
+      "local": {
+        "nombre": "Palmeiras",
+        "logo": "escudos/manual/palmeiras.png"
+      },
+      "visita": {
+        "nombre": "Junior FC",
+        "logo": "escudos/manual/juniorfc.png"
+      },
+      "link": "https://is.gd/palvsjun0528",
+      "sofaId": 4690218,
+      "channel": ""
+    },
+    {
       "competencia": "CONMEBOL Copa Libertadores - Grupo D",
       "fondo": "assets/fondo_libertadores.jpg",
       "inicio": "2026-05-28T20:30:00-04:00",
@@ -268,7 +284,7 @@
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
+        "logo": "escudos/manual/deportescopiapo.png"
       },
       "link": "https://is.gd/depvsdep0601",
       "sofaId": 4656674,
@@ -328,7 +344,7 @@
       "inicio": "2026-06-06T12:30:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
+        "logo": "escudos/manual/deportescopiapo.png"
       },
       "visita": {
         "nombre": "Santiago Wanderers",
@@ -1336,7 +1352,7 @@
       "inicio": "2026-06-20T15:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
-        "logo": "escudos/ascenso/copiapo.png"
+        "logo": "escudos/manual/deportescopiapo.png"
       },
       "visita": {
         "nombre": "Universidad Católica",
@@ -2140,7 +2156,7 @@
       },
       "visita": {
         "nombre": "Deportes Copiapó",
-        "logo": ""
+        "logo": "escudos/manual/deportescopiapo.png"
       },
       "link": "https://is.gd/evevsdep0626",
       "sofaId": 4711966,
@@ -2208,6 +2224,102 @@
       },
       "link": "https://is.gd/nuevsbel0626",
       "sofaId": 4627903,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-27T17:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/depvspal0627",
+      "sofaId": 4711963,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-27T17:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": ""
+      },
+      "link": "https://is.gd/depvsdep0627",
+      "sofaId": 4711964,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-27T17:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/sanvscoq0627",
+      "sofaId": 4711965,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo L",
+      "fondo": "",
+      "inicio": "2026-06-27T17:00:00-04:00",
+      "local": {
+        "nombre": "Croacia",
+        "logo": "escudos/manual/croacia.png"
+      },
+      "visita": {
+        "nombre": "Ghana",
+        "logo": "escudos/manual/ghana.png"
+      },
+      "link": "https://is.gd/crovsgha0627",
+      "sofaId": 4627921,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo L",
+      "fondo": "",
+      "inicio": "2026-06-27T17:00:00-04:00",
+      "local": {
+        "nombre": "Panamá",
+        "logo": "escudos/manual/panama.png"
+      },
+      "visita": {
+        "nombre": "Inglaterra",
+        "logo": "escudos/manual/inglaterra.png"
+      },
+      "link": "https://is.gd/panvsing0627",
+      "sofaId": 4627933,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-27T17:30:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Magallanes",
+        "logo": ""
+      },
+      "link": "https://is.gd/audvsmag0627",
+      "sofaId": 4711962,
       "channel": ""
     },
     {
