@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "ATP, Roland Garros, Arcilla - Tercera Ronda",
+      "fondo": "",
+      "inicio": "2026-05-29T10:01:37-04:00",
+      "local": {
+        "nombre": "João Fonseca",
+        "logo": "escudos/manual/joaofonseca.png"
+      },
+      "visita": {
+        "nombre": "Novak Djokovic",
+        "logo": "escudos/manual/novakdjokovic.png"
+      },
+      "link": "https://is.gd/joavsnov0529",
+      "sofaId": 4727653,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-29T18:00:00-04:00",
