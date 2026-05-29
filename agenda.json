@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "ATP, Roland Garros, Arcilla - Tercera Ronda",
-      "fondo": "",
-      "inicio": "2026-05-29T10:01:37-04:00",
-      "local": {
-        "nombre": "João Fonseca",
-        "logo": "escudos/manual/joaofonseca.png"
-      },
-      "visita": {
-        "nombre": "Novak Djokovic",
-        "logo": "escudos/manual/novakdjokovic.png"
-      },
-      "link": "https://linear-akc-sa-west-2.media.dssott.com/dvt2=exp=1780158216~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F3def1d80-318c-45bd-8e78-adb78813141f-1778647013189%2F~psid=57f72ac2-1b93-48c2-8f9b-1e62886d2ceb~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=bf3d9e25-ab92-43d8-9bb1-a3cecccd8283~country=CL~kid=k02~hmac=c05d8358b37c07bb7c15dbb380bb1fe15a155739eaa99b23e8acf77e235cc608/gru1/va01/disneyplus/channel/3def1d80-318c-45bd-8e78-adb78813141f-1778647013189/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=302e208e6e11e22a6490d2f8a567310c46806c6d&ck=eyI4Yzk0YjZhMzlmY2U0NzM3YTY5ZDZiMjVlMDk5YTQ2OSI6IjFlZmQ5MjhiN2QwMjg2ZDUwODFlODQwOTg2MGYzZmQ2In0%3D",
-      "sofaId": 4727653,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-29T18:00:00-04:00",
@@ -30,7 +14,7 @@
         "nombre": "Ñublense",
         "logo": "escudos/primera/Ñublense.png"
       },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/40e_Ciw1NjNkZTI4Yy01NjgyLTQ3Y2ItODkxYi1mYTYwMWFmNGQxOWUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780178325&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImNkNTgzNmZiLWVlZGMtNDRhYy04ZmMxLWIyYTQ4NmM2MDliOCIsICJlZGl0SWQiOiI1NjNkZTI4Yy01NjgyLTQ3Y2ItODkxYi1mYTYwMWFmNGQxOWUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yOVQyMTo1ODo0NVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=64d65ca44d7e1d2ed3b01ed4898f87add21d979fdd3bf4759d27ad3d70454165/main.mpd?manifest-params=prod-20260529%7CUwQ-ahPGiRl5nXuHKoWk5A1IMPV0FAfkWTBjbBNYcu8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTI5VDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjQwZV9DaXcxTmpOa1pUSTRZeTAxTmpneUxUUTNZMkl0T0RreFlpMW1ZVFl3TVdGbU5HUXhPV1V0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjlUMjElM0E1MiUzQTAzWg%3D%3D&rtype=admo&ck=eyIwMTAxMDgzM2Q0ZDM1MGI4MzUzMDU5OWU5NzZmMTVjYyI6IjA0YTA5ZDRhYzcyZTcyMGFiNGJiMGY4OGJmZGIwM2EyIiwiMDEwMDlmOTYzYTJiMzQ5OWJlM2NhYjc3NTcwNTVlZjAiOiI5YmRmNDdkNWYzZmI3ZjYwYzI5NmY3YWFlN2UyMGE3YSJ9",
+      "link": "https://akm.live.latam.prd.media.max.com/live/use1/40e_Ciw1NjNkZTI4Yy01NjgyLTQ3Y2ItODkxYi1mYTYwMWFmNGQxOWUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780178325&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImNkNTgzNmZiLWVlZGMtNDRhYy04ZmMxLWIyYTQ4NmM2MDliOCIsICJlZGl0SWQiOiI1NjNkZTI4Yy01NjgyLTQ3Y2ItODkxYi1mYTYwMWFmNGQxOWUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0yOVQyMTo1ODo0NVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=64d65ca44d7e1d2ed3b01ed4898f87add21d979fdd3bf4759d27ad3d70454165/main.mpd?manifest-params=prod-20260529%7CUwQ-ahPGiRl5nXuHKoWk5A1IMPV0FAfkWTBjbBNYcu8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTI5VDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjQwZV9DaXcxTmpOa1pUSTRZeTAxTmpneUxUUTNZMkl0T0RreFlpMW1ZVFl3TVdGbU5HUXhPV1V0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMjlUMjElM0E1MiUzQTAzWg%3D%3D&rtype=admo&ck=eyIwMTAwOWY5NjNhMmIzNDk5YmUzY2FiNzc1NzA1NWVmMCI6IjliZGY0N2Q1ZjNmYjdmNjBjMjk2ZjdhYWU3ZTIwYTdhIiwiMDEwMTA4MzNkNGQzNTBiODM1MzA1OTllOTc2ZjE1Y2MiOiIwNGEwOWQ0YWM3MmU3MjBhYjRiYjBmODhiZmRiMDNhMiIsIjAxMDIyZjQxMzZlNGEwMmQzYTliYjQ2MGE5N2Q5NzU4IjoiYTM5MTdmODk0OTU1MmU5YWVhYTIwMWI5MzM4MjNiMDIifQ%3D%3D",
       "sofaId": 4651126,
       "channel": ""
     },
@@ -2216,7 +2200,7 @@
       "inicio": "2026-06-27T17:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": ""
+        "logo": "escudos/ascenso/santacruz.png"
       },
       "visita": {
         "nombre": "Palestino",
@@ -2236,7 +2220,7 @@
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": ""
+        "logo": "escudos/ascenso/iquique.png"
       },
       "link": "https://is.gd/depvsdep0627",
       "sofaId": 4711964,
@@ -2248,7 +2232,7 @@
       "inicio": "2026-06-27T17:00:00-04:00",
       "local": {
         "nombre": "San Marcos",
-        "logo": ""
+        "logo": "escudos/ascenso/sanmarcos.png"
       },
       "visita": {
         "nombre": "Coquimbo Unido",
@@ -2300,7 +2284,7 @@
       },
       "visita": {
         "nombre": "Magallanes",
-        "logo": ""
+        "logo": "escudos/ascenso/magallanes.png"
       },
       "link": "https://is.gd/audvsmag0627",
       "sofaId": 4711962,
@@ -2348,7 +2332,7 @@
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": ""
+        "logo": "escudos/ascenso/sanluis.png"
       },
       "link": "https://is.gd/univssan0627",
       "sofaId": 4711961,
