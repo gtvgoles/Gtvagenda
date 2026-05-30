@@ -39,6 +39,22 @@
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-30T12:30:00-04:00",
       "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/sanvsuni0530",
+      "sofaId": 4656672,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T12:30:00-04:00",
+      "local": {
         "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/recoleta.png"
       },
@@ -96,22 +112,6 @@
       },
       "link": "https://is.gd/univsdep0530",
       "sofaId": 4651125,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-30T17:30:00-04:00",
-      "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "link": "https://is.gd/sanvsuni0530",
-      "sofaId": 4656672,
       "channel": ""
     },
     {
@@ -2352,6 +2352,150 @@
       },
       "link": "https://is.gd/jorvsarg0627",
       "sofaId": 4627912,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "Deportes Antofagasta",
+        "logo": ""
+      },
+      "link": "https://is.gd/depvsdep0628",
+      "sofaId": 4711959,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": ""
+      },
+      "link": "https://is.gd/depvscob0628",
+      "sofaId": 4711960,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T15:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": ""
+      },
+      "link": "https://is.gd/huavsdep0628",
+      "sofaId": 4711957,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T15:00:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": ""
+      },
+      "link": "https://is.gd/ulavssan0628",
+      "sofaId": 4711958,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T16:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/curvsude0628",
+      "sofaId": 4711956,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T17:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": ""
+      },
+      "link": "https://is.gd/ohivsdep0628",
+      "sofaId": 4711954,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T17:00:00-04:00",
+      "local": {
+        "nombre": "Rangers De Talca",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "link": "https://is.gd/ranvsnub0628",
+      "sofaId": 4711955,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T17:30:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Union San Felipe",
+        "logo": ""
+      },
+      "link": "https://is.gd/univsuni0628",
+      "sofaId": 4711953,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-28T20:00:00-04:00",
+      "local": {
+        "nombre": "Dep Puerto Montt",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/depvsdep0628",
+      "sofaId": 4711952,
       "channel": ""
     },
     {
