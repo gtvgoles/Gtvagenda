@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-29T20:30:00-04:00",
-      "local": {
-        "nombre": "U. de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "visita": {
-        "nombre": "U. La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/c45_Ciw3NTUyNzkzZC05ZmIxLTRmOGQtOTBlZS0zNGI0NGFiZjlmN2MtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780185933&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImE4YTE2ZDkyLWM3ZjktNDY3YS04ZGFmLWQ0YWJmMGEzM2UzNCIsICJlZGl0SWQiOiI3NTUyNzkzZC05ZmIxLTRmOGQtOTBlZS0zNGI0NGFiZjlmN2MiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMFQwMDowNTozM1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=a26d7bd7f7971c9608ca84934481aff08867450df03af04599e25b500ac01025/main.mpd?manifest-params=prod-20260529%7CQCjx30vloHMEprSPD0evlcw8QvTKID0pZ1FO3EcIvcI%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMwVDAwJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmM0NV9DaXczTlRVeU56a3paQzA1Wm1JeExUUm1PR1F0T1RCbFpTMHpOR0kwTkdGaVpqbG1OMk10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzBUMDAlM0ExMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwY2NkNzFjM2NjOTZmMzEzYzVkM2YzMzc2MzUyMCI6IjI0NDU1ZjZmNjU4YjdkZTUwMjFkYWEzNTE3MWVhZGY4IiwiMDEwMWEyN2JiZGEwY2E0ZjgxNzAyMGY4ZmM2ZWQyZDgiOiIyMDE5ZWQ2Y2VmMzQ2NzUyNTM4ZTU5NTM0NGU5NTAxYyIsIjAxMDJiYzk1NzM5NTY2MjIzNjE0YWU5YTQzNGU1MjRkIjoiZjM1YWMzNmU1ZTcyYTA3MGMzZjVjZmQwZmQ3MTA4NmUifQ%3D%3D",
-      "sofaId": 4651127,
-      "channel": ""
-    },
-    {
       "competencia": "Europa, UEFA Champions League - Final",
       "fondo": "",
       "inicio": "2026-05-30T12:00:00-04:00",
@@ -39,22 +23,6 @@
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-30T12:30:00-04:00",
       "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "link": "https://is.gd/sanvsuni0530",
-      "sofaId": 4656672,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-30T12:30:00-04:00",
-      "local": {
         "nombre": "Deportes Recoleta",
         "logo": "escudos/ascenso/recoleta.png"
       },
@@ -64,6 +32,22 @@
       },
       "link": "https://is.gd/depvssan0530",
       "sofaId": 4656673,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T12:30:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "link": "https://is.gd/sanvsuni0530",
+      "sofaId": 4656672,
       "channel": ""
     },
     {
