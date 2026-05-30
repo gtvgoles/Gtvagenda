@@ -2300,7 +2300,7 @@
       },
       "visita": {
         "nombre": "Deportes Antofagasta",
-        "logo": ""
+        "logo": "escudos/ascenso/antofagasta.png"
       },
       "link": "https://is.gd/depvsdep0628",
       "sofaId": 4711959,
@@ -2316,7 +2316,7 @@
       },
       "visita": {
         "nombre": "Cobreloa",
-        "logo": ""
+        "logo": "escudos/ascenso/cobreloa.png"
       },
       "link": "https://is.gd/depvscob0628",
       "sofaId": 4711960,
@@ -2332,7 +2332,7 @@
       },
       "visita": {
         "nombre": "Deportes Temuco",
-        "logo": ""
+        "logo": "escudos/ascenso/temuco.png"
       },
       "link": "https://is.gd/huavsdep0628",
       "sofaId": 4711957,
@@ -2348,7 +2348,7 @@
       },
       "visita": {
         "nombre": "Santiago Wanderers",
-        "logo": ""
+        "logo": "escudos/ascenso/wanderers.png"
       },
       "link": "https://is.gd/ulavssan0628",
       "sofaId": 4711958,
@@ -2360,7 +2360,7 @@
       "inicio": "2026-06-28T16:00:00-04:00",
       "local": {
         "nombre": "Curicó Unido",
-        "logo": ""
+        "logo": "escudos/ascenso/curicounido.png"
       },
       "visita": {
         "nombre": "U. de Concepción",
@@ -2380,7 +2380,7 @@
       },
       "visita": {
         "nombre": "Deportes Recoleta",
-        "logo": ""
+        "logo": "escudos/ascenso/recoleta.png"
       },
       "link": "https://is.gd/ohivsdep0628",
       "sofaId": 4711954,
@@ -2392,7 +2392,7 @@
       "inicio": "2026-06-28T17:00:00-04:00",
       "local": {
         "nombre": "Rangers De Talca",
-        "logo": ""
+        "logo": "escudos/ascenso/rangers.png"
       },
       "visita": {
         "nombre": "Ñublense",
@@ -2412,7 +2412,7 @@
       },
       "visita": {
         "nombre": "Union San Felipe",
-        "logo": ""
+        "logo": "escudos/ascenso/sanfelipe.png"
       },
       "link": "https://is.gd/univsuni0628",
       "sofaId": 4711953,
@@ -2424,7 +2424,7 @@
       "inicio": "2026-06-28T20:00:00-04:00",
       "local": {
         "nombre": "Dep Puerto Montt",
-        "logo": ""
+        "logo": "escudos/ascenso/puertomontt.png"
       },
       "visita": {
         "nombre": "Deportes Concepción",
