@@ -23,22 +23,6 @@
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-05-30T12:30:00-04:00",
       "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "link": "https://is.gd/depvssan0530",
-      "sofaId": 4656673,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-30T12:30:00-04:00",
-      "local": {
         "nombre": "Santiago Wanderers",
         "logo": "escudos/ascenso/wanderers.png"
       },
@@ -48,6 +32,22 @@
       },
       "link": "https://is.gd/sanvsuni0530",
       "sofaId": 4656672,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-05-30T12:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/depvssan0530",
+      "sofaId": 4656673,
       "channel": ""
     },
     {
