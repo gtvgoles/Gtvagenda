@@ -3,54 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Europa, UEFA Champions League - Final",
-      "fondo": "",
-      "inicio": "2026-05-30T12:00:00-04:00",
-      "local": {
-        "nombre": "PSG",
-        "logo": "escudos/manual/psg.png"
-      },
-      "visita": {
-        "nombre": "Arsenal",
-        "logo": "escudos/manual/arsenal.png"
-      },
-      "link": "https://linear-ftc-sa-west-2.media.dssott.com/dvt2=exp=1780237969~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F6b60d305-08e1-4205-95f3-4abe88e2a6ab-1778631168574%2F~psid=65699f88-e7d3-43d2-943c-f3af86378cf5~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=90de60d1275a6b4b3881d204f76d99080bb6b967f01b8af5d7b9a8b7c8b47f6d/gru1/va01/disneyplus/channel/6b60d305-08e1-4205-95f3-4abe88e2a6ab-1778631168574/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=5212d19919cf520efe23bf557d72429cde87753e&ck=eyJkM2NjNmYyNjMwMGQ0OGI1YjE3YzlkNjkzNjQyOGQ5YiI6IjNlMTEzMzE0MDM1OGU5YjA0YTlhN2M3NzViMjBiYWIyIn0%3D",
-      "sofaId": 4711770,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-30T12:30:00-04:00",
-      "local": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "visita": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/90f_Ciw1MmFhOTkxNS1iYWUwLTRmMTItYmNjNS1hYWRiMWEyOGIxNDYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780244409&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6Ijk5ZTA0YTY4LWFkY2MtNGE1ZS1hOWEwLTNiMjllNGE1ZmQ2MCIsICJlZGl0SWQiOiI1MmFhOTkxNS1iYWUwLTRmMTItYmNjNS1hYWRiMWEyOGIxNDYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMFQxNjoyMDowOVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=f3ca630169129740c6f1f184750b4eb1b496b5229b0a1f376db9c2dad319c612/main.mpd?manifest-params=prod-20260530%7C2d9Rp5ITD5LYChrL1WyG8X399LUJ3LrGi79MbDEWpIw%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMwVDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjkwZl9DaXcxTW1GaE9Ua3hOUzFpWVdVd0xUUm1NVEl0WW1Oak5TMWhZV1JpTVdFeU9HSXhORFl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzBUMTYlM0EwMCUzQTAzWg%3D%3D&rtype=admo&ck=eyIwMTAwNWEyYzJkZjU5M2NhYTkwNTU5ZDMzMWNiNmNmMiI6IjU5MWEyZTEyN2ZkMzI3Njc0N2ZjYzYzNzcwZTAxZTBmIiwiMDEwMTczM2UxZTc0MWI4YzRkMDRhMjhkOWY5M2JjY2EiOiJlZjcyNTM4NWJmMGI3YTRhMjQzMWVhNGFmOTQ2NjU1YiIsIjAxMDI5Y2U2NTc0ZGM0ZWQyZWJmNWYyY2Y2MmIwYmVkIjoiNzIzODNmY2JjMmNjY2FlNWU1NzcwYjYzYjgyNWNmZmEifQ%3D%3D",
-      "sofaId": 4656672,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-30T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/8a2_CiwxNDMxYjgzNS0xNjRlLTRjM2UtYTI1Yy1mNWI4NWY4ZTY1ZmYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780244461&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjAxZTI3YTkxLTljZTgtNGRhNy05M2VkLWJmOWJhMGI4Yjc4ZiIsICJlZGl0SWQiOiIxNDMxYjgzNS0xNjRlLTRjM2UtYTI1Yy1mNWI4NWY4ZTY1ZmYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMFQxNjoyMTowMVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=cf153784c0871e77d2715ae4f996b05dcbb64d9b8deb20dbe165168ee45dc351/main.mpd?manifest-params=prod-20260530%7CDpPSSYQ0U_1108orm33ugFNhWsPZ2TESk_Y37V6B1PI%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMwVDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjhhMl9DaXd4TkRNeFlqZ3pOUzB4TmpSbExUUmpNMlV0WVRJMVl5MW1OV0k0TldZNFpUWTFabVl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzBUMTYlM0EyMCUzQTI3Wg%3D%3D&rtype=admo&ck=eyIwMTAwOGZkM2EzZGExNTkwMDg0YzM2ODdkNzA4YjJjZCI6Ijc1MjU5ZjliZTllMTRlOThhMWU2NGZhZjJmY2E5N2VlIiwiMDEwMTNmOWUyMTI0N2IxN2ZmYWU4MmZmNWNhNGUzZjEiOiJkZGVlNGUwNWFiMTVlZGY0MDMwNWYxZTI4NTVlNjM5YiIsIjAxMDJlZWY5ZGRmNTQ5YzMxMzcyMmUzMDlhNjdiOTFlIjoiOTdlYmVjMzUwYTZhYzRmMjg1ZjczZjc1NmMxZmJhZjYifQ%3D%3D",
-      "sofaId": 4656673,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-30T15:00:00-04:00",
