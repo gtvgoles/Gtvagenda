@@ -5,54 +5,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-31T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/8da_CixlYTAyMTkwNC03ZTMwLTRmZWYtYjE4NC02NDlkZDBmODYxZWYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780329401&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImIxMTU5NGNmLWQ4ZWQtNDUwNC05NjJjLTRhODk4ZDVkN2VhMiIsICJlZGl0SWQiOiJlYTAyMTkwNC03ZTMwLTRmZWYtYjE4NC02NDlkZDBmODYxZWYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMVQxNTo1Njo0MVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=dece1f780a0d5bb833cd02efe9d484ad566f1b11205fc4882f105d1fc00a7343/main.mpd?manifest-params=prod-20260531%7CN7maXlzpygQI7wmgJ8UAhj30Jv_m8fEpmSYhy4rY5y4%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMxVDE1JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjhkYV9DaXhsWVRBeU1Ua3dOQzAzWlRNd0xUUm1aV1l0WWpFNE5DMDJORGxrWkRCbU9EWXhaV1l0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzFUMTYlM0EwMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwODQ0MTA5ZmI2NWMzZWFkZGJiZDQ0MDIwODc0ZiI6IjkxMmNlZjA1YTFiNjQwODc0Mzc4OGJiM2ZkYmJkYTYzIiwiMDEwMTBmZjM2ZDQ3Y2EwMzAzMGRlZWEyNDc1ZjgzOTEiOiIwNjdkNTY5NThmYmQ4YTgyZjkxYjJhYTc2NmYzNmM2MyIsIjAxMDJiZDJkOWVmYWI3OGZjYTRjNjYzYjY5NjM1MDUyIjoiYWYwNmRlNzIyZmM0YTIzNTA5OTY1YWZiZDkyNTIxZjUifQ%3D%3D",
-      "sofaId": 4650623,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-31T12:30:00-04:00",
-      "local": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/fc0_CiwwOWQ0OTVjNS0xNzA1LTQwOTYtODlkMi1lN2Y1OWM5MmE2ZDQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780329325&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjFjNGQyNjRiLTM4ZmItNGYwNC04NTdiLTY4ZTY5YjExMTk2NSIsICJlZGl0SWQiOiIwOWQ0OTVjNS0xNzA1LTQwOTYtODlkMi1lN2Y1OWM5MmE2ZDQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMVQxNTo1NToyNVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=3cb0bc4ba4fae947b307f23dd65d2ad73eb44e8a8d0f62ef72c787a187ea85c5/main.mpd?manifest-params=prod-20260531%7CryWlwwbHxeSo7kK21eVsUB2TvEPTrBjrKFYE3R7vTj0%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMxVDE1JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmZjMF9DaXd3T1dRME9UVmpOUzB4TnpBMUxUUXdPVFl0T0Rsa01pMWxOMlkxT1dNNU1tRTJaRFF0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzFUMTYlM0EwMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwZmFkZWRlZTM1MGRjODYyYWZkYzkzNGVkYmIwNyI6IjFjOThlYmRhOTA2YjU2N2VhNDA2OTYwNmI0OGViNmI1IiwiMDEwMWEyZGMzZTI5NWE1ODgwMWI4MmJmMzY0OGE2ZmEiOiI3MGQ2YmU0ZTY5N2Q1ODI3YjI0YzI4NTE0ZjBlNzMxYiIsIjAxMDI3MzllNmVmZWQ1NGYyMTc5NzU0MzBkOTRjMDc0IjoiYTZiNmFkODZhZTcxYWMwZDU5MDlhMjc2OTM3MmIyYTUifQ%3D%3D",
-      "sofaId": 4656676,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-31T15:00:00-04:00",
-      "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "visita": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/b59_Ciw0M2Y1MGZlNS01YjhhLTRkZGEtYTFhMS1jMjdmYzI5OWMyZGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780340716&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjAxNGVmYzEyLWU1YmItNDA4ZC05MzM2LWY4MmMxNDg5OWY1OSIsICJlZGl0SWQiOiI0M2Y1MGZlNS01YjhhLTRkZGEtYTFhMS1jMjdmYzI5OWMyZGUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMVQxOTowNToxNloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=8d159f607a900a856185d7df15553b16b17ff3df7236b620b4b4346b6a3d36ad/main.mpd?manifest-params=prod-20260531%7CyBnpmYs0svHjGZg501JAelg1ICUizztvEUYsqqNm72U%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMxVDE5JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmI1OV9DaXcwTTJZMU1HWmxOUzAxWWpoaExUUmtaR0V0WVRGaE1TMWpNamRtWXpJNU9XTXlaR1V0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzFUMTglM0E1MCUzQTQ0Wg%3D%3D&rtype=admo&ck=eyIwMTAwYTc1ZDg4MzM3OGJjMDUzOTJlZmY5Y2NkNjU4MyI6ImQ0M2Q0YWRjNGM0NGRlMGViZmZmNTNhYTdiYWJmNjEyIiwiMDEwMTZjODA4MTAzNTFkNTNiZDY4ZWQ3Yzk3NjcxYjQiOiI1NzM0MTlmMzMxZjRlMDNhMzExZTBiZTBhN2UyMjJmZiIsIjAxMDIwYjQ0YmEzMDViNTFmYjdkZmE5OTc2MmRjZjJlIjoiZDJmYmZmZDBlMGI5OTQwZTdkOGRkYzU3MDY1ZWJkYmMifQ%3D%3D",
-      "sofaId": 4651130,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-05-31T17:30:00-04:00",
       "local": {
         "nombre": "O'Higgins",
@@ -2384,6 +2336,22 @@
       },
       "link": "https://is.gd/univscol0629",
       "sofaId": 4711951,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-30T18:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/audvspal0630",
+      "sofaId": 4711950,
       "channel": ""
     },
     {
