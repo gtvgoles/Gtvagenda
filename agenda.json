@@ -3,54 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-31T17:30:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "Everton",
-        "logo": "escudos/primera/everton.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/3de_Ciw1YzIzOTMyNS00NWNkLTRmYmYtOTI2OC04MDIyNDhhNDA2ODEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780348830&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjQyMjRkNjgzLWQzZWQtNGI4Yi1iNGYwLTI2ZjJjZjIzMTE0NiIsICJlZGl0SWQiOiI1YzIzOTMyNS00NWNkLTRmYmYtOTI2OC04MDIyNDhhNDA2ODEiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMVQyMToyMDozMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=98afd54072c7d2ba97620816a63f284771f3e9aa3247f7efc6247c686492b5cc/main.mpd?manifest-params=prod-20260531%7CwXHegDyPafNVaS9NXm4e6e9q3lJFCBXBvu4j00lEDpo%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMxVDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjNkZV9DaXcxWXpJek9UTXlOUzAwTldOa0xUUm1ZbVl0T1RJMk9DMDRNREl5TkRoaE5EQTJPREV0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzFUMjElM0ExNSUzQTA0Wg%3D%3D&rtype=admo&ck=eyIwMTAwYThmNzFmZDZkY2IwY2UzNjAxOWU1MzBlMzVmMSI6IjFlOGZkNGIwNWQ0ZDE5MDk4Yjk5ZTEzYjRjYmEzZWViIiwiMDEwMWIyYjQ2YTBlNjVhNzlkZjVkNWQwOTZkMWYzMjEiOiI4MTFjYzFiMzQ3MDRkNWVjMzAyNzU1ZGU0YWFjZjBkYSIsIjAxMDI2NWZmOGE0OGI1ZTA0ZGJjZWUyNGI0MzZiYzI1IjoiNjEzZTU1ODg0N2Y2ZGI2ZjAzZjM4MTRkYWY5NzNiNzcifQ%3D%3D",
-      "sofaId": 4651129,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-05-31T17:30:00-04:00",
-      "local": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "visita": {
-        "nombre": "Rangers De Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/ccf_CiwxYjdlZjcyOS00NjBkLTRlMTctOTFmOC00YjY3ZjY3ZGRkZjMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780348738&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImEwZjM4MWVhLWFmNzEtNGJjYi04ZGE5LTRlOTc4MWI0YmYyMSIsICJlZGl0SWQiOiIxYjdlZjcyOS00NjBkLTRlMTctOTFmOC00YjY3ZjY3ZGRkZjMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNS0zMVQyMToxODo1OFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=aaf8b83a751bc75f28dba61c3a7419a139b85573b1079d190d9637b98e4a9482/main.mpd?manifest-params=prod-20260531%7CzgcMvVmvWHXr6c1q38AAZRf6S-kI2a8u3AV5nVC_GB8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA1LTMxVDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmNjZl9DaXd4WWpkbFpqY3lPUzAwTmpCa0xUUmxNVGN0T1RGbU9DMDBZalkzWmpZM1pHUmtaak10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzFUMjElM0EwMCUzQTAyWg%3D%3D&rtype=admo&ck=eyIwMTAwMDY0YjQ4MzFiZjM3NjU2ZWY0OGIyN2JjMDFlNyI6IjBmZTVhMmM4ZTJkYzcwYzM0MjdlMzYzNjdlMWIyNDgyIiwiMDEwMWQwOWEyNjZhNDk4M2QwYzE3NzNiMDRiYTJjZjUiOiI5NWE3MTQ2MzIxNzJjYzI2YzMwZjM4MTgxNjY5NTViZSIsIjAxMDI2Y2ZiOTkwMGE0NDQ4ZTA0ZTcyNjNmYjIxOWEzIjoiYmViZDVkOWJkNzVkNTAwNmM1Y2Y2NDBhMDVkYjZhMTQifQ%3D%3D",
-      "sofaId": 4656671,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-05-31T20:00:00-04:00",
-      "local": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/ce2_CixkYjgyOTZjZS0wZDJiLTQwMWMtOGM4ZC00Zjg5MjM3MzhjMDYtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780358910&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNDA1OWQxODEtODE4MC00NzBlLTg0ZTAtMjcwMTY3NzhjY2M0IiwgInNlc3Npb25JZCI6ImZkZWE4NjJiLTY4ZWEtNDNjNy1iNjBkLWYwMWQ0MWUzMTFjOSIsICJlZGl0SWQiOiJkYjgyOTZjZS0wZDJiLTQwMWMtOGM4ZC00Zjg5MjM3MzhjMDYiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wMVQwMDowODozMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=6dbe391d6be8fbec504c70a161ad38fb54431032d70345adc803e7fffa55a7b1/main.mpd?manifest-params=prod-20260531%7C5zlw8AjbTelM-N4Ap3jaCCcY6HYot_RviQyNbrnX69w%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTAxVDAwJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmNlMl9DaXhrWWpneU9UWmpaUzB3WkRKaUxUUXdNV010T0dNNFpDMDBaamc1TWpNM016aGpNRFl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDUtMzFUMjMlM0E1MSUzQTI2Wg%3D%3D&rtype=admo&ck=eyIwMTAxYmI3MmU5NWM2YmE5ODA2ODE2NGU2YmM4MDZjOCI6ImFkOGQzMmVjOTZhMzQxYWRkNDE2YjYwOGQ5MjE0ODBhIiwiMDEwMjBhZjcyNmYzNTQzNmFkNmVjMDk0MzkzNGU1ODMiOiIwYTRkMDc1NmIwZTBiZmJmZWM5ODFjZmU2YWIxMzk0YSIsIjAxMDA5NjA4Y2IyYTg2OTE4NDlhNjI1MjQyNTgwNWEzIjoiNjk3NTBjMjJmYjQ4M2M1ODg3M2I2MzQ5N2JmZGJhNGIifQ%3D%3D",
-      "sofaId": 4651128,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-06-01T19:00:00-04:00",
@@ -2355,6 +2307,150 @@
       "channel": ""
     },
     {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-30T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/univseve0630",
+      "sofaId": 4711949,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/manual/deportescopiapo.png"
+      },
+      "visita": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/depvsdep0719",
+      "sofaId": 4656653,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "visita": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/depvsran0719",
+      "sofaId": 4656654,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Magallanes",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/magvscur0719",
+      "sofaId": 4656655,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Unión Española",
+        "logo": ""
+      },
+      "link": "https://is.gd/sanvsuni0719",
+      "sofaId": 4656656,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/depvssan0719",
+      "sofaId": 4656657,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/depvscob0719",
+      "sofaId": 4656658,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": ""
+      },
+      "link": "https://is.gd/univsdep0719",
+      "sofaId": 4656659,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "San Marcos",
+        "logo": ""
+      },
+      "link": "https://is.gd/depvssan0719",
+      "sofaId": 4656660,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-07-26T13:00:00-04:00",
@@ -2480,6 +2576,262 @@
       },
       "link": "https://is.gd/colvsdep0726",
       "sofaId": 4651120,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/depvsdep0726",
+      "sofaId": 4656645,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": ""
+      },
+      "link": "https://is.gd/cobvsdep0726",
+      "sofaId": 4656646,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "San Marcos",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Magallanes",
+        "logo": ""
+      },
+      "link": "https://is.gd/sanvsmag0726",
+      "sofaId": 4656647,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/univsdep0726",
+      "sofaId": 4656648,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "link": "https://is.gd/sanvsuni0726",
+      "sofaId": 4656649,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": ""
+      },
+      "link": "https://is.gd/curvssan0726",
+      "sofaId": 4656650,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/manual/deportescopiapo.png"
+      },
+      "link": "https://is.gd/ranvsdep0726",
+      "sofaId": 4656651,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-26T13:00:00-04:00",
+      "local": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/depvsdep0726",
+      "sofaId": 4656652,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/udevsaud0802",
+      "sofaId": 4650613,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "link": "https://is.gd/depvsuni0802",
+      "sofaId": 4650614,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/Ñublense.png"
+      },
+      "link": "https://is.gd/depvsnub0802",
+      "sofaId": 4650615,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/depvsula0802",
+      "sofaId": 4650616,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/palvscoq0802",
+      "sofaId": 4651111,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "visita": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/evevscol0802",
+      "sofaId": 4651112,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/depvsohi0802",
+      "sofaId": 4651113,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-02T13:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/univshua0802",
+      "sofaId": 4651114,
       "channel": ""
     }
   ]
