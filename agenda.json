@@ -120,7 +120,7 @@
       "inicio": "2026-06-06T18:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "visita": {
         "nombre": "U. de Concepción",
@@ -286,7 +286,7 @@
         "nombre": "Curicó Unido",
         "logo": "escudos/ascenso/curicounido.png"
       },
-      "link": "https://is.gd/depvscur0605",
+      "link": "https://is.gd/depvscur0608",
       "sofaId": 4656661,
       "channel": ""
     },
@@ -320,38 +320,6 @@
       },
       "link": "https://is.gd/rdcvschi0609",
       "sofaId": 4726202,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-10T20:00:00-04:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/univsohi0610",
-      "sofaId": 4650627,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-10T20:00:00-04:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "",
-      "sofaId": 4709604,
       "channel": ""
     },
     {
@@ -504,7 +472,7 @@
       "inicio": "2026-06-13T20:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "visita": {
         "nombre": "Huachipato",
@@ -675,246 +643,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-15T12:00:00-04:00",
-      "local": {
-        "nombre": "España",
-        "logo": "escudos/manual/espana.png"
-      },
-      "visita": {
-        "nombre": "Cabo Verde",
-        "logo": "escudos/manual/caboverde.png"
-      },
-      "link": "https://is.gd/espvscab0615",
-      "sofaId": 4627904,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
-      "inicio": "2026-06-15T15:00:00-04:00",
-      "local": {
-        "nombre": "Bélgica",
-        "logo": "escudos/manual/belgica.png"
-      },
-      "visita": {
-        "nombre": "Egipto",
-        "logo": "escudos/manual/egipto.png"
-      },
-      "link": "https://is.gd/belvsegi0615",
-      "sofaId": 4627932,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-15T18:00:00-04:00",
-      "local": {
-        "nombre": "Arabia Saudita",
-        "logo": "escudos/manual/arabiasaudita.png"
-      },
-      "visita": {
-        "nombre": "Uruguay",
-        "logo": "escudos/manual/uruguay.png"
-      },
-      "link": "https://is.gd/aravsuru0615",
-      "sofaId": 4627876,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
-      "inicio": "2026-06-15T21:00:00-04:00",
-      "local": {
-        "nombre": "Irán",
-        "logo": "escudos/manual/iran.png"
-      },
-      "visita": {
-        "nombre": "Nueva Zelanda",
-        "logo": "escudos/manual/nuevazelanda.png"
-      },
-      "link": "https://is.gd/iravsnue0615",
-      "sofaId": 4627902,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
-      "inicio": "2026-06-16T15:00:00-04:00",
-      "local": {
-        "nombre": "Francia",
-        "logo": "escudos/manual/francia.png"
-      },
-      "visita": {
-        "nombre": "Senegal",
-        "logo": "escudos/manual/senegal.png"
-      },
-      "link": "https://is.gd/fravssen0616",
-      "sofaId": 4627862,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
-      "inicio": "2026-06-16T18:00:00-04:00",
-      "local": {
-        "nombre": "Irak",
-        "logo": "escudos/manual/irak.png"
-      },
-      "visita": {
-        "nombre": "Noruega",
-        "logo": "escudos/manual/noruega.png"
-      },
-      "link": "https://is.gd/iravsnor0616",
-      "sofaId": 4697921,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo J",
-      "fondo": "",
-      "inicio": "2026-06-16T21:00:00-04:00",
-      "local": {
-        "nombre": "Argentina",
-        "logo": "escudos/manual/argentina.png"
-      },
-      "visita": {
-        "nombre": "Argelia",
-        "logo": "escudos/manual/argelia.png"
-      },
-      "link": "https://is.gd/argvsarg0616",
-      "sofaId": 4627879,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo J",
-      "fondo": "",
-      "inicio": "2026-06-17T00:00:00-04:00",
-      "local": {
-        "nombre": "Austria",
-        "logo": "escudos/manual/austria.png"
-      },
-      "visita": {
-        "nombre": "Jordania",
-        "logo": "escudos/manual/jordania.png"
-      },
-      "link": "https://is.gd/ausvsjor0617",
-      "sofaId": 4627910,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo K",
-      "fondo": "",
-      "inicio": "2026-06-17T13:00:00-04:00",
-      "local": {
-        "nombre": "Portugal",
-        "logo": "escudos/manual/portugal.png"
-      },
-      "visita": {
-        "nombre": "RD Congo",
-        "logo": "escudos/manual/rdcongo.png"
-      },
-      "link": "https://is.gd/porvsrdc0617",
-      "sofaId": 4697734,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo L",
-      "fondo": "",
-      "inicio": "2026-06-17T16:00:00-04:00",
-      "local": {
-        "nombre": "Inglaterra",
-        "logo": "escudos/manual/inglaterra.png"
-      },
-      "visita": {
-        "nombre": "Croacia",
-        "logo": "escudos/manual/croacia.png"
-      },
-      "link": "https://is.gd/ingvscro0617",
-      "sofaId": 4627865,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo L",
-      "fondo": "",
-      "inicio": "2026-06-17T19:00:00-04:00",
-      "local": {
-        "nombre": "Ghana",
-        "logo": "escudos/manual/ghana.png"
-      },
-      "visita": {
-        "nombre": "Panamá",
-        "logo": "escudos/manual/panama.png"
-      },
-      "link": "https://is.gd/ghavspan0617",
-      "sofaId": 4627918,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo K",
-      "fondo": "",
-      "inicio": "2026-06-17T22:00:00-04:00",
-      "local": {
-        "nombre": "Uzbekistán",
-        "logo": "escudos/manual/uzbekistan.png"
-      },
-      "visita": {
-        "nombre": "Colombia",
-        "logo": "escudos/manual/colombia.png"
-      },
-      "link": "https://is.gd/uzbvscol0617",
-      "sofaId": 4627930,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo A",
-      "fondo": "",
-      "inicio": "2026-06-18T12:00:00-04:00",
-      "local": {
-        "nombre": "Republica Checa",
-        "logo": "escudos/manual/republicacheca.png"
-      },
-      "visita": {
-        "nombre": "Sudáfrica",
-        "logo": "escudos/manual/sudafrica.png"
-      },
-      "link": "https://is.gd/repvssud0618",
-      "sofaId": 4697697,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo B",
-      "fondo": "",
-      "inicio": "2026-06-18T15:00:00-04:00",
-      "local": {
-        "nombre": "Suiza",
-        "logo": "escudos/manual/suiza.png"
-      },
-      "visita": {
-        "nombre": "Bosnia Herzegovina",
-        "logo": "escudos/manual/bosniaherzegovina.png"
-      },
-      "link": "https://is.gd/suivsbos0618",
-      "sofaId": 4697700,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo B",
-      "fondo": "",
-      "inicio": "2026-06-18T18:00:00-04:00",
-      "local": {
-        "nombre": "Canadá",
-        "logo": "escudos/manual/canada.png"
-      },
-      "visita": {
-        "nombre": "Qatar",
-        "logo": "escudos/manual/qatar.png"
-      },
-      "link": "https://is.gd/canvsqat0618",
-      "sofaId": 4627937,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-18T20:00:00-04:00",
@@ -928,54 +656,6 @@
       },
       "link": "https://is.gd/univsohi0618",
       "sofaId": 4719062,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo A",
-      "fondo": "",
-      "inicio": "2026-06-18T21:00:00-04:00",
-      "local": {
-        "nombre": "México",
-        "logo": "escudos/manual/mexico.png"
-      },
-      "visita": {
-        "nombre": "Corea del Sur",
-        "logo": "escudos/manual/coreadelsur.png"
-      },
-      "link": "https://is.gd/mexvscor0618",
-      "sofaId": 4627854,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo D",
-      "fondo": "",
-      "inicio": "2026-06-19T15:00:00-04:00",
-      "local": {
-        "nombre": "Estados Unidos",
-        "logo": "escudos/manual/estadosunidos.png"
-      },
-      "visita": {
-        "nombre": "Australia",
-        "logo": "escudos/manual/australia.png"
-      },
-      "link": "https://is.gd/estvsaus0619",
-      "sofaId": 4627857,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo C",
-      "fondo": "",
-      "inicio": "2026-06-19T18:00:00-04:00",
-      "local": {
-        "nombre": "Escocia",
-        "logo": "escudos/manual/escocia.png"
-      },
-      "visita": {
-        "nombre": "Marruecos",
-        "logo": "escudos/manual/marruecos.png"
-      },
-      "link": "https://is.gd/escvsmar0619",
-      "sofaId": 4627882,
       "channel": ""
     },
     {
@@ -1011,38 +691,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo C",
-      "fondo": "",
-      "inicio": "2026-06-19T20:30:00-04:00",
-      "local": {
-        "nombre": "Brasil",
-        "logo": "escudos/manual/brasil.png"
-      },
-      "visita": {
-        "nombre": "Haití",
-        "logo": "escudos/manual/haiti.png"
-      },
-      "link": "https://is.gd/bravshai0619",
-      "sofaId": 4627883,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo D",
-      "fondo": "",
-      "inicio": "2026-06-19T23:00:00-04:00",
-      "local": {
-        "nombre": "Turquía",
-        "logo": "escudos/manual/turquia.png"
-      },
-      "visita": {
-        "nombre": "Paraguay",
-        "logo": "escudos/manual/paraguay.png"
-      },
-      "link": "https://is.gd/turvspar0619",
-      "sofaId": 4697703,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-20T12:30:00-04:00",
@@ -1056,22 +704,6 @@
       },
       "link": "https://is.gd/magvspal0620",
       "sofaId": 4711988,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo F",
-      "fondo": "",
-      "inicio": "2026-06-20T13:00:00-04:00",
-      "local": {
-        "nombre": "Países Bajos",
-        "logo": "escudos/manual/paisesbajos.png"
-      },
-      "visita": {
-        "nombre": "Suecia",
-        "logo": "escudos/manual/suecia.png"
-      },
-      "link": "https://is.gd/paivssue0620",
-      "sofaId": 4697706,
       "channel": ""
     },
     {
@@ -1104,22 +736,6 @@
       },
       "link": "https://is.gd/cobvsdep0620",
       "sofaId": 4711987,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo E",
-      "fondo": "",
-      "inicio": "2026-06-20T16:00:00-04:00",
-      "local": {
-        "nombre": "Alemania",
-        "logo": "escudos/manual/alemania.png"
-      },
-      "visita": {
-        "nombre": "Costa de Marfil",
-        "logo": "escudos/manual/costademarfil.png"
-      },
-      "link": "https://is.gd/alevscos0620",
-      "sofaId": 4627872,
       "channel": ""
     },
     {
@@ -1187,54 +803,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo E",
-      "fondo": "",
-      "inicio": "2026-06-20T20:00:00-04:00",
-      "local": {
-        "nombre": "Ecuador",
-        "logo": "escudos/manual/ecuador.png"
-      },
-      "visita": {
-        "nombre": "Curazao",
-        "logo": "escudos/manual/curazao.png"
-      },
-      "link": "https://is.gd/ecuvscur0620",
-      "sofaId": 4627896,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo F",
-      "fondo": "",
-      "inicio": "2026-06-21T00:00:00-04:00",
-      "local": {
-        "nombre": "Túnez",
-        "logo": "escudos/manual/tunez.png"
-      },
-      "visita": {
-        "nombre": "Japón",
-        "logo": "escudos/manual/japon.png"
-      },
-      "link": "https://is.gd/tunvsjap0621",
-      "sofaId": 4627873,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-21T12:00:00-04:00",
-      "local": {
-        "nombre": "España",
-        "logo": "escudos/manual/espana.png"
-      },
-      "visita": {
-        "nombre": "Arabia Saudita",
-        "logo": "escudos/manual/arabiasaudita.png"
-      },
-      "link": "https://is.gd/espvsara0621",
-      "sofaId": 4627877,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-21T12:30:00-04:00",
@@ -1299,22 +867,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
-      "inicio": "2026-06-21T15:00:00-04:00",
-      "local": {
-        "nombre": "Bélgica",
-        "logo": "escudos/manual/belgica.png"
-      },
-      "visita": {
-        "nombre": "Irán",
-        "logo": "escudos/manual/iran.png"
-      },
-      "link": "https://is.gd/belvsira0621",
-      "sofaId": 4627860,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-21T16:00:00-04:00",
@@ -1324,7 +876,7 @@
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "link": "https://is.gd/curvsnub0621",
       "sofaId": 4711983,
@@ -1347,22 +899,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-21T18:00:00-04:00",
-      "local": {
-        "nombre": "Uruguay",
-        "logo": "escudos/manual/uruguay.png"
-      },
-      "visita": {
-        "nombre": "Cabo Verde",
-        "logo": "escudos/manual/caboverde.png"
-      },
-      "link": "https://is.gd/uruvscab0621",
-      "sofaId": 4627905,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-21T20:00:00-04:00",
@@ -1379,118 +915,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
-      "inicio": "2026-06-21T21:00:00-04:00",
-      "local": {
-        "nombre": "Nueva Zelanda",
-        "logo": "escudos/manual/nuevazelanda.png"
-      },
-      "visita": {
-        "nombre": "Egipto",
-        "logo": "escudos/manual/egipto.png"
-      },
-      "link": "https://is.gd/nuevsegi0621",
-      "sofaId": 4627901,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo J",
-      "fondo": "",
-      "inicio": "2026-06-22T13:00:00-04:00",
-      "local": {
-        "nombre": "Argentina",
-        "logo": "escudos/manual/argentina.png"
-      },
-      "visita": {
-        "nombre": "Austria",
-        "logo": "escudos/manual/austria.png"
-      },
-      "link": "https://is.gd/argvsaus0622",
-      "sofaId": 4627863,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
-      "inicio": "2026-06-22T17:00:00-04:00",
-      "local": {
-        "nombre": "Francia",
-        "logo": "escudos/manual/francia.png"
-      },
-      "visita": {
-        "nombre": "Irak",
-        "logo": "escudos/manual/irak.png"
-      },
-      "link": "https://is.gd/fravsira0622",
-      "sofaId": 4697922,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
-      "inicio": "2026-06-22T20:00:00-04:00",
-      "local": {
-        "nombre": "Noruega",
-        "logo": "escudos/manual/noruega.png"
-      },
-      "visita": {
-        "nombre": "Senegal",
-        "logo": "escudos/manual/senegal.png"
-      },
-      "link": "https://is.gd/norvssen0622",
-      "sofaId": 4627927,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo J",
-      "fondo": "",
-      "inicio": "2026-06-22T23:00:00-04:00",
-      "local": {
-        "nombre": "Jordania",
-        "logo": "escudos/manual/jordania.png"
-      },
-      "visita": {
-        "nombre": "Argelia",
-        "logo": "escudos/manual/argelia.png"
-      },
-      "link": "https://is.gd/jorvsarg0622",
-      "sofaId": 4627911,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo K",
-      "fondo": "",
-      "inicio": "2026-06-23T13:00:00-04:00",
-      "local": {
-        "nombre": "Portugal",
-        "logo": "escudos/manual/portugal.png"
-      },
-      "visita": {
-        "nombre": "Uzbekistán",
-        "logo": "escudos/manual/uzbekistan.png"
-      },
-      "link": "https://is.gd/porvsuzb0623",
-      "sofaId": 4627929,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo L",
-      "fondo": "",
-      "inicio": "2026-06-23T16:00:00-04:00",
-      "local": {
-        "nombre": "Inglaterra",
-        "logo": "escudos/manual/inglaterra.png"
-      },
-      "visita": {
-        "nombre": "Ghana",
-        "logo": "escudos/manual/ghana.png"
-      },
-      "link": "https://is.gd/ingvsgha0623",
-      "sofaId": 4627920,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-23T18:00:00-04:00",
@@ -1504,22 +928,6 @@
       },
       "link": "https://is.gd/coqvsdep0623",
       "sofaId": 4711974,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo L",
-      "fondo": "",
-      "inicio": "2026-06-23T19:00:00-04:00",
-      "local": {
-        "nombre": "Panamá",
-        "logo": "escudos/manual/panama.png"
-      },
-      "visita": {
-        "nombre": "Croacia",
-        "logo": "escudos/manual/croacia.png"
-      },
-      "link": "https://is.gd/panvscro0623",
-      "sofaId": 4627935,
       "channel": ""
     },
     {
@@ -1555,54 +963,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo K",
-      "fondo": "",
-      "inicio": "2026-06-23T22:00:00-04:00",
-      "local": {
-        "nombre": "Colombia",
-        "logo": "escudos/manual/colombia.png"
-      },
-      "visita": {
-        "nombre": "RD Congo",
-        "logo": "escudos/manual/rdcongo.png"
-      },
-      "link": "https://is.gd/colvsrdc0623",
-      "sofaId": 4697735,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo B",
-      "fondo": "",
-      "inicio": "2026-06-24T15:00:00-04:00",
-      "local": {
-        "nombre": "Suiza",
-        "logo": "escudos/manual/suiza.png"
-      },
-      "visita": {
-        "nombre": "Canadá",
-        "logo": "escudos/manual/canada.png"
-      },
-      "link": "https://is.gd/suivscan0624",
-      "sofaId": 4627855,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo B",
-      "fondo": "",
-      "inicio": "2026-06-24T15:00:00-04:00",
-      "local": {
-        "nombre": "Bosnia Herzegovina",
-        "logo": "escudos/manual/bosniaherzegovina.png"
-      },
-      "visita": {
-        "nombre": "Qatar",
-        "logo": "escudos/manual/qatar.png"
-      },
-      "link": "https://is.gd/bosvsqat0624",
-      "sofaId": 4697701,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-24T18:00:00-04:00",
@@ -1616,38 +976,6 @@
       },
       "link": "https://is.gd/depvsdep0624",
       "sofaId": 4711971,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo C",
-      "fondo": "",
-      "inicio": "2026-06-24T18:00:00-04:00",
-      "local": {
-        "nombre": "Escocia",
-        "logo": "escudos/manual/escocia.png"
-      },
-      "visita": {
-        "nombre": "Brasil",
-        "logo": "escudos/manual/brasil.png"
-      },
-      "link": "https://is.gd/escvsbra0624",
-      "sofaId": 4627881,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo C",
-      "fondo": "",
-      "inicio": "2026-06-24T18:00:00-04:00",
-      "local": {
-        "nombre": "Marruecos",
-        "logo": "escudos/manual/marruecos.png"
-      },
-      "visita": {
-        "nombre": "Haití",
-        "logo": "escudos/manual/haiti.png"
-      },
-      "link": "https://is.gd/marvshai0624",
-      "sofaId": 4627938,
       "channel": ""
     },
     {
@@ -1683,102 +1011,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo A",
-      "fondo": "",
-      "inicio": "2026-06-24T21:00:00-04:00",
-      "local": {
-        "nombre": "Sudáfrica",
-        "logo": "escudos/manual/sudafrica.png"
-      },
-      "visita": {
-        "nombre": "Corea del Sur",
-        "logo": "escudos/manual/coreadelsur.png"
-      },
-      "link": "https://is.gd/sudvscor0624",
-      "sofaId": 4627867,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo A",
-      "fondo": "",
-      "inicio": "2026-06-24T21:00:00-04:00",
-      "local": {
-        "nombre": "Republica Checa",
-        "logo": "escudos/manual/republicacheca.png"
-      },
-      "visita": {
-        "nombre": "México",
-        "logo": "escudos/manual/mexico.png"
-      },
-      "link": "https://is.gd/repvsmex0624",
-      "sofaId": 4697698,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo E",
-      "fondo": "",
-      "inicio": "2026-06-25T16:00:00-04:00",
-      "local": {
-        "nombre": "Ecuador",
-        "logo": "escudos/manual/ecuador.png"
-      },
-      "visita": {
-        "nombre": "Alemania",
-        "logo": "escudos/manual/alemania.png"
-      },
-      "link": "https://is.gd/ecuvsale0625",
-      "sofaId": 4627858,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo E",
-      "fondo": "",
-      "inicio": "2026-06-25T16:00:00-04:00",
-      "local": {
-        "nombre": "Curazao",
-        "logo": "escudos/manual/curazao.png"
-      },
-      "visita": {
-        "nombre": "Costa de Marfil",
-        "logo": "escudos/manual/costademarfil.png"
-      },
-      "link": "https://is.gd/curvscos0625",
-      "sofaId": 4627897,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo F",
-      "fondo": "",
-      "inicio": "2026-06-25T19:00:00-04:00",
-      "local": {
-        "nombre": "Túnez",
-        "logo": "escudos/manual/tunez.png"
-      },
-      "visita": {
-        "nombre": "Países Bajos",
-        "logo": "escudos/manual/paisesbajos.png"
-      },
-      "link": "https://is.gd/tunvspai0625",
-      "sofaId": 4627874,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo F",
-      "fondo": "",
-      "inicio": "2026-06-25T19:00:00-04:00",
-      "local": {
-        "nombre": "Japón",
-        "logo": "escudos/manual/japon.png"
-      },
-      "visita": {
-        "nombre": "Suecia",
-        "logo": "escudos/manual/suecia.png"
-      },
-      "link": "https://is.gd/japvssue0625",
-      "sofaId": 4697707,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-25T19:30:00-04:00",
@@ -1800,7 +1032,7 @@
       "inicio": "2026-06-25T19:30:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "visita": {
         "nombre": "U. de Concepción",
@@ -1808,70 +1040,6 @@
       },
       "link": "https://is.gd/nubvsude0625",
       "sofaId": 4711968,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo D",
-      "fondo": "",
-      "inicio": "2026-06-25T22:00:00-04:00",
-      "local": {
-        "nombre": "Paraguay",
-        "logo": "escudos/manual/paraguay.png"
-      },
-      "visita": {
-        "nombre": "Australia",
-        "logo": "escudos/manual/australia.png"
-      },
-      "link": "https://is.gd/parvsaus0625",
-      "sofaId": 4627870,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo D",
-      "fondo": "",
-      "inicio": "2026-06-25T22:00:00-04:00",
-      "local": {
-        "nombre": "Turquía",
-        "logo": "escudos/manual/turquia.png"
-      },
-      "visita": {
-        "nombre": "Estados Unidos",
-        "logo": "escudos/manual/estadosunidos.png"
-      },
-      "link": "https://is.gd/turvsest0625",
-      "sofaId": 4697704,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
-      "inicio": "2026-06-26T15:00:00-04:00",
-      "local": {
-        "nombre": "Noruega",
-        "logo": "escudos/manual/noruega.png"
-      },
-      "visita": {
-        "nombre": "Francia",
-        "logo": "escudos/manual/francia.png"
-      },
-      "link": "https://is.gd/norvsfra0626",
-      "sofaId": 4627924,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
-      "inicio": "2026-06-26T15:00:00-04:00",
-      "local": {
-        "nombre": "Senegal",
-        "logo": "escudos/manual/senegal.png"
-      },
-      "visita": {
-        "nombre": "Irak",
-        "logo": "escudos/manual/irak.png"
-      },
-      "link": "https://is.gd/senvsira0626",
-      "sofaId": 4697923,
       "channel": ""
     },
     {
@@ -1888,70 +1056,6 @@
       },
       "link": "https://is.gd/evevsdep0626",
       "sofaId": 4711966,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-26T20:00:00-04:00",
-      "local": {
-        "nombre": "Uruguay",
-        "logo": "escudos/manual/uruguay.png"
-      },
-      "visita": {
-        "nombre": "España",
-        "logo": "escudos/manual/espana.png"
-      },
-      "link": "https://is.gd/uruvsesp0626",
-      "sofaId": 4627861,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-26T20:00:00-04:00",
-      "local": {
-        "nombre": "Cabo Verde",
-        "logo": "escudos/manual/caboverde.png"
-      },
-      "visita": {
-        "nombre": "Arabia Saudita",
-        "logo": "escudos/manual/arabiasaudita.png"
-      },
-      "link": "https://is.gd/cabvsara0626",
-      "sofaId": 4627906,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
-      "inicio": "2026-06-26T23:00:00-04:00",
-      "local": {
-        "nombre": "Egipto",
-        "logo": "escudos/manual/egipto.png"
-      },
-      "visita": {
-        "nombre": "Irán",
-        "logo": "escudos/manual/iran.png"
-      },
-      "link": "https://is.gd/egivsira0626",
-      "sofaId": 4627875,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
-      "inicio": "2026-06-26T23:00:00-04:00",
-      "local": {
-        "nombre": "Nueva Zelanda",
-        "logo": "escudos/manual/nuevazelanda.png"
-      },
-      "visita": {
-        "nombre": "Bélgica",
-        "logo": "escudos/manual/belgica.png"
-      },
-      "link": "https://is.gd/nuevsbel0626",
-      "sofaId": 4627903,
       "channel": ""
     },
     {
@@ -2003,38 +1107,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo L",
-      "fondo": "",
-      "inicio": "2026-06-27T17:00:00-04:00",
-      "local": {
-        "nombre": "Croacia",
-        "logo": "escudos/manual/croacia.png"
-      },
-      "visita": {
-        "nombre": "Ghana",
-        "logo": "escudos/manual/ghana.png"
-      },
-      "link": "https://is.gd/crovsgha0627",
-      "sofaId": 4627921,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo L",
-      "fondo": "",
-      "inicio": "2026-06-27T17:00:00-04:00",
-      "local": {
-        "nombre": "Panamá",
-        "logo": "escudos/manual/panama.png"
-      },
-      "visita": {
-        "nombre": "Inglaterra",
-        "logo": "escudos/manual/inglaterra.png"
-      },
-      "link": "https://is.gd/panvsing0627",
-      "sofaId": 4627933,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-27T17:30:00-04:00",
@@ -2051,38 +1123,6 @@
       "channel": ""
     },
     {
-      "competencia": "Mundial - Grupo K",
-      "fondo": "",
-      "inicio": "2026-06-27T19:30:00-04:00",
-      "local": {
-        "nombre": "Colombia",
-        "logo": "escudos/manual/colombia.png"
-      },
-      "visita": {
-        "nombre": "Portugal",
-        "logo": "escudos/manual/portugal.png"
-      },
-      "link": "https://is.gd/colvspor0627",
-      "sofaId": 4627864,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo K",
-      "fondo": "",
-      "inicio": "2026-06-27T19:30:00-04:00",
-      "local": {
-        "nombre": "RD Congo",
-        "logo": "escudos/manual/rdcongo.png"
-      },
-      "visita": {
-        "nombre": "Uzbekistán",
-        "logo": "escudos/manual/uzbekistan.png"
-      },
-      "link": "https://is.gd/rdcvsuzb0627",
-      "sofaId": 4697736,
-      "channel": ""
-    },
-    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-27T20:00:00-04:00",
@@ -2096,38 +1136,6 @@
       },
       "link": "https://is.gd/univssan0627",
       "sofaId": 4711961,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo J",
-      "fondo": "",
-      "inicio": "2026-06-27T22:00:00-04:00",
-      "local": {
-        "nombre": "Argelia",
-        "logo": "escudos/manual/argelia.png"
-      },
-      "visita": {
-        "nombre": "Austria",
-        "logo": "escudos/manual/austria.png"
-      },
-      "link": "https://is.gd/argvsaus0627",
-      "sofaId": 4627880,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo J",
-      "fondo": "",
-      "inicio": "2026-06-27T22:00:00-04:00",
-      "local": {
-        "nombre": "Jordania",
-        "logo": "escudos/manual/jordania.png"
-      },
-      "visita": {
-        "nombre": "Argentina",
-        "logo": "escudos/manual/argentina.png"
-      },
-      "link": "https://is.gd/jorvsarg0627",
-      "sofaId": 4627912,
       "channel": ""
     },
     {
@@ -2236,7 +1244,7 @@
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "link": "https://is.gd/ranvsnub0628",
       "sofaId": 4711955,
@@ -2280,7 +1288,7 @@
       "inicio": "2026-06-29T19:30:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": ""
+        "logo": "escudos/ascenso/unionespanola.png"
       },
       "visita": {
         "nombre": "Colo Colo",
@@ -2360,7 +1368,7 @@
       "inicio": "2026-07-19T13:00:00-04:00",
       "local": {
         "nombre": "Magallanes",
-        "logo": ""
+        "logo": "escudos/ascenso/magallanes.png"
       },
       "visita": {
         "nombre": "Curicó Unido",
@@ -2376,11 +1384,11 @@
       "inicio": "2026-07-19T13:00:00-04:00",
       "local": {
         "nombre": "San Luis de Quillota",
-        "logo": ""
+        "logo": "escudos/ascenso/sanluis.png"
       },
       "visita": {
         "nombre": "Unión Española",
-        "logo": ""
+        "logo": "escudos/ascenso/unionespanola.png"
       },
       "link": "https://is.gd/sanvsuni0719",
       "sofaId": 4656656,
@@ -2428,7 +1436,7 @@
       },
       "visita": {
         "nombre": "Deportes Iquique",
-        "logo": ""
+        "logo": "escudos/ascenso/iquique.png"
       },
       "link": "https://is.gd/univsdep0719",
       "sofaId": 4656659,
@@ -2440,11 +1448,11 @@
       "inicio": "2026-07-19T13:00:00-04:00",
       "local": {
         "nombre": "Deportes Santa Cruz",
-        "logo": ""
+        "logo": "escudos/ascenso/santacruz.png"
       },
       "visita": {
         "nombre": "San Marcos",
-        "logo": ""
+        "logo": "escudos/ascenso/sanmarcos.png"
       },
       "link": "https://is.gd/depvssan0719",
       "sofaId": 4656660,
@@ -2488,7 +1496,7 @@
       "inicio": "2026-07-26T13:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "visita": {
         "nombre": "Palestino",
@@ -2584,7 +1592,7 @@
       "inicio": "2026-07-26T13:00:00-04:00",
       "local": {
         "nombre": "Deportes Iquique",
-        "logo": ""
+        "logo": "escudos/ascenso/iquique.png"
       },
       "visita": {
         "nombre": "Deportes Temuco",
@@ -2604,7 +1612,7 @@
       },
       "visita": {
         "nombre": "Deportes Santa Cruz",
-        "logo": ""
+        "logo": "escudos/ascenso/santacruz.png"
       },
       "link": "https://is.gd/cobvsdep0726",
       "sofaId": 4656646,
@@ -2616,11 +1624,11 @@
       "inicio": "2026-07-26T13:00:00-04:00",
       "local": {
         "nombre": "San Marcos",
-        "logo": ""
+        "logo": "escudos/ascenso/sanmarcos.png"
       },
       "visita": {
         "nombre": "Magallanes",
-        "logo": ""
+        "logo": "escudos/ascenso/magallanes.png"
       },
       "link": "https://is.gd/sanvsmag0726",
       "sofaId": 4656647,
@@ -2632,7 +1640,7 @@
       "inicio": "2026-07-26T13:00:00-04:00",
       "local": {
         "nombre": "Unión Española",
-        "logo": ""
+        "logo": "escudos/ascenso/unionespanola.png"
       },
       "visita": {
         "nombre": "Deportes Recoleta",
@@ -2668,7 +1676,7 @@
       },
       "visita": {
         "nombre": "San Luis de Quillota",
-        "logo": ""
+        "logo": "escudos/ascenso/sanluis.png"
       },
       "link": "https://is.gd/curvssan0726",
       "sofaId": 4656650,
@@ -2748,7 +1756,7 @@
       },
       "visita": {
         "nombre": "Ñublense",
-        "logo": "escudos/primera/Ñublense.png"
+        "logo": "escudos/primera/nublense.png"
       },
       "link": "https://is.gd/depvsnub0802",
       "sofaId": 4650615,
