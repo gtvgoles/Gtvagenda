@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Internacional, Amistoso Internacional",
+      "fondo": "",
+      "inicio": "2026-06-02T20:00:00-04:00",
+      "local": {
+        "nombre": "Haití",
+        "logo": "escudos/manual/haiti.png"
+      },
+      "visita": {
+        "nombre": "Nueva Zelanda",
+        "logo": "escudos/manual/nuevazelanda.png"
+      },
+      "link": "https://is.gd/haivsnue0602",
+      "sofaId": 4714655,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-06-05T20:00:00-04:00",
@@ -1424,6 +1440,22 @@
       },
       "link": "https://is.gd/univsula0701",
       "sofaId": 4711945,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-02T18:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "link": "https://is.gd/huavsdep0702",
+      "sofaId": 4711944,
       "channel": ""
     },
     {
