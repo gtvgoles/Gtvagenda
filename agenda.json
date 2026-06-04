@@ -739,6 +739,70 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo K",
+      "fondo": "",
+      "inicio": "2026-06-17T13:00:00-04:00",
+      "local": {
+        "nombre": "Portugal",
+        "logo": "escudos/manual/portugal.png"
+      },
+      "visita": {
+        "nombre": "RD Congo",
+        "logo": "escudos/manual/rdcongo.png"
+      },
+      "link": "https://is.gd/porvsrdc0617",
+      "sofaId": 4697734,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo L",
+      "fondo": "",
+      "inicio": "2026-06-17T16:00:00-04:00",
+      "local": {
+        "nombre": "Inglaterra",
+        "logo": "escudos/manual/inglaterra.png"
+      },
+      "visita": {
+        "nombre": "Croacia",
+        "logo": "escudos/manual/croacia.png"
+      },
+      "link": "https://is.gd/ingvscro0617",
+      "sofaId": 4627865,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo L",
+      "fondo": "",
+      "inicio": "2026-06-17T19:00:00-04:00",
+      "local": {
+        "nombre": "Ghana",
+        "logo": "escudos/manual/ghana.png"
+      },
+      "visita": {
+        "nombre": "Panamá",
+        "logo": "escudos/manual/panama.png"
+      },
+      "link": "https://is.gd/ghavspan0617",
+      "sofaId": 4627918,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo K",
+      "fondo": "",
+      "inicio": "2026-06-17T22:00:00-04:00",
+      "local": {
+        "nombre": "Uzbekistán",
+        "logo": "escudos/manual/uzbekistan.png"
+      },
+      "visita": {
+        "nombre": "Colombia",
+        "logo": "escudos/manual/colombia.png"
+      },
+      "link": "https://is.gd/uzbvscol0617",
+      "sofaId": 4627930,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-18T20:00:00-04:00",
