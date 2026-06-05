@@ -803,6 +803,54 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-18T12:00:00-04:00",
+      "local": {
+        "nombre": "Republica Checa",
+        "logo": "escudos/manual/republicacheca.png"
+      },
+      "visita": {
+        "nombre": "Sudáfrica",
+        "logo": "escudos/manual/sudafrica.png"
+      },
+      "link": "https://is.gd/repvssud0618",
+      "sofaId": 4697697,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-18T15:00:00-04:00",
+      "local": {
+        "nombre": "Suiza",
+        "logo": "escudos/manual/suiza.png"
+      },
+      "visita": {
+        "nombre": "Bosnia Herzegovina",
+        "logo": "escudos/manual/bosniaherzegovina.png"
+      },
+      "link": "https://is.gd/suivsbos0618",
+      "sofaId": 4697700,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo B",
+      "fondo": "",
+      "inicio": "2026-06-18T18:00:00-04:00",
+      "local": {
+        "nombre": "Canadá",
+        "logo": "escudos/manual/canada.png"
+      },
+      "visita": {
+        "nombre": "Qatar",
+        "logo": "escudos/manual/qatar.png"
+      },
+      "link": "https://is.gd/canvsqat0618",
+      "sofaId": 4627937,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-18T20:00:00-04:00",
@@ -816,6 +864,22 @@
       },
       "link": "https://is.gd/univsohi0618",
       "sofaId": 4719062,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo A",
+      "fondo": "",
+      "inicio": "2026-06-18T21:00:00-04:00",
+      "local": {
+        "nombre": "México",
+        "logo": "escudos/manual/mexico.png"
+      },
+      "visita": {
+        "nombre": "Corea del Sur",
+        "logo": "escudos/manual/coreadelsur.png"
+      },
+      "link": "https://is.gd/mexvscor0618",
+      "sofaId": 4627854,
       "channel": ""
     },
     {
@@ -1584,6 +1648,86 @@
       },
       "link": "https://is.gd/ohivscol0702",
       "sofaId": 4711943,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-04T15:00:00-04:00",
+      "local": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/univsula0704",
+      "sofaId": 4711942,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-04T16:00:00-04:00",
+      "local": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "visita": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/palvsmag0704",
+      "sofaId": 4711940,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-04T16:00:00-04:00",
+      "local": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "visita": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/sanvseve0704",
+      "sofaId": 4711941,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-04T18:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/depvscoq0704",
+      "sofaId": 4711939,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-04T20:30:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/manual/deportescopiapo.png"
+      },
+      "link": "https://is.gd/univsdep0704",
+      "sofaId": 4711938,
       "channel": ""
     },
     {
