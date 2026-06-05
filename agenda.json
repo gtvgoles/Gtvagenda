@@ -8,13 +8,13 @@
       "inicio": "2026-06-05T19:00:00-04:00",
       "local": {
         "nombre": "Chile (F)",
-        "logo": ""
+        "logo": "escudos/manual/chilef.png"
       },
       "visita": {
         "nombre": "Ecuador (F)",
-        "logo": ""
+        "logo": "escudos/manual/ecuadorf.png"
       },
-      "link": "https://is.gd/chivsecu0605",
+      "link": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd?ck=eyI5Mjc3ZGE3YTQ1MGM1MzdhOGNiYjZjODI5YzkzOGJjOSI6Ijc2YTUyMTg3MWQ3MjA4MTI0M2E3NTliMzI0OTAzYWFhIiwiODQ0NWExNDUwMzcyNWQ1MWE4Yjc2MzA5M2U0OTA3ZmEiOiIxM2FhNTNjY2NkZTBjMDg3NWE2ZTc1NjkzMmNmMmVmNSIsIjczZWZmNGQzZTFiYzVlNjE5YTJjNjIxY2ZmYTFmODgyIjoiMTc0NTUwNDMyNWIzNzkyMmMwZDVhZGFlZWFjODAzYzIifQ%3D%3D",
       "sofaId": 4514666,
       "channel": ""
     },
