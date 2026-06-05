@@ -3,6 +3,22 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
+      "competencia": "Sudamerica, CONMEBOL Liga de Naciones Femenina",
+      "fondo": "",
+      "inicio": "2026-06-05T19:00:00-04:00",
+      "local": {
+        "nombre": "Chile (F)",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Ecuador (F)",
+        "logo": ""
+      },
+      "link": "https://is.gd/chivsecu0605",
+      "sofaId": 4514666,
+      "channel": ""
+    },
+    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-06-05T20:00:00-04:00",
@@ -373,6 +389,22 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-06-13T12:30:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/coqvsohi0614",
+      "sofaId": 4650620,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-13T15:00:00-04:00",
       "local": {
         "nombre": "Everton",
@@ -576,22 +608,6 @@
       },
       "link": "https://is.gd/cosvsecu0614",
       "sofaId": 4627871,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-14T20:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "link": "https://is.gd/coqvsohi0614",
-      "sofaId": 4650620,
       "channel": ""
     },
     {
@@ -933,6 +949,22 @@
     {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-20T12:30:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/coqvsdep0620",
+      "sofaId": 4711981,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-20T15:00:00-04:00",
       "local": {
         "nombre": "Deportes Copiapó",
@@ -1008,22 +1040,6 @@
       },
       "link": "https://is.gd/ranvsude0620",
       "sofaId": 4711984,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa Chile",
-      "fondo": "assets/fondo_copa.jpg",
-      "inicio": "2026-06-20T20:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "link": "https://is.gd/coqvsdep0620",
-      "sofaId": 4711981,
       "channel": ""
     },
     {
@@ -1728,6 +1744,134 @@
       },
       "link": "https://is.gd/univsdep0704",
       "sofaId": 4711938,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T12:30:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "link": "https://is.gd/sanvsuni0705",
+      "sofaId": 4711937,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "visita": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "link": "https://is.gd/depvscob0705",
+      "sofaId": 4711932,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T15:00:00-04:00",
+      "local": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "visita": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/depvsdep0705",
+      "sofaId": 4711933,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T15:00:00-04:00",
+      "local": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "link": "https://is.gd/udevsran0705",
+      "sofaId": 4711934,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T15:00:00-04:00",
+      "local": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "visita": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "link": "https://is.gd/depvshua0705",
+      "sofaId": 4711935,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T15:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/nublense.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/nubvscur0705",
+      "sofaId": 4711936,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T16:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "link": "https://is.gd/depvsaud0705",
+      "sofaId": 4711928,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T17:30:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/univsohi0705",
+      "sofaId": 4711930,
       "channel": ""
     },
     {
