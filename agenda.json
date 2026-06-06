@@ -3,40 +3,8 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-06T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Copiapó",
-        "logo": "escudos/manual/deportescopiapo.png"
-      },
-      "visita": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/390_Ciw5M2MxNzYyMi1iMTQ0LTQ2MWUtYTQ2Yy1hYTZkMTVhYjk3YTMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780849600&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImU5MDQyNDQ0LTM1ZjgtNGVmNy05YzUzLWNjMGNkYTg4MzE1MSIsICJlZGl0SWQiOiI5M2MxNzYyMi1iMTQ0LTQ2MWUtYTQ2Yy1hYTZkMTVhYjk3YTMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wNlQxNjoyNjo0MFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=e3b3d3bcf1c186ecd0997488fdb7118f492acf318abedf838d9c44e18ed72453/main.mpd?manifest-params=prod-20260606%7C5qzeRV74eRf1Hg4kU0TENTpG29lr67wuHLlgTXM1XCA%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA2VDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjM5MF9DaXc1TTJNeE56WXlNaTFpTVRRMExUUTJNV1V0WVRRMll5MWhZVFprTVRWaFlqazNZVE10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDZUMTYlM0EyMSUzQTI4Wg%3D%3D&rtype=admo&ck=eyIwMTAwYzdhOTRmYTdhMTU3MGI1NGRmZTY5MDc4ZTU3NiI6ImQ3NjgwOTg3ODBiNzQzMTQ3Yzk4NWFkZWIxZmY0YTc1IiwiMDEwMTQyNjMxMWRlNTU1NTM3MjJiMWU1NWUyZmVkYzMiOiJmODM1MGUyYzQ4OGQ4ZGRiODllNDExMzBkMTBkOWJiMCIsIjAxMDI3ZTQ1MmI0OWZkNjFhZWUzNjk0Y2UxYzNmMmVmIjoiMzZiOTQ4Y2IwNzQzYzgzNDlkMjgxNGE5OTEyNDQ1OTMifQ%3D%3D",
-      "sofaId": 4656666,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-06T12:30:00-04:00",
-      "local": {
-        "nombre": "Dep Puerto Montt",
-        "logo": "escudos/ascenso/puertomontt.png"
-      },
-      "visita": {
-        "nombre": "Cobreloa",
-        "logo": "escudos/ascenso/cobreloa.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/5a5_CixhYTkxNDk5OS1jNzQ3LTRjZmItOGUxYy1hMzcxMjc3ZjQ1Y2QtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780849483&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjczNWQyYmQ4LWY5YWEtNDc1MC1hZDFlLWU1YTMzODgwN2M1ZSIsICJlZGl0SWQiOiJhYTkxNDk5OS1jNzQ3LTRjZmItOGUxYy1hMzcxMjc3ZjQ1Y2QiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wNlQxNjoyNDo0M1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=947bbc37cc99df9aee5129b912c4c5e6cb23a2696d4eeade1a61386d9b645c62/main.mpd?manifest-params=prod-20260606%7CNmuyvwX5otoAbpU5r1hgOxWrbwnvimqzzdHExK4t-ps%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA2VDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjVhNV9DaXhoWVRreE5EazVPUzFqTnpRM0xUUmpabUl0T0dVeFl5MWhNemN4TWpjM1pqUTFZMlF0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDZUMTYlM0EyMSUzQTExWg%3D%3D&rtype=admo&ck=eyIwMTAwZjdmOWRmNjBmZTBhNmM4OWZjY2Q0MWI4ZjY4ZiI6IjU2YWRhYjFhZmY3Yzg3MmNjYTNlODk1ZTllZGMzYzIzIiwiMDEwMTA4YzY0OWEzYThiZGZjNmU1Mzg3OWYyMGMyNDQiOiJjMzUxOTM3YzRhOGY2ODY2OThlZTdhOWQ0NjE4YmRkNSIsIjAxMDJjZTYzOThmM2NkNTk0ZWQxNzYwODQyOWY4ZTgzIjoiMjdhZjkwOTcxYzdhNGMyZjQ1ODBlOGQ0MDZkZDlhNTcifQ%3D%3D",
-      "sofaId": 4656667,
-      "channel": ""
-    },
-    {
       "competencia": "Amistoso Internacional",
-      "fondo": "assets/fondo_chipor.jpg",
+      "fondo": "",
       "inicio": "2026-06-06T13:45:00-04:00",
       "local": {
         "nombre": "Portugal",
@@ -48,6 +16,22 @@
       },
       "link": "https://linear-ftc-sa-west-2.media.dssott.com/dvt2=exp=1780851645~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fchannel%2F7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1780688371992%2F~psid=714ae4d6-1963-4754-8882-554b13fda6a9~aid=3fffd248-77c6-4393-b112-683e3ee1f942~did=2a24e257-2e6c-4f8d-a07c-abdf19eff0d3~country=CL~kid=k02~hmac=9b7c55fb830ea434e6af134c779b3c11d6d5d0f17b8c3e490923e53bc150cf6e/gru1/va01/disneyplus/channel/7f2eb6f9-3e16-448f-8acd-2d80c1aacf29-1780688371992/ctr-all-sliding-alt1.m3u8?r=1080&v=1&hash=52120e618e4fa49c6181df2eed6d8a83281d817c&ck=eyI4YzUwZDVlZmE1YmI0YjM1YTVhMzQxNDk1Yjg3MjIzZiI6ImE0MGZjMzNjOWVjZDIwZWYxMjlkNzZlYWIwMTczMWU1In0%3D",
       "sofaId": 4678933,
+      "channel": ""
+    },
+    {
+      "competencia": "Internacional, Amistoso Internacional Sub20",
+      "fondo": "",
+      "inicio": "2026-06-06T17:00:00-04:00",
+      "local": {
+        "nombre": "Chile Sub20",
+        "logo": ""
+      },
+      "visita": {
+        "nombre": "Brasil Sub20",
+        "logo": ""
+      },
+      "link": "https://is.gd/chivsbra0606",
+      "sofaId": 4730055,
       "channel": ""
     },
     {
