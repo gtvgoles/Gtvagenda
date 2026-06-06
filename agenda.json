@@ -951,22 +951,6 @@
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-20T12:30:00-04:00",
       "local": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://is.gd/magvspal0620",
-      "sofaId": 4711988,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa Chile",
-      "fondo": "assets/fondo_copa.jpg",
-      "inicio": "2026-06-20T12:30:00-04:00",
-      "local": {
         "nombre": "Coquimbo Unido",
         "logo": "escudos/primera/coquimbounido.png"
       },
@@ -976,6 +960,22 @@
       },
       "link": "https://is.gd/coqvsdep0620",
       "sofaId": 4711981,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-20T12:30:00-04:00",
+      "local": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/magvspal0620",
+      "sofaId": 4711988,
       "channel": ""
     },
     {
