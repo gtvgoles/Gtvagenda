@@ -3,54 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Sudamerica, CONMEBOL Liga de Naciones Femenina",
-      "fondo": "",
-      "inicio": "2026-06-05T19:00:00-04:00",
-      "local": {
-        "nombre": "Chile (F)",
-        "logo": "escudos/manual/chilef.png"
-      },
-      "visita": {
-        "nombre": "Ecuador (F)",
-        "logo": "escudos/manual/ecuadorf.png"
-      },
-      "link": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd?ck=eyI5Mjc3ZGE3YTQ1MGM1MzdhOGNiYjZjODI5YzkzOGJjOSI6Ijc2YTUyMTg3MWQ3MjA4MTI0M2E3NTliMzI0OTAzYWFhIiwiODQ0NWExNDUwMzcyNWQ1MWE4Yjc2MzA5M2U0OTA3ZmEiOiIxM2FhNTNjY2NkZTBjMDg3NWE2ZTc1NjkzMmNmMmVmNSIsIjczZWZmNGQzZTFiYzVlNjE5YTJjNjIxY2ZmYTFmODgyIjoiMTc0NTUwNDMyNWIzNzkyMmMwZDVhZGFlZWFjODAzYzIifQ%3D%3D",
-      "sofaId": 4514666,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-05T20:00:00-04:00",
-      "local": {
-        "nombre": "San Luis de Quillota",
-        "logo": "escudos/ascenso/sanluis.png"
-      },
-      "visita": {
-        "nombre": "San Marcos",
-        "logo": "escudos/ascenso/sanmarcos.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/026_Ciw2NWJkNDliYS1mYTY5LTRhMDYtYTI2MS01NWQwZTEwZjgyYjItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780788662&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjgxNDYyNmVmLTBjMTktNDYwNC05MDgyLWVkNjVjZjEwMjQzNiIsICJlZGl0SWQiOiI2NWJkNDliYS1mYTY5LTRhMDYtYTI2MS01NWQwZTEwZjgyYjIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wNVQyMzozMTowMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=830643601ba03230a40f0cff12d6d48e0c98fd4c4017fd6c3a4983b836d41959/main.mpd?manifest-params=prod-20260605%7CZ3PhSffRDfkU-gQp7XWsrZ1IUZWjKlI8QxETnJqXRq8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA1VDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjAyNl9DaXcyTldKa05EbGlZUzFtWVRZNUxUUmhNRFl0WVRJMk1TMDFOV1F3WlRFd1pqZ3lZakl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDVUMjMlM0EzMCUzQTA0Wg%3D%3D&rtype=admo&ck=eyIwMTAwYTEwZWQ1ZDI2YjBiNjAwZTI4MzM2N2JkOTFlYiI6ImY3ZjRhNzY5OTA1OTNkZDMwMTQzNzRmZjI5YjFhYjkxIiwiMDEwMThhZGU3OWVhMWY5NDJhYjQ4MjYyMjFkYWU0YWYiOiIwOWM4ODcxYmE4NjBkNzFlOGVhMzVjMWU0MWNkZjViZCIsIjAxMDI1YTBjNjY3ZmEzMzNlMTY4NGM5ZWNjMTk1NmJjIjoiYzA1ZjY0YTU0YjhjZDQwMGE0NzYyNTZmN2Y4NWMwNjEifQ%3D%3D",
-      "sofaId": 4656668,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-05T20:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/df6_Ciw4OTBlOTNmYS1iZTMwLTRhN2MtODI0MC0yMTlhN2RiODkwNWItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780788566&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImUzZTY2Mjg2LTgzZjEtNDlhNS1hMzg5LThhZTU3MDgxODc4MyIsICJlZGl0SWQiOiI4OTBlOTNmYS1iZTMwLTRhN2MtODI0MC0yMTlhN2RiODkwNWIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wNVQyMzoyOToyNloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=3f7c73a2fbb311625d6f6b667084930dc5d5c83bd71cf9971a41b1259c168cbd/main.mpd?manifest-params=prod-20260605%7CDxng1f0k0TSGcg7HRF66gLWynwB6D1VmyvtWhkub2M8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA1VDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmRmNl9DaXc0T1RCbE9UTm1ZUzFpWlRNd0xUUmhOMk10T0RJME1DMHlNVGxoTjJSaU9Ea3dOV0l0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDVUMjMlM0EzMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwZmJmYjU1NGY3MmEyNWQ5YmQyOGRkNmExNTQzOCI6IjRhMDllNGU1NTJmYjcyZDA4ZmUyOTcyMTdlZjk3YzVlIiwiMDEwMTI1ZmMzNWJhMjk3MmMxNmIxNjQyNDhlZmRlNzMiOiJjODNhMDZkMDgxMzdlNTE1NTBmMDQ3ODQxNThlMWI4YyIsIjAxMDIzOTE0OWVkYjQ3ZTZlMWEyNzFkMTI2ZTI4MjE5IjoiZjJkNWIzMzlkNDdmODQ2ODc5NjQxYjNlZmE2MWE0MTMifQ%3D%3D",
-      "sofaId": 4705487,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-06-06T12:30:00-04:00",
@@ -899,6 +851,38 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-19T15:00:00-04:00",
+      "local": {
+        "nombre": "Estados Unidos",
+        "logo": "escudos/manual/estadosunidos.png"
+      },
+      "visita": {
+        "nombre": "Australia",
+        "logo": "escudos/manual/australia.png"
+      },
+      "link": "https://is.gd/estvsaus0619",
+      "sofaId": 4627857,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-19T18:00:00-04:00",
+      "local": {
+        "nombre": "Escocia",
+        "logo": "escudos/manual/escocia.png"
+      },
+      "visita": {
+        "nombre": "Marruecos",
+        "logo": "escudos/manual/marruecos.png"
+      },
+      "link": "https://is.gd/escvsmar0619",
+      "sofaId": 4627882,
+      "channel": ""
+    },
+    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-19T19:00:00-04:00",
@@ -928,6 +912,38 @@
       },
       "link": "https://is.gd/sanvsdep0619",
       "sofaId": 4711989,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo C",
+      "fondo": "",
+      "inicio": "2026-06-19T20:30:00-04:00",
+      "local": {
+        "nombre": "Brasil",
+        "logo": "escudos/manual/brasil.png"
+      },
+      "visita": {
+        "nombre": "Haití",
+        "logo": "escudos/manual/haiti.png"
+      },
+      "link": "https://is.gd/bravshai0619",
+      "sofaId": 4627883,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo D",
+      "fondo": "",
+      "inicio": "2026-06-19T23:00:00-04:00",
+      "local": {
+        "nombre": "Turquía",
+        "logo": "escudos/manual/turquia.png"
+      },
+      "visita": {
+        "nombre": "Paraguay",
+        "logo": "escudos/manual/paraguay.png"
+      },
+      "link": "https://is.gd/turvspar0619",
+      "sofaId": 4697703,
       "channel": ""
     },
     {
@@ -1872,6 +1888,22 @@
       },
       "link": "https://is.gd/univsohi0705",
       "sofaId": 4711930,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-05T20:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "visita": {
+        "nombre": "San Marcos",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/depvssan0705",
+      "sofaId": 4711927,
       "channel": ""
     },
     {
