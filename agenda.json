@@ -3,86 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Internacional, Amistoso Internacional Sub20",
-      "fondo": "",
-      "inicio": "2026-06-06T17:00:00-04:00",
-      "local": {
-        "nombre": "Chile Sub20",
-        "logo": "escudos/manual/chilesub20.png"
-      },
-      "visita": {
-        "nombre": "Brasil Sub20",
-        "logo": "escudos/manual/brasilsub20.png"
-      },
-      "link": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd?ck=eyI5Mjc3ZGE3YTQ1MGM1MzdhOGNiYjZjODI5YzkzOGJjOSI6Ijc2YTUyMTg3MWQ3MjA4MTI0M2E3NTliMzI0OTAzYWFhIiwiODQ0NWExNDUwMzcyNWQ1MWE4Yjc2MzA5M2U0OTA3ZmEiOiIxM2FhNTNjY2NkZTBjMDg3NWE2ZTc1NjkzMmNmMmVmNSIsIjczZWZmNGQzZTFiYzVlNjE5YTJjNjIxY2ZmYTFmODgyIjoiMTc0NTUwNDMyNWIzNzkyMmMwZDVhZGFlZWFjODAzYzIifQ%3D%3D",
-      "sofaId": 4730055,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-06T18:00:00-04:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/nublense.png"
-      },
-      "visita": {
-        "nombre": "U. de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/2fb_Ciw3YTBiMDExNy1kMDMzLTRkN2UtYTI5Ni0xOTY3ZDc5ZjlmOTgtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780870183&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImRhNTZkNDNiLWI1N2MtNDVjYi05ZTM2LTY1YzUwYzc4YTZkMiIsICJlZGl0SWQiOiI3YTBiMDExNy1kMDMzLTRkN2UtYTI5Ni0xOTY3ZDc5ZjlmOTgiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wNlQyMjowOTo0M1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=e810b2eea246e034a92cb2449f81d496415710ee336663c9f5c2380eacbb1737/main.mpd?manifest-params=prod-20260606%7Ckvep0dBOvn0MReZwYmYqwkFzO4r6GeoT-bGdLCNaEnY%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA2VDIyJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjJmYl9DaXczWVRCaU1ERXhOeTFrTURNekxUUmtOMlV0WVRJNU5pMHhPVFkzWkRjNVpqbG1PVGd0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDZUMjElM0E0OSUzQTUxWg%3D%3D&rtype=admo&ck=eyIwMTAwOWFlYzcwY2Q4MDg2OTg3M2I0ZTc1M2QzNzMwMSI6IjY1MGJhZThmMGIxOWFmN2Q5N2ViYjQ0M2I0MjBhMTFiIiwiMDEwMWVmOGI5NGY1YmZiMGU3ZDI4NWExYTViYjkwYzMiOiI4ZmU0ZGExZDBhNzAyYzZhYjdjODZiNTZhNmIxNjU4MiIsIjAxMDJhNjUwZDZkMjQwMTdlMTliNmYwYjQ1ZWVjZGQ5IjoiY2Y0NjA4MjJmNjVjMmViY2MwOGZkNDU0Y2IwYTI4NzUifQ%3D%3D",
-      "sofaId": 4705488,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-06T18:00:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "Deportes Cobresal",
-        "logo": "escudos/primera/cobresal.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/6be_CiwyYzRmNjU5My0wOTA0LTRhNDAtOTExZC04MTllODQyMGQyNmUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780870102&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjkxNzIyZjUwLTgyZjItNDBlOS1iNDFjLTA3OTY2NGEwMTM3YyIsICJlZGl0SWQiOiIyYzRmNjU5My0wOTA0LTRhNDAtOTExZC04MTllODQyMGQyNmUiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wNlQyMjowODoyMloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=b4e9a98b8a65427238ee7800ab6428d8e788df0ce82316d6059053bf9d82bc1d/main.mpd?manifest-params=prod-20260606%7CWe0xPk43cUgpALuyRjAhDlg3GFvpvnlNiRuZlt9TbYM%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA2VDIyJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjZiZV9DaXd5WXpSbU5qVTVNeTB3T1RBMExUUmhOREF0T1RFeFpDMDRNVGxsT0RReU1HUXlObVV0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDZUMjElM0E1MCUzQTEyWg%3D%3D&rtype=admo&ck=eyIwMTAwYzFmY2E0Mzg3OGFlZTIwM2Y1YWYzZWY0MmQ1ZCI6IjhhNjBiODllMWY4M2E3ZDA3NmM1NjYzMGUwYTNlNDFiIiwiMDEwMTBmZGQxOGY3MmI1M2Q0MDRlMjgzNmZjYTFiOTAiOiJiNWUxNjRjZDkxM2FiMTYwMDkzYzA1N2I2MjY3MDM3ZSIsIjAxMDJjMTMyMjE2YWIzOWYyNDhiMjFiZTEwYTkwOWUwIjoiYzFlMWVkYmJjMDUyYmMyZmQ0N2FjYjc5ZTQ0NTMxNTkifQ%3D%3D",
-      "sofaId": 4705490,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-06T20:30:00-04:00",
-      "local": {
-        "nombre": "Rangers De Talca",
-        "logo": "escudos/ascenso/rangers.png"
-      },
-      "visita": {
-        "nombre": "Deportes Santa Cruz",
-        "logo": "escudos/ascenso/santacruz.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/eee_CixmOWRiZjc1ZS05MjQ2LTQxMmEtYjliNi1iZTE0OGQzZDg3NmItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780878257&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjAyY2U5ODIyLTNmMDctNDU4ZC05NDhjLThmMTY5YzA1OWIxNyIsICJlZGl0SWQiOiJmOWRiZjc1ZS05MjQ2LTQxMmEtYjliNi1iZTE0OGQzZDg3NmIiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QwMDoyNDoxN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=3f13d32635d16596b95f2758e74c2f3a421a10c8e7225aaf2d631f1d98d960e2/main.mpd?manifest-params=prod-20260606%7ClfdLvomrVyXaqYHYoAL6tWK-u2ns3NnyQhfKWQtDhRU%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDAwJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmVlZV9DaXhtT1dSaVpqYzFaUzA1TWpRMkxUUXhNbUV0WWpsaU5pMWlaVEUwT0dRelpEZzNObUl0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMDAlM0ExMCUzQTAxWg%3D%3D&rtype=admo&ck=eyIwMTAwYzBlNWExOGE1YTk2ZGZkZWVhZjQ0MTNkYTBjOCI6IjM4ZWJlYjkzNzIwYzJmMjZlMzc5NmRhMjhjYzEyMjY1IiwiMDEwMTAxZTA3Y2Q4MzYwOWVmNTg4OTYyYjNkMTg4NmUiOiJlODc5ZWViMTJjNWRjZTBhMmVjZmY0ZTJhZTFkZmY5YSIsIjAxMDJmM2Y3ZDJkY2VmYmEyYWY0MDU0YTIzZGJjNDVhIjoiMzk1OGQ3NjIyNTQ3MGU3ZjAyOTAzNjcxOWNkMWVjOTYifQ%3D%3D",
-      "sofaId": 4656662,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-06T20:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Iquique",
-        "logo": "escudos/ascenso/iquique.png"
-      },
-      "visita": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/b70_Ciw0Nzk3ZDM5Yi0yNDQ1LTQzMzItODdjNi1mNTFjYjFiOTc0ZTktdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780878327&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjI0MWZmNjUzLWQzMDYtNGFhYy1hODUzLWQ2MWMwZTQ1ZTBkOSIsICJlZGl0SWQiOiI0Nzk3ZDM5Yi0yNDQ1LTQzMzItODdjNi1mNTFjYjFiOTc0ZTkiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QwMDoyNToyN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=529a16b5d2420141963260e06e2ea613f6905928d6ee360c01c5995224a5e7c6/main.mpd?manifest-params=prod-20260606%7C5cnEKWcATO2-BI1enUeB8GusKMGVz3vQ6bslijCCoXg%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDAwJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmI3MF9DaXcwTnprM1pETTVZaTB5TkRRMUxUUXpNekl0T0Rkak5pMW1OVEZqWWpGaU9UYzBaVGt0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMDAlM0EyMCUzQTMwWg%3D%3D&rtype=admo&ck=eyIwMTAwNWRkYjI1ZTllZmE5ZDRmYTBmZmI2OTA4YzU4MiI6IjNmNmJlYzUzNDQ3ZDA0OTUwZDE1N2I4YjNmN2U2YWRhIiwiMDEwMTk3NjA5YTJjNzg0OWQwZGNmMTExYTJmMGNkN2IiOiI3NzNmYmZlYjJhZGNiODc5ZDc5MWY3YzZmMzRkNGMyOSIsIjAxMDJmZmU1YjE3ZGY0NWVjYTc1NWQ1Y2U2ZjM1YjZlIjoiNWZjNjdhYzI2MmFlNDgwY2I0NjRhNzIzOGE2ZDMwNTgifQ%3D%3D",
-      "sofaId": 4656664,
-      "channel": ""
-    },
-    {
       "competencia": "Copa de la Liga",
       "fondo": "assets/fondo_copa_liga.jpg",
       "inicio": "2026-06-07T12:30:00-04:00",
@@ -947,6 +867,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-20T13:00:00-04:00",
+      "local": {
+        "nombre": "Países Bajos",
+        "logo": "escudos/manual/paisesbajos.png"
+      },
+      "visita": {
+        "nombre": "Suecia",
+        "logo": "escudos/manual/suecia.png"
+      },
+      "link": "https://is.gd/paivssue0620",
+      "sofaId": 4697706,
+      "channel": ""
+    },
+    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-20T15:00:00-04:00",
@@ -976,6 +912,22 @@
       },
       "link": "https://is.gd/cobvsdep0620",
       "sofaId": 4711987,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-20T16:00:00-04:00",
+      "local": {
+        "nombre": "Alemania",
+        "logo": "escudos/manual/alemania.png"
+      },
+      "visita": {
+        "nombre": "Costa de Marfil",
+        "logo": "escudos/manual/costademarfil.png"
+      },
+      "link": "https://is.gd/alevscos0620",
+      "sofaId": 4627872,
       "channel": ""
     },
     {
@@ -1024,6 +976,38 @@
       },
       "link": "https://is.gd/ranvsude0620",
       "sofaId": 4711984,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo E",
+      "fondo": "",
+      "inicio": "2026-06-20T20:00:00-04:00",
+      "local": {
+        "nombre": "Ecuador",
+        "logo": "escudos/manual/ecuador.png"
+      },
+      "visita": {
+        "nombre": "Curazao",
+        "logo": "escudos/manual/curazao.png"
+      },
+      "link": "https://is.gd/ecuvscur0620",
+      "sofaId": 4627896,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo F",
+      "fondo": "",
+      "inicio": "2026-06-21T00:00:00-04:00",
+      "local": {
+        "nombre": "Túnez",
+        "logo": "escudos/manual/tunez.png"
+      },
+      "visita": {
+        "nombre": "Japón",
+        "logo": "escudos/manual/japon.png"
+      },
+      "link": "https://is.gd/tunvsjap0621",
+      "sofaId": 4627873,
       "channel": ""
     },
     {
@@ -1872,6 +1856,38 @@
       },
       "link": "https://is.gd/depvssan0705",
       "sofaId": 4711927,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-06T19:30:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "link": "https://is.gd/depvsdep0706",
+      "sofaId": 4711929,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-07-06T19:30:00-04:00",
+      "local": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/colvsdep0706",
+      "sofaId": 4711931,
       "channel": ""
     },
     {
