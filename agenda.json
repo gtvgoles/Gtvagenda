@@ -1827,6 +1827,38 @@
       "channel": ""
     },
     {
+      "competencia": "Copa de la Liga - Semifinales",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-07-06T13:00:00-04:00",
+      "local": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/nublense.png"
+      },
+      "visita": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "link": "https://is.gd/nubvsohi0706",
+      "sofaId": 4733290,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa de la Liga - Semifinales",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-07-06T13:00:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "link": "https://is.gd/ulavscoq0706",
+      "sofaId": 4733291,
+      "channel": ""
+    },
+    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-07-06T19:30:00-04:00",
