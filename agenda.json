@@ -3,102 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-07T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "visita": {
-        "nombre": "U. La Calera",
-        "logo": "escudos/primera/unionlacalera.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/7be_Ciw3ZDEyZjc5Mi1kMGY3LTQyNmQtYTNhYy1jZDVmZGE2ZDJiZDAtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780934580&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjdlYjYwMmNkLTAxZDYtNGFiZS04NWRiLTY4YWRiNWNkZDI5MiIsICJlZGl0SWQiOiI3ZDEyZjc5Mi1kMGY3LTQyNmQtYTNhYy1jZDVmZGE2ZDJiZDAiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QxNjowMzowMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=80eec385b4b62f57448f75fad14d0ce765b4d583e73387b4acae77960ffcb753/main.mpd?manifest-params=prod-20260607%7CeHGG_QJAitSebcyIRgTBIryJvUbg1q1wbihoEUEhMXU%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjdiZV9DaXczWkRFeVpqYzVNaTFrTUdZM0xUUXlObVF0WVROaFl5MWpaRFZtWkdFMlpESmlaREF0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMTUlM0EzMCUzQTAyWg%3D%3D&rtype=admo&ck=eyIwMTAwMWJjN2U4OTBlYTIyNDQ3ODRkOTE4YTUzNDgxNCI6ImVlNzRlYmNjNWFmYWJjYzc4MWE3M2E1ZTlhYmIwMTMzIiwiMDEwMTM2MjMzMjUyY2EwZGNhYjM4OWNjZjc0NTliOWUiOiJmMDI4NDBjNWIxOTQwMDI1ODE5MjlkZGMyMTdiMjkyNSIsIjAxMDI4NzU0YTQzMzBlNTZmNWNiYzEwNWFiMDRmOTcwIjoiZGQxZjFhM2EzMTdjYTAzY2UwNzUwODkyODIxMmI4NWIifQ%3D%3D",
-      "sofaId": 4705486,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-07T12:30:00-04:00",
-      "local": {
-        "nombre": "Universidad de Chile",
-        "logo": "escudos/primera/universidaddechile.png"
-      },
-      "visita": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/8a0_CixlOTNkM2I4MC1lN2E1LTRiZmEtOWExOC0xYjE4YjlhYjVhZGQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780934494&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjhiNGQ4NTljLTA4MDItNDY5Yi05ODQ2LTM1ZTU0NTMwY2Y2NSIsICJlZGl0SWQiOiJlOTNkM2I4MC1lN2E1LTRiZmEtOWExOC0xYjE4YjlhYjVhZGQiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QxNjowMTozNFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=2b3078e0f869b57e6ad7d2acd08eda83578caa260f658d182165ad59133fae83/main.mpd?manifest-params=prod-20260607%7CgExrVFjmOTgji8v1u9_olalGtHmg93IUB5RmP7R0zuI%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjhhMF9DaXhsT1ROa00ySTRNQzFsTjJFMUxUUmlabUV0T1dFeE9DMHhZakU0WWpsaFlqVmhaR1F0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMTYlM0EwMCUzQTAzWg%3D%3D&rtype=admo&ck=eyIwMTAwYmI3ZWFhNTQzYzY5ZDg4MzM2YjJhOWIwZTkwMiI6Ijc0Njg2ZTA5MDZhOWIyM2UyMWMxMDAwNGIxYTMzZjVmIiwiMDEwMWQ1ZjI3MzZlODE5ZTMyOWRhODQxMTA0YjE3MjMiOiIwOTVkZjg5NTUxMjE0YTgyZGE0ODQ0NjU0OTQ0NDMyNiIsIjAxMDIzNzZlOTkyMmQ0MzlhYTQ3MGRkNWZlZjg3N2NmIjoiYmRlYTM4YzVhMTg1YTU1NjIyOTE3MjM1YWE1ODM4Y2YifQ%3D%3D",
-      "sofaId": 4705489,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-07T15:00:00-04:00",
-      "local": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "visita": {
-        "nombre": "Colo Colo",
-        "logo": "escudos/primera/colocolo.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/aa5_CixkYjE3YjUyZC02NjJjLTRmYjAtYmJlYi02NDE2ZmY0MTUwNTAtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780943718&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjRlYjIzZmM4LTgwYjYtNGI4Yy1hMTE5LWYyMzZkMjczODI1NSIsICJlZGl0SWQiOiJkYjE3YjUyZC02NjJjLTRmYjAtYmJlYi02NDE2ZmY0MTUwNTAiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QxODozNToxOFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=d0565396a28f14b80bb869ada25b204d80547f3484a77c2ac99a65a2760121f8/main.mpd?manifest-params=prod-20260607%7CX1Xn-tgorzIdyhZO3sLvMmbUavPhMfJi1EBTJq5BMj4%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDE4JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmFhNV9DaXhrWWpFM1lqVXlaQzAyTmpKakxUUm1ZakF0WW1KbFlpMDJOREUyWm1ZME1UVXdOVEF0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMTglM0E0MCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwMzViMGE5YjFiYWYyNTU1ZTNiNzcxOWU2ODZjMCI6ImU4MWYwMTJmYTlhMDVlY2M5NDlhYzBlOGU1NTEzYzhlIiwiMDEwMWFhMDIwZmZjMzAxMzk2OGRhZDQ3ODNjODEzYTYiOiJmZDI1ZmU4Mzk0YzM3ODFiYmI0MDMyN2E0OWRmMDQ3NyIsIjAxMDI4YTE4YmJlMzc3NDA3ZjYxODgwYWU5ZDJiY2Y1IjoiOWJmYjBiODc0YTAxNGIwNzY5NTQzNzA4Yjg5NDY0ZmIifQ%3D%3D",
-      "sofaId": 4705491,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-07T15:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Antofagasta",
-        "logo": "escudos/ascenso/antofagasta.png"
-      },
-      "visita": {
-        "nombre": "Magallanes",
-        "logo": "escudos/ascenso/magallanes.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/713_Ciw0NDRlNmY0Yi1iNGRkLTRhMDktODZkMi0yOGI4NTk5NGZhMTMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780945972&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjQ5MWJlNzA2LTI0NmItNDVlNC1iNjUxLTBhZDRmYjY4OGFkZSIsICJlZGl0SWQiOiI0NDRlNmY0Yi1iNGRkLTRhMDktODZkMi0yOGI4NTk5NGZhMTMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QxOToxMjo1MloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=8ff137b735e82f72ab1959963ee482b92b74556e9e8bb9eeb01d458608dd3d5b/main.mpd?manifest-params=prod-20260607%7Cp0MVz7pBJyCNdtuKrW8cgKdYnvLz--r8_Q46dZk5pTI%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDE5JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjcxM19DaXcwTkRSbE5tWTBZaTFpTkdSa0xUUmhNRGt0T0Raa01pMHlPR0k0TlRrNU5HWmhNVE10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMTklM0ExMSUzQTQ2Wg%3D%3D&rtype=admo&ck=eyIwMTAwMWM2MzYyNTNhMDgzMDJjMDIwYTllNGYyYjlhMCI6ImNjNjFhYWVmMDVlOTI4YWFiNzRhNGZlNDA5OGFlYTVlIiwiMDEwMWQ5MTMxOWY0ODk4Zjk3ZGJkNDg5ZjBiODFjZDYiOiIwMTcxMDlmYjE2NmEwZDJmOGY1N2JkMDExMTA5NjIyZiIsIjAxMDIzYmY3MTZkMWNmMzc4ZWYzOGU5MjJlOWUwNDNkIjoiZDkxMTI4MTVjYmJiNjUwMDRiYTRkMmEyZWQ2MWVhNWUifQ%3D%3D",
-      "sofaId": 4656663,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-07T18:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "visita": {
-        "nombre": "Everton",
-        "logo": "escudos/primera/everton.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/277_CiwwODlhNmJjOC05MjVmLTRlY2ItOWMyZC0wY2QzMDdjOWZkOGMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780954599&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImRhYWJmMjhhLTZkMzEtNDMzYy05Y2Y2LWQ1MTNlZDRiYzJiMiIsICJlZGl0SWQiOiIwODlhNmJjOC05MjVmLTRlY2ItOWMyZC0wY2QzMDdjOWZkOGMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QyMTozNjozOVoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=dc9b1beb25779a2a8f963307cb647208dcd54ddb390564246bc2ef7ba2ae9880/main.mpd?manifest-params=prod-20260607%7Cm_KFILw0YW6-68n7ahNxssBcfwociE0JkbeQWwaRB_0%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjI3N19DaXd3T0RsaE5tSmpPQzA1TWpWbUxUUmxZMkl0T1dNeVpDMHdZMlF6TURkak9XWmtPR010ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMjElM0E0MCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwOTU1OTkzZTg5MmI3Njc0N2FmNmM0NDk4N2ZlZSI6IjBlOGEwMTZkM2RlZGU5ZDgyMWE2N2I3Y2E4MzUzYmFmIiwiMDEwMTQ4ODNkYTcyMzYwYzE3ZjRkYjUzMjU0MTAyMWUiOiI1YTM0NjBmNzgyM2I3NTg3OWY5Y2VhYWZkMWMwNTA3MCIsIjAxMDI3MmYxZjc2MzQwNjNlYjA3ZTE2ZmMxNzg5NGQzIjoiZWFkMDYyMjMxOWMzZmMwYmU4MWExNTYyN2VkYTM1MzcifQ%3D%3D",
-      "sofaId": 4705492,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa de la Liga",
-      "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-06-07T18:00:00-04:00",
-      "local": {
-        "nombre": "O'Higgins",
-        "logo": "escudos/primera/ohiggins.png"
-      },
-      "visita": {
-        "nombre": "Palestino",
-        "logo": "escudos/primera/palestino.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/307_CixiMzdlYzQ0OS1hY2JiLTQ3ZGUtOTA5NS0xM2E1NDA4MDYzZTEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1780954270&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImY1ZmYyYzRiLWI2N2QtNDMwNS1hODI5LWYxNjUzOTdhNDVhYSIsICJlZGl0SWQiOiJiMzdlYzQ0OS1hY2JiLTQ3ZGUtOTA5NS0xM2E1NDA4MDYzZTEiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wN1QyMTozMToxMFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=6cf820a0e8898c69f96b46f9290b9e2106251aa54092eb0525c96b9a743bbc70/main.mpd?manifest-params=prod-20260607%7CIEAhFqVhPl-1-FmVk96IF3n6R-BT-SefjqkhTLQl83M%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA3VDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjMwN19DaXhpTXpkbFl6UTBPUzFoWTJKaUxUUTNaR1V0T1RBNU5TMHhNMkUxTkRBNE1EWXpaVEV0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDdUMjElM0EyMCUzQTAxWg%3D%3D&rtype=admo&ck=eyIwMTAwYzcwYzY2ZjFmYWNhZGIzY2JjOGYyZjgzYzFmYSI6ImIxNzFiZmJkOGFjMzU3Njk0ODY3YzcyOThmYTI2M2Q2IiwiMDEwMTA2MmE0MjUwMmMzN2IzYTAzYjhiNjFlNTYyOTYiOiJhYTFkNmExMmY2OWI4NTY1N2RhMDAwYzNlNGJjZmQ4ZSIsIjAxMDIzZTZjMmQyYjAxMTNiYWIxYjU4MzE2MjFmOGJkIjoiZWFjZDg1OTliZWUyMTRhYjE1OTMxMTUyNDk1MzVhNDUifQ%3D%3D",
-      "sofaId": 4705493,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Ascenso",
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-06-08T19:30:00-04:00",
@@ -1011,6 +915,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-21T12:00:00-04:00",
+      "local": {
+        "nombre": "España",
+        "logo": "escudos/manual/espana.png"
+      },
+      "visita": {
+        "nombre": "Arabia Saudita",
+        "logo": "escudos/manual/arabiasaudita.png"
+      },
+      "link": "https://is.gd/espvsara0621",
+      "sofaId": 4627877,
+      "channel": ""
+    },
+    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-21T12:30:00-04:00",
@@ -1075,6 +995,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-21T15:00:00-04:00",
+      "local": {
+        "nombre": "Bélgica",
+        "logo": "escudos/manual/belgica.png"
+      },
+      "visita": {
+        "nombre": "Irán",
+        "logo": "escudos/manual/iran.png"
+      },
+      "link": "https://is.gd/belvsira0621",
+      "sofaId": 4627860,
+      "channel": ""
+    },
+    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-21T16:00:00-04:00",
@@ -1107,6 +1043,22 @@
       "channel": ""
     },
     {
+      "competencia": "Mundial - Grupo H",
+      "fondo": "",
+      "inicio": "2026-06-21T18:00:00-04:00",
+      "local": {
+        "nombre": "Uruguay",
+        "logo": "escudos/manual/uruguay.png"
+      },
+      "visita": {
+        "nombre": "Cabo Verde",
+        "logo": "escudos/manual/caboverde.png"
+      },
+      "link": "https://is.gd/uruvscab0621",
+      "sofaId": 4627905,
+      "channel": ""
+    },
+    {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
       "inicio": "2026-06-21T20:00:00-04:00",
@@ -1120,6 +1072,22 @@
       },
       "link": "https://is.gd/ohivsuni0621",
       "sofaId": 4711975,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo G",
+      "fondo": "",
+      "inicio": "2026-06-21T21:00:00-04:00",
+      "local": {
+        "nombre": "Nueva Zelanda",
+        "logo": "escudos/manual/nuevazelanda.png"
+      },
+      "visita": {
+        "nombre": "Egipto",
+        "logo": "escudos/manual/egipto.png"
+      },
+      "link": "https://is.gd/nuevsegi0621",
+      "sofaId": 4627901,
       "channel": ""
     },
     {
