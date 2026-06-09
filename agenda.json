@@ -3,35 +3,19 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-08T19:30:00-04:00",
+      "competencia": "Internacional, Amistoso Internacional",
+      "fondo": "",
+      "inicio": "2026-06-08T22:00:00-04:00",
       "local": {
-        "nombre": "Deportes Temuco",
-        "logo": "escudos/ascenso/temuco.png"
+        "nombre": "Perú",
+        "logo": ""
       },
       "visita": {
-        "nombre": "Curicó Unido",
-        "logo": "escudos/ascenso/curicounido.png"
+        "nombre": "España",
+        "logo": "escudos/manual/espana.png"
       },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/7a7_CixiM2VkYzVjYS0xOGI3LTRjNWMtOTViMy1kNjkxNmUzMTk3NWMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1781045834&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjNlMTQ5ZTk2LTQyYjktNGNlZi1iNDQxLWE1NzQwZDQ0ZGQ2YiIsICJlZGl0SWQiOiJiM2VkYzVjYS0xOGI3LTRjNWMtOTViMy1kNjkxNmUzMTk3NWMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wOFQyMjo1NzoxNFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=ea106555ae5d5f3fb024bb6859167ad44507949b7e982b628f247ced0046098c/main.mpd?manifest-params=prod-20260608%7CUrG4PYoYmlw1y5SwC4pyxWcePRSvUU3bdwwG9wnPoMA%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA4VDIyJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjdhN19DaXhpTTJWa1l6VmpZUzB4T0dJM0xUUmpOV010T1RWaU15MWtOamt4Tm1Vek1UazNOV010ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDhUMjMlM0EwMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwMzZiMGY0ZTY2YjAzYmY0YmY1MWE2NzNlNDhlMCI6IjdlNzg5YzU0YjMzYjU5ZTUyMzZmMTAzM2JkMjVkYWRkIiwiMDEwMWQzN2NkYzRiMzM5ZDI0OTMzMTc1Njk5ZWQ1OTAiOiI4ODhhNTgxZTlkOTY0NmM0MzZkZDc3YWEyYzBiMjhkNSIsIjAxMDI0MTgwMjQyNWIxNTAwZGY2MWVlMzY4MmVjZTQwIjoiNTE4MzBkYWVjZDI4YzdlZjViNWExNjZhZDQ3YTE4YjUifQ%3D%3D",
-      "sofaId": 4656661,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-06-08T19:30:00-04:00",
-      "local": {
-        "nombre": "Unión Española",
-        "logo": "escudos/ascenso/unionespanola.png"
-      },
-      "visita": {
-        "nombre": "Union San Felipe",
-        "logo": "escudos/ascenso/sanfelipe.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/935_Ciw5NjdhNGQwMC1mNGFiLTQzYmEtOGUxYS0xZjY0ZDFhZjAwMDktdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1781047038&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6ImQwN2RlNGU2LWZkYzMtNDJhMy1iM2NmLWNlNzIwZDQwMTdjYSIsICJlZGl0SWQiOiI5NjdhNGQwMC1mNGFiLTQzYmEtOGUxYS0xZjY0ZDFhZjAwMDkiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0wOFQyMzoxNzoxOFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=b25e128cb7e9e3195dd18be7cf2a6d0fba29b1c38dddf4e129cd8fe674f3c799/main.mpd?manifest-params=prod-20260608%7CXLAM4soPi8fV7ws01c2eyJdJOwWtFYDGAwWe-M3ctX8%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTA4VDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjkzNV9DaXc1TmpkaE5HUXdNQzFtTkdGaUxUUXpZbUV0T0dVeFlTMHhaalkwWkRGaFpqQXdNRGt0ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMDhUMjMlM0EyMCUzQTAwWg%3D%3D&rtype=admo&ck=eyIwMTAwYmMxMzg5OTUzNmIzNmVkOTdlOTdkMjc0ODcyNiI6Ijg3MjFjYTVlNjViMTZiODEwNWYxMDk1YmQ3NzU0NDE2IiwiMDEwMTdkMzEyYjNkMWRhNjZiNjk1NDk5YTFhZjE5Y2UiOiI3ZGJiZDFjYWFkODRiMmE0M2VhZTYwNDQ5NTk2Nzc3NCIsIjAxMDI3MDY0ZGMzZWJiMTllYzE1NWNjYTMyOGIxYjk4IjoiZTZmOTg4OWJjZjc2OGI3YzhhY2UyM2VjZTI3NzcxOGYifQ%3D%3D",
-      "sofaId": 4656665,
+      "link": "https://is.gd/pervsesp0608",
+      "sofaId": 4705416,
       "channel": ""
     },
     {
@@ -1088,6 +1072,70 @@
       },
       "link": "https://is.gd/nuevsegi0621",
       "sofaId": 4627901,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo J",
+      "fondo": "",
+      "inicio": "2026-06-22T13:00:00-04:00",
+      "local": {
+        "nombre": "Argentina",
+        "logo": "escudos/manual/argentina.png"
+      },
+      "visita": {
+        "nombre": "Austria",
+        "logo": "escudos/manual/austria.png"
+      },
+      "link": "https://is.gd/argvsaus0622",
+      "sofaId": 4627863,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo I",
+      "fondo": "",
+      "inicio": "2026-06-22T17:00:00-04:00",
+      "local": {
+        "nombre": "Francia",
+        "logo": "escudos/manual/francia.png"
+      },
+      "visita": {
+        "nombre": "Irak",
+        "logo": "escudos/manual/irak.png"
+      },
+      "link": "https://is.gd/fravsira0622",
+      "sofaId": 4697922,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo I",
+      "fondo": "",
+      "inicio": "2026-06-22T20:00:00-04:00",
+      "local": {
+        "nombre": "Noruega",
+        "logo": "escudos/manual/noruega.png"
+      },
+      "visita": {
+        "nombre": "Senegal",
+        "logo": "escudos/manual/senegal.png"
+      },
+      "link": "https://is.gd/norvssen0622",
+      "sofaId": 4627927,
+      "channel": ""
+    },
+    {
+      "competencia": "Mundial - Grupo J",
+      "fondo": "",
+      "inicio": "2026-06-22T23:00:00-04:00",
+      "local": {
+        "nombre": "Jordania",
+        "logo": "escudos/manual/jordania.png"
+      },
+      "visita": {
+        "nombre": "Argelia",
+        "logo": "escudos/manual/argelia.png"
+      },
+      "link": "https://is.gd/jorvsarg0622",
+      "sofaId": 4627911,
       "channel": ""
     },
     {
@@ -2528,6 +2576,134 @@
       },
       "link": "https://is.gd/sanvsdep0802",
       "sofaId": 4656644,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Santa Cruz",
+        "logo": "escudos/ascenso/santacruz.png"
+      },
+      "visita": {
+        "nombre": "Dep Puerto Montt",
+        "logo": "escudos/ascenso/puertomontt.png"
+      },
+      "link": "https://is.gd/depvsdep0809",
+      "sofaId": 4656629,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Rangers De Talca",
+        "logo": "escudos/ascenso/rangers.png"
+      },
+      "visita": {
+        "nombre": "Curicó Unido",
+        "logo": "escudos/ascenso/curicounido.png"
+      },
+      "link": "https://is.gd/ranvscur0809",
+      "sofaId": 4656630,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Temuco",
+        "logo": "escudos/ascenso/temuco.png"
+      },
+      "visita": {
+        "nombre": "Magallanes",
+        "logo": "escudos/ascenso/magallanes.png"
+      },
+      "link": "https://is.gd/depvsmag0809",
+      "sofaId": 4656631,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Union San Felipe",
+        "logo": "escudos/ascenso/sanfelipe.png"
+      },
+      "visita": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "link": "https://is.gd/univsdep0809",
+      "sofaId": 4656632,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Copiapó",
+        "logo": "escudos/manual/deportescopiapo.png"
+      },
+      "visita": {
+        "nombre": "San Luis de Quillota",
+        "logo": "escudos/ascenso/sanluis.png"
+      },
+      "link": "https://is.gd/depvssan0809",
+      "sofaId": 4656633,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Unión Española",
+        "logo": "escudos/ascenso/unionespanola.png"
+      },
+      "visita": {
+        "nombre": "Deportes Antofagasta",
+        "logo": "escudos/ascenso/antofagasta.png"
+      },
+      "link": "https://is.gd/univsdep0809",
+      "sofaId": 4656634,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Cobreloa",
+        "logo": "escudos/ascenso/cobreloa.png"
+      },
+      "visita": {
+        "nombre": "Deportes Iquique",
+        "logo": "escudos/ascenso/iquique.png"
+      },
+      "link": "https://is.gd/cobvsdep0809",
+      "sofaId": 4656635,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "visita": {
+        "nombre": "San Marcos",
+        "logo": "escudos/ascenso/sanmarcos.png"
+      },
+      "link": "https://is.gd/sanvssan0809",
+      "sofaId": 4656636,
       "channel": ""
     }
   ]
