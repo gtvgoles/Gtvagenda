@@ -1861,7 +1861,7 @@
     {
       "competencia": "Copa de la Liga - Semifinales",
       "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-07-06T11:00:00-04:00",
+      "inicio": "2026-07-06T10:00:00-04:00",
       "local": {
         "nombre": "Ñublense",
         "logo": "escudos/primera/nublense.png"
@@ -1877,7 +1877,7 @@
     {
       "competencia": "Copa de la Liga - Semifinales",
       "fondo": "assets/fondo_copa_liga.jpg",
-      "inicio": "2026-07-06T11:00:00-04:00",
+      "inicio": "2026-07-06T10:00:00-04:00",
       "local": {
         "nombre": "U. La Calera",
         "logo": "escudos/primera/unionlacalera.png"
