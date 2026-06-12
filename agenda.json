@@ -14,7 +14,7 @@
         "nombre": "Bosnia Herzegovina",
         "logo": "escudos/manual/bosniaherzegovina.png"
       },
-      "link": "https://is.gd/canvsbos0612",
+      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
       "sofaId": 4697699,
       "channel": ""
     },
@@ -46,7 +46,7 @@
         "nombre": "Paraguay",
         "logo": "escudos/manual/paraguay.png"
       },
-      "link": "https://is.gd/estvspar0612",
+      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
       "sofaId": 4627869,
       "channel": ""
     },
@@ -1091,6 +1091,22 @@
       "channel": ""
     },
     {
+      "competencia": "Copa Chile",
+      "fondo": "assets/fondo_copa.jpg",
+      "inicio": "2026-06-23T15:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/coqvsdep0623",
+      "sofaId": 4711974,
+      "channel": ""
+    },
+    {
       "competencia": "Mundial - Grupo L",
       "fondo": "",
       "inicio": "2026-06-23T16:00:00-04:00",
@@ -1104,22 +1120,6 @@
       },
       "link": "https://is.gd/ingvsgha0623",
       "sofaId": 4627920,
-      "channel": ""
-    },
-    {
-      "competencia": "Copa Chile",
-      "fondo": "assets/fondo_copa.jpg",
-      "inicio": "2026-06-23T18:00:00-04:00",
-      "local": {
-        "nombre": "Coquimbo Unido",
-        "logo": "escudos/primera/coquimbounido.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "link": "https://is.gd/coqvsdep0623",
-      "sofaId": 4711974,
       "channel": ""
     },
     {
