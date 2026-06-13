@@ -3,70 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Bielorrusia, Vysshaya Liga",
-      "fondo": "",
-      "inicio": "2026-06-12T10:00:00-04:00",
-      "local": {
-        "nombre": "Isloch",
-        "logo": ""
-      },
-      "visita": {
-        "nombre": "Naftan Novopolotsk",
-        "logo": ""
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4675544,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo B",
-      "fondo": "",
-      "inicio": "2026-06-12T15:00:00-04:00",
-      "local": {
-        "nombre": "Canadá",
-        "logo": "escudos/manual/canada.png"
-      },
-      "visita": {
-        "nombre": "Bosnia Herzegovina",
-        "logo": "escudos/manual/bosniaherzegovina.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4697699,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-12T20:00:00-04:00",
-      "local": {
-        "nombre": "Audax Italiano",
-        "logo": "escudos/primera/audax.png"
-      },
-      "visita": {
-        "nombre": "Deportes La Serena",
-        "logo": "escudos/primera/laserena.png"
-      },
-      "link": "https://fly.live.latam.prd.media.max.com/live/use1/3e8_Ciw5ZWY3ODlmOC02YmU2LTRhNWMtOGQ3Mi03OTJlNjk4ZjUxYjMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1781393494&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjcyNWMxOGJmLTk0NjMtNDIwOS1iMjViLTRhOTI5MTUwODNmMCIsICJlZGl0SWQiOiI5ZWY3ODlmOC02YmU2LTRhNWMtOGQ3Mi03OTJlNjk4ZjUxYjMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0xMlQyMzozMTozNFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=cf7c1dc9d7ecbf587f164ed3db962ea77652c186bb65816cadb3bf634a7dd1c9/main.mpd?manifest-params=prod-20260612%7CN43UHTa40_-h6zpIbOENFQdqCc7WtUr4HFPusbKkSu4%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTEyVDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjNlOF9DaXc1WldZM09EbG1PQzAyWW1VMkxUUmhOV010T0dRM01pMDNPVEpsTmprNFpqVXhZak10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMTJUMjMlM0EzMCUzQTAzWg%3D%3D&rtype=admo&ck=eyIwMTAwMmI1MjM3NTYxMDU2YWJjODU4ZDcwYWQ1OTExOSI6IjRjOTQ1OWFiMTE1MzZmMzc4OWExYTc2ZmRkZTMzYzUzIiwiMDEwMTZjNTlmY2FhN2U5MDcxNDkzYWE3MmRmYmFiNTYiOiIwYjlhN2E4OTEyNmIzNzQ4MTVmZGZmODdmNjliMGUxOCIsIjAxMDJlODg2NWQ5ZmFiNGE0ODk3NGYwYmNmZmQzYzM1IjoiM2RmYzk0ZTJkNTI5YmVjNDgyZjVjZjI1YjRlNjgwNGIifQ%3D%3D",
-      "sofaId": 4651124,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo D",
-      "fondo": "",
-      "inicio": "2026-06-12T21:00:00-04:00",
-      "local": {
-        "nombre": "Estados Unidos",
-        "logo": "escudos/manual/estadosunidos.png"
-      },
-      "visita": {
-        "nombre": "Paraguay",
-        "logo": "escudos/manual/paraguay.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4627869,
-      "channel": ""
-    },
-    {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-13T12:30:00-04:00",
@@ -1205,7 +1141,7 @@
     {
       "competencia": "Copa Chile",
       "fondo": "assets/fondo_copa.jpg",
-      "inicio": "2026-06-24T18:00:00-04:00",
+      "inicio": "2026-06-24T16:00:00-04:00",
       "local": {
         "nombre": "Deportes La Serena",
         "logo": "escudos/primera/laserena.png"
@@ -1952,6 +1888,38 @@
       },
       "link": "https://is.gd/colvsdep0706",
       "sofaId": 4711931,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa de la Liga - Final",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-07-12T13:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "link": "https://is.gd/coqvsula0712",
+      "sofaId": 4733288,
+      "channel": ""
+    },
+    {
+      "competencia": "Copa de la Liga - Final",
+      "fondo": "assets/fondo_copa_liga.jpg",
+      "inicio": "2026-07-12T13:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/nublense.png"
+      },
+      "link": "https://is.gd/ohivsnub0712",
+      "sofaId": 4733289,
       "channel": ""
     },
     {
