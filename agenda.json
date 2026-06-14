@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-13T20:00:00-04:00",
-      "local": {
-        "nombre": "Ñublense",
-        "logo": "escudos/primera/nublense.png"
-      },
-      "visita": {
-        "nombre": "Huachipato",
-        "logo": "escudos/primera/huachipato.png"
-      },
-      "link": "https://cf.live.latam.prd.media.max.com/live/use1/11f_CiwxOWY1NGI5Yi01YWI0LTQ5MzItYTUxZC0wOTlkNGIzM2E1MmMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1781480728&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjYxMmQ2NjJiLTdjMDgtNGYzOC1hMWJhLWUwZDNhZWU2MjkyNCIsICJlZGl0SWQiOiIxOWY1NGI5Yi01YWI0LTQ5MzItYTUxZC0wOTlkNGIzM2E1MmMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0xM1QyMzo0NToyOFoiLCAidGVuYW50IjoiYmVhbSJ9&Signature=06639105e47f002def5b331aa25c371ed85a1d16d063e007474596394bb518ba/main.mpd?manifest-params=prod-20260613%7CQqOhEUwCAOYlAA33HnUayX96h1IQpq3hICkakDTZil0%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTEzVDIzJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjExZl9DaXd4T1dZMU5HSTVZaTAxWVdJMExUUTVNekl0WVRVeFpDMHdPVGxrTkdJek0yRTFNbU10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMTNUMjMlM0E0NCUzQTU3Wg%3D%3D&rtype=admo&ck=eyIwMTAwOTljY2I0NGYzN2VlOTdiOGZkZTkzNDg2YzJjYSI6ImRhZDk2N2U4N2RiMDllNGRlNWMxNGExYWJlMWY4ZDMxIiwiMDEwMTUzMTNlYTZkYmU1NzEwZWYwYTBhMjk4ODRhMjciOiI5OTQ4ZGIxY2FmNTY0ZDgyOTM1OTZjODIzNzUwZjZmNCIsIjAxMDIzZmJhYmU2MGIyM2FmNTQxYzEzMDY1OWFmZDkyIjoiM2QzNDgzZDliZmFlZGVjNGQ2MTM2ZjZmMTAzZGI2MDEifQ%3D%3D",
-      "sofaId": 4650619,
-      "channel": ""
-    },
-    {
       "competencia": "Mundial - Grupo C",
       "fondo": "",
       "inicio": "2026-06-13T21:00:00-04:00",
