@@ -5,38 +5,6 @@
     {
       "competencia": "Liga de Primera",
       "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-14T12:30:00-04:00",
-      "local": {
-        "nombre": "Deportes Concepción",
-        "logo": "escudos/primera/dconcepcion.png"
-      },
-      "visita": {
-        "nombre": "Deportes Limache",
-        "logo": "escudos/primera/limache.png"
-      },
-      "link": "https://akm.live.latam.prd.media.max.com/live/use1/724_Ciw0YjI1MDdlZS04NWE0LTQzMjAtOTliMi1hYTEwOWY5ZWJhYmMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1781539227&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjI5MjkyNDhjLTJiZWItNDk4ZC1iN2Q0LTExYjllZTJjZGJlYyIsICJlZGl0SWQiOiI0YjI1MDdlZS04NWE0LTQzMjAtOTliMi1hYTEwOWY5ZWJhYmMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0xNFQxNjowMDoyN1oiLCAidGVuYW50IjoiYmVhbSJ9&Signature=7e759758535caad6b5b046acb040640a4950d9112e1e23ec1fa68ddc3352d628/main.mpd?manifest-params=prod-20260614%7CKxJKU2lY7nMJRhmH0ASkfICvkQyCMb4-ses0tfTrw0A%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTE0VDE2JTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRjcyNF9DaXcwWWpJMU1EZGxaUzA0TldFMExUUXpNakF0T1RsaU1pMWhZVEV3T1dZNVpXSmhZbU10ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMTRUMTUlM0E1OSUzQTMwWg%3D%3D&rtype=admo&ck=eyIwMTAwODc0OTJkNWYyYTc3OTEzNDQ2ZjVmMjc2NTQ5YSI6ImJjNDExMTI5ZTk3OGFhMzRmY2RlMTUyZjI2NjY5MjRlIiwiMDEwMWQ1NWNiMzdkZTI4OGRiYTcyMGRhMWZjNjMxZmMiOiI0ODJhNDY3OGQ2Yjg2NTY4ZTliOGM1YzIwMmQ0OTFlMSIsIjAxMDIwMmE2MjBiYzNjYTY3Nzc5ZmFlYTkzN2MzMTNkIjoiZjY4Yjc0MjVlZTA2YTE1MjJmYzU5ODkyNzA4MTAwMzMifQ%3D%3D",
-      "sofaId": 4650621,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo E",
-      "fondo": "",
-      "inicio": "2026-06-14T13:00:00-04:00",
-      "local": {
-        "nombre": "Alemania",
-        "logo": "escudos/manual/alemania.png"
-      },
-      "visita": {
-        "nombre": "Curazao",
-        "logo": "escudos/manual/curazao.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4627884,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
       "inicio": "2026-06-14T15:00:00-04:00",
       "local": {
         "nombre": "U. La Calera",
@@ -62,7 +30,7 @@
         "nombre": "Japón",
         "logo": "escudos/manual/japon.png"
       },
-      "link": "https://a42live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/3xpl08ckbl/out/v1/f0370d39177342a8b14f2f0386173583/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyJjMjVkODRlYmVlZjZhMGM0MTliMGE4ODk0YmVhMmJiNyI6ImMzYmQxNDg2M2E3ZGM1MDQzYzI4Yzk0MTA5OWJiYjA3IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/4kfi4jokml/out/v1/e4e4a4f1df26454385759f91c9152902/cenc.mpd?&ck=eyI1OTgzNTA2ZjNmMmUwYjZkZjk4ZmQxODU2YWRmNDViNiI6ImQyYWU3ZWEyNmNmZGM2MWJhMGY3MTc3MTUzOWZmODdmIiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
       "sofaId": 4627859,
       "channel": ""
     },
