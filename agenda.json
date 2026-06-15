@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Liga de Primera",
-      "fondo": "assets/fondo_primera.jpg",
-      "inicio": "2026-06-14T17:30:00-04:00",
-      "local": {
-        "nombre": "Universidad Católica",
-        "logo": "escudos/primera/universidadcatolica.png"
-      },
-      "visita": {
-        "nombre": "U. de Concepción",
-        "logo": "escudos/primera/udeconcepcion.png"
-      },
-      "link": "https://gcp.live.latam.prd.media.max.com/live/use1/e82_CiwxY2YwYmRkZS1lN2Y1LTQxZGItYTMxNi0wNmEyOWNiMzk0ZWMtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/token=Expires=1781560706&KeyName=e9ccdf27-c043-4da4-ab54-439c25e3209c&Info=eyJ1c2VySWQiOiJVU0VSSUQ6Ym9sdDozOGQxMDYyZS1kZDBlLTRlNTgtYTIwNi04MjA1M2NlNDU0NTEiLCAiZGV2aWNlIjoiNWJhNTQzY2ItMzgzMC00YTgzLTg0ZTEtOTlmYTM2NzdiMTdkIiwgInNlc3Npb25JZCI6IjBjZjk5MmMzLTQxOTUtNDBiNC05OTQxLTcwNmNhZTdiZDYyZSIsICJlZGl0SWQiOiIxY2YwYmRkZS1lN2Y1LTQxZGItYTMxNi0wNmEyOWNiMzk0ZWMiLCAiZ2VvIjoiQ0wiLCAidGltZXN0YW1wIjoiMjAyNi0wNi0xNFQyMTo1ODoyNloiLCAidGVuYW50IjoiYmVhbSJ9&Signature=4d737d31b5526329cf5b86e28d7b0ca45b85cabf366a1b0e4da6b3c5b6efa9c1/main.mpd?manifest-params=prod-20260614%7COktnnea594yTJZd_mFYGKj7fcEeMj6RsA-EpU6pP-gA%3D%7CYWRtby50eXBlPXJ1bmRtYyZkdXJhdGlvbj0yMTYwMCZmLmF1ZGlvQ29kZWM9aGVhYWMmZi5hdWRpb1RyYWNrPWVzJTdDcHJvZ3JhbSZmLnZpZGVvQ29kZWM9YXZjJmYudmlkZW9EeW5hbWljUmFuZ2U9c2RyJmYudmlkZW9NYXhIZWlnaHQ9NzIwJmYudmlkZW9NYXhXaWR0aD0xMjgwJmluY2x1ZGVBZHNBZnRlcj0yMDI2LTA2LTE0VDIxJTNBMDAlM0EwMFomci5tYW5pZmVzdD1saXZlJTJGdXNlMSUyRmU4Ml9DaXd4WTJZd1ltUmtaUzFsTjJZMUxUUXhaR0l0WVRNeE5pMHdObUV5T1dOaU16azBaV010ZFhNdFpXRnpkQklOWW05c2RDMW5iRzh0Y0hKdlpCb1RFaEZ3WVdOcllXZGxjaTF0Y0RRdFkyVnVZdyUyRm1haW4ubXBkJnN0YXJ0PTIwMjYtMDYtMTRUMjElM0EyMSUzQTA3Wg%3D%3D&rtype=admo&ck=eyIwMTAwM2QxNGY4YTFjMThkZWNlNmY5NGZhNWNjZTQ1OCI6ImNjZmE2ZmYyNWYxNGEwOGZkMTk5NTQ2NzdkZTI2MjQ0IiwiMDEwMWVlNzM1NDhlNTkwMmMzMzU1MzQwYmYwOTBhMzkiOiI5OWRkZDI5YTUyYzQ3ZjM3NzQ1YmVjNGZiMzBhNzExYiIsIjAxMDJlM2JhOTY0ZjZmNWE4NGViYmUwMWM4NzRjZDBkIjoiNThhNDE5MWEwN2YxZDVkYTQyMTNmYWE1MDkxYjhiYjMifQ%3D%3D",
-      "sofaId": 4651121,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo E",
-      "fondo": "",
-      "inicio": "2026-06-14T19:00:00-04:00",
-      "local": {
-        "nombre": "Costa de Marfil",
-        "logo": "escudos/manual/costademarfil.png"
-      },
-      "visita": {
-        "nombre": "Ecuador",
-        "logo": "escudos/manual/ecuador.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4627871,
-      "channel": ""
-    },
-    {
       "competencia": "Mundial - Grupo F",
       "fondo": "",
       "inicio": "2026-06-14T22:00:00-04:00",
@@ -2368,6 +2336,134 @@
       },
       "link": "https://is.gd/sanvsdep0802",
       "sofaId": 4656644,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "U. La Calera",
+        "logo": "escudos/primera/unionlacalera.png"
+      },
+      "visita": {
+        "nombre": "Colo Colo",
+        "logo": "escudos/primera/colocolo.png"
+      },
+      "link": "https://is.gd/ulavscol0809",
+      "sofaId": 4650501,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Deportes Concepción",
+        "logo": "escudos/primera/dconcepcion.png"
+      },
+      "visita": {
+        "nombre": "U. de Concepción",
+        "logo": "escudos/primera/udeconcepcion.png"
+      },
+      "link": "https://is.gd/depvsude0809",
+      "sofaId": 4650610,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Coquimbo Unido",
+        "logo": "escudos/primera/coquimbounido.png"
+      },
+      "visita": {
+        "nombre": "Deportes La Serena",
+        "logo": "escudos/primera/laserena.png"
+      },
+      "link": "https://is.gd/coqvsdep0809",
+      "sofaId": 4650611,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Universidad Católica",
+        "logo": "escudos/primera/universidadcatolica.png"
+      },
+      "visita": {
+        "nombre": "Deportes Cobresal",
+        "logo": "escudos/primera/cobresal.png"
+      },
+      "link": "https://is.gd/univsdep0809",
+      "sofaId": 4650612,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Huachipato",
+        "logo": "escudos/primera/huachipato.png"
+      },
+      "visita": {
+        "nombre": "Everton",
+        "logo": "escudos/primera/everton.png"
+      },
+      "link": "https://is.gd/huavseve0809",
+      "sofaId": 4651107,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "O'Higgins",
+        "logo": "escudos/primera/ohiggins.png"
+      },
+      "visita": {
+        "nombre": "Deportes Limache",
+        "logo": "escudos/primera/limache.png"
+      },
+      "link": "https://is.gd/ohivsdep0809",
+      "sofaId": 4651108,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Audax Italiano",
+        "logo": "escudos/primera/audax.png"
+      },
+      "visita": {
+        "nombre": "Ñublense",
+        "logo": "escudos/primera/nublense.png"
+      },
+      "link": "https://is.gd/audvsnub0809",
+      "sofaId": 4651109,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Primera",
+      "fondo": "assets/fondo_primera.jpg",
+      "inicio": "2026-08-09T13:00:00-04:00",
+      "local": {
+        "nombre": "Universidad de Chile",
+        "logo": "escudos/primera/universidaddechile.png"
+      },
+      "visita": {
+        "nombre": "Palestino",
+        "logo": "escudos/primera/palestino.png"
+      },
+      "link": "https://is.gd/univspal0809",
+      "sofaId": 4651110,
       "channel": ""
     },
     {
