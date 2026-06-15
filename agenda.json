@@ -3,22 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Mundial - Grupo F",
-      "fondo": "",
-      "inicio": "2026-06-14T22:00:00-04:00",
-      "local": {
-        "nombre": "Suecia",
-        "logo": "escudos/manual/suecia.png"
-      },
-      "visita": {
-        "nombre": "Túnez",
-        "logo": "escudos/manual/tunez.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4697705,
-      "channel": ""
-    },
-    {
       "competencia": "Mundial - Grupo H",
       "fondo": "",
       "inicio": "2026-06-15T12:00:00-04:00",
