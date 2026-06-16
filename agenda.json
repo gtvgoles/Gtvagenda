@@ -5,38 +5,6 @@
     {
       "competencia": "Mundial - Grupo G",
       "fondo": "",
-      "inicio": "2026-06-15T15:00:00-04:00",
-      "local": {
-        "nombre": "Bélgica",
-        "logo": "escudos/manual/belgica.png"
-      },
-      "visita": {
-        "nombre": "Egipto",
-        "logo": "escudos/manual/egipto.png"
-      },
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/4kfi4jokml/out/v1/e4e4a4f1df26454385759f91c9152902/cenc.mpd?&ck=eyI1OTgzNTA2ZjNmMmUwYjZkZjk4ZmQxODU2YWRmNDViNiI6ImQyYWU3ZWEyNmNmZGM2MWJhMGY3MTc3MTUzOWZmODdmIiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4627932,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo H",
-      "fondo": "",
-      "inicio": "2026-06-15T18:00:00-04:00",
-      "local": {
-        "nombre": "Arabia Saudita",
-        "logo": "escudos/manual/arabiasaudita.png"
-      },
-      "visita": {
-        "nombre": "Uruguay",
-        "logo": "escudos/manual/uruguay.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4627876,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo G",
-      "fondo": "",
       "inicio": "2026-06-15T21:00:00-04:00",
       "local": {
         "nombre": "Irán",
