@@ -5,22 +5,6 @@
     {
       "competencia": "Mundial - Grupo I",
       "fondo": "",
-      "inicio": "2026-06-16T15:00:00-04:00",
-      "local": {
-        "nombre": "Francia",
-        "logo": "escudos/manual/francia.png"
-      },
-      "visita": {
-        "nombre": "Senegal",
-        "logo": "escudos/manual/senegal.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4627862,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo I",
-      "fondo": "",
       "inicio": "2026-06-16T18:00:00-04:00",
       "local": {
         "nombre": "Irak",
