@@ -3,38 +3,6 @@
   "duracion_partido_min": 150,
   "partidos": [
     {
-      "competencia": "Mundial - Grupo A",
-      "fondo": "",
-      "inicio": "2026-06-18T12:00:00-04:00",
-      "local": {
-        "nombre": "Republica Checa",
-        "logo": "escudos/manual/republicacheca.png"
-      },
-      "visita": {
-        "nombre": "Sudáfrica",
-        "logo": "escudos/manual/sudafrica.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4697697,
-      "channel": ""
-    },
-    {
-      "competencia": "Mundial - Grupo B",
-      "fondo": "",
-      "inicio": "2026-06-18T15:00:00-04:00",
-      "local": {
-        "nombre": "Suiza",
-        "logo": "escudos/manual/suiza.png"
-      },
-      "visita": {
-        "nombre": "Bosnia Herzegovina",
-        "logo": "escudos/manual/bosniaherzegovina.png"
-      },
-      "link": "https://a174live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.237895.0&encoding=segmentBase&ck=eyI3ZDg4YTQ0YmMwMjU1ZmRjNDAyYTFhN2M3MTUxNTQ1ZSI6ImE5OTY4ZTE5YzYzMjRlMTJkMjg1ODM2OTYxNDIxNzU1IiwiYjc3MGQ1YjRiYjZiNTk0ZGFmOTg1ODQ1YWFlOWFhNWYiOiJiMGNiNDZkMmQzMWNmMDQ0YmM3M2RiNzFlOTg2NWY2ZiJ9",
-      "sofaId": 4697700,
-      "channel": ""
-    },
-    {
       "competencia": "Mundial - Grupo B",
       "fondo": "",
       "inicio": "2026-06-18T18:00:00-04:00",
@@ -1559,6 +1527,22 @@
       "fondo": "assets/fondo_ascenso.jpg",
       "inicio": "2026-07-19T13:00:00-04:00",
       "local": {
+        "nombre": "Deportes Recoleta",
+        "logo": "escudos/ascenso/recoleta.png"
+      },
+      "visita": {
+        "nombre": "Santiago Wanderers",
+        "logo": "escudos/ascenso/wanderers.png"
+      },
+      "link": "https://is.gd/depvssan0719",
+      "sofaId": 4656657,
+      "channel": ""
+    },
+    {
+      "competencia": "Liga de Ascenso",
+      "fondo": "assets/fondo_ascenso.jpg",
+      "inicio": "2026-07-19T13:00:00-04:00",
+      "local": {
         "nombre": "Deportes Temuco",
         "logo": "escudos/ascenso/temuco.png"
       },
@@ -1600,22 +1584,6 @@
       },
       "link": "https://is.gd/depvssan0719",
       "sofaId": 4656660,
-      "channel": ""
-    },
-    {
-      "competencia": "Liga de Ascenso",
-      "fondo": "assets/fondo_ascenso.jpg",
-      "inicio": "2026-07-19T13:00:00-04:00",
-      "local": {
-        "nombre": "Deportes Recoleta",
-        "logo": "escudos/ascenso/recoleta.png"
-      },
-      "visita": {
-        "nombre": "Santiago Wanderers",
-        "logo": "escudos/ascenso/wanderers.png"
-      },
-      "link": "https://is.gd/depvssan0719",
-      "sofaId": 4656657,
       "channel": ""
     },
     {
